@@ -3,11 +3,18 @@ $page = getPageBySlug($pageSlug);
 if (!$page) { http_response_code(404); include __DIR__ . '/404.php'; return; }
 
 $pageTitle = $page['title'];
-$isCertPage = $page['slug'] === 'kalite-belgelerimiz';
-$isAboutPage = $page['slug'] === 'hakkimizda';
-$isVisionPage = $page['slug'] === 'vizyon-misyon';
+$pageType = $page['type'] ?? 'text';
+
+$isCertPage   = $pageType === 'certificates';
+$isAboutPage  = $pageType === 'about';
+$isVisionPage = $pageType === 'vision';
+$isDocsPage   = $pageType === 'documents';
+$isVideoPage  = $pageType === 'videos';
+
 $certificates = $isCertPage ? getCertificates() : [];
 $productCount = $isAboutPage ? count(getProducts()) : 0;
+$kurumsal = ($isDocsPage || $isVideoPage || $pageType === 'text')
+    ? getKurumsalData($page['slug']) : [];
 include __DIR__ . '/../includes/header.php';
 ?>
 
@@ -29,7 +36,7 @@ include __DIR__ . '/../includes/header.php';
 </div>
 <?php endif; ?>
 
-<section class="section<?= $isCertPage ? ' section-compact' : '' ?>">
+<section class="section<?= ($isCertPage || $isDocsPage || $isVideoPage) ? ' section-compact' : '' ?>">
   <div class="container">
     <?php if ($isVisionPage): ?>
     <div class="vm-wrap">
@@ -58,7 +65,7 @@ include __DIR__ . '/../includes/header.php';
       </div>
     </div>
     <?php else: ?>
-    <div class="page-body<?= $isCertPage ? ' page-body-compact' : '' ?>">
+    <div class="page-body<?= ($isCertPage || $isDocsPage || $isVideoPage) ? ' page-body-compact' : '' ?>">
       <?= $page['content'] ?>
     </div>
     <?php endif; ?>
@@ -80,6 +87,64 @@ include __DIR__ . '/../includes/header.php';
         <h3>Kalite Belgelerimiz</h3>
         <p>TSE, CE ve ISO belgelerimizi inceleyin, isterseniz indirin.</p>
       </a>
+    </div>
+    <?php endif; ?>
+
+    <?php if ($isDocsPage && !empty($kurumsal['documents'])): ?>
+      <?php $groups = groupDocumentsByYear($kurumsal['documents']); ?>
+    <div class="doc-section">
+      <?php foreach ($groups as $groupName => $docs): ?>
+      <div class="doc-group">
+        <?php if (count($groups) > 1): ?>
+        <h3 class="doc-group-title"><?= e($groupName) ?></h3>
+        <?php endif; ?>
+        <div class="doc-list">
+          <?php foreach ($docs as $doc): ?>
+          <a href="/<?= e($doc['file']) ?>" target="_blank" rel="noopener" class="doc-item reveal">
+            <span class="doc-icon">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+            </span>
+            <span class="doc-name"><?= e($doc['name']) ?></span>
+            <span class="doc-action">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            </span>
+          </a>
+          <?php endforeach; ?>
+        </div>
+      </div>
+      <?php endforeach; ?>
+    </div>
+    <?php endif; ?>
+
+    <?php if ($isVideoPage && !empty($kurumsal['videos'])): ?>
+    <div class="video-grid">
+      <?php foreach ($kurumsal['videos'] as $video): ?>
+      <div class="video-card reveal">
+        <div class="video-frame">
+          <iframe src="https://www.youtube-nocookie.com/embed/<?= e($video['id']) ?>"
+                  title="<?= e($video['title']) ?>" loading="lazy"
+                  allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture"
+                  allowfullscreen></iframe>
+        </div>
+        <h3><?= e($video['title']) ?></h3>
+      </div>
+      <?php endforeach; ?>
+    </div>
+    <?php endif; ?>
+
+    <?php if (!$isDocsPage && !empty($kurumsal['documents'])): ?>
+    <div class="doc-list doc-list-inline">
+      <?php foreach ($kurumsal['documents'] as $doc): ?>
+      <a href="/<?= e($doc['file']) ?>" target="_blank" rel="noopener" class="doc-item">
+        <span class="doc-icon">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+        </span>
+        <span class="doc-name"><?= e($doc['name']) ?></span>
+        <span class="doc-action">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        </span>
+      </a>
+      <?php endforeach; ?>
     </div>
     <?php endif; ?>
 

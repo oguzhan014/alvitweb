@@ -32,9 +32,20 @@
         <h4>Kurumsal</h4>
         <ul>
           <li><a href="/sayfa/hakkimizda">Hakkımızda</a></li>
-          <li><a href="/sayfa/vizyon-misyon">Vizyon & Misyon</a></li>
+          <li><a href="/sayfa/vizyon-misyon">Vizyon &amp; Misyon</a></li>
           <li><a href="/sayfa/kalite-politikasi">Kalite Politikası</a></li>
           <li><a href="/sayfa/kalite-belgelerimiz">Kalite Belgelerimiz</a></li>
+          <li><a href="/sayfa/raporlar">Raporlar</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Destek</h4>
+        <ul>
+          <li><a href="/sayfa/montaj-kilavuzlari">Montaj Kılavuzları</a></li>
+          <li><a href="/sayfa/urun-montaj-videolari">Montaj Videoları</a></li>
+          <li><a href="/urunler">Ürün Kataloğu</a></li>
+          <li><a href="/iletisim">Bayilik Başvurusu</a></li>
         </ul>
       </div>
 
@@ -50,6 +61,11 @@
 
     <div class="footer-bottom">
       <p><?= e($settings['footer_text']) ?></p>
+      <nav class="footer-legal">
+        <a href="/sayfa/kisisel-verilerin-korunmasi-politikasi">KVKK Politikası</a>
+        <a href="/sayfa/cerez-aydinlatma-metni">Çerez Aydınlatma Metni</a>
+        <a href="/sayfa/kvkk-ilgili-kisi-basvuru-formu">KVKK Başvuru Formu</a>
+      </nav>
     </div>
   </div>
 </footer>

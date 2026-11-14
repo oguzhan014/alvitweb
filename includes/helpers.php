@@ -42,6 +42,23 @@ function getCertificates() {
     return loadJson('certificates.json');
 }
 
+/** Kurumsal sayfalara ait dosya/video verisini döndürür. */
+function getKurumsalData($slug) {
+    $all = loadJson('kurumsal.json');
+    return $all[$slug] ?? [];
+}
+
+/** Rapor adlarının içindeki yıla göre gruplar: "2021 Ayrıntılı Bilanço" -> "2021" */
+function groupDocumentsByYear($documents) {
+    $groups = [];
+    foreach ($documents as $doc) {
+        $year = preg_match('/\b(20\d{2})\b/', $doc['name'], $m) ? $m[1] : 'Diğer';
+        $groups[$year][] = $doc;
+    }
+    krsort($groups);
+    return $groups;
+}
+
 function getCategoryBySlug($slug) {
     $cats = getCategories();
     foreach ($cats as $cat) {

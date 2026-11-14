@@ -29,6 +29,17 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  // ---------- MOBILE ACCORDION (Ürünler / Kurumsal) ----------
+  document.querySelectorAll('.nav-expand').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      const item = btn.closest('.nav-item');
+      const wasOpen = item.classList.contains('open');
+      document.querySelectorAll('.nav-item.open').forEach(el => el.classList.remove('open'));
+      if (!wasOpen) item.classList.add('open');
+    });
+  });
+
   // ---------- HERO SLIDER ----------
   const slides = document.querySelectorAll('.hero-slide');
   const dots = document.querySelectorAll('.hero-dot');

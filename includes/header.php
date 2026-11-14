@@ -1,4 +1,21 @@
-<?php $settings = getSettings(); $categories = getCategories(); ?>
+<?php
+$settings = getSettings();
+$categories = getCategories();
+$currentUri = $uri ?? '';
+
+$kurumsalLinks = [
+    ['slug' => 'hakkimizda',             'label' => 'Hakkımızda'],
+    ['slug' => 'vizyon-misyon',          'label' => 'Vizyon & Misyon'],
+    ['slug' => 'kalite-politikasi',      'label' => 'Kalite Politikası'],
+    ['slug' => 'kalite-belgelerimiz',    'label' => 'Kalite Belgelerimiz'],
+    ['slug' => 'raporlar',               'label' => 'Raporlar'],
+    ['slug' => 'montaj-kilavuzlari',     'label' => 'Montaj Kılavuzları'],
+    ['slug' => 'urun-montaj-videolari',  'label' => 'Ürün Montaj Videoları'],
+];
+$isKurumsal = strpos($currentUri, '/sayfa/') === 0;
+$isUrunler = in_array($currentUri, ['/urunler', '/kategoriler'], true)
+    || strpos($currentUri, '/kategori/') === 0;
+?>
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -24,10 +41,27 @@
         <?= e($settings['email']) ?>
       </a>
     </div>
-    <div class="topbar-social">
-      <?php if (!empty($settings['social']['facebook'])): ?><a href="<?= e($settings['social']['facebook']) ?>" target="_blank" rel="noopener" aria-label="Facebook">f</a><?php endif; ?>
-      <?php if (!empty($settings['social']['instagram'])): ?><a href="<?= e($settings['social']['instagram']) ?>" target="_blank" rel="noopener" aria-label="Instagram">ig</a><?php endif; ?>
-      <?php if (!empty($settings['social']['youtube'])): ?><a href="<?= e($settings['social']['youtube']) ?>" target="_blank" rel="noopener" aria-label="YouTube">yt</a><?php endif; ?>
+
+    <div class="topbar-right">
+      <a href="/sayfa/montaj-kilavuzlari" class="topbar-link">Montaj Kılavuzları</a>
+      <a href="/sayfa/raporlar" class="topbar-link">Raporlar</a>
+      <div class="topbar-social">
+        <?php if (!empty($settings['social']['facebook'])): ?>
+        <a href="<?= e($settings['social']['facebook']) ?>" target="_blank" rel="noopener" aria-label="Facebook">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+        </a>
+        <?php endif; ?>
+        <?php if (!empty($settings['social']['instagram'])): ?>
+        <a href="<?= e($settings['social']['instagram']) ?>" target="_blank" rel="noopener" aria-label="Instagram">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1.2" fill="currentColor" stroke="none"/></svg>
+        </a>
+        <?php endif; ?>
+        <?php if (!empty($settings['social']['youtube'])): ?>
+        <a href="<?= e($settings['social']['youtube']) ?>" target="_blank" rel="noopener" aria-label="YouTube">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M23 12s0-3.5-.46-5.17a2.9 2.9 0 0 0-2.04-2.05C18.83 4.3 12 4.3 12 4.3s-6.83 0-8.5.48A2.9 2.9 0 0 0 1.46 6.83C1 8.5 1 12 1 12s0 3.5.46 5.17a2.9 2.9 0 0 0 2.04 2.05c1.67.48 8.5.48 8.5.48s6.83 0 8.5-.48a2.9 2.9 0 0 0 2.04-2.05C23 15.5 23 12 23 12zM9.75 15.27V8.73L15.5 12z"/></svg>
+        </a>
+        <?php endif; ?>
+      </div>
     </div>
   </div>
 </div>
@@ -38,12 +72,58 @@
       <img src="/<?= e($settings['logo']) ?>" alt="<?= e($settings['site_name']) ?>">
     </a>
 
-    <nav class="nav-menu">
-      <a href="/" <?= ($uri ?? '') === '/' ? 'class="active"' : '' ?>>Anasayfa</a>
-      <a href="/urunler" <?= in_array(($uri ?? ''), ['/urunler', '/kategoriler'], true) ? 'class="active"' : '' ?>>Ürünler</a>
-      <a href="/sayfa/hakkimizda">Hakkımızda</a>
-      <a href="/sayfa/kalite-belgelerimiz">Belgeler</a>
-      <a href="/iletisim">İletişim</a>
+    <nav class="nav-menu" id="navMenu">
+      <a href="/" class="nav-link<?= $currentUri === '/' ? ' active' : '' ?>">Anasayfa</a>
+
+      <!-- ÜRÜNLER: mega menü -->
+      <div class="nav-item has-dropdown">
+        <a href="/urunler" class="nav-link<?= $isUrunler ? ' active' : '' ?>">
+          Ürünler
+          <svg class="nav-caret" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </a>
+        <button type="button" class="nav-expand" aria-label="Alt menüyü aç"></button>
+
+        <div class="mega-menu">
+          <div class="mega-inner">
+            <?php foreach ($categories as $cat): ?>
+            <div class="mega-col">
+              <a href="/kategori/<?= e($cat['slug']) ?>" class="mega-title"><?= e($cat['name']) ?></a>
+              <?php if (!empty($cat['subcategories'])): ?>
+              <ul>
+                <?php foreach ($cat['subcategories'] as $sub): ?>
+                <li><a href="/kategori/<?= e($sub['slug']) ?>"><?= e($sub['name']) ?></a></li>
+                <?php endforeach; ?>
+              </ul>
+              <?php endif; ?>
+            </div>
+            <?php endforeach; ?>
+          </div>
+          <a href="/urunler" class="mega-footer">
+            Tüm ürünleri filtreleyerek incele
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </a>
+        </div>
+      </div>
+
+      <!-- KURUMSAL: açılır menü -->
+      <div class="nav-item has-dropdown">
+        <a href="/sayfa/hakkimizda" class="nav-link<?= $isKurumsal ? ' active' : '' ?>">
+          Kurumsal
+          <svg class="nav-caret" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </a>
+        <button type="button" class="nav-expand" aria-label="Alt menüyü aç"></button>
+
+        <div class="dropdown-menu">
+          <?php foreach ($kurumsalLinks as $link): ?>
+          <a href="/sayfa/<?= e($link['slug']) ?>"
+             class="<?= $currentUri === '/sayfa/' . $link['slug'] ? 'active' : '' ?>">
+            <?= e($link['label']) ?>
+          </a>
+          <?php endforeach; ?>
+        </div>
+      </div>
+
+      <a href="/iletisim" class="nav-link<?= $currentUri === '/iletisim' ? ' active' : '' ?>">İletişim</a>
 
       <form class="header-search header-search-mobile" action="/ara" method="get" autocomplete="off">
         <input type="text" name="q" placeholder="Ürün, model veya kategori ara..." value="<?= e($_GET['q'] ?? '') ?>">
@@ -52,6 +132,8 @@
         </button>
         <div class="search-suggestions"></div>
       </form>
+
+      <a href="/iletisim" class="nav-cta nav-cta-mobile">Bayilik Başvurusu</a>
     </nav>
 
     <div class="header-actions">
@@ -62,6 +144,8 @@
         </button>
         <div class="search-suggestions"></div>
       </form>
+
+      <a href="/iletisim" class="nav-cta">Bayilik Başvurusu</a>
 
       <button class="menu-toggle" aria-label="Menü">
         <span></span>
