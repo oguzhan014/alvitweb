@@ -42,6 +42,26 @@ function getCertificates() {
     return loadJson('certificates.json');
 }
 
+function getCollections() {
+    $all = loadJson('collections.json');
+    uasort($all, fn($a, $b) => $b['count'] <=> $a['count']);
+    return $all;
+}
+
+function getCollectionBySlug($slug) {
+    $all = loadJson('collections.json');
+    return $all[$slug] ?? null;
+}
+
+function getProductsByCollection($slug) {
+    return array_values(array_filter(getProducts(),
+        fn($p) => ($p['collection'] ?? '') === $slug));
+}
+
+function getColors() {
+    return loadJson('colors.json');
+}
+
 /** Kurumsal sayfalara ait dosya/video verisini döndürür. */
 function getKurumsalData($slug) {
     $all = loadJson('kurumsal.json');

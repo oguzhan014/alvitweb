@@ -3,6 +3,7 @@ $pageTitle = 'Tüm Ürünler';
 $categories = getCategories();
 $allProducts = array_values(getProducts());
 $colorFacets = getColorFacets($allProducts);
+$collections = getCollections();
 
 // Kategori/alt kategori başına ürün sayısı
 $catCounts = $subCounts = [];
@@ -71,6 +72,19 @@ include __DIR__ . '/../includes/header.php';
         <?php endforeach; ?>
       </div>
 
+      <?php if (!empty($collections)): ?>
+      <div class="filter-group">
+        <h3>Koleksiyon</h3>
+        <?php foreach ($collections as $col): ?>
+        <label class="filter-item">
+          <input type="checkbox" data-filter="collection" value="<?= e($col['slug']) ?>">
+          <span><?= e($col['title']) ?></span>
+          <em><?= (int)$col['count'] ?></em>
+        </label>
+        <?php endforeach; ?>
+      </div>
+      <?php endif; ?>
+
       <?php if (!empty($colorFacets)): ?>
       <div class="filter-group">
         <h3>Renk Seçeneği</h3>
@@ -124,6 +138,7 @@ include __DIR__ . '/../includes/header.php';
            data-cat="<?= (int)$product['category_id'] ?>"
            data-sub="<?= (int)($product['subcategory_id'] ?? 0) ?>"
            data-colors="<?= e(implode('|', $colors)) ?>"
+           data-collection="<?= e($product['collection'] ?? '') ?>"
            data-docs="<?= empty($product['documents']) ? '0' : '1' ?>"
            data-specs="<?= empty($product['spec_rows']) ? '0' : '1' ?>"
            data-search="<?= e($haystack) ?>"

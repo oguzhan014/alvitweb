@@ -23,6 +23,21 @@ switch (true) {
         include __DIR__ . '/pages/products.php';
         break;
 
+    // Koleksiyonlar
+    case $uri === '/koleksiyonlar':
+        include __DIR__ . '/pages/collections.php';
+        break;
+
+    case preg_match('#^/koleksiyon/([a-z0-9-]+)$#', $uri, $m) === 1:
+        $collectionSlug = $m[1];
+        include __DIR__ . '/pages/collection.php';
+        break;
+
+    // Renk kataloğu
+    case $uri === '/renkler':
+        include __DIR__ . '/pages/colors.php';
+        break;
+
     // Kategoriler listesi
     case $uri === '/kategoriler':
         include __DIR__ . '/pages/categories.php';

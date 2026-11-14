@@ -150,6 +150,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function matches(el, f) {
       if (f.cat.length && !f.cat.includes(el.dataset.cat)) return false;
       if (f.sub.length && !f.sub.includes(el.dataset.sub)) return false;
+      if (f.collection.length && !f.collection.includes(el.dataset.collection)) return false;
       if (f.docs && el.dataset.docs !== '1') return false;
       if (f.specs && el.dataset.specs !== '1') return false;
       if (f.color.length) {
@@ -187,6 +188,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const f = {
         cat: checkedValues('cat'),
         sub: checkedValues('sub'),
+        collection: checkedValues('collection'),
         color: checkedValues('color'),
         docs: boxes.some(b => b.dataset.filter === 'docs' && b.checked),
         specs: boxes.some(b => b.dataset.filter === 'specs' && b.checked),
