@@ -1,0 +1,872 @@
+[
+  {
+    "id": 1,
+    "name": "New Line 80 cm",
+    "slug": "new-line-80-cm",
+    "code": "K24",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Dolap Uyumlu Lavabo",
+    "palet": "",
+    "images": [
+      "new-line-80.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 2,
+    "name": "Line 55 cm",
+    "slug": "line-55-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "line-55.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 3,
+    "name": "Line 65 cm",
+    "slug": "line-65-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "line-65.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 4,
+    "name": "Line 80 cm",
+    "slug": "line-80-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "line-80.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 5,
+    "name": "Line 100 cm",
+    "slug": "line-100-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "line-100.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Thin Lavabo 55 cm",
+    "slug": "thin-lavabo-55-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "thin-55.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Thin Lavabo 60 cm",
+    "slug": "thin-lavabo-60-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "thin-60.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "Thin Lavabo 65 cm",
+    "slug": "thin-lavabo-65-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "thin-65.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Thin Lavabo 80 cm",
+    "slug": "thin-lavabo-80-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "thin-80.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Thin Lavabo 100 cm",
+    "slug": "thin-lavabo-100-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "thin-100.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 11,
+    "name": "Tulip Lavabo 55 cm",
+    "slug": "tulip-lavabo-55-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 102,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "tulip-55.jpg"
+    ],
+    "documents": [],
+    "featured": true
+  },
+  {
+    "id": 12,
+    "name": "Tulip Lavabo 65 cm",
+    "slug": "tulip-lavabo-65-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 102,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "tulip-65.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 13,
+    "name": "Tulip Lavabo 75 cm",
+    "slug": "tulip-lavabo-75-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 102,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "tulip-75.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 14,
+    "name": "Tulip Lavabo 80 cm",
+    "slug": "tulip-lavabo-80-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 102,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "tulip-80.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 15,
+    "name": "Tulip Lavabo 86 cm",
+    "slug": "tulip-lavabo-86-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 102,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "tulip-86.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 16,
+    "name": "Tulip Lavabo 100 cm",
+    "slug": "tulip-lavabo-100-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 102,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "tulip-100.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 17,
+    "name": "Tulip Lavabo 105 cm",
+    "slug": "tulip-lavabo-105-cm",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 102,
+    "features": "Konsol Lavabo",
+    "palet": "",
+    "images": [
+      "tulip-105.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 20,
+    "name": "Art 40",
+    "slug": "art-40",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 102,
+    "features": "Tezgah Üstü Lavabo",
+    "palet": "",
+    "images": [
+      "art-40.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 21,
+    "name": "Eylül 80",
+    "slug": "eylul-80",
+    "code": "",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "eylul-80.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 22,
+    "name": "Astona 100",
+    "slug": "astona-100",
+    "code": "",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "astona-100.jpg"
+    ],
+    "documents": [],
+    "featured": true
+  },
+  {
+    "id": 23,
+    "name": "Astona 80",
+    "slug": "astona-80",
+    "code": "",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "astona-80.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 24,
+    "name": "Craft 105",
+    "slug": "craft-105",
+    "code": "",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "craft-105.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 25,
+    "name": "Mimoza 130",
+    "slug": "mimoza-130",
+    "code": "",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "mimoza-130.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 26,
+    "name": "Granada 105",
+    "slug": "granada-105",
+    "code": "",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "granada-105.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 27,
+    "name": "Carelia 80",
+    "slug": "carelia-80",
+    "code": "",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "carelia-80.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 28,
+    "name": "Arnova 80",
+    "slug": "arnova-80",
+    "code": "",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "arnova-80.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 29,
+    "name": "Venus 100",
+    "slug": "venus-100",
+    "code": "",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "venus-100.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 30,
+    "name": "Barcelona 100",
+    "slug": "barcelona-100",
+    "code": "",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "barcelona-100.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 50,
+    "name": "Star Klozet Kapağı",
+    "slug": "star-klozet-kapagi",
+    "code": "",
+    "category_id": 3,
+    "subcategory_id": null,
+    "features": "Yavaş Kapanan",
+    "palet": "",
+    "images": [
+      "star-kapak.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 51,
+    "name": "Galaxy Klozet Kapağı",
+    "slug": "galaxy-klozet-kapagi",
+    "code": "",
+    "category_id": 3,
+    "subcategory_id": null,
+    "features": "Yavaş Kapanan",
+    "palet": "",
+    "images": [
+      "galaxy-kapak.jpg"
+    ],
+    "documents": [],
+    "featured": true
+  },
+  {
+    "id": 52,
+    "name": "Galaxy Slim Klozet Kapağı",
+    "slug": "galaxy-slim-klozet-kapagi",
+    "code": "",
+    "category_id": 3,
+    "subcategory_id": null,
+    "features": "Yavaş Kapanan Slim",
+    "palet": "",
+    "images": [
+      "galaxy-slim-kapak.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 53,
+    "name": "Space Klozet Kapağı",
+    "slug": "space-klozet-kapagi",
+    "code": "",
+    "category_id": 3,
+    "subcategory_id": null,
+    "features": "Yavaş Kapanan",
+    "palet": "",
+    "images": [
+      "space-kapak.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 54,
+    "name": "Space Çocuk Klozet Kapağı",
+    "slug": "space-cocuk-klozet-kapagi",
+    "code": "",
+    "category_id": 3,
+    "subcategory_id": null,
+    "features": "Çocuk - Yavaş Kapanan",
+    "palet": "",
+    "images": [
+      "space-cocuk-kapak.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 60,
+    "name": "Gömme Rezervuar (Asma) Model 1",
+    "slug": "gomme-rezervuar-asma-1",
+    "code": "",
+    "category_id": 5,
+    "subcategory_id": null,
+    "features": "Asma Klozet Uyumlu",
+    "palet": "",
+    "images": [
+      "gomme-1.jpg"
+    ],
+    "documents": [],
+    "featured": true
+  },
+  {
+    "id": 61,
+    "name": "Gömme Rezervuar (Asma) Model 2",
+    "slug": "gomme-rezervuar-asma-2",
+    "code": "",
+    "category_id": 5,
+    "subcategory_id": null,
+    "features": "Asma Klozet Uyumlu",
+    "palet": "",
+    "images": [
+      "gomme-2.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 62,
+    "name": "Gömme Rezervuar (Asma) Model 3",
+    "slug": "gomme-rezervuar-asma-3",
+    "code": "",
+    "category_id": 5,
+    "subcategory_id": null,
+    "features": "Asma Klozet Uyumlu",
+    "palet": "",
+    "images": [
+      "gomme-3.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 63,
+    "name": "Butonlar",
+    "slug": "butonlar",
+    "code": "",
+    "category_id": 5,
+    "subcategory_id": null,
+    "features": "Rezervuar Butonları",
+    "palet": "",
+    "images": [
+      "butonlar.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 64,
+    "name": "İç Takımlar",
+    "slug": "ic-takimlar",
+    "code": "",
+    "category_id": 5,
+    "subcategory_id": null,
+    "features": "Rezervuar İç Takım",
+    "palet": "",
+    "images": [
+      "ic-takimlar.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 65,
+    "name": "Astra Asma Klozet",
+    "slug": "astra-asma-klozet",
+    "code": "INK 300",
+    "category_id": 1,
+    "subcategory_id": 103,
+    "features": "Asma Klozet",
+    "palet": "A18 / K15",
+    "images": [
+      "astra-asma-klozet.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 66,
+    "name": "Gideros Asma Klozet",
+    "slug": "gideros-asma-klozet",
+    "code": "GID 300",
+    "category_id": 1,
+    "subcategory_id": 103,
+    "features": "Asma Klozet",
+    "palet": "A18 / K15",
+    "images": [
+      "gideros-asma-klozet.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 67,
+    "name": "Gideros DS Klozet",
+    "slug": "gideros-ds-klozet",
+    "code": "GID 330",
+    "category_id": 1,
+    "subcategory_id": 104,
+    "features": "Duvara Sıfır (Arka Çıkışlı) Klozet",
+    "palet": "K9",
+    "images": [
+      "gideros-ds-klozet.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 68,
+    "name": "Safran DS Klozet",
+    "slug": "safran-ds-klozet",
+    "code": "SAF 330",
+    "category_id": 1,
+    "subcategory_id": 104,
+    "features": "Duvara Sıfır (Arka Çıkışlı) Klozet",
+    "palet": "K9",
+    "images": [
+      "safran-ds-klozet.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 69,
+    "name": "Safran DS Ankastre Klozet",
+    "slug": "safran-ds-ankastre-klozet",
+    "code": "SAF 500",
+    "category_id": 1,
+    "subcategory_id": 104,
+    "features": "Entegre Bataryalı Ankastre Duvara Sıfır Klozet",
+    "palet": "K9",
+    "images": [
+      "safran-ds-ankastre-klozet.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 70,
+    "name": "İnkum Alt Çıkışlı Klozet",
+    "slug": "inkum-alt-cikisli-klozet",
+    "code": "INK 310",
+    "category_id": 1,
+    "subcategory_id": 105,
+    "features": "Alt Çıkışlı Klozet Takımı",
+    "palet": "A15 / K9",
+    "images": [
+      "inkum-alt-cikisli-klozet.jpg"
+    ],
+    "documents": [],
+    "featured": true
+  },
+  {
+    "id": 71,
+    "name": "İnkum Arka Çıkışlı Klozet",
+    "slug": "inkum-arka-cikisli-klozet",
+    "code": "INK 320",
+    "category_id": 1,
+    "subcategory_id": 105,
+    "features": "Arka Çıkışlı Klozet Takımı",
+    "palet": "A15 / K9",
+    "images": [
+      "inkum-arka-cikisli-klozet.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 72,
+    "name": "Efekta Arka Çıkışlı Klozet",
+    "slug": "efekta-arka-cikisli-klozet",
+    "code": "EFK 320",
+    "category_id": 1,
+    "subcategory_id": 105,
+    "features": "Arka Çıkışlı Klozet Takımı",
+    "palet": "A18 / K9",
+    "images": [
+      "efekta-arka-cikisli-klozet.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 73,
+    "name": "Efekta Alt Çıkışlı Klozet",
+    "slug": "efekta-alt-cikisli-klozet",
+    "code": "EFK 310",
+    "category_id": 1,
+    "subcategory_id": 105,
+    "features": "Alt Çıkışlı Klozet Takımı",
+    "palet": "A18 / K9",
+    "images": [
+      "efekta-alt-cikisli-klozet.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 74,
+    "name": "Engelli Klozet",
+    "slug": "engelli-klozet",
+    "code": "ENG 310",
+    "category_id": 1,
+    "subcategory_id": 106,
+    "features": "Engelli Kullanımına Uygun Yüksek Klozet",
+    "palet": "A10 / K6",
+    "images": [
+      "engelli-klozet.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 75,
+    "name": "Engelli Lavabo 50x60",
+    "slug": "engelli-lavabo-50x60",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 106,
+    "features": "Engelli Kullanımına Uygun Lavabo",
+    "palet": "",
+    "images": [
+      "engelli-lavabo-50x60.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 76,
+    "name": "Çocuk Klozet",
+    "slug": "cocuk-klozet",
+    "code": "MIN 310",
+    "category_id": 1,
+    "subcategory_id": 107,
+    "features": "Çocuk Boy Klozet Takımı",
+    "palet": "A20 / K16",
+    "images": [
+      "cocuk-klozet.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 77,
+    "name": "Çocuk Lavabo 35x45",
+    "slug": "cocuk-lavabo-35x45",
+    "code": "TEK 245",
+    "category_id": 1,
+    "subcategory_id": 107,
+    "features": "Çocuk Boy Ayaklı Lavabo",
+    "palet": "A48 / K30",
+    "images": [
+      "cocuk-lavabo-35x45.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 78,
+    "name": "Efes Lavabo 50x60",
+    "slug": "efes-lavabo-50x60",
+    "code": "EFS 060",
+    "category_id": 1,
+    "subcategory_id": 108,
+    "features": "Ayaklı Lavabo",
+    "palet": "A28 / K20",
+    "images": [
+      "efes-lavabo-50x60.jpg"
+    ],
+    "documents": [],
+    "featured": true
+  },
+  {
+    "id": 79,
+    "name": "Efes Lavabo 45x55",
+    "slug": "efes-lavabo-45x55",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 108,
+    "features": "Ayaklı Lavabo",
+    "palet": "",
+    "images": [
+      "efes-lavabo-45x55.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 80,
+    "name": "Efes Lavabo 35x45",
+    "slug": "efes-lavabo-35x45",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 108,
+    "features": "Ayaklı Lavabo",
+    "palet": "",
+    "images": [
+      "efes-lavabo-35x45.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 81,
+    "name": "Safran Lavabo 50x60",
+    "slug": "safran-lavabo-50x60",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 108,
+    "features": "Ayaklı Lavabo",
+    "palet": "",
+    "images": [
+      "safran-lavabo-50x60.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 82,
+    "name": "Safran Lavabo 45x55",
+    "slug": "safran-lavabo-45x55",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 108,
+    "features": "Ayaklı Lavabo",
+    "palet": "",
+    "images": [
+      "safran-lavabo-45x55.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 83,
+    "name": "Efekta Lavabo 40x50",
+    "slug": "efekta-lavabo-40x50",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 108,
+    "features": "Ayaklı Lavabo",
+    "palet": "",
+    "images": [
+      "art-40.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  },
+  {
+    "id": 84,
+    "name": "Efekta Lavabo 45x55",
+    "slug": "efekta-lavabo-45x55",
+    "code": "",
+    "category_id": 1,
+    "subcategory_id": 108,
+    "features": "Ayaklı Lavabo",
+    "palet": "",
+    "images": [
+      "efekta-lavabo-45x55.jpg"
+    ],
+    "documents": [],
+    "featured": false
+  }
+]

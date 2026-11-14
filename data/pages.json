@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Hakkımızda",
+    "slug": "hakkimizda",
+    "content": "<p>Alvit - Bartın Seramik A.Ş., 1994 yılından bu yana Türkiye'nin önde gelen seramik banyo ürünleri üreticilerinden biridir.</p><p>Bartın Organize Sanayi Bölgesi'ndeki modern üretim tesislerimizde, en son teknoloji ile üretim yaparak yurt içi ve yurt dışı pazarlara kaliteli ürünler sunmaktayız.</p><p>Müşteri memnuniyetini ön planda tutarak, yenilikçi tasarımlar ve üstün kalite anlayışıyla sektörde öncü olmaya devam ediyoruz.</p><p>Ürün gamımız lavabo, klozet, banyo mobilyası, klozet kapağı ve gömme rezervuar sistemlerini kapsar. Tüm ürünlerimiz TSE ve CE standartlarına uygun olarak üretilir, ISO 9001 Kalite Yönetim Sistemi kapsamında düzenli olarak denetlenir.</p>",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "title": "Vizyon & Misyon",
+    "slug": "vizyon-misyon",
+    "content": "<div class=\"vm-grid\"><div class=\"vm-card reveal\"><div class=\"vm-icon\">&#128065;</div><h3>Vizyonumuz</h3><p>Seramik banyo ürünleri sektöründe Türkiye'nin ve dünyanın önde gelen markalarından biri olmak.</p></div><div class=\"vm-card reveal\"><div class=\"vm-icon\">&#127919;</div><h3>Misyonumuz</h3><p>Müşterilerimize en kaliteli, yenilikçi ve çevre dostu banyo çözümleri sunarak yaşam alanlarını güzelleştirmek.</p></div></div>",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "title": "Kalite Politikası",
+    "slug": "kalite-politikasi",
+    "content": "<p>Alvit olarak kalite, üretim sürecimizin her aşamasında en öncelikli değerimizdir. TSE ve uluslararası standartlara uygun üretim yaparak, müşterilerimize güvenilir ve dayanıklı ürünler sunmaktayız.</p>",
+    "order": 3
+  },
+  {
+    "id": 4,
+    "title": "Kalite Belgelerimiz",
+    "slug": "kalite-belgelerimiz",
+    "content": "<p>TSE, CE ve ISO kalite belgelerimiz ile ürünlerimizin kalitesini belgeliyoruz. Aşağıdaki belgeleri büyüterek inceleyebilir veya \"İndir\" butonuyla bilgisayarınıza kaydedebilirsiniz.</p>",
+    "order": 4
+  }
+]

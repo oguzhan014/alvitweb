@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Zarif Tasarım, Üstün Kalite",
+    "subtitle": "Seramik banyo ürünlerinde yeni nesil çizgiler",
+    "image": "assets/images/categories/seramik-banyo.jpg",
+    "link": "/kategori/seramik-banyo-urunleri",
+    "active": true,
+    "order": 1
+  },
+  {
+    "id": 2,
+    "title": "Banyo Mobilyalarında Şıklık",
+    "subtitle": "Modern çizgiler, dayanıklı malzeme, zamansız tasarım",
+    "image": "assets/images/products/barcelona-100.jpg",
+    "link": "/kategori/banyo-mobilyalari",
+    "active": true,
+    "order": 2
+  },
+  {
+    "id": 3,
+    "title": "Komple Banyo Çözümleri",
+    "subtitle": "Klozetten gömme rezervuara, tek elden eksiksiz ürün yelpazesi",
+    "image": "assets/images/categories/tamamlayici-urunler.jpg",
+    "link": "/kategoriler",
+    "active": true,
+    "order": 3
+  }
+]

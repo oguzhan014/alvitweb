@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="#f8f7f4"/>
+  <path d="M170 160h60v80h-60z" fill="#e0ddd5"/>
+  <circle cx="185" cy="180" r="8" fill="#c9c5ba"/>
+  <path d="M170 220l20-25 15 18 10-12 15 19H170z" fill="#c9c5ba"/>
+  <text x="200" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#aaa">Görsel Yüklenmedi</text>
+</svg>

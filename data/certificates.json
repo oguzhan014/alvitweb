@@ -1,0 +1,14 @@
+[
+  {"id":1,"name":"ISO 9001:2015 Kalite Yönetim Sistemi Belgesi","category":"Yönetim Sistemi Belgeleri","file":"assets/images/certificates/iso-9001-1.jpg"},
+  {"id":2,"name":"ISO 9001:2015 Belge Eki (Kapsam)","category":"Yönetim Sistemi Belgeleri","file":"assets/images/certificates/iso-9001-2.jpg"},
+  {"id":3,"name":"TS ISO 45001 İş Sağlığı ve Güvenliği Yönetim Sistemi Belgesi","category":"Yönetim Sistemi Belgeleri","file":"assets/images/certificates/isg-yonetim-sistemi.jpg"},
+  {"id":4,"name":"TS ISO 45001 Belge Eki (Kapsam)","category":"Yönetim Sistemi Belgeleri","file":"assets/images/certificates/isg-yonetim-sistemi-ek.jpg"},
+  {"id":5,"name":"CE Uygunluk Beyanı - Lavabo","category":"CE Belgeleri","file":"assets/images/certificates/ce-lavabo.jpg"},
+  {"id":6,"name":"CE Uygunluk Beyanı - Klozet","category":"CE Belgeleri","file":"assets/images/certificates/ce-klozet.jpg"},
+  {"id":7,"name":"Lavabo TSE Belgesi (TS EN 14688)","category":"Ürün Belgeleri","file":"assets/images/certificates/lavabo-tse.jpg"},
+  {"id":8,"name":"Klozet TSE Belgesi (TS EN 997)","category":"Ürün Belgeleri","file":"assets/images/certificates/klozet-tse.jpg"},
+  {"id":9,"name":"Bide TSE Belgesi (TS EN 14528)","category":"Ürün Belgeleri","file":"assets/images/certificates/bide-tse.jpg"},
+  {"id":10,"name":"Pisuvar TSE Belgesi (TS EN 13407)","category":"Ürün Belgeleri","file":"assets/images/certificates/pisuvar-tse.jpg"},
+  {"id":11,"name":"Helataşı TSE Belgesi (TS 799)","category":"Ürün Belgeleri","file":"assets/images/certificates/helatasi-tse.jpg"},
+  {"id":12,"name":"Antibakteriyel Yüzey TSE Belgesi","category":"Ürün Belgeleri","file":"assets/images/certificates/antibakteriyel-tse.jpg"}
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Seramik Banyo Ürünleri",
+    "slug": "seramik-banyo-urunleri",
+    "image": "assets/images/categories/seramik-banyo.jpg",
+    "description": "Lavabo, klozet ve banyo seramik ürünleri",
+    "order": 1,
+    "subcategories": [
+      {"id": 101, "name": "Konsol Lavabolar", "slug": "konsol-lavabolar", "image": "assets/images/products/line-80.jpg"},
+      {"id": 102, "name": "Tezgah Üstü Lavabolar", "slug": "tezgah-ustu-lavabolar", "image": "assets/images/products/tulip-80.jpg"},
+      {"id": 103, "name": "Asma Klozetler", "slug": "asma-klozetler", "image": "assets/images/subcategories/asma-klozetler.jpg"},
+      {"id": 104, "name": "Duvara Sıfır Klozetler", "slug": "duvara-sifir-klozetler", "image": "assets/images/subcategories/duvara-sifir.jpg"},
+      {"id": 105, "name": "Takım Klozetler", "slug": "takim-klozetler", "image": "assets/images/subcategories/takim-klozetler.jpg"},
+      {"id": 106, "name": "Engelli Seri", "slug": "engelli-seri", "image": "assets/images/subcategories/engelli-seri.jpg"},
+      {"id": 107, "name": "Çocuk Seri", "slug": "cocuk-seri", "image": "assets/images/subcategories/cocuk-seri.jpg"},
+      {"id": 108, "name": "Lavabo Ayakları", "slug": "lavabo-ayaklari", "image": "assets/images/subcategories/lavabo-ayaklari.jpg"}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Banyo Mobilyaları",
+    "slug": "banyo-mobilyalari",
+    "image": "assets/images/products/astona-100.jpg",
+    "description": "Modern banyo dolap ve mobilya çözümleri",
+    "order": 2,
+    "subcategories": []
+  },
+  {
+    "id": 3,
+    "name": "Klozet Kapakları",
+    "slug": "klozet-kapaklari",
+    "image": "assets/images/categories/klozet-kapaklari.jpg",
+    "description": "Yavaş kapanan klozet kapakları",
+    "order": 3,
+    "subcategories": []
+  },
+  {
+    "id": 4,
+    "name": "Tamamlayıcı Ürünler",
+    "slug": "tamamlayici-urunler",
+    "image": "assets/images/categories/tamamlayici-urunler.jpg",
+    "description": "Banyo aksesuar ve tamamlayıcı ürünler",
+    "order": 4,
+    "subcategories": [
+      {"id": 401, "name": "Fonksiyonel Ürünler", "slug": "fonksiyonel-urunler", "image": ""},
+      {"id": 402, "name": "Engelli Ürünleri", "slug": "engelli-urunleri", "image": ""},
+      {"id": 403, "name": "Duş Sistemleri", "slug": "dus-sistemleri", "image": ""},
+      {"id": 404, "name": "Banyo Aksesuarları", "slug": "banyo-aksesuarlari", "image": ""},
+      {"id": 405, "name": "Şampuanlıklar", "slug": "sampuanliklar", "image": ""},
+      {"id": 406, "name": "Islak Hacim Ürünleri", "slug": "islak-hacim-urunleri", "image": ""}
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Gömme Rezervuar ve İç Takımlar",
+    "slug": "gomme-rezervuar",
+    "image": "assets/images/products/gomme-1.jpg",
+    "description": "Gömme rezervuar sistemleri ve iç takımlar",
+    "order": 5,
+    "subcategories": []
+  }
+]

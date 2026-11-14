@@ -1,0 +1,16 @@
+RewriteEngine On
+
+# Hassas veri klasorlerine disaridan erisimi engelle (admin sifre hash'i, ham urun verisi vb.)
+RewriteRule ^data/ - [F,L]
+RewriteRule ^includes/ - [F,L]
+
+# Statik dosyalara dokunma
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+
+# Statik dosyalara dokunma
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Her şeyi index.php'ye yönlendir
+RewriteRule ^ index.php [L]
