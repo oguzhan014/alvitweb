@@ -1,0 +1,157 @@
+<?php
+$pageTitle = 'Tüm Ürünler';
+$categories = getCategories();
+$allProducts = array_values(getProducts());
+$colorFacets = getColorFacets($allProducts);
+
+// Kategori/alt kategori başına ürün sayısı
+$catCounts = $subCounts = [];
+foreach ($allProducts as $p) {
+    $catCounts[$p['category_id']] = ($catCounts[$p['category_id']] ?? 0) + 1;
+    if (!empty($p['subcategory_id'])) {
+        $subCounts[$p['subcategory_id']] = ($subCounts[$p['subcategory_id']] ?? 0) + 1;
+    }
+}
+
+// Adres çubuğundan gelen ön seçim: /urunler?kategori=banyo-mobilyalari
+$preselect = isset($_GET['kategori']) ? (string)$_GET['kategori'] : '';
+
+include __DIR__ . '/../includes/header.php';
+?>
+
+<div class="page-header">
+  <div class="container">
+    <h1>Tüm Ürünler</h1>
+    <div class="breadcrumb-light">
+      <a href="/">Anasayfa</a>
+      <span>&rsaquo;</span>
+      <span class="current">Ürünler</span>
+    </div>
+  </div>
+</div>
+
+<section class="section catalog-section">
+  <div class="container catalog-layout">
+
+    <!-- FİLTRE ÇUBUĞU -->
+    <aside class="catalog-filters" id="catalogFilters" data-preselect="<?= e($preselect) ?>">
+      <div class="filter-head">
+        <h2>Filtrele</h2>
+        <button type="button" class="filter-clear" id="filterClear">Temizle</button>
+        <button type="button" class="filter-close" id="filterClose" aria-label="Kapat">&times;</button>
+      </div>
+
+      <div class="filter-group">
+        <input type="search" id="catalogSearch" class="filter-search"
+               placeholder="Ürün veya kod ara..." autocomplete="off">
+      </div>
+
+      <div class="filter-group">
+        <h3>Kategori</h3>
+        <?php foreach ($categories as $cat): ?>
+        <label class="filter-item">
+          <input type="checkbox" data-filter="cat" value="<?= (int)$cat['id'] ?>"
+                 data-slug="<?= e($cat['slug']) ?>">
+          <span><?= e($cat['name']) ?></span>
+          <em><?= (int)($catCounts[$cat['id']] ?? 0) ?></em>
+        </label>
+        <?php if (!empty($cat['subcategories'])): ?>
+        <div class="filter-sublist">
+          <?php foreach ($cat['subcategories'] as $sub): ?>
+            <?php if (empty($subCounts[$sub['id']])) continue; ?>
+          <label class="filter-item filter-item-sub">
+            <input type="checkbox" data-filter="sub" value="<?= (int)$sub['id'] ?>"
+                   data-slug="<?= e($sub['slug']) ?>">
+            <span><?= e($sub['name']) ?></span>
+            <em><?= (int)$subCounts[$sub['id']] ?></em>
+          </label>
+          <?php endforeach; ?>
+        </div>
+        <?php endif; ?>
+        <?php endforeach; ?>
+      </div>
+
+      <?php if (!empty($colorFacets)): ?>
+      <div class="filter-group">
+        <h3>Renk Seçeneği</h3>
+        <?php foreach ($colorFacets as $color => $count): ?>
+        <label class="filter-item">
+          <input type="checkbox" data-filter="color" value="<?= e(mb_strtolower($color, 'UTF-8')) ?>">
+          <span><?= e($color) ?></span>
+          <em><?= (int)$count ?></em>
+        </label>
+        <?php endforeach; ?>
+      </div>
+      <?php endif; ?>
+
+      <div class="filter-group">
+        <h3>Diğer</h3>
+        <label class="filter-item">
+          <input type="checkbox" data-filter="docs" value="1">
+          <span>Teknik çizimi olan</span>
+        </label>
+        <label class="filter-item">
+          <input type="checkbox" data-filter="specs" value="1">
+          <span>Detaylı tablosu olan</span>
+        </label>
+      </div>
+    </aside>
+
+    <!-- ÜRÜNLER -->
+    <div class="catalog-main">
+      <div class="catalog-toolbar">
+        <button type="button" class="filter-toggle" id="filterToggle">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="4" y1="6" x2="20" y2="6"/><line x1="7" y1="12" x2="17" y2="12"/><line x1="10" y1="18" x2="14" y2="18"/></svg>
+          Filtrele
+        </button>
+        <p class="catalog-count"><strong id="catalogCount"><?= count($allProducts) ?></strong> ürün</p>
+        <select id="catalogSort" class="catalog-sort" aria-label="Sıralama">
+          <option value="default">Varsayılan sıralama</option>
+          <option value="az">İsme göre (A → Z)</option>
+          <option value="za">İsme göre (Z → A)</option>
+        </select>
+      </div>
+
+      <div class="chip-row" id="activeChips" hidden></div>
+
+      <div class="product-grid" id="catalogGrid">
+        <?php foreach ($allProducts as $product): ?>
+          <?php
+            $colors = array_map(fn($c) => mb_strtolower($c, 'UTF-8'), getProductColors($product));
+            $haystack = normalizeSearch($product['name'] . ' ' . ($product['code'] ?? '') . ' ' . ($product['features'] ?? ''));
+          ?>
+        <a href="/urun/<?= e($product['slug']) ?>" class="product-card catalog-item"
+           data-cat="<?= (int)$product['category_id'] ?>"
+           data-sub="<?= (int)($product['subcategory_id'] ?? 0) ?>"
+           data-colors="<?= e(implode('|', $colors)) ?>"
+           data-docs="<?= empty($product['documents']) ? '0' : '1' ?>"
+           data-specs="<?= empty($product['spec_rows']) ? '0' : '1' ?>"
+           data-search="<?= e($haystack) ?>"
+           data-name="<?= e(mb_strtolower($product['name'], 'UTF-8')) ?>">
+          <div class="product-card-image">
+            <img src="/<?= getProductImage($product) ?>" alt="<?= e($product['name']) ?>" loading="lazy">
+            <?php if (!empty($product['documents'])): ?>
+            <span class="product-card-doc" title="Teknik çizim mevcut">PDF</span>
+            <?php endif; ?>
+          </div>
+          <div class="product-card-body">
+            <h3><?= e($product['name']) ?></h3>
+            <p><?= e($product['features']) ?></p>
+            <?php if (!empty($product['code'])): ?>
+            <div class="product-code">Kod: <?= e($product['code']) ?></div>
+            <?php endif; ?>
+          </div>
+        </a>
+        <?php endforeach; ?>
+      </div>
+
+      <p class="catalog-empty" id="catalogEmpty" hidden>
+        Seçtiğiniz filtrelere uygun ürün bulunamadı.
+      </p>
+    </div>
+  </div>
+</section>
+
+<div class="filter-backdrop" id="filterBackdrop" hidden></div>
+
+<?php include __DIR__ . '/../includes/footer.php'; ?>

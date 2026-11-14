@@ -77,9 +77,36 @@ def discover_products():
     return products
 
 
+def parse_description(html):
+    """Urun sayfasindaki OZELLIKLER blogunu yapisal veriye cevirir.
+
+    Duz ozellik satirlari 'highlights', '<strong>Etiket:</strong> deger'
+    kalibindaki satirlar ise 'attributes' olarak ayrilir.
+    """
+    m = re.search(r'<div class="short-description">(.*?)</div>', html, re.S)
+    if not m:
+        return [], []
+    block = re.sub(r'<img[^>]*>', '', m.group(1))
+
+    highlights, attributes = [], []
+    for part in re.split(r'</p>', block):
+        sm = re.search(r'<strong>(.*?)</strong>(.*)', part, re.S)
+        if sm:
+            label = clean(sm.group(1)).rstrip(':').strip()
+            value = clean(sm.group(2))
+            if label and value:
+                attributes.append({"label": label, "value": value})
+            continue
+        text = clean(part)
+        if text and len(text) < 200:
+            highlights.append(text)
+    return highlights, attributes
+
+
 def parse_product(html):
     title_m = re.search(r'class="product_title"[^>]*>(.*?)</h1>', html, re.S)
     title = clean(title_m.group(1)) if title_m else ""
+    highlights, attributes = parse_description(html)
 
     # Sekme basliklari sayfadan okunur (urun tipine gore degisiyor)
     labels = [m.group(1) for m in re.finditer(r"openTab\('([^']*)','\d+'\)", html)]
@@ -115,6 +142,8 @@ def parse_product(html):
         "name": title,
         "columns": columns,
         "rows": rows,
+        "highlights": highlights,
+        "attributes": attributes,
         "pdfs": pdfs,
         "image": img_m.group(1) if img_m else "",
     }
@@ -158,7 +187,8 @@ def main():
         result[pid] = data
         pdf_count += len(data["pdfs"])
         print(f"   [{n}/{len(products)}] {data['name']}  "
-              f"({len(data['rows'])} satir, {len(data['pdfs'])} pdf)")
+              f"({len(data['rows'])} satir, {len(data['highlights'])} ozellik, "
+              f"{len(data['pdfs'])} pdf)")
         time.sleep(0.2)
 
     print(f"\n3) PDF'ler indiriliyor ({pdf_count} adet)...")

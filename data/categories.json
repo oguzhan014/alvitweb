@@ -7,14 +7,66 @@
     "description": "Lavabo, klozet ve banyo seramik ürünleri",
     "order": 1,
     "subcategories": [
-      {"id": 101, "name": "Konsol Lavabolar", "slug": "konsol-lavabolar", "image": "assets/images/products/line-80.jpg"},
-      {"id": 102, "name": "Tezgah Üstü Lavabolar", "slug": "tezgah-ustu-lavabolar", "image": "assets/images/products/tulip-80.jpg"},
-      {"id": 103, "name": "Asma Klozetler", "slug": "asma-klozetler", "image": "assets/images/subcategories/asma-klozetler.jpg"},
-      {"id": 104, "name": "Duvara Sıfır Klozetler", "slug": "duvara-sifir-klozetler", "image": "assets/images/subcategories/duvara-sifir.jpg"},
-      {"id": 105, "name": "Takım Klozetler", "slug": "takim-klozetler", "image": "assets/images/subcategories/takim-klozetler.jpg"},
-      {"id": 106, "name": "Engelli Seri", "slug": "engelli-seri", "image": "assets/images/subcategories/engelli-seri.jpg"},
-      {"id": 107, "name": "Çocuk Seri", "slug": "cocuk-seri", "image": "assets/images/subcategories/cocuk-seri.jpg"},
-      {"id": 108, "name": "Lavabo Ayakları", "slug": "lavabo-ayaklari", "image": "assets/images/subcategories/lavabo-ayaklari.jpg"}
+      {
+        "id": 101,
+        "name": "Konsol Lavabolar",
+        "slug": "konsol-lavabolar",
+        "image": "assets/images/products/line-80.jpg"
+      },
+      {
+        "id": 102,
+        "name": "Tezgah Üstü Lavabolar",
+        "slug": "tezgah-ustu-lavabolar",
+        "image": "assets/images/products/tulip-80.jpg"
+      },
+      {
+        "id": 103,
+        "name": "Asma Klozetler",
+        "slug": "asma-klozetler",
+        "image": "assets/images/subcategories/asma-klozetler.jpg"
+      },
+      {
+        "id": 104,
+        "name": "Duvara Sıfır Klozetler",
+        "slug": "duvara-sifir-klozetler",
+        "image": "assets/images/subcategories/duvara-sifir.jpg"
+      },
+      {
+        "id": 105,
+        "name": "Takım Klozetler",
+        "slug": "takim-klozetler",
+        "image": "assets/images/subcategories/takim-klozetler.jpg"
+      },
+      {
+        "id": 106,
+        "name": "Engelli Seri",
+        "slug": "engelli-seri",
+        "image": "assets/images/subcategories/engelli-seri.jpg"
+      },
+      {
+        "id": 107,
+        "name": "Çocuk Seri",
+        "slug": "cocuk-seri",
+        "image": "assets/images/subcategories/cocuk-seri.jpg"
+      },
+      {
+        "id": 108,
+        "name": "Lavabo Ayakları",
+        "slug": "lavabo-ayaklari",
+        "image": "assets/images/subcategories/lavabo-ayaklari.jpg"
+      },
+      {
+        "id": 109,
+        "name": "Bideler",
+        "slug": "bideler",
+        "image": "assets/images/products/inkum-ayakli-bide.jpg"
+      },
+      {
+        "id": 110,
+        "name": "Tek Parça Ürünler",
+        "slug": "tek-parca-urunler",
+        "image": "assets/images/products/etejer-15x60-cm.jpg"
+      }
     ]
   },
   {
@@ -43,12 +95,42 @@
     "description": "Banyo aksesuar ve tamamlayıcı ürünler",
     "order": 4,
     "subcategories": [
-      {"id": 401, "name": "Fonksiyonel Ürünler", "slug": "fonksiyonel-urunler", "image": ""},
-      {"id": 402, "name": "Engelli Ürünleri", "slug": "engelli-urunleri", "image": ""},
-      {"id": 403, "name": "Duş Sistemleri", "slug": "dus-sistemleri", "image": ""},
-      {"id": 404, "name": "Banyo Aksesuarları", "slug": "banyo-aksesuarlari", "image": ""},
-      {"id": 405, "name": "Şampuanlıklar", "slug": "sampuanliklar", "image": ""},
-      {"id": 406, "name": "Islak Hacim Ürünleri", "slug": "islak-hacim-urunleri", "image": ""}
+      {
+        "id": 401,
+        "name": "Fonksiyonel Ürünler",
+        "slug": "fonksiyonel-urunler",
+        "image": "assets/images/products/lavabo-pop-up-seti-seramik-kapakli.jpg"
+      },
+      {
+        "id": 402,
+        "name": "Engelli Ürünleri",
+        "slug": "engelli-urunleri",
+        "image": "assets/images/products/yerden-tutunma-bari.jpg"
+      },
+      {
+        "id": 403,
+        "name": "Duş Sistemleri",
+        "slug": "dus-sistemleri",
+        "image": "assets/images/products/still-dus-seti.jpg"
+      },
+      {
+        "id": 404,
+        "name": "Banyo Aksesuarları",
+        "slug": "banyo-aksesuarlari",
+        "image": "assets/images/products/dis-fircalik.jpg"
+      },
+      {
+        "id": 405,
+        "name": "Şampuanlıklar",
+        "slug": "sampuanliklar",
+        "image": "assets/images/products/oval-krom-sampuanlik.jpg"
+      },
+      {
+        "id": 406,
+        "name": "Islak Hacim Ürünleri",
+        "slug": "islak-hacim-urunleri",
+        "image": "assets/images/products/roll-klozet-firca-takim.jpg"
+      }
     ]
   },
   {

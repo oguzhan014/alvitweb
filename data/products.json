@@ -329,7 +329,7 @@
     "slug": "tulip-lavabo-55-cm",
     "code": "",
     "category_id": 1,
-    "subcategory_id": 102,
+    "subcategory_id": 101,
     "features": "Konsol Lavabo",
     "palet": "",
     "images": [
@@ -362,7 +362,7 @@
     "slug": "tulip-lavabo-65-cm",
     "code": "",
     "category_id": 1,
-    "subcategory_id": 102,
+    "subcategory_id": 101,
     "features": "Konsol Lavabo",
     "palet": "",
     "images": [
@@ -395,7 +395,7 @@
     "slug": "tulip-lavabo-75-cm",
     "code": "",
     "category_id": 1,
-    "subcategory_id": 102,
+    "subcategory_id": 101,
     "features": "Konsol Lavabo",
     "palet": "",
     "images": [
@@ -428,7 +428,7 @@
     "slug": "tulip-lavabo-80-cm",
     "code": "",
     "category_id": 1,
-    "subcategory_id": 102,
+    "subcategory_id": 101,
     "features": "Konsol Lavabo",
     "palet": "",
     "images": [
@@ -461,7 +461,7 @@
     "slug": "tulip-lavabo-86-cm",
     "code": "",
     "category_id": 1,
-    "subcategory_id": 102,
+    "subcategory_id": 101,
     "features": "Konsol Lavabo",
     "palet": "",
     "images": [
@@ -494,7 +494,7 @@
     "slug": "tulip-lavabo-100-cm",
     "code": "",
     "category_id": 1,
-    "subcategory_id": 102,
+    "subcategory_id": 101,
     "features": "Konsol Lavabo",
     "palet": "",
     "images": [
@@ -527,7 +527,7 @@
     "slug": "tulip-lavabo-105-cm",
     "code": "",
     "category_id": 1,
-    "subcategory_id": 102,
+    "subcategory_id": 101,
     "features": "Konsol Lavabo",
     "palet": "",
     "images": [
@@ -559,9 +559,9 @@
     "name": "Art 40",
     "slug": "art-40",
     "code": "",
-    "category_id": 1,
-    "subcategory_id": 102,
-    "features": "Tezgah Üstü Lavabo",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
     "palet": "",
     "images": [
       "art-40.jpg"
@@ -2463,5 +2463,6097 @@
       ]
     ],
     "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/efekta-lavabo-45x55.212"
+  },
+  {
+    "id": 85,
+    "name": "Madrid 85",
+    "slug": "madrid-85",
+    "code": "",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "madrid-85.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [],
+    "spec_rows": [],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/madrid-85.24"
+  },
+  {
+    "id": 86,
+    "name": "Despina 100",
+    "slug": "despina-100",
+    "code": "DS 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "despina-100.jpg"
+    ],
+    "documents": [
+      {
+        "name": "despina_100_olculer",
+        "file": "assets/documents/despina_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "DS 1110",
+        "Despina 100 Alt Modül",
+        "1060 x 850 x 500"
+      ],
+      [
+        "DS 1120",
+        "Despina 100 Üst Modül",
+        "620 x 620 x 30"
+      ],
+      [
+        "DS 1100",
+        "Despina 100 Set",
+        "-"
+      ],
+      [
+        "DS 2300",
+        "Despina Boy Dolap",
+        "1340 x 440 x 320"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve kapaklar mebmran kaplama",
+      "Softclose özellikli çekmeceler",
+      "Ledli ayna",
+      "Kenevir askı ipi"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TEZ 170"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/despina-100.25"
+  },
+  {
+    "id": 87,
+    "name": "Zeblin 100",
+    "slug": "zeblin-100",
+    "code": "ZBL 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "zeblin-100.jpg"
+    ],
+    "documents": [
+      {
+        "name": "zeblin_100_olculer",
+        "file": "assets/documents/zeblin_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "ZBL 1210",
+        "Zeblin 100 Alt Modül",
+        "1010 x 433 x 581"
+      ],
+      [
+        "ZBL 1220",
+        "Zeblin 100 üst Modül",
+        "736 x 850 x 18"
+      ],
+      [
+        "ZBL 1200",
+        "Zeblin 100 Set",
+        "-"
+      ],
+      [
+        "ZBL 2300",
+        "Zeblin İkili Boy Dolap",
+        "420 x 1640 x 330"
+      ]
+    ],
+    "highlights": [
+      "Gövde mat beyaz MDF Lam",
+      "Çekmece ve Kapak Mat Beyaz Lake Akrilik Boyama",
+      "Mat Siyah Paslanmaz Demir Profil Ayak",
+      "Tam Açılır Frenli Çekmece",
+      "Yavaş Kapanır Kapaklar"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabolar",
+        "value": "TIN 100 - LIN 100"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Mat Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Siyah"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/zeblin-100.26"
+  },
+  {
+    "id": 88,
+    "name": "Zeblin 80",
+    "slug": "zeblin-80",
+    "code": "ZBL 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "zeblin-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "zeblin_80_olculer",
+        "file": "assets/documents/zeblin_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "ZBL 1210",
+        "Zeblin 80 Alt Modül",
+        "810 x 435 x 581"
+      ],
+      [
+        "ZBL 1220",
+        "Zeblin 80 üst Modül",
+        "736 x 850 x 18"
+      ],
+      [
+        "ZBL 1200",
+        "Zeblin 80 Set",
+        "-"
+      ],
+      [
+        "ZBL 2300",
+        "Zeblin İkili Boy Dolap",
+        "420 x 1640 x 330"
+      ]
+    ],
+    "highlights": [
+      "Gövde Mat Beyaz MDF Lam",
+      "Çekmece ve Kapak Mat Beyaz Lake Akrilik Boyama",
+      "Mat Siyah Paslanmaz Demir Profil Ayak",
+      "Tam Açılır Frenli Çekmece",
+      "Yavaş Kapanır Kapaklar"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 080 - LIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Mat Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Siyah"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/zeblin-80.27"
+  },
+  {
+    "id": 89,
+    "name": "Diamond 100",
+    "slug": "diamond-100",
+    "code": "DIA 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "diamond-100.jpg"
+    ],
+    "documents": [
+      {
+        "name": "diamond_100_olculer",
+        "file": "assets/documents/diamond_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "DIA 1210",
+        "Diamond 100 Alt Modül",
+        "1000 x 480 x 500"
+      ],
+      [
+        "DIA 1220",
+        "Diamond 100 Üst Modül",
+        "-"
+      ],
+      [
+        "DIA 1200",
+        "Diamond 100 Set",
+        "-"
+      ],
+      [
+        "DIA 2300",
+        "Diamond Boy Dolap",
+        "400 x 1250 x 320"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF lam",
+      "Mat Siyah Akrilik Lake Boyalı Kapaklar",
+      "Yavaş Kapanır Kapaklar",
+      "Tam Açılır Frenli Çekmece",
+      "Dokunmatik Led Aydınlatmalı Ayna",
+      "Paslanmaz Mat Demir Ayak"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TEZ 047"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Otantik Meşe"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Siyah, Beyaz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/diamond-100.28"
+  },
+  {
+    "id": 90,
+    "name": "Victor 80",
+    "slug": "victor-80",
+    "code": "VC 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "victor-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "victor_80_olculer",
+        "file": "assets/documents/victor_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "VC 1210",
+        "Victor 80 Alt modül",
+        "800 x 530 x 450"
+      ],
+      [
+        "VC 1220",
+        "Victor 80 Üst Modül",
+        "760 x 700 x 180"
+      ],
+      [
+        "VC 1200",
+        "Victor 80 Set",
+        "-"
+      ],
+      [
+        "VC 2300",
+        "Victor Boy Dolap",
+        "1550 x 325 x 320"
+      ],
+      [
+        "VC 2310",
+        "Victor Tasarım Dolap",
+        "1800 x 450 x 350"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve Kapaklar MDF Lam",
+      "Manyetik Kapak",
+      "Aynalı Üst Kapaklar"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Keçe"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Siyah"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/victor-80.29"
+  },
+  {
+    "id": 91,
+    "name": "Loft 80",
+    "slug": "loft-80",
+    "code": "LT 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "loft-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "loft_80_olculer",
+        "file": "assets/documents/loft_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "LT 1210",
+        "Loft 80 Alt modül",
+        "800 x 530 x 450"
+      ],
+      [
+        "LT 1220",
+        "Loft 80 Üst Modül",
+        "800 x 730 x 180"
+      ],
+      [
+        "LT 1200",
+        "Loft 80 Set",
+        "-"
+      ],
+      [
+        "LT 2300",
+        "Loft Boy Dolap",
+        "1600 x 400 x 320"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar Membran Kaplama",
+      "Frenli Kapak",
+      "Led Aydınlatma"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 80"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Siyah"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/loft-80.30"
+  },
+  {
+    "id": 92,
+    "name": "Arwen 90",
+    "slug": "arwen-90",
+    "code": "AW 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "arwen-90.jpg"
+    ],
+    "documents": [
+      {
+        "name": "arwen_90_olculer",
+        "file": "assets/documents/arwen_90_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AW 1210",
+        "Arwen 90 Alt Modül",
+        "900 x 360 x 500"
+      ],
+      [
+        "AW 1220",
+        "Arwen 90 Üst Modül",
+        "900 x 960 x 18"
+      ],
+      [
+        "AW 1200",
+        "Arwen 90 Set",
+        "-"
+      ],
+      [
+        "AW 2300",
+        "Arwen Boy Dolap",
+        "1080 x 390 x 320"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve Kapaklar MDF Lam",
+      "Tezgah Üstü Lavabo",
+      "Frenli Çekmece",
+      "Masif Ahşap Tezgah",
+      "Membran Kaplama Ayna",
+      "Ahşap Sağ Sol Etejer"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "ARK 060 (Siyah)"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Siyah"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Masif Ahşap"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/arwen-90.31"
+  },
+  {
+    "id": 93,
+    "name": "Kios 60",
+    "slug": "kios-60",
+    "code": "KIO 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "kios-60.jpg"
+    ],
+    "documents": [
+      {
+        "name": "kios_60_olculer",
+        "file": "assets/documents/kios_60_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "KIO 1110",
+        "Kios 60 Alt Modül",
+        "600 x 850 x 450"
+      ],
+      [
+        "KIO 1120",
+        "Kios 60 Üst Modül",
+        "600 x 750 x 30"
+      ],
+      [
+        "KIO 1100",
+        "Kios 60 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde Paslanmaz Mat Siyah Profil",
+      "Mat Siyah Akrilik Boya",
+      "Led Aydınlatmalı Ayna Modülü"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "ARK 060 (Siyah), ARK 060 (Beyaz)"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Siyah"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/kios-60.33"
+  },
+  {
+    "id": 94,
+    "name": "Anka 65-80",
+    "slug": "anka-65-80",
+    "code": "ANK 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "anka-65-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "anka_65_80_olculer",
+        "file": "assets/documents/anka_65_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "ANK 1110",
+        "Anka 80 Alt Modül",
+        "770 x 520 x 433"
+      ],
+      [
+        "ANK 1120",
+        "Anka 80 Üst Modül",
+        "800 x 730 x 170"
+      ],
+      [
+        "ANK 1100",
+        "Anka 80 Set",
+        "-"
+      ],
+      [
+        "ANK 1110-1",
+        "Anka 65 Alt Modül",
+        "630 x 520 x 433"
+      ],
+      [
+        "ANK 1120-1",
+        "Anka 65 Üst modül",
+        "650 x 730 x 170"
+      ],
+      [
+        "ANK 1100-1",
+        "Anka 65 Set",
+        "-"
+      ],
+      [
+        "ANK 2300",
+        "Anka Boy Dolap",
+        "380 x 1400 x 320"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve Çekmeceler MDF Lam",
+      "Yavaş Kapanır Kapak",
+      "Tam Açılır Çekmece"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 080 - LIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Antrasit, Keçe"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Antrasit"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/anka-65-80.34"
+  },
+  {
+    "id": 95,
+    "name": "Adel 80",
+    "slug": "adel-80",
+    "code": "AD 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "adel-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "adel_80_olculer",
+        "file": "assets/documents/adel_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AD 1210",
+        "Adel 80 Alt Modül",
+        "766 x 530 x 433"
+      ],
+      [
+        "AD 1220",
+        "Adel 80 Üst Modül",
+        "760 x 750 x 180"
+      ],
+      [
+        "AD 1200",
+        "Adel 80 Set",
+        "-"
+      ],
+      [
+        "AD 2300",
+        "Adel Boy Dolap",
+        "400 x 1400 x 320"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Mat Beyaz Lake Boyalı Kapaklar",
+      "Yavaş Kapanır Kapak"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Keçe"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Antrasit"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/adel-80.35"
+  },
+  {
+    "id": 96,
+    "name": "Arya 100",
+    "slug": "arya-100",
+    "code": "AY 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "arya-100.jpg"
+    ],
+    "documents": [
+      {
+        "name": "arya_100_olculer",
+        "file": "assets/documents/arya_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AY 1110",
+        "Arya 100 Alt Modül",
+        "1000 x 530 x 460"
+      ],
+      [
+        "AY 1120",
+        "Arya 100 Üst Modül",
+        "1000 x 700 x 200"
+      ],
+      [
+        "AY 1100",
+        "Arya 100 Set",
+        "-"
+      ],
+      [
+        "AY 2200",
+        "Arya Dolap",
+        "1600 x 350 x 380"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar Membran Kaplama",
+      "Softclose Özellikli Kapaklar",
+      "Ayna"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 100"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Keçe, Venezia, Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/arya-100.37"
+  },
+  {
+    "id": 97,
+    "name": "Arya 65-80",
+    "slug": "arya-65-80",
+    "code": "AY 1310",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "arya-65-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "arya_65_80_olculer",
+        "file": "assets/documents/arya_65_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AY 1310",
+        "Arya 65 Alt Modül",
+        "650 x 530 x 460"
+      ],
+      [
+        "AY 1320",
+        "Arya 65 Üst Modül",
+        "650 x 700 x 200"
+      ],
+      [
+        "AY 1300",
+        "Arya 65 Set",
+        "-"
+      ],
+      [
+        "AY 1210",
+        "Arya 80 Alt Modül",
+        "800 x 530 x 460"
+      ],
+      [
+        "AY 1220",
+        "Arya 80 Üst Modül",
+        "800 x 700 x 200"
+      ],
+      [
+        "AY 1200",
+        "Arya 80 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar Membran Kaplama",
+      "Softclose Özellikli Kapaklar",
+      "Ayna",
+      "Arya 65 - TIN 065",
+      "Arya 80 - TIN 080"
+    ],
+    "attributes": [
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Abanoz, Venezia, Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/arya-65-80.38"
+  },
+  {
+    "id": 98,
+    "name": "Lizbon 80",
+    "slug": "lizbon-80",
+    "code": "LIZ 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "lizbon-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "lizbon_80_olculer",
+        "file": "assets/documents/lizbon_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "LIZ 1110",
+        "Lizbon 80 Alt Modül",
+        "800 x 390 x 500"
+      ],
+      [
+        "LIZ 1120",
+        "Lizbon 80 Üst Modül",
+        "800 x 700 x 180"
+      ],
+      [
+        "LIZ 1100",
+        "Lizbon 80 Set",
+        "-"
+      ],
+      [
+        "LIZ 2300",
+        "Lizbon Boy Dolap",
+        "400 x 1220 x 320"
+      ]
+    ],
+    "highlights": [
+      "MDF Lam Gövde",
+      "Alüminyum Çerçeve",
+      "Siyah Cam Kapaklar",
+      "Aynalı Üst Kapaklar",
+      "Softclose Özellikli Kapak"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "ARK 060"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Royal Mermer"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/lizbon-80.39"
+  },
+  {
+    "id": 99,
+    "name": "Mostar 65-80",
+    "slug": "mostar-65-80",
+    "code": "MS 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "mostar-65-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "mostar_65_80_olculer",
+        "file": "assets/documents/mostar_65_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "MS 1210",
+        "Mostar 80 Alt Modül",
+        "800 x 500 x 433"
+      ],
+      [
+        "MS 1220",
+        "Mostar 80 Üst Modül",
+        "800 x 750 x 180"
+      ],
+      [
+        "MS 1200",
+        "Mostar 80 Set",
+        "-"
+      ],
+      [
+        "MS 1310",
+        "Mostar 65 Alt modül",
+        "650 x 500 x 433"
+      ],
+      [
+        "MS 1320",
+        "Mostar 65 Üst Modül",
+        "650 x 750 x 180"
+      ],
+      [
+        "MS 1300",
+        "Mostar 65 Set",
+        "-"
+      ],
+      [
+        "MS 2300",
+        "Mostar Boy Dolap",
+        "1020 x 400 x 320"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar Membran",
+      "Softclose Özellikli Kapaklar",
+      "Mostar 65: TIN 065 (Siyah) - TIN 065 (Beyaz)",
+      "Mostar 80: TIN 080 (Siyah) - TIN 080(Beyaz)"
+    ],
+    "attributes": [
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Mat Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/mostar-65-80.40"
+  },
+  {
+    "id": 100,
+    "name": "Roma 80",
+    "slug": "roma-80",
+    "code": "RM 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "roma-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "roma_80_olculer",
+        "file": "assets/documents/roma_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "RM 1210",
+        "Roma 80 Alt Modül",
+        "800 x 615 x 433"
+      ],
+      [
+        "RM 1220",
+        "Roma 80 Üst Modül",
+        "766 x 718 x 18"
+      ],
+      [
+        "RM 1200",
+        "Roma 80 Set",
+        "-"
+      ],
+      [
+        "RM 2300",
+        "Roma Boy Dolap",
+        "1018 x 460 x 320"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Desenli Cam Kapaklar",
+      "Demir Aksamlı Ayaklar",
+      "Softclose Özellikli Kapaklar",
+      "Ayna",
+      "Etejer"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 080 (Siyah) - TIN 080 (Beyaz)"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Patik"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/roma-80.41"
+  },
+  {
+    "id": 101,
+    "name": "Felix 80",
+    "slug": "felix-80",
+    "code": "FL 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "felix-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "felix_80_olculer",
+        "file": "assets/documents/felix_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "FL 1210",
+        "Felix 80 Alt Modül",
+        "800 x 550 x 460"
+      ],
+      [
+        "FL 1220",
+        "Felix 80 Üst Modül",
+        "800 x 750 x 20"
+      ],
+      [
+        "FL 1200",
+        "Felix 80 Set",
+        "-"
+      ],
+      [
+        "FL 2300",
+        "Felix Boy Dolap",
+        "1280 x 350 x 350"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar Membran Kaplama",
+      "Altın Varaklı Ayna",
+      "Ahşap Ayaklar"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Varak Yaldız"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/felix-80.42"
+  },
+  {
+    "id": 102,
+    "name": "Bella 80",
+    "slug": "bella-80",
+    "code": "BL 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "bella-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "bella_80_olculer",
+        "file": "assets/documents/bella_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "BL 1210",
+        "Bella 80 Alt Modül",
+        "850 x 800 x 460"
+      ],
+      [
+        "BL 1220",
+        "Bella 80 Üst Modül",
+        "800 x 700 x 180"
+      ],
+      [
+        "BL 1200",
+        "Bella 80 Set",
+        "-"
+      ],
+      [
+        "BL 2300",
+        "Bella Boy Dolap",
+        "990 x 340 x 350"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar Membran Kaplama",
+      "Ayna"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/bella-80.43"
+  },
+  {
+    "id": 103,
+    "name": "Helen 80",
+    "slug": "helen-80",
+    "code": "HL 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "helen-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "helen_80_olculer",
+        "file": "assets/documents/helen_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "HL 1210",
+        "Helen 80 Alt Modül",
+        "800 x 520 x 460"
+      ],
+      [
+        "HL 1220",
+        "Helen 80 Üst Modül",
+        "800 x 700 x 200"
+      ],
+      [
+        "HL 1200",
+        "Helen 80 Set",
+        "-"
+      ],
+      [
+        "HL 2300",
+        "Helen Boy Dolap",
+        "1550 x 350 x 346"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar Membran Kaplama",
+      "Softclose Özellikli Kapaklar",
+      "Ayna"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Altın, Gümüş"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/helen-80.44"
+  },
+  {
+    "id": 104,
+    "name": "Kares 80",
+    "slug": "kares-80",
+    "code": "KR 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "kares-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "kares_80_olculer",
+        "file": "assets/documents/kares_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "KR 1210",
+        "Kares 80 Alt Modül",
+        "800 x 850 x 450"
+      ],
+      [
+        "KR 1220",
+        "Kares 80 Üst Modül",
+        "770 x 700 x 180"
+      ],
+      [
+        "KR 1200",
+        "Kares 80 Set",
+        "-"
+      ],
+      [
+        "KR 2300",
+        "Kares Boy Dolap",
+        "1250 x 390 x 340"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar Membran Kaplama",
+      "Softclose Özellikli Kapaklar",
+      "Pano Antik Membran Ayna"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/kares-80.45"
+  },
+  {
+    "id": 105,
+    "name": "Sofya 65-80",
+    "slug": "sofya-65-80",
+    "code": "SF 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "sofya-65-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "sofya_65_80_olculer",
+        "file": "assets/documents/sofya_65_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "SF 1210",
+        "Sofya 80 Alt Modül",
+        "800 x 500 x 433"
+      ],
+      [
+        "SF 1220",
+        "Sofya 80 Üst Modül",
+        "800 x 750 x 180"
+      ],
+      [
+        "SF 1200",
+        "Sofya 80 Set",
+        "-"
+      ],
+      [
+        "SF 1310",
+        "Sofya 65 Alt modül",
+        "650 x 500 x 433"
+      ],
+      [
+        "SF 1320",
+        "Sofya 65 Üst Modül",
+        "650 x 750 x 180"
+      ],
+      [
+        "SF 1300",
+        "Sofya 65 Set",
+        "-"
+      ],
+      [
+        "SF 2300",
+        "Sofya Boy Dolap",
+        "1350 x 430 x 350"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar Membran",
+      "Softclose Özellikli Kapaklar",
+      "Ayna",
+      "Cam Raflar",
+      "Sofya 65: TIN 065 (Siyah) - TIN 065 (Beyaz)",
+      "Sofya 80: TIN 080 (Siyah) - TIN 080 (Beyaz)"
+    ],
+    "attributes": [
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Mat Beyaz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/sofya-65-80.46"
+  },
+  {
+    "id": 106,
+    "name": "Viyana 125",
+    "slug": "viyana-125",
+    "code": "VY 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "viyana-125.jpg"
+    ],
+    "documents": [
+      {
+        "name": "viyana_125_olculer",
+        "file": "assets/documents/viyana_125_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "VY 1110",
+        "Viyana 125 Alt Modül",
+        "1200 x 565 x 433"
+      ],
+      [
+        "VY 1120",
+        "Viyana 125 Üst Modül",
+        "500 x 800 çift ayna"
+      ],
+      [
+        "VY 1100",
+        "Viyana 125 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "MDF Lam Gövde ve Çekmeceler",
+      "Softclose Çekmeceler",
+      "Çift Lavabo",
+      "Çift Ayna",
+      "Etejer"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 065 - TIN 055"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Siyah, Beyaz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/viyana-125.47"
+  },
+  {
+    "id": 107,
+    "name": "Berlin 80",
+    "slug": "berlin-80",
+    "code": "BER 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "berlin-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "berlin_80_olculer",
+        "file": "assets/documents/berlin_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "BER 1210",
+        "Berlin 80 Alt Modül",
+        "800 x 545 x 433"
+      ],
+      [
+        "BER 1220",
+        "Berlin 80 Üst Modül",
+        "770 x 790 x 180"
+      ],
+      [
+        "BER 1200",
+        "Berlin 80 Set",
+        "-"
+      ],
+      [
+        "BER 2300",
+        "Berlin Boy Dolap",
+        "1610 x 410 x 350"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar Membran Kaplama",
+      "Softclose Özellikli Kapaklar",
+      "Aynalı Kapaklar"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Mat Beyaz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/berlin-80.49"
+  },
+  {
+    "id": 108,
+    "name": "Leon 80",
+    "slug": "leon-80",
+    "code": "LN 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "leon-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "Leon_80_olculer",
+        "file": "assets/documents/leon_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "LN 1210",
+        "Leon 80 Alt Modül",
+        "800 x 420 x 433"
+      ],
+      [
+        "LN 1220",
+        "Leon 80 Üst Modül",
+        "800 x 775 x 180"
+      ],
+      [
+        "LN 1200",
+        "Leon 80 Set",
+        "-"
+      ],
+      [
+        "LN 2300",
+        "Leon Boy Dolap",
+        "1600 x 400 x 320"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar Membran Kaplama",
+      "Softclose Özellikli Çekmece",
+      "Frenli Kapaklar"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Parlak Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Parlak Beyaz, Füme"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/leon-80.50"
+  },
+  {
+    "id": 109,
+    "name": "Class 65-80",
+    "slug": "class-65-80",
+    "code": "CLS 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "class-65-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "class_65_80_olculer",
+        "file": "assets/documents/class_65_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "CLS 1210",
+        "Class 80 Alt Modül",
+        "800 x 500 x 433"
+      ],
+      [
+        "CLS 1220",
+        "Class 80 Üst Modül",
+        "800 x 700 x 180"
+      ],
+      [
+        "CLS 1200",
+        "Class 80 Set",
+        "-"
+      ],
+      [
+        "CLS 1310",
+        "Class 65 Alt Modül",
+        "650 x 500 x 433"
+      ],
+      [
+        "CLS 1320",
+        "Class 65 Üst Modül",
+        "650 x 700 x 180"
+      ],
+      [
+        "CLS 1300",
+        "Class 65 Set",
+        "-"
+      ],
+      [
+        "CLS 2300",
+        "Class Boy Dolap",
+        "1550 x 345 x 350"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar Membran Kaplama",
+      "Softclose Özellikli Kapaklar",
+      "Ayna",
+      "CLASS 65: TIN 065 (Beyaz) - TIN 065 (Antrasit)",
+      "CLASS 80: TIN 080 (Beyaz) - TIN 080 (Antrasit)"
+    ],
+    "attributes": [
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Keçe"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Füme"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/class-65-80.51"
+  },
+  {
+    "id": 110,
+    "name": "İcon 65-80",
+    "slug": "icon-65-80",
+    "code": "IC 1310",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "icon-65-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "icon_65_80_pdf",
+        "file": "assets/documents/icon_65_80_pdf.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "IC 1310",
+        "Icon 65 Alt Modül",
+        "630 x 500 x 433"
+      ],
+      [
+        "IC 1320",
+        "Icon 65 Üst Modül",
+        "650 x 700 x 170"
+      ],
+      [
+        "IC 1300",
+        "Icon 65 Set",
+        "-"
+      ],
+      [
+        "IC 1210",
+        "Icon 80 Alt Modül",
+        "770 x 500 x 433"
+      ],
+      [
+        "IC 1220",
+        "Icon 80 Üst Modül",
+        "791 x 700 x 170"
+      ],
+      [
+        "IC 1200",
+        "Icon 80 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve Kapaklar MDF Lam",
+      "Yavaş Kapanır Kapak",
+      "ICON 65: TIN 065 - LIN 065",
+      "ICON 80: TIN 080 - LIN 080"
+    ],
+    "attributes": [
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Antrasit, Beyaz, Keçe, Venezia, Otantik Meşe"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/icon-65-80.53"
+  },
+  {
+    "id": 111,
+    "name": "Vela 80",
+    "slug": "vela-80",
+    "code": "VE 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "vela-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "vela_80_olculer",
+        "file": "assets/documents/vela_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "VE 1210",
+        "Vela 80 Alt modül",
+        "800 x 500 x 460"
+      ],
+      [
+        "VE 1220",
+        "Vela 80 Üst Modül",
+        "800 x 740 x 460"
+      ],
+      [
+        "VE 1200",
+        "Vela 80 Set",
+        "-"
+      ],
+      [
+        "VE 2300",
+        "Vela Boy Dolap",
+        "1550 x 350 x 346"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve Kapaklar MDF Lam",
+      "Softclose Özellikli Kapaklar",
+      "Aynalı Kapaklar"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Venezia, Beyaz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vela-80.54"
+  },
+  {
+    "id": 112,
+    "name": "Gala 100",
+    "slug": "gala-100",
+    "code": "GL 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "gala-100.jpg"
+    ],
+    "documents": [
+      {
+        "name": "gala_100_olculer",
+        "file": "assets/documents/gala_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "GL 1110",
+        "Gala 100 Alt Modül",
+        "1000 x 600 x 460"
+      ],
+      [
+        "GL 1120",
+        "Gala 100 Üst Modül",
+        "1000 x 700 x 110"
+      ],
+      [
+        "GL 1100",
+        "Gala 100 Set",
+        "-"
+      ],
+      [
+        "GL 2300",
+        "Gala Boy Dolap",
+        "1300 x 400 x 280"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve Kapaklar MDF Lam",
+      "Cam Tezgah",
+      "Tasarım Lavabo",
+      "Softclose Raylı Kapaklar",
+      "Ledli Flotal Ayna"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TEZ 345"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Siyah"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/gala-100.55"
+  },
+  {
+    "id": 113,
+    "name": "Elina 100-80",
+    "slug": "elina-100-80",
+    "code": "ELN 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "elina-100-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "elina_100_olculer",
+        "file": "assets/documents/elina_100_olculer.pdf"
+      },
+      {
+        "name": "Elina_80_olculer",
+        "file": "assets/documents/elina_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "ELN 1110",
+        "Elina 100 Alt Modül",
+        "1000 x 550 x 460"
+      ],
+      [
+        "ELN 1120",
+        "Elina 100 Üst Modül",
+        "1000 x 700 x 200"
+      ],
+      [
+        "ELN 1100",
+        "Elina 100 Set",
+        "-"
+      ],
+      [
+        "ELN 2200",
+        "Elina Boy Dolap",
+        "1550 x 368 x 346"
+      ],
+      [
+        "ELN 1210",
+        "Elina 80 Alt Modül",
+        "800 x 550 x 460"
+      ],
+      [
+        "ELN 1220",
+        "Elina 80 Üst Modül",
+        "800 x 700 x 200"
+      ],
+      [
+        "ELN 1200",
+        "Elina 80 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve Kapaklar MDF Lam",
+      "Softclose Özellikli Kapaklar",
+      "Aynalı Kapaklar",
+      "Elina 100: LIN 100",
+      "Elina 80: LIN 080"
+    ],
+    "attributes": [
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Venezia, Abanoz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/elina-100-80.57"
+  },
+  {
+    "id": 114,
+    "name": "Elina 65-55",
+    "slug": "elina-65-55",
+    "code": "ELN 1310",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "elina-65-55.jpg"
+    ],
+    "documents": [
+      {
+        "name": "elina_65_olculer",
+        "file": "assets/documents/elina_65_olculer.pdf"
+      },
+      {
+        "name": "elina_55_olculer",
+        "file": "assets/documents/elina_55_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "ELN 1310",
+        "Elina 65 Alt Modül",
+        "650 x 550 x 460"
+      ],
+      [
+        "ELN 1320",
+        "Elina 65 Üst Modül",
+        "650 x 700 x 200"
+      ],
+      [
+        "ELN 1300",
+        "Elina 65 Set",
+        "-"
+      ],
+      [
+        "ELN 1210",
+        "Elina 55 Alt Modül",
+        "550 x 550 x 460"
+      ],
+      [
+        "ELN 1220",
+        "Elina 55 Üst Modül",
+        "550 x 700 x 200"
+      ],
+      [
+        "ELN 1200",
+        "Elina 55 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve Kapaklar MDF Lam",
+      "Softclose Özellikli Kapaklar",
+      "Aynalı Kapaklar",
+      "Elina 65: LIN 065",
+      "Elina 55: LIN 055"
+    ],
+    "attributes": [
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Venezia, Abanoz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/elina-65-55.58"
+  },
+  {
+    "id": 115,
+    "name": "Elf 80",
+    "slug": "elf-80",
+    "code": "EF 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "elf-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "ELF_80",
+        "file": "assets/documents/elf_80.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "EF 1210",
+        "Elf 80 Alt Modül",
+        "800 x 550 x 460"
+      ],
+      [
+        "EF 1220",
+        "Elf 80 Üst Modül",
+        "800 x 700 x 200"
+      ],
+      [
+        "EF 1200",
+        "Elf 80 Set",
+        "-"
+      ],
+      [
+        "EF 2200",
+        "Elf Boy Dolap",
+        "1550 x 350 x 346"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve Kapaklar MDF Lam",
+      "Krom Kaplama Kenarlar",
+      "Softclose Özellikli Kapaklar",
+      "Ayna"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz, Venezia, Abanoz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/elf-80.59"
+  },
+  {
+    "id": 116,
+    "name": "Rodos 65-80",
+    "slug": "rodos-65-80",
+    "code": "RD 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "rodos-65-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "Rodos_65_80",
+        "file": "assets/documents/rodos_65_80.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "RD 1210",
+        "Rodos 80 Alt Modül",
+        "800 x 550 x 460"
+      ],
+      [
+        "RD 1220",
+        "Rodos 80 Üst Modül",
+        "800 x 700 x 200"
+      ],
+      [
+        "RD 1200",
+        "Rodos 80 Set",
+        "-"
+      ],
+      [
+        "RD 1310",
+        "Rodos 65 Alt Modül",
+        "650 x 550 x 460"
+      ],
+      [
+        "RD 1320",
+        "Rodos 65 Üst Modül",
+        "650 x 700 x 200"
+      ],
+      [
+        "RD 1300",
+        "Rodos 65 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna",
+      "Rodos 80: LIN 080",
+      "Rodos 65: LIN 065"
+    ],
+    "attributes": [
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Seçenekleri",
+        "value": "Beyaz, Atlantis, Venezia"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/rodos-65-80.60"
+  },
+  {
+    "id": 117,
+    "name": "Assos 100",
+    "slug": "assos-100",
+    "code": "AS 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "assos-100.jpg"
+    ],
+    "documents": [
+      {
+        "name": "assos_100_olculer",
+        "file": "assets/documents/assos_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AS 1110",
+        "Assos 100 Alt Modül",
+        "1000 x 810 x 460"
+      ],
+      [
+        "AS 1120",
+        "Assos 100 Üst Modül",
+        "1000 x 750 x 200"
+      ],
+      [
+        "AS 1100",
+        "Assos 100 Set",
+        "-"
+      ],
+      [
+        "AS 2100",
+        "Assos Boy Dolap",
+        "1900 x 350 x 400"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna, Priz, Spot Işık"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 100"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renkler",
+        "value": "Siyah, Beyaz, Kırmızı, Bordo, Samba"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/assos-100.61"
+  },
+  {
+    "id": 118,
+    "name": "Assos 80",
+    "slug": "assos-80",
+    "code": "AS 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "assos-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "assos_80_olculer",
+        "file": "assets/documents/assos_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AS 1210",
+        "Assos 80 Alt Modül",
+        "800 x 810 x 460"
+      ],
+      [
+        "AS 1220",
+        "Assos 80 Üst Modül",
+        "800 x 750 x 200"
+      ],
+      [
+        "AS 1200",
+        "Assos 80 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna, Priz, Spot Işık"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 80"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renkler",
+        "value": "Siyah, Beyaz, Kırmızı, Bordo, Samba"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/assos-80.62"
+  },
+  {
+    "id": 119,
+    "name": "Assos 65",
+    "slug": "assos-65",
+    "code": "AS 1310",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "assos-65.jpg"
+    ],
+    "documents": [
+      {
+        "name": "assos_65_olculer",
+        "file": "assets/documents/assos_65_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AS 1310",
+        "Assos 65 Alt Modül",
+        "650 x 360 x 500"
+      ],
+      [
+        "AS 1320",
+        "Assos 65 Üst Modül",
+        "620 x 960 x 18"
+      ],
+      [
+        "AS 1300",
+        "Assos 65 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna, Priz, Spot Işık"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 065"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renkler",
+        "value": "Siyah, Beyaz, Kırmızı, Bordo, Samba"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/assos-65.63"
+  },
+  {
+    "id": 120,
+    "name": "River 100",
+    "slug": "river-100",
+    "code": "RV 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "river-100.jpg"
+    ],
+    "documents": [
+      {
+        "name": "river_100_olculer",
+        "file": "assets/documents/river_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "RV 1110",
+        "River 100 Alt Modül",
+        "1000 x 550 x 460"
+      ],
+      [
+        "RV 1120",
+        "River 100 Üst Modül",
+        "1000 x 700 x 200"
+      ],
+      [
+        "RV 1100",
+        "River 100 Set",
+        "-"
+      ],
+      [
+        "RV 2100",
+        "River Boy Dolap",
+        "1600 x 350 x 380"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna",
+      "Spot Işık"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 100"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Venezia, Siyah, Bordo"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/river-100.65"
+  },
+  {
+    "id": 121,
+    "name": "Etejer 15x60 cm",
+    "slug": "etejer-15x60-cm",
+    "code": "AKS 860",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Etejer 15x60 Cm",
+    "palet": "",
+    "images": [
+      "etejer-15x60-cm.jpg"
+    ],
+    "documents": [
+      {
+        "name": "etejer_15x60_cm_olculer",
+        "file": "assets/documents/etejer_15x60_cm_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "AKS 860",
+        "Etejer 15x60 Cm",
+        "K5 / 240"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/etejer-15x60-cm.98"
+  },
+  {
+    "id": 122,
+    "name": "Etejer 10x49 cm",
+    "slug": "etejer-10x49-cm",
+    "code": "AKS 849",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Etejer 10x49 Cm",
+    "palet": "",
+    "images": [
+      "etejer-10x49-cm.jpg"
+    ],
+    "documents": [
+      {
+        "name": "etejer_10X49_cm_olculer",
+        "file": "assets/documents/etejer_10x49_cm_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "AKS 849",
+        "Etejer 10x49 Cm",
+        "K8 / 480"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/etejer-10x49-cm.99"
+  },
+  {
+    "id": 123,
+    "name": "Sabunluk-Kağıtlık",
+    "slug": "sabunluk-kagitlik",
+    "code": "AKS 810",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Kollu Sabunluk",
+    "palet": "",
+    "images": [
+      "sabunluk-kagitlik.jpg"
+    ],
+    "documents": [
+      {
+        "name": "sabunluk_kagitlik_olculer",
+        "file": "assets/documents/sabunluk_kagitlik_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "AKS 810",
+        "Kollu Sabunluk",
+        "K6 / 420"
+      ],
+      [
+        "AKS 830",
+        "Kağıtlık",
+        "K6 / 420"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/sabunluk-kagitlik.100"
+  },
+  {
+    "id": 124,
+    "name": "Bide Sabunluk",
+    "slug": "bide-sabunluk",
+    "code": "AKS 820",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Bide Sabunluk",
+    "palet": "",
+    "images": [
+      "bide-sabunluk.jpg"
+    ],
+    "documents": [
+      {
+        "name": "bide_sabunluk_olcu",
+        "file": "assets/documents/bide_sabunluk_olcu.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "AKS 820",
+        "Bide Sabunluk",
+        "K15"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/bide-sabunluk.101"
+  },
+  {
+    "id": 125,
+    "name": "Tuvalet Taşı",
+    "slug": "tuvalet-tasi",
+    "code": "TEK 500",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Çevre Yıkamalı (50x60)",
+    "palet": "",
+    "images": [
+      "tuvalet-tasi.jpg"
+    ],
+    "documents": [
+      {
+        "name": "tuvalet_tasi_olculer",
+        "file": "assets/documents/tuvalet_tasi_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TEK 500",
+        "Çevre Yıkamalı (50x60)",
+        "A32 / K20"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/tuvalet-tasi.102"
+  },
+  {
+    "id": 126,
+    "name": "Güneş Tuvalet Taşı",
+    "slug": "gunes-tuvalet-tasi",
+    "code": "TEK 520",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Çevre Yıkamalı (56x60)",
+    "palet": "",
+    "images": [
+      "gunes-tuvalet-tasi.jpg"
+    ],
+    "documents": [
+      {
+        "name": "gunes_tuvalet_tasi_olculer",
+        "file": "assets/documents/gunes_tuvalet_tasi_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TEK 520",
+        "Çevre Yıkamalı (56x60)",
+        "A32 / K20"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/gunes-tuvalet-tasi.103"
+  },
+  {
+    "id": 127,
+    "name": "İnci Tuvalet Taşı",
+    "slug": "inci-tuvalet-tasi",
+    "code": "TEK 530",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Slim Tuvalet Taşı (42x50)",
+    "palet": "",
+    "images": [
+      "inci-tuvalet-tasi.jpg"
+    ],
+    "documents": [
+      {
+        "name": "inci_tuvalet_tasi_olculer",
+        "file": "assets/documents/inci_tuvalet_tasi_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TEK 530",
+        "Slim Tuvalet Taşı (42x50)",
+        "A28 / K20"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/inci-tuvalet-tasi.105"
+  },
+  {
+    "id": 128,
+    "name": "Pisuvar",
+    "slug": "pisuvar",
+    "code": "PSR 620",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Pisuvar Üstten Su Girişli",
+    "palet": "",
+    "images": [
+      "pisuvar.jpg"
+    ],
+    "documents": [
+      {
+        "name": "pisuvar_olculer",
+        "file": "assets/documents/pisuvar_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "PSR 620",
+        "Pisuvar Üstten Su Girişli",
+        "A32 / K24"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/pisuvar.107"
+  },
+  {
+    "id": 129,
+    "name": "Lavabo Pop-Up Seti (Seramik Kapaklı)",
+    "slug": "lavabo-pop-up-seti-seramik-kapakli",
+    "code": "AKS 1060",
+    "category_id": 4,
+    "subcategory_id": 401,
+    "features": "Lavabo Pop-Up Seti (Seramik Kapaklı)",
+    "palet": "",
+    "images": [
+      "lavabo-pop-up-seti-seramik-kapakli.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AKS 1060",
+        "Lavabo Pop-Up Seti (Seramik Kapaklı)"
+      ],
+      [
+        "AKS 1061",
+        "Seramik Pop-Up Üst Kapağı"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/lavabo-pop-up-seti-seramik-kapakli.109"
+  },
+  {
+    "id": 130,
+    "name": "Lavabo Pop-Up Seti (Pirinç Kapaklı)",
+    "slug": "lavabo-pop-up-seti-pirinc-kapakli",
+    "code": "AKS 1070",
+    "category_id": 4,
+    "subcategory_id": 401,
+    "features": "Lavabo Pop-Up Seti (Pirinç Kapaklı)",
+    "palet": "",
+    "images": [
+      "lavabo-pop-up-seti-pirinc-kapakli.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AKS 1070",
+        "Lavabo Pop-Up Seti (Pirinç Kapaklı)"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/lavabo-pop-up-seti-pirinc-kapakli.110"
+  },
+  {
+    "id": 131,
+    "name": "Lavabo Pop-Up Seti",
+    "slug": "lavabo-pop-up-seti",
+    "code": "AKS 1080",
+    "category_id": 4,
+    "subcategory_id": 401,
+    "features": "Lavabo Pop-Up Seti",
+    "palet": "",
+    "images": [
+      "lavabo-pop-up-seti.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AKS 1080",
+        "Lavabo Pop-Up Seti"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/lavabo-pop-up-seti.111"
+  },
+  {
+    "id": 132,
+    "name": "Taşlı Sifon",
+    "slug": "tasli-sifon",
+    "code": "AKS 1090",
+    "category_id": 4,
+    "subcategory_id": 401,
+    "features": "Taşlı Sifon",
+    "palet": "",
+    "images": [
+      "tasli-sifon.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AKS 1090",
+        "Taşlı Sifon"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/tasli-sifon.112"
+  },
+  {
+    "id": 133,
+    "name": "U Krom Sifon",
+    "slug": "u-krom-sifon",
+    "code": "AKS 1091",
+    "category_id": 4,
+    "subcategory_id": 401,
+    "features": "U Krom Sifon",
+    "palet": "",
+    "images": [
+      "u-krom-sifon.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AKS 1091",
+        "U Krom Sifon"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/u-krom-sifon.113"
+  },
+  {
+    "id": 134,
+    "name": "Fotoselli Pisuvar Musluğu",
+    "slug": "fotoselli-pisuvar-muslugu",
+    "code": "FT 007",
+    "category_id": 4,
+    "subcategory_id": 401,
+    "features": "Fotoselli Sıva Üstü Pisuvar Musluğu",
+    "palet": "",
+    "images": [
+      "fotoselli-pisuvar-muslugu.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "FT 007",
+        "Fotoselli Sıva Üstü Pisuvar Musluğu"
+      ],
+      [
+        "FT 009",
+        "Fotoselli Sıva Altı Pisuvar Musluğu"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/fotoselli-pisuvar-muslugu.114"
+  },
+  {
+    "id": 135,
+    "name": "Zaman Ayarlı Pirinç Bas",
+    "slug": "zaman-ayarli-pirinc-bas",
+    "code": "SV 530",
+    "category_id": 4,
+    "subcategory_id": 401,
+    "features": "Zaman Ayarlı Sıva Altı Pirinç Bas",
+    "palet": "",
+    "images": [
+      "zaman-ayarli-pirinc-bas.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "SV 530",
+        "Zaman Ayarlı Sıva Altı Pirinç Bas"
+      ],
+      [
+        "SV 509",
+        "Zaman Ayarlı Sıva Üstü Pirinç Bas"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/zaman-ayarli-pirinc-bas.115"
+  },
+  {
+    "id": 136,
+    "name": "Zaman Ayarlı Pisuvar Musluğu",
+    "slug": "zaman-ayarli-pisuvar-muslugu",
+    "code": "MK 135",
+    "category_id": 4,
+    "subcategory_id": 401,
+    "features": "Zaman Ayarlı Pisuvar Musluğu",
+    "palet": "",
+    "images": [
+      "zaman-ayarli-pisuvar-muslugu.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "MK 135",
+        "Zaman Ayarlı Pisuvar Musluğu"
+      ],
+      [
+        "MK 107",
+        "Pisuvar Musluğu"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/zaman-ayarli-pisuvar-muslugu.116"
+  },
+  {
+    "id": 137,
+    "name": "Ankastre Klozet Musluğu",
+    "slug": "ankastre-klozet-muslugu",
+    "code": "AKS 01",
+    "category_id": 4,
+    "subcategory_id": 401,
+    "features": "Ankastre Klozet Musluğu Sıcak / Soğuk Ayarlı",
+    "palet": "",
+    "images": [
+      "ankastre-klozet-muslugu.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AKS 01",
+        "Ankastre Klozet Musluğu Sıcak / Soğuk Ayarlı"
+      ],
+      [
+        "AKS 02",
+        "Ankastre Klozet Musluğu Tek Su Girişli"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/ankastre-klozet-muslugu.117"
+  },
+  {
+    "id": 138,
+    "name": "Yerden Tutunma Barı",
+    "slug": "yerden-tutunma-bari",
+    "code": "P33 005",
+    "category_id": 4,
+    "subcategory_id": 402,
+    "features": "Yerden Tutunma Barı",
+    "palet": "",
+    "images": [
+      "yerden-tutunma-bari.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "P33 005",
+        "Yerden Tutunma Barı"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/yerden-tutunma-bari.118"
+  },
+  {
+    "id": 139,
+    "name": "Mafsallı Tutunma Barı",
+    "slug": "mafsalli-tutunma-bari",
+    "code": "P33 001",
+    "category_id": 4,
+    "subcategory_id": 402,
+    "features": "Mafsallı Tutunma Barı",
+    "palet": "",
+    "images": [
+      "mafsalli-tutunma-bari.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "P33 001",
+        "Mafsallı Tutunma Barı"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/mafsalli-tutunma-bari.119"
+  },
+  {
+    "id": 140,
+    "name": "Tutunma Barı 40 cm",
+    "slug": "tutunma-bari-40-cm",
+    "code": "P33 012",
+    "category_id": 4,
+    "subcategory_id": 402,
+    "features": "Tutunma Barı 40 Cm",
+    "palet": "",
+    "images": [
+      "tutunma-bari-40-cm.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "P33 012",
+        "Tutunma Barı 40 Cm"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/tutunma-bari-40-cm.120"
+  },
+  {
+    "id": 141,
+    "name": "Tutunma Barı 60 cm",
+    "slug": "tutunma-bari-60-cm",
+    "code": "P33 014",
+    "category_id": 4,
+    "subcategory_id": 402,
+    "features": "Engelli Ürünü",
+    "palet": "",
+    "images": [
+      "tutunma-bari-60-cm.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZLELİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "P33 014",
+        "Tutunma Barı 60 Cm"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/tutunma-bari-60-cm.121"
+  },
+  {
+    "id": 142,
+    "name": "Yerden Duvara Döner Ayak",
+    "slug": "yerden-duvara-doner-ayak",
+    "code": "P33 007",
+    "category_id": 4,
+    "subcategory_id": 402,
+    "features": "Yerden Duvara Döner Ayak",
+    "palet": "",
+    "images": [
+      "yerden-duvara-doner-ayak.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "P33 007",
+        "Yerden Duvara Döner Ayak"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/yerden-duvara-doner-ayak.122"
+  },
+  {
+    "id": 143,
+    "name": "Tutunma Barı 30 cm",
+    "slug": "tutunma-bari-30-cm",
+    "code": "P33 011",
+    "category_id": 4,
+    "subcategory_id": 402,
+    "features": "Tutunma Barı 30 Cm",
+    "palet": "",
+    "images": [
+      "tutunma-bari-30-cm.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "P33 011",
+        "Tutunma Barı 30 Cm"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/tutunma-bari-30-cm.123"
+  },
+  {
+    "id": 144,
+    "name": "Tutunma Barı 50 cm",
+    "slug": "tutunma-bari-50-cm",
+    "code": "P33 013",
+    "category_id": 4,
+    "subcategory_id": 402,
+    "features": "Tutunma Barı 50 Cm",
+    "palet": "",
+    "images": [
+      "tutunma-bari-50-cm.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "P33 013",
+        "Tutunma Barı 50 Cm"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/tutunma-bari-50-cm.124"
+  },
+  {
+    "id": 145,
+    "name": "Engelli Duş Oturağı Plastik",
+    "slug": "engelli-dus-oturagi-plastik",
+    "code": "P33 020",
+    "category_id": 4,
+    "subcategory_id": 402,
+    "features": "Engelli Duş Oturağı Plastik",
+    "palet": "",
+    "images": [
+      "engelli-dus-oturagi-plastik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "P33 020",
+        "Engelli Duş Oturağı Plastik"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/engelli-dus-oturagi-plastik.125"
+  },
+  {
+    "id": 146,
+    "name": "Still Duş Seti",
+    "slug": "still-dus-seti",
+    "code": "D235",
+    "category_id": 4,
+    "subcategory_id": 403,
+    "features": "Still Duş Seti",
+    "palet": "",
+    "images": [
+      "still-dus-seti.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "D235",
+        "Still Duş Seti"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/still-dus-seti.126"
+  },
+  {
+    "id": 147,
+    "name": "Verto Duş Seti",
+    "slug": "verto-dus-seti",
+    "code": "D245",
+    "category_id": 4,
+    "subcategory_id": 403,
+    "features": "Verto Duş Seti",
+    "palet": "",
+    "images": [],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "D245",
+        "Verto Duş Seti"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/verto-dus-seti.127"
+  },
+  {
+    "id": 148,
+    "name": "Mena Duş Seti",
+    "slug": "mena-dus-seti",
+    "code": "D255",
+    "category_id": 4,
+    "subcategory_id": 403,
+    "features": "Mena Duş Seti",
+    "palet": "",
+    "images": [
+      "mena-dus-seti.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "D255",
+        "Mena Duş Seti"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/mena-dus-seti.129"
+  },
+  {
+    "id": 149,
+    "name": "Solar Krom Tepe Duşu",
+    "slug": "solar-krom-tepe-dusu",
+    "code": "D115C",
+    "category_id": 4,
+    "subcategory_id": 403,
+    "features": "Solar Krom Tepe Duşu",
+    "palet": "",
+    "images": [
+      "solar-krom-tepe-dusu.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "D115C",
+        "Solar Krom Tepe Duşu"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/solar-krom-tepe-dusu.130"
+  },
+  {
+    "id": 150,
+    "name": "Norma Tepe Duşu",
+    "slug": "norma-tepe-dusu",
+    "code": "D120",
+    "category_id": 4,
+    "subcategory_id": 403,
+    "features": "Norma Tepe Duşu",
+    "palet": "",
+    "images": [
+      "norma-tepe-dusu.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "D120",
+        "Norma Tepe Duşu"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/norma-tepe-dusu.131"
+  },
+  {
+    "id": 151,
+    "name": "Krom Taharet Set",
+    "slug": "krom-taharet-set",
+    "code": "D600",
+    "category_id": 4,
+    "subcategory_id": 403,
+    "features": "Krom Taharet Set",
+    "palet": "",
+    "images": [
+      "krom-taharet-set.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "D600",
+        "Krom Taharet Set"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/krom-taharet-set.132"
+  },
+  {
+    "id": 152,
+    "name": "Round Brass Taharet Seti",
+    "slug": "round-brass-taharet-seti",
+    "code": "D610",
+    "category_id": 4,
+    "subcategory_id": 403,
+    "features": "Round Brass Taharet Seti",
+    "palet": "",
+    "images": [
+      "round-brass-taharet-seti.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "D610",
+        "Round Brass Taharet Seti"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/round-brass-taharet-seti.133"
+  },
+  {
+    "id": 153,
+    "name": "Delux Örgülü Spiral",
+    "slug": "delux-orgulu-spiral",
+    "code": "D701",
+    "category_id": 4,
+    "subcategory_id": 403,
+    "features": "Delux Örgülü Spiral",
+    "palet": "",
+    "images": [
+      "delux-orgulu-spiral.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "D701",
+        "Delux Örgülü Spiral"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/delux-orgulu-spiral.134"
+  },
+  {
+    "id": 154,
+    "name": "Standart Spiral",
+    "slug": "standart-spiral",
+    "code": "D705",
+    "category_id": 4,
+    "subcategory_id": 403,
+    "features": "Standart Spiral",
+    "palet": "",
+    "images": [
+      "standart-spiral.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "D705",
+        "Standart Spiral"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/standart-spiral.135"
+  },
+  {
+    "id": 155,
+    "name": "Diş Fırçalık",
+    "slug": "dis-fircalik",
+    "code": "A1704",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "F1 Diş Fırçalık",
+    "palet": "",
+    "images": [
+      "dis-fircalik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A1704",
+        "F1 Diş Fırçalık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/dis-fircalik.136"
+  },
+  {
+    "id": 156,
+    "name": "F1 Tuvalet Kağıtlık",
+    "slug": "f1-tuvalet-kagitlik",
+    "code": "A1707",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "F1 Tuvalet Kağıtlık",
+    "palet": "",
+    "images": [
+      "f1-tuvalet-kagitlik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A1707",
+        "F1 Tuvalet Kağıtlık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/f1-tuvalet-kagitlik.137"
+  },
+  {
+    "id": 157,
+    "name": "F1 Kapaklı Tuvalet Kağıtlık",
+    "slug": "f1-kapakli-tuvalet-kagitlik",
+    "code": "A1708",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "F1 Kapalı Tuvalet Kağıtlık",
+    "palet": "",
+    "images": [
+      "f1-kapakli-tuvalet-kagitlik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A1708",
+        "F1 Kapalı Tuvalet Kağıtlık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/f1-kapakli-tuvalet-kagitlik.138"
+  },
+  {
+    "id": 158,
+    "name": "F1 Uzun Havluluk",
+    "slug": "f1-uzun-havluluk",
+    "code": "A1715",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "F1 Uzun Havluluk",
+    "palet": "",
+    "images": [
+      "f1-uzun-havluluk.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A1715",
+        "F1 Uzun Havluluk"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/f1-uzun-havluluk.139"
+  },
+  {
+    "id": 159,
+    "name": "F1 İkili Askılık",
+    "slug": "f1-ikili-askilik",
+    "code": "A1721",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "F1 İkili Askılık",
+    "palet": "",
+    "images": [
+      "f1-ikili-askilik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A1721",
+        "F1 İkili Askılık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/f1-ikili-askilik.140"
+  },
+  {
+    "id": 160,
+    "name": "F1 Set Askılık",
+    "slug": "f1-set-askilik",
+    "code": "A1729",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "F1 Set Askılık",
+    "palet": "",
+    "images": [
+      "f1-set-askilik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A1729",
+        "F1 Set Askılık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/f1-set-askilik.141"
+  },
+  {
+    "id": 161,
+    "name": "Oval Krom Şampuanlık",
+    "slug": "oval-krom-sampuanlik",
+    "code": "A501",
+    "category_id": 4,
+    "subcategory_id": 405,
+    "features": "Oval Krom Şampuanlık",
+    "palet": "",
+    "images": [
+      "oval-krom-sampuanlik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A501",
+        "Oval Krom Şampuanlık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/sampuanliklar-2/oval-krom-sampuanlik.142"
+  },
+  {
+    "id": 162,
+    "name": "Oval Krom Şampuanlık (A502)",
+    "slug": "oval-krom-sampuanlik-a502",
+    "code": "A502",
+    "category_id": 4,
+    "subcategory_id": 405,
+    "features": "Oval Krom Şampuanlık",
+    "palet": "",
+    "images": [
+      "oval-krom-sampuanlik-a502.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A502",
+        "Oval Krom Şampuanlık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/sampuanliklar-2/oval-krom-sampuanlik.143"
+  },
+  {
+    "id": 163,
+    "name": "Oval Krom Şampuanlık (A503)",
+    "slug": "oval-krom-sampuanlik-a503",
+    "code": "A503",
+    "category_id": 4,
+    "subcategory_id": 405,
+    "features": "Oval Krom Şampuanlık",
+    "palet": "",
+    "images": [
+      "oval-krom-sampuanlik-a503.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A503",
+        "Oval Krom Şampuanlık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/sampuanliklar-2/oval-krom-sampuanlik.144"
+  },
+  {
+    "id": 164,
+    "name": "Roll Klozet Fırça Takım",
+    "slug": "roll-klozet-firca-takim",
+    "code": "P13006 - SS304",
+    "category_id": 4,
+    "subcategory_id": 406,
+    "features": "Roll Klozet Fırça Takım",
+    "palet": "",
+    "images": [
+      "roll-klozet-firca-takim.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "P13006 - SS304",
+        "Roll Klozet Fırça Takım"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/islak-hacim-urunleri-2/roll-klozet-firca-takim.145"
+  },
+  {
+    "id": 165,
+    "name": "Ayaklı Kağıtlık Fırça Seti",
+    "slug": "ayakli-kagitlik-firca-seti",
+    "code": "P6002",
+    "category_id": 4,
+    "subcategory_id": 406,
+    "features": "Ayaklı Kağıtlık Fırça Seti",
+    "palet": "",
+    "images": [
+      "ayakli-kagitlik-firca-seti.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "P6002",
+        "Ayaklı Kağıtlık Fırça Seti"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/islak-hacim-urunleri-2/ayakli-kagitlik-firca-seti.146"
+  },
+  {
+    "id": 166,
+    "name": "Micro Pedallı Çöp Kovası 3L",
+    "slug": "micro-pedalli-cop-kovasi-3l",
+    "code": "P640000",
+    "category_id": 4,
+    "subcategory_id": 406,
+    "features": "Micro Pedallı Çöp Kovası 3L",
+    "palet": "",
+    "images": [
+      "micro-pedalli-cop-kovasi-3l.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "P640000",
+        "Micro Pedallı Çöp Kovası 3L"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/islak-hacim-urunleri-2/micro-pedalli-cop-kovasi-3l.147"
+  },
+  {
+    "id": 167,
+    "name": "Pedallı Çöp Kovası",
+    "slug": "pedalli-cop-kovasi",
+    "code": "P640003",
+    "category_id": 4,
+    "subcategory_id": 406,
+    "features": "Pedallı Çöp Kovası 3L",
+    "palet": "",
+    "images": [
+      "pedalli-cop-kovasi.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "P640003",
+        "Pedallı Çöp Kovası 3L"
+      ],
+      [
+        "P640005",
+        "Pedallı Çöp Kovası 5L"
+      ],
+      [
+        "P640008",
+        "Pedallı Çöp Kovası 8L"
+      ],
+      [
+        "P640012",
+        "Pedallı Çöp Kovası 12L"
+      ],
+      [
+        "P640016",
+        "Pedallı Çöp Kovası 16L"
+      ],
+      [
+        "P640020",
+        "Pedallı Çöp Kovası 20L"
+      ],
+      [
+        "P640030",
+        "Pedallı Çöp Kovası 30L"
+      ],
+      [
+        "P640040",
+        "Pedallı Çöp Kovası 40L"
+      ],
+      [
+        "P630003",
+        "Pedallı Çöp Kovası 3L"
+      ],
+      [
+        "P630005",
+        "Pedallı Çöp Kovası 5L"
+      ],
+      [
+        "P630008",
+        "Pedallı Çöp Kovası 8L"
+      ],
+      [
+        "P630012",
+        "Pedallı Çöp Kovası 12L"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/islak-hacim-urunleri-2/pedalli-cop-kovasi.148"
+  },
+  {
+    "id": 168,
+    "name": "Fenice Diş Fırçalık",
+    "slug": "fenice-dis-fircalik",
+    "code": "A1904",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Fenice Diş Fırçalık",
+    "palet": "",
+    "images": [
+      "fenice-dis-fircalik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A1904",
+        "Fenice Diş Fırçalık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/fenice-dis-fircalik.149"
+  },
+  {
+    "id": 169,
+    "name": "Fenice Tuvalet Kağıtlık",
+    "slug": "fenice-tuvalet-kagitlik",
+    "code": "A1907",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Fenice Tuvalet Kağıtlık",
+    "palet": "",
+    "images": [
+      "fenice-tuvalet-kagitlik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A1907",
+        "Fenice Tuvalet Kağıtlık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/fenice-tuvalet-kagitlik.150"
+  },
+  {
+    "id": 170,
+    "name": "Fenice Kapaklı Tuvalet Kağıtlık",
+    "slug": "fenice-kapakli-tuvalet-kagitlik",
+    "code": "A1908",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Fenice Kapaklı Tuvalet Kağıtlık",
+    "palet": "",
+    "images": [
+      "fenice-kapakli-tuvalet-kagitlik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A1908",
+        "Fenice Kapaklı Tuvalet Kağıtlık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/fenice-kapakli-tuvalet-kagitlik.151"
+  },
+  {
+    "id": 171,
+    "name": "Fenice Askılık Tekli Pimli",
+    "slug": "fenice-askilik-tekli-pimli",
+    "code": "A1920",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Fenice Askılık Tekli Pimli",
+    "palet": "",
+    "images": [
+      "fenice-askilik-tekli-pimli.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A1920",
+        "Fenice Askılık Tekli Pimli"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/fenice-askilik-tekli-pimli.152"
+  },
+  {
+    "id": 172,
+    "name": "Fenice İkili Askılık Pimli",
+    "slug": "fenice-ikili-askilik-pimli",
+    "code": "A1921",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Fenice İkili Askılık Pimli",
+    "palet": "",
+    "images": [
+      "fenice-ikili-askilik-pimli.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A1921",
+        "Fenice İkili Askılık Pimli"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/fenice-ikili-askilik-pimli.153"
+  },
+  {
+    "id": 173,
+    "name": "Fenice Askılık Tekli Lamalı",
+    "slug": "fenice-askilik-tekli-lamali",
+    "code": "A1928",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Fenice Askılık Tekli Lamalı",
+    "palet": "",
+    "images": [
+      "fenice-askilik-tekli-lamali.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A1928",
+        "Fenice Askılık Tekli Lamalı"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/fenice-askilik-tekli-lamali.154"
+  },
+  {
+    "id": 174,
+    "name": "Arya Diş Fırçalık",
+    "slug": "arya-dis-fircalik",
+    "code": "A2004",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Arya Diş Fırçalık",
+    "palet": "",
+    "images": [
+      "arya-dis-fircalik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A2004",
+        "Arya Diş Fırçalık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-dis-fircalik.155"
+  },
+  {
+    "id": 175,
+    "name": "Arya Rozetli Süngerlik",
+    "slug": "arya-rozetli-sungerlik",
+    "code": "A2006",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Arya Rozetli Süngerlik",
+    "palet": "",
+    "images": [
+      "arya-rozetli-sungerlik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A2006",
+        "Arya Rozetli Süngerlik"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-rozetli-sungerlik.156"
+  },
+  {
+    "id": 176,
+    "name": "Arya Tuvalet Kağıtlık",
+    "slug": "arya-tuvalet-kagitlik",
+    "code": "A2007",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Arya Tuvalet Kağıtlık",
+    "palet": "",
+    "images": [
+      "arya-tuvalet-kagitlik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A2007",
+        "Arya Tuvalet Kağıtlık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-tuvalet-kagitlik.157"
+  },
+  {
+    "id": 177,
+    "name": "Arya Kapaklı Tuvalet Kağıtlık",
+    "slug": "arya-kapakli-tuvalet-kagitlik",
+    "code": "A2008",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Arya Kapaklı Tuvalet Kağıtlık",
+    "palet": "",
+    "images": [
+      "arya-kapakli-tuvalet-kagitlik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A2008",
+        "Arya Kapaklı Tuvalet Kağıtlık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-kapakli-tuvalet-kagitlik.158"
+  },
+  {
+    "id": 178,
+    "name": "Arya Klozet Fırçası",
+    "slug": "arya-klozet-fircasi",
+    "code": "A2030",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Arya Klozet Fırçası",
+    "palet": "",
+    "images": [
+      "arya-klozet-fircasi.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A2030",
+        "Arya Klozet Fırçası"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-klozet-fircasi.159"
+  },
+  {
+    "id": 179,
+    "name": "Arya Yuvarlak Havluluk",
+    "slug": "arya-yuvarlak-havluluk",
+    "code": "A2017",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Arya Yuvarlak Havluluk",
+    "palet": "",
+    "images": [
+      "arya-yuvarlak-havluluk.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A2017",
+        "Arya Yuvarlak Havluluk"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-yuvarlak-havluluk.160"
+  },
+  {
+    "id": 180,
+    "name": "Arya Tekli Askılık",
+    "slug": "arya-tekli-askilik",
+    "code": "A2020",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Arya Tekli Askılık",
+    "palet": "",
+    "images": [
+      "arya-tekli-askilik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A2020",
+        "Arya Tekli Askılık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-tekli-askilik.161"
+  },
+  {
+    "id": 181,
+    "name": "Arya İkili Askılık",
+    "slug": "arya-ikili-askilik",
+    "code": "A2021",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Arya İkili Askılık",
+    "palet": "",
+    "images": [
+      "arya-ikili-askilik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A2021",
+        "Arya İkili Askılık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-ikili-askilik.162"
+  },
+  {
+    "id": 182,
+    "name": "Arya Set Askılık",
+    "slug": "arya-set-askilik",
+    "code": "A2029",
+    "category_id": 4,
+    "subcategory_id": 404,
+    "features": "Arya Set Askılık",
+    "palet": "",
+    "images": [
+      "arya-set-askilik.jpg"
+    ],
+    "documents": [],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ"
+    ],
+    "spec_rows": [
+      [
+        "A2029",
+        "Arya Set Askılık"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-set-askilik.163"
+  },
+  {
+    "id": 183,
+    "name": "River 80",
+    "slug": "river-80",
+    "code": "RV 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "river-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "river_80_olculer",
+        "file": "assets/documents/river_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "RV 1210",
+        "River 80 Alt Modül",
+        "800 x 550 x 460"
+      ],
+      [
+        "RV 1220",
+        "River 80 Üst Modül",
+        "800 x 700 x 200"
+      ],
+      [
+        "RV 1200",
+        "River 80 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna",
+      "Spot Işık"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 080"
+      },
+      {
+        "label": "Ana Renk",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Venezia, Siyah, Bordo"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/river-80.164"
+  },
+  {
+    "id": 184,
+    "name": "River 65",
+    "slug": "river-65",
+    "code": "RV 1310",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "river-65.jpg"
+    ],
+    "documents": [
+      {
+        "name": "river_65_olculer",
+        "file": "assets/documents/river_65_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "RV 1310",
+        "River 65 Alt Modül",
+        "650 x 550 x 460"
+      ],
+      [
+        "RV 1320",
+        "River 65 Üst Modül",
+        "650 x 700 x 200"
+      ],
+      [
+        "RV 1300",
+        "River 65 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna",
+      "Spot Işık"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 065"
+      },
+      {
+        "label": "Ana Renk",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Venezia, Siyah, Bordo"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/river-65.165"
+  },
+  {
+    "id": 185,
+    "name": "River 55",
+    "slug": "river-55",
+    "code": "RV 1410",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "river-55.jpg"
+    ],
+    "documents": [
+      {
+        "name": "river_55_olculer",
+        "file": "assets/documents/river_55_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "RV 1410",
+        "River 55 Alt Modül",
+        "550 x 550 x 460"
+      ],
+      [
+        "RV 1420",
+        "River 55 Üst Modül",
+        "550 x 700 x 200"
+      ],
+      [
+        "RV 1400",
+        "River 55 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna",
+      "Spot Işık"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 055"
+      },
+      {
+        "label": "Ana Renk",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Venezia, Siyah, Bordo"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/river-55.166"
+  },
+  {
+    "id": 186,
+    "name": "Silver 80",
+    "slug": "silver-80",
+    "code": "SL 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "silver-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "silver_80_olculer",
+        "file": "assets/documents/silver_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "SL 1210",
+        "Silver 80 Alt Modül",
+        "800 x 500 x 460"
+      ],
+      [
+        "SL 1220",
+        "Silver 80 Üst Modül",
+        "800 x 710 x 200"
+      ],
+      [
+        "SL 1200",
+        "Silver 80 Set",
+        "-"
+      ],
+      [
+        "SL 2300",
+        "Silver Boy Dolap",
+        "1600 x 350 x 380"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve Kapaklar MDF Lam",
+      "Softclose Özellikli Kapaklar",
+      "Ayna",
+      "Priz",
+      "Spot Işık"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Atlantis, Abanoz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/silver-80.167"
+  },
+  {
+    "id": 187,
+    "name": "Vega 65-80",
+    "slug": "vega-65-80",
+    "code": "VG 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "vega-65-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "vega_65_80_olculer",
+        "file": "assets/documents/vega_65_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "VG 1210",
+        "Vega 80 Alt Modül",
+        "800 x 850 x 500"
+      ],
+      [
+        "VG 1220",
+        "Vega 80 Üst Modül",
+        "770 x 750 x 200"
+      ],
+      [
+        "VG 1200",
+        "Vega 80 Set",
+        "-"
+      ],
+      [
+        "VG 1310",
+        "Vega 65 Alt Modül",
+        "650 x 850 x 500"
+      ],
+      [
+        "VG 1320",
+        "Vega 65 Üst Modül",
+        "620 x 750 x 200"
+      ],
+      [
+        "VG 1300",
+        "Vega 65 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Metal Ayaklar",
+      "Vega 80: CAK 080",
+      "Vega 65: CAK 065"
+    ],
+    "attributes": [
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Abanoz, Samba"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vega-65-80.168"
+  },
+  {
+    "id": 188,
+    "name": "Vital 100",
+    "slug": "vital-100",
+    "code": "VT 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "vital-100.jpg"
+    ],
+    "documents": [
+      {
+        "name": "vital_100_olculer",
+        "file": "assets/documents/vital_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "VT 1110",
+        "Vital 100 Alt Modül",
+        "1000 x 850 x 500"
+      ],
+      [
+        "VT 1120",
+        "Vital 100 Üst Modül",
+        "1000 x 700 x 200"
+      ],
+      [
+        "VT 1100",
+        "Vital 100 Set",
+        "-"
+      ],
+      [
+        "VT 2100",
+        "Vital Boy Dolap",
+        "1900 x 350 x 390"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna",
+      "Spot Işık",
+      "Priz"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TLP 100"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Kırmızı, Siyah"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vital-100.173"
+  },
+  {
+    "id": 189,
+    "name": "Vital 80",
+    "slug": "vital-80",
+    "code": "VT 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "vital-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "vital_80_olculer",
+        "file": "assets/documents/vital_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "VT 1210",
+        "Vital 80 Alt Modül",
+        "800 x 850 x 500"
+      ],
+      [
+        "VT 1220",
+        "Vital 80 Üst Modül",
+        "800 x 700 x 200"
+      ],
+      [
+        "VT 1200",
+        "Vital 80 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna",
+      "Spot Işık",
+      "Priz"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TLP 080"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Kırmızı, Siyah"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vital-80.174"
+  },
+  {
+    "id": 190,
+    "name": "Vital 65",
+    "slug": "vital-65",
+    "code": "VT 1310",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "vital-65.jpg"
+    ],
+    "documents": [
+      {
+        "name": "vital_65_olculer",
+        "file": "assets/documents/vital_65_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "VT 1310",
+        "Vital 65 Alt Modül",
+        "650 x 850 x 500"
+      ],
+      [
+        "VT 1320",
+        "Vital 65 Üst Modül",
+        "650 x 700 x 200"
+      ],
+      [
+        "VT 1300",
+        "Vital 65 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna",
+      "Spot Işık",
+      "Priz"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TLP 065"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Kırmızı, Siyah"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vital-65.175"
+  },
+  {
+    "id": 191,
+    "name": "Vital 55",
+    "slug": "vital-55",
+    "code": "VT 1410",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "vital-55.jpg"
+    ],
+    "documents": [
+      {
+        "name": "vital_55_olculer",
+        "file": "assets/documents/vital_55_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "VT 1410",
+        "Vital 55 Alt Modül",
+        "550 x 850 x 500"
+      ],
+      [
+        "VT 1420",
+        "Vital 55 Üst Modül",
+        "550 x 700 x 200"
+      ],
+      [
+        "VT 1400",
+        "Vital 55 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna",
+      "Spot Işık",
+      "Priz"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TLP 055"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Kırmızı, Siyah"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vital-55.176"
+  },
+  {
+    "id": 192,
+    "name": "Vital Asma 65-80",
+    "slug": "vital-asma-65-80",
+    "code": "VTA 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "vital-asma-65-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "vital_asma_65_80_olculer",
+        "file": "assets/documents/vital_asma_65_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "VTA 1110",
+        "Vital Asma 65 Alt Modül",
+        "620 x 600 x 318"
+      ],
+      [
+        "VTA 1120",
+        "Vital Asma 65 Üst Modül",
+        "610 x 700 x 180"
+      ],
+      [
+        "VTA 1100",
+        "Vital Asma Set",
+        "-"
+      ],
+      [
+        "VTA 1210",
+        "Vital Asma 80 Alt Modül",
+        "745 x 600 x 318"
+      ],
+      [
+        "VTA 1220",
+        "Vital Asma 80 Üst Modül",
+        "810 x 700 x 180"
+      ],
+      [
+        "VTA 1200",
+        "Vital Asma Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve Kapaklar MDF Lam",
+      "Tezgah Üstü Lavabo",
+      "220V priz",
+      "Ayna Aydınlatma Lambası",
+      "Vital Asma 65: TLP 065",
+      "Vital Asma 80: TLP 080"
+    ],
+    "attributes": [
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renkler",
+        "value": "Beyaz, Kırmızı, Siyah"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vital-asma-65-80.177"
+  },
+  {
+    "id": 193,
+    "name": "Yenice 65-85",
+    "slug": "yenice-65-85",
+    "code": "YC 1310",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "yenice-65-85.jpg"
+    ],
+    "documents": [
+      {
+        "name": "yenice_65_85_olculer",
+        "file": "assets/documents/yenice_65_85_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "YC 1310",
+        "Yenice 65 Alt Modül",
+        "610 x 550 x 350"
+      ],
+      [
+        "YC 1320",
+        "Yenice 65 Üst Modül",
+        "650 x 700 x 200"
+      ],
+      [
+        "YC 1300",
+        "Yenice 65 Set",
+        "-"
+      ],
+      [
+        "YC 1410",
+        "Yenice 85 Alt Modül",
+        "810 x 550 x 350"
+      ],
+      [
+        "YC 1420",
+        "Yenice 85 Üst Modül",
+        "810 x 700 x 200"
+      ],
+      [
+        "YC 1400",
+        "Yenice 85 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Softclose Özellikli Kapaklar",
+      "Ayna",
+      "Yenice 65: SOF 065",
+      "Yenice 85: SOF 085"
+    ],
+    "attributes": [
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Venezia, Atlantis"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/yenice-65-85.179"
+  },
+  {
+    "id": 194,
+    "name": "Turna 65-80",
+    "slug": "turna-65-80",
+    "code": "TR 1310",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "turna-65-80.jpg"
+    ],
+    "documents": [
+      {
+        "name": "turna_65_80_olculer",
+        "file": "assets/documents/turna_65_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "TR 1310",
+        "Turna 65 Ayaklı Alt Modül",
+        "650 x 500 x 348"
+      ],
+      [
+        "TR 1320",
+        "Turna 65 Üst Modül",
+        "610 x 700 x 15,6"
+      ],
+      [
+        "TR 1300",
+        "Turna 65 Set",
+        "-"
+      ],
+      [
+        "TRA 1310",
+        "Turna 65 Asma Alt Modül",
+        "650 x 500 x 348"
+      ],
+      [
+        "TRA 1320",
+        "Turna 65 Asma Modül",
+        "610 x 700 x 15,6"
+      ],
+      [
+        "TRA 1300",
+        "Turna 65 Asma Set",
+        "-"
+      ],
+      [
+        "TR 1210",
+        "Turna 80 Ayaklı Alt Modül",
+        "800 x 500 x 348"
+      ],
+      [
+        "TR 1220",
+        "Turna 80 Üst Modül",
+        "733 x 700 x 15,6"
+      ],
+      [
+        "TR 1200",
+        "Turna 80 Set",
+        "-"
+      ],
+      [
+        "TRA 1210",
+        "Turna 80 Asma Alt Modül",
+        "800 x 500 x 348"
+      ],
+      [
+        "TRA 1220",
+        "Turna 80 Asma Modül",
+        "733 x 700 x 15,6"
+      ],
+      [
+        "TRA 1200",
+        "Turna 80 Asma Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde ve Kapaklar MDF Lam",
+      "Ayna",
+      "Turna 65: TLP 065",
+      "Turna 80: TLP 080"
+    ],
+    "attributes": [
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Keçe, Venezia, Keçe, Samba"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/turna-65-80.180"
+  },
+  {
+    "id": 195,
+    "name": "Turna 55",
+    "slug": "turna-55",
+    "code": "TR 1410",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "turna-55.jpg"
+    ],
+    "documents": [
+      {
+        "name": "turna_55_olculer",
+        "file": "assets/documents/turna_55_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "TR 1410",
+        "Turna 55 Ayaklı Alt Modül",
+        "550 x 500 x 338"
+      ],
+      [
+        "TR 1420",
+        "Turna 55 Üst Modül",
+        "510 x 700 x 11"
+      ],
+      [
+        "TR 1400",
+        "Turna 55 Set",
+        "-"
+      ],
+      [
+        "TRA 1410",
+        "Turna 55 Asma Alt Modül",
+        "550 x 500 x 338"
+      ],
+      [
+        "TRA 1420",
+        "Turna 55 Asma Modül",
+        "510 x 700 x 11"
+      ],
+      [
+        "TRA 1400",
+        "Turna 55 Asma Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TULIP 55"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Siyah, Venezia, Keçe, Samba"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/turna-55.181"
+  },
+  {
+    "id": 196,
+    "name": "Plus 45",
+    "slug": "plus-45",
+    "code": "PL 1510",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "plus-45.jpg"
+    ],
+    "documents": [
+      {
+        "name": "plus_45_olculer",
+        "file": "assets/documents/plus_45_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "PL 1510",
+        "Plus 45 Alt Modül",
+        "450 x 550 x 300"
+      ],
+      [
+        "PL 1520",
+        "Plus 45 Üst Modül",
+        "450 x 600 x 110"
+      ],
+      [
+        "PL 1500",
+        "Plus 45 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TEK 146"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Kırmızı, Siyah, Venezia, Bordo, Abanoz, Samba"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/plus-45.182"
+  },
+  {
+    "id": 197,
+    "name": "Slim 45",
+    "slug": "slim-45",
+    "code": "SL 1510",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "slim-45.jpg"
+    ],
+    "documents": [
+      {
+        "name": "slim_45_olculer",
+        "file": "assets/documents/slim_45_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "SL 1510",
+        "Slim 45 Alt Modül",
+        "450 x 600 x 250"
+      ],
+      [
+        "SL 1520",
+        "Slim 45 Üst Modül",
+        "450 x 600 x 110"
+      ],
+      [
+        "SL 1500",
+        "Slim 45 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TEK 045"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Kırmızı, Siyah, Venezia, Bordo, Abanoz, Samba"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/slim-45.183"
+  },
+  {
+    "id": 198,
+    "name": "Alttan Çıkışlı Tek Klozet",
+    "slug": "alttan-cikisli-tek-klozet",
+    "code": "TEK 360",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Alttan Çıkışlı Tek Klozet",
+    "palet": "",
+    "images": [
+      "alttan-cikisli-tek-klozet.jpg"
+    ],
+    "documents": [
+      {
+        "name": "alttan_cikisli_tek_klozet_olculer",
+        "file": "assets/documents/alttan_cikisli_tek_klozet_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TEK 360",
+        "Alttan Çıkışlı Tek Klozet",
+        "A21 / K15"
+      ],
+      [
+        "5117 01",
+        "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
+        "K10"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/alttan-cikisli-tek-klozet.204"
+  },
+  {
+    "id": 199,
+    "name": "Arka Çıkışlı Tek Klozet",
+    "slug": "arka-cikisli-tek-klozet",
+    "code": "TEK 350",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Arka Çıkışlı Tek Klozet",
+    "palet": "",
+    "images": [
+      "arka-cikisli-tek-klozet.jpg"
+    ],
+    "documents": [
+      {
+        "name": "arka_cikisli_tek_klozet_olculer",
+        "file": "assets/documents/arka_cikisli_tek_klozet_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TEK 350",
+        "Arka Çıkışlı Tek Klozet",
+        "A15 / K15"
+      ],
+      [
+        "5117 01",
+        "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
+        "K10"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/arka-cikisli-tek-klozet.205"
+  },
+  {
+    "id": 200,
+    "name": "Edge 90 cm",
+    "slug": "edge-90-cm",
+    "code": "EDG 090",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Dolap Uyumlu Lavabo",
+    "palet": "",
+    "images": [
+      "edge-90-cm.jpg"
+    ],
+    "documents": [
+      {
+        "name": "edge_90_olculer",
+        "file": "assets/documents/edge_90_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "EDG 090",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/edge-serisi/edge-90-cm.231"
+  },
+  {
+    "id": 201,
+    "name": "Edge 70 cm",
+    "slug": "edge-70-cm",
+    "code": "EDG 070",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Dolap Uyumlu Lavabo",
+    "palet": "",
+    "images": [
+      "edge-70-cm.jpg"
+    ],
+    "documents": [
+      {
+        "name": "edge_70_olculer",
+        "file": "assets/documents/edge_70_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "EDG 070",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/edge-serisi/edge-70-cm.232"
+  },
+  {
+    "id": 202,
+    "name": "Melt 80 cm",
+    "slug": "melt-80-cm",
+    "code": "MLT 080",
+    "category_id": 1,
+    "subcategory_id": 101,
+    "features": "Dolap Uyumlu Lavabo",
+    "palet": "",
+    "images": [
+      "melt-80-cm.jpg"
+    ],
+    "documents": [
+      {
+        "name": "melt_80_olculer",
+        "file": "assets/documents/melt_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "MLT 080",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/melt-serisi/melt-80-cm.233"
+  },
+  {
+    "id": 203,
+    "name": "Dolap Uyumlu Bataryalı Lavabo 25x45 cm",
+    "slug": "dolap-uyumlu-bataryali-lavabo-25x45-cm",
+    "code": "TEK 045",
+    "category_id": 1,
+    "subcategory_id": 102,
+    "features": "Dolap Uyumlu Bataryalı Lavabo",
+    "palet": "",
+    "images": [
+      "dolap-uyumlu-bataryali-lavabo-25x45-cm.jpg"
+    ],
+    "documents": [
+      {
+        "name": "dolap_uyumlu_bataryali_lavabo_olculer",
+        "file": "assets/documents/dolap_uyumlu_bataryali_lavabo_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TEK 045",
+        "Dolap Uyumlu Bataryalı Lavabo",
+        "56"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tezgah-ustu-lavabolar/dolap-uyumlu-bataryali-lavabo-25x45-cm.272"
+  },
+  {
+    "id": 204,
+    "name": "Dolap Uyumlu Özel Tasarım Lavabo 28x45 cm",
+    "slug": "dolap-uyumlu-ozel-tasarim-lavabo-28x45-cm",
+    "code": "TEK 146",
+    "category_id": 1,
+    "subcategory_id": 102,
+    "features": "Dolap Uyumlu Lavabo",
+    "palet": "",
+    "images": [
+      "dolap-uyumlu-ozel-tasarim-lavabo-28x45-cm.jpg"
+    ],
+    "documents": [
+      {
+        "name": "Tek_146",
+        "file": "assets/documents/tek_146.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TEK 146",
+        "Dolap Uyumlu Lavabo",
+        "K42"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tezgah-ustu-lavabolar/dolap-uyumlu-ozel-tasarim-lavabo-28x45-cm.273"
+  },
+  {
+    "id": 205,
+    "name": "Tezgah Altı Lavabo 39x51 cm",
+    "slug": "tezgah-alti-lavabo-39x51-cm",
+    "code": "HIL 051",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Tezgah Altı Lavabo",
+    "palet": "",
+    "images": [
+      "tezgah-alti-lavabo-39x51-cm.jpg"
+    ],
+    "documents": [
+      {
+        "name": "tezgah_alti_lavabo_39_51_olculer",
+        "file": "assets/documents/tezgah_alti_lavabo_39_51_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "HIL 051",
+        "Tezgah Altı Lavabo",
+        "K50"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/tezgah-alti-lavabo-39x51-cm.274"
+  },
+  {
+    "id": 206,
+    "name": "Tezgah Altı Lavabo 37x47 cm",
+    "slug": "tezgah-alti-lavabo-37x47-cm",
+    "code": "HIL 047",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Tezgah Altı Lavabo",
+    "palet": "",
+    "images": [
+      "tezgah-alti-lavabo-37x47-cm.jpg"
+    ],
+    "documents": [
+      {
+        "name": "tezgah_alti_lavabo_37_47_olculer",
+        "file": "assets/documents/tezgah_alti_lavabo_37_47_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "HIL 047",
+        "Tezgah Altı Lavabo",
+        "K50"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/tezgah-alti-lavabo-37x47-cm.275"
+  },
+  {
+    "id": 207,
+    "name": "Tezgah Altı Lavabo 32x43",
+    "slug": "tezgah-alti-lavabo-32x43",
+    "code": "HIL 043",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Tezgah Altı Lavabo",
+    "palet": "",
+    "images": [
+      "tezgah-alti-lavabo-32x43.jpg"
+    ],
+    "documents": [
+      {
+        "name": "tezgah_alti_lavabo_32_43_olculer",
+        "file": "assets/documents/tezgah_alti_lavabo_32_43_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "HIL 043",
+        "Tezgah Altı Lavabo",
+        "K50"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/tezgah-alti-lavabo-32x43.276"
+  },
+  {
+    "id": 208,
+    "name": "Proje Oval Lavabo 28x36 cm",
+    "slug": "proje-oval-lavabo-28x36-cm",
+    "code": "TEK 036",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "Proje Oval Lavabo Delikli",
+    "palet": "",
+    "images": [
+      "proje-oval-lavabo-28x36-cm.jpg"
+    ],
+    "documents": [
+      {
+        "name": "proje_oval_lavabo_28_36_olculer",
+        "file": "assets/documents/proje_oval_lavabo_28_36_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TEK 036",
+        "Proje Oval Lavabo Delikli",
+        "A54"
+      ],
+      [
+        "TEK 037",
+        "Proje Oval Lavabo Deliksiz",
+        "A54"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/proje-oval-lavabo-28x36-cm.277"
+  },
+  {
+    "id": 209,
+    "name": "Proje Lavabo 40x50",
+    "slug": "proje-lavabo-40x50",
+    "code": "EFK 050",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "40x50 Cm Proje Lavabo",
+    "palet": "",
+    "images": [
+      "proje-lavabo-40x50.jpg"
+    ],
+    "documents": [
+      {
+        "name": "proje_lavabo_40_50_olculer",
+        "file": "assets/documents/proje_lavabo_40_50_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "EFK 050",
+        "40x50 Cm Proje Lavabo",
+        "32"
+      ],
+      [
+        "TEK 750",
+        "35X45 Uyumlu Yarım Ayak",
+        "72"
+      ]
+    ],
+    "highlights": [
+      "EFK 700 Kodlu Kolon Ayak İle Uyumludur"
+    ],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/proje-lavabo-40x50.280"
+  },
+  {
+    "id": 210,
+    "name": "Proje Lavabo 35x45 cm",
+    "slug": "proje-lavabo-35x45-cm",
+    "code": "TEK 245",
+    "category_id": 1,
+    "subcategory_id": 110,
+    "features": "35x45 Cm Proje Lavabo",
+    "palet": "",
+    "images": [
+      "proje-lavabo-35x45-cm.jpg"
+    ],
+    "documents": [
+      {
+        "name": "proje_lavabo_35_45_olculer",
+        "file": "assets/documents/proje_lavabo_35_45_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TEK 245",
+        "35x45 Cm Proje Lavabo",
+        "48"
+      ],
+      [
+        "TEK 750",
+        "35X45 Uyumlu Yarım Ayak",
+        "72"
+      ]
+    ],
+    "highlights": [
+      "EFK 700 Kodlu Kolon Ayak İle Uyumludur."
+    ],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/tek-parca/proje-lavabo-35x45-cm.281"
+  },
+  {
+    "id": 211,
+    "name": "İnkum Ayaklı Bide",
+    "slug": "inkum-ayakli-bide",
+    "code": "INK 390",
+    "category_id": 1,
+    "subcategory_id": 109,
+    "features": "Ayaklı Bide",
+    "palet": "",
+    "images": [
+      "inkum-ayakli-bide.jpg"
+    ],
+    "documents": [
+      {
+        "name": "inkum_ayakli_bide_olculer",
+        "file": "assets/documents/inkum_ayakli_bide_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD"
+    ],
+    "spec_rows": [
+      [
+        "INK 390",
+        "Ayaklı Bide",
+        "A18 / K15"
+      ]
+    ],
+    "highlights": [],
+    "attributes": [],
+    "source_url": "https://www.alvit.com.tr/urunler/bideler/inkum-ayakli-bide.284"
+  },
+  {
+    "id": 212,
+    "name": "Most 100",
+    "slug": "most-100",
+    "code": "MT 1110",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "most-100.jpg"
+    ],
+    "documents": [
+      {
+        "name": "Most_100_olculer",
+        "file": "assets/documents/most_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "MT 1110",
+        "Most 100 Alt Modül",
+        "1000 x 550 x 460"
+      ],
+      [
+        "MT 1120",
+        "Most 100 Üst Modül",
+        "1000 x 700 x 200"
+      ],
+      [
+        "MT 1100",
+        "Most 100 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Düşey Açılır Kapak"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 100"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renkler",
+        "value": "Beyaz, Venezia, Abanoz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/most-100.296"
+  },
+  {
+    "id": 213,
+    "name": "Most 80-65-Boy Dolap",
+    "slug": "most-80-65-boy-dolap",
+    "code": "MT 1210",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "most-80-65-boy-dolap.jpg"
+    ],
+    "documents": [
+      {
+        "name": "Most_80__olculer",
+        "file": "assets/documents/most_80__olculer.pdf"
+      },
+      {
+        "name": "Most_65_olculer",
+        "file": "assets/documents/most_65_olculer.pdf"
+      },
+      {
+        "name": "Most_boy_dolap_olculer",
+        "file": "assets/documents/most_boy_dolap_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "MT 1210",
+        "Most 80 Alt Modül",
+        "800 x 550 x 460"
+      ],
+      [
+        "MT 1220",
+        "Most 80 Üst Modül",
+        "800 x 700 x 200"
+      ],
+      [
+        "MT 1200",
+        "Most 80 Set",
+        "-"
+      ],
+      [
+        "MT 1310",
+        "Most 65 Alt Modül",
+        "650 x 550 x 460"
+      ],
+      [
+        "MT 1320",
+        "Most 65 Üst Modül",
+        "650 x 700 x 200"
+      ],
+      [
+        "MT 1300",
+        "Most 65 Set",
+        "-"
+      ],
+      [
+        "MT 2300",
+        "Most Boy Dolap",
+        "1300 x 400 x 270"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Düşey Açılır Kapaklar"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "TIN 080 - TIN 065"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renk",
+        "value": "Beyaz, Venezia, Abanoz"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/most-80-65-boy-dolap.297"
+  },
+  {
+    "id": 214,
+    "name": "Assos 55",
+    "slug": "assos-55",
+    "code": "AS 1410",
+    "category_id": 2,
+    "subcategory_id": null,
+    "features": "Banyo Mobilyası",
+    "palet": "",
+    "images": [
+      "assos-55.jpg"
+    ],
+    "documents": [
+      {
+        "name": "Assos_55_olculer",
+        "file": "assets/documents/assos_55_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AS 1410",
+        "Assos 55 Alt Modül",
+        "510 x 360 x 500"
+      ],
+      [
+        "AS 1420",
+        "Assos 55 Üst Modül",
+        "550 x 960 x 18"
+      ],
+      [
+        "AS 1400",
+        "Assos 55 Set",
+        "-"
+      ]
+    ],
+    "highlights": [
+      "Gövde MDF Lam",
+      "Kapaklar MDF Lam",
+      "Ayna, Priz, Spot Işık"
+    ],
+    "attributes": [
+      {
+        "label": "Uyumlu Lavabo",
+        "value": "LIN 055"
+      },
+      {
+        "label": "Renk Seçenekleri",
+        "value": "Beyaz"
+      },
+      {
+        "label": "Yardımcı Renkler",
+        "value": "Siyah, Kırmızı, Beyaz, Bordo, Samba"
+      }
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/assos-55.298"
   }
 ]

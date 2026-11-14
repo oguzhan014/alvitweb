@@ -18,6 +18,11 @@ switch (true) {
         include __DIR__ . '/pages/home.php';
         break;
 
+    // Tüm ürünler (filtreli katalog)
+    case $uri === '/urunler':
+        include __DIR__ . '/pages/products.php';
+        break;
+
     // Kategoriler listesi
     case $uri === '/kategoriler':
         include __DIR__ . '/pages/categories.php';

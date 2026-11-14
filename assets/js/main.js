@@ -115,6 +115,131 @@ document.addEventListener('DOMContentLoaded', () => {
     nextBtn?.addEventListener('click', () => track.scrollBy({ left: step(), behavior: 'smooth' }));
   });
 
+  // ---------- KATALOG FILTRELEME ----------
+  const catalogGrid = document.getElementById('catalogGrid');
+  if (catalogGrid) {
+    const panel = document.getElementById('catalogFilters');
+    const items = Array.from(catalogGrid.querySelectorAll('.catalog-item'));
+    const countEl = document.getElementById('catalogCount');
+    const emptyEl = document.getElementById('catalogEmpty');
+    const chipRow = document.getElementById('activeChips');
+    const searchEl = document.getElementById('catalogSearch');
+    const sortEl = document.getElementById('catalogSort');
+    const boxes = Array.from(panel.querySelectorAll('input[type="checkbox"]'));
+    const originalOrder = items.slice();
+
+    const normalize = (s) => s.toLowerCase()
+      .replace(/ç/g, 'c').replace(/ğ/g, 'g').replace(/ı/g, 'i')
+      .replace(/ö/g, 'o').replace(/ş/g, 's').replace(/ü/g, 'u');
+
+    const checkedValues = (name) => boxes
+      .filter(b => b.dataset.filter === name && b.checked)
+      .map(b => b.value);
+
+    function matches(el, f) {
+      if (f.cat.length && !f.cat.includes(el.dataset.cat)) return false;
+      if (f.sub.length && !f.sub.includes(el.dataset.sub)) return false;
+      if (f.docs && el.dataset.docs !== '1') return false;
+      if (f.specs && el.dataset.specs !== '1') return false;
+      if (f.color.length) {
+        const own = (el.dataset.colors || '').split('|').filter(Boolean);
+        if (!f.color.some(c => own.includes(c))) return false;
+      }
+      if (f.q && !el.dataset.search.includes(f.q)) return false;
+      return true;
+    }
+
+    function renderChips(f) {
+      chipRow.textContent = '';
+      const active = boxes.filter(b => b.checked);
+      if (!active.length && !f.q) {
+        chipRow.hidden = true;
+        return;
+      }
+      chipRow.hidden = false;
+      active.forEach(box => {
+        const chip = document.createElement('button');
+        chip.type = 'button';
+        chip.className = 'chip';
+        const label = document.createElement('b');
+        label.textContent = box.parentElement.querySelector('span').textContent;
+        const x = document.createElement('span');
+        x.className = 'chip-x';
+        x.textContent = '×';
+        chip.append(label, x);
+        chip.addEventListener('click', () => { box.checked = false; apply(); });
+        chipRow.appendChild(chip);
+      });
+    }
+
+    function apply() {
+      const f = {
+        cat: checkedValues('cat'),
+        sub: checkedValues('sub'),
+        color: checkedValues('color'),
+        docs: boxes.some(b => b.dataset.filter === 'docs' && b.checked),
+        specs: boxes.some(b => b.dataset.filter === 'specs' && b.checked),
+        q: normalize((searchEl.value || '').trim()),
+      };
+
+      let visible = 0;
+      items.forEach(el => {
+        const ok = matches(el, f);
+        el.hidden = !ok;
+        if (ok) visible++;
+      });
+
+      countEl.textContent = visible;
+      emptyEl.hidden = visible > 0;
+      renderChips(f);
+    }
+
+    function applySort() {
+      const mode = sortEl.value;
+      const list = mode === 'default' ? originalOrder : originalOrder.slice().sort((a, b) => {
+        const cmp = a.dataset.name.localeCompare(b.dataset.name, 'tr');
+        return mode === 'za' ? -cmp : cmp;
+      });
+      list.forEach(el => catalogGrid.appendChild(el));
+    }
+
+    boxes.forEach(b => b.addEventListener('change', apply));
+    sortEl.addEventListener('change', applySort);
+
+    let searchTimer;
+    searchEl.addEventListener('input', () => {
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(apply, 200);
+    });
+
+    document.getElementById('filterClear').addEventListener('click', () => {
+      boxes.forEach(b => { b.checked = false; });
+      searchEl.value = '';
+      apply();
+    });
+
+    // Adres çubuğundaki ön seçim (/urunler?kategori=banyo-mobilyalari)
+    const pre = panel.dataset.preselect;
+    if (pre) {
+      const box = boxes.find(b => b.dataset.slug === pre);
+      if (box) box.checked = true;
+    }
+    apply();
+
+    // Mobil çekmece
+    const toggle = document.getElementById('filterToggle');
+    const backdrop = document.getElementById('filterBackdrop');
+    const closeBtn = document.getElementById('filterClose');
+    const setDrawer = (open) => {
+      panel.classList.toggle('open', open);
+      backdrop.hidden = !open;
+      document.body.style.overflow = open ? 'hidden' : '';
+    };
+    toggle.addEventListener('click', () => setDrawer(true));
+    closeBtn.addEventListener('click', () => setDrawer(false));
+    backdrop.addEventListener('click', () => setDrawer(false));
+  }
+
   // ---------- SMOOTH SCROLL ----------
   document.querySelectorAll('a[href^="#"]').forEach(link => {
     link.addEventListener('click', (e) => {

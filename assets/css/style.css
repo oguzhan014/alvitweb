@@ -849,6 +849,219 @@ ul { list-style: none; }
   font-weight: 500;
 }
 
+/* ---------- KATALOG + FILTRE ---------- */
+.catalog-layout {
+  display: grid;
+  grid-template-columns: 268px 1fr;
+  gap: 40px;
+  align-items: start;
+}
+
+.catalog-filters {
+  position: sticky;
+  top: 140px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 24px;
+  max-height: calc(100vh - 170px);
+  overflow-y: auto;
+}
+
+.filter-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 16px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid var(--border);
+}
+
+.filter-head h2 {
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--primary);
+}
+
+.filter-clear {
+  background: none;
+  border: none;
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.filter-clear:hover { text-decoration: underline; }
+
+.filter-close { display: none; }
+
+.filter-group {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.filter-group:last-child { border-bottom: none; padding-bottom: 0; }
+
+.filter-group h3 {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-light);
+  margin-bottom: 12px;
+}
+
+.filter-search {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-family: inherit;
+  font-size: 14px;
+  color: var(--text);
+}
+
+.filter-search:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.filter-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 0;
+  cursor: pointer;
+  font-size: 14px;
+  color: var(--text);
+}
+
+.filter-item:hover { color: var(--primary); }
+
+.filter-item input {
+  width: 16px; height: 16px;
+  accent-color: var(--accent);
+  cursor: pointer;
+  flex: 0 0 auto;
+}
+
+.filter-item span { flex: 1; }
+
+.filter-item em {
+  font-style: normal;
+  font-size: 12px;
+  color: var(--text-light);
+}
+
+.filter-sublist {
+  margin: 2px 0 10px 26px;
+  padding-left: 12px;
+  border-left: 2px solid var(--border);
+}
+
+.filter-item-sub { font-size: 13px; color: var(--text-light); }
+
+.catalog-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.catalog-count {
+  flex: 1;
+  font-size: 14px;
+  color: var(--text-light);
+}
+
+.catalog-count strong {
+  color: var(--primary);
+  font-size: 16px;
+}
+
+.catalog-sort {
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-family: inherit;
+  font-size: 14px;
+  color: var(--text);
+  background: var(--bg);
+  cursor: pointer;
+}
+
+.filter-toggle {
+  display: none;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  border: 1px solid var(--primary);
+  border-radius: 8px;
+  background: var(--bg);
+  color: var(--primary);
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  background: var(--bg-light);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  font-size: 13px;
+  color: var(--primary);
+  cursor: pointer;
+}
+
+.chip:hover { border-color: var(--accent); }
+
+.chip b { font-weight: 600; }
+
+.chip-x { color: var(--text-light); font-size: 15px; line-height: 1; }
+
+.product-card-doc {
+  position: absolute;
+  top: 12px; right: 12px;
+  background: rgba(26,26,46,0.85);
+  color: var(--text-white);
+  padding: 3px 9px;
+  border-radius: 5px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.catalog-empty {
+  padding: 60px 0;
+  text-align: center;
+  color: var(--text-light);
+  font-size: 16px;
+}
+
+.filter-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.45);
+  z-index: 998;
+}
+
 /* ---------- TEKNIK BILGI TABLOSU ---------- */
 .spec-title {
   font-size: 15px;
@@ -861,6 +1074,44 @@ ul { list-style: none; }
 
 .spec-block {
   margin-top: 32px;
+}
+
+.product-highlights {
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+.product-highlights li {
+  position: relative;
+  padding-left: 22px;
+  margin-bottom: 8px;
+  color: var(--text);
+  font-size: 15px;
+}
+
+.product-highlights li::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 8px;
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+.product-attributes {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 8px 16px;
+  font-size: 15px;
+}
+
+.product-attributes dt {
+  font-weight: 600;
+  color: var(--primary);
+}
+
+.product-attributes dd {
+  color: var(--text-light);
 }
 
 .spec-table-wrap {
@@ -1547,6 +1798,30 @@ ul { list-style: none; }
   .about-banner-caption { padding: 14px 20px; font-size: 12px; }
   .vm-grid { grid-template-columns: 1fr; }
   .vm-card { padding: 32px 24px; }
+
+  .catalog-layout { grid-template-columns: 1fr; gap: 0; }
+  .filter-toggle { display: inline-flex; }
+  .catalog-filters {
+    position: fixed;
+    top: 0; left: -320px; bottom: 0;
+    width: 300px;
+    max-height: none;
+    border: none;
+    border-radius: 0;
+    z-index: 999;
+    transition: left 0.3s ease;
+    box-shadow: 4px 0 30px rgba(0,0,0,0.15);
+  }
+  .catalog-filters.open { left: 0; }
+  .filter-close {
+    display: block;
+    background: none;
+    border: none;
+    font-size: 26px;
+    line-height: 1;
+    color: var(--text-light);
+    cursor: pointer;
+  }
 }
 
 @media (max-width: 480px) {

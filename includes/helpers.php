@@ -84,6 +84,39 @@ function getProductsByCategory($categoryId, $subcategoryId = null) {
     });
 }
 
+/**
+ * Ürünün renk seçeneklerini "Renk" içeren özellik alanlarından çıkarır.
+ * Dönüş: ['Beyaz', 'Antrasit'] gibi temiz bir liste.
+ */
+function getProductColors($product) {
+    $colors = [];
+    foreach ($product['attributes'] ?? [] as $attr) {
+        if (stripos($attr['label'], 'renk') === false) continue;
+        foreach (explode(',', $attr['value']) as $color) {
+            $color = trim($color);
+            if ($color !== '' && !in_array($color, $colors, true)) {
+                $colors[] = $color;
+            }
+        }
+    }
+    return $colors;
+}
+
+/**
+ * Katalog filtreleri için renkleri ürün sayısıyla birlikte sayar.
+ */
+function getColorFacets($products, $minCount = 2) {
+    $counts = [];
+    foreach ($products as $p) {
+        foreach (getProductColors($p) as $color) {
+            $counts[$color] = ($counts[$color] ?? 0) + 1;
+        }
+    }
+    $counts = array_filter($counts, fn($n) => $n >= $minCount);
+    arsort($counts);
+    return $counts;
+}
+
 function getProductBySlug($slug) {
     $products = getProducts();
     foreach ($products as $p) {

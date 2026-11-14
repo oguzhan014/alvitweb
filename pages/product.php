@@ -76,6 +76,27 @@ include __DIR__ . '/../includes/header.php';
           <?php endif; ?>
         </div>
 
+        <?php if (!empty($product['highlights']) || !empty($product['attributes'])): ?>
+        <div class="spec-block">
+          <h3 class="spec-title">Özellikler</h3>
+          <?php if (!empty($product['highlights'])): ?>
+          <ul class="product-highlights">
+            <?php foreach ($product['highlights'] as $hl): ?>
+            <li><?= e($hl) ?></li>
+            <?php endforeach; ?>
+          </ul>
+          <?php endif; ?>
+          <?php if (!empty($product['attributes'])): ?>
+          <dl class="product-attributes">
+            <?php foreach ($product['attributes'] as $attr): ?>
+            <dt><?= e($attr['label']) ?></dt>
+            <dd><?= e($attr['value']) ?></dd>
+            <?php endforeach; ?>
+          </dl>
+          <?php endif; ?>
+        </div>
+        <?php endif; ?>
+
         <?php if (!empty($specRows)): ?>
         <div class="spec-block">
           <h3 class="spec-title">Teknik Bilgiler</h3>

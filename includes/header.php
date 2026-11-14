@@ -40,7 +40,7 @@
 
     <nav class="nav-menu">
       <a href="/" <?= ($uri ?? '') === '/' ? 'class="active"' : '' ?>>Anasayfa</a>
-      <a href="/kategoriler" <?= ($uri ?? '') === '/kategoriler' ? 'class="active"' : '' ?>>Ürünler</a>
+      <a href="/urunler" <?= in_array(($uri ?? ''), ['/urunler', '/kategoriler'], true) ? 'class="active"' : '' ?>>Ürünler</a>
       <a href="/sayfa/hakkimizda">Hakkımızda</a>
       <a href="/sayfa/kalite-belgelerimiz">Belgeler</a>
       <a href="/iletisim">İletişim</a>
