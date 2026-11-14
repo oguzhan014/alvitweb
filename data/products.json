@@ -11,8 +11,20 @@
     "images": [
       "new-line-80.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "New Line 80 teknik çizim",
+        "file": "assets/documents/new-line-80-teknik-cizim.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET AD."
+    ],
+    "spec_rows": [],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/new-line-80-cm.324"
   },
   {
     "id": 2,
@@ -26,8 +38,26 @@
     "images": [
       "line-55.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "line_55_olculer",
+        "file": "assets/documents/line_55_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "LINE 055",
+        "Dolap Uyumlu Lavabo",
+        "K24"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/line-55-cm.220"
   },
   {
     "id": 3,
@@ -41,8 +71,26 @@
     "images": [
       "line-65.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "line_65_olculer",
+        "file": "assets/documents/line_65_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "LIN 065",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/line-65-cm.221"
   },
   {
     "id": 4,
@@ -56,8 +104,26 @@
     "images": [
       "line-80.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "line_80_olculer",
+        "file": "assets/documents/line_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "LIN 080",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/line-80-cm.222"
   },
   {
     "id": 5,
@@ -71,8 +137,26 @@
     "images": [
       "line-100.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "Line_100_olculer",
+        "file": "assets/documents/line_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "LIN 100",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/line-100-cm.223"
   },
   {
     "id": 6,
@@ -86,8 +170,26 @@
     "images": [
       "thin-55.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "thin_lavabo_55_olculer",
+        "file": "assets/documents/thin_lavabo_55_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TIN 055",
+        "Dolap Uyumlu Lavabo",
+        "K24"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-55-cm.234"
   },
   {
     "id": 7,
@@ -101,8 +203,26 @@
     "images": [
       "thin-60.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "thin_lavabo_60_olculer",
+        "file": "assets/documents/thin_lavabo_60_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TIN 060",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-60-cm.235"
   },
   {
     "id": 8,
@@ -116,8 +236,26 @@
     "images": [
       "thin-65.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "thin_lavabo_65_olculer",
+        "file": "assets/documents/thin_lavabo_65_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TIN 065",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-65-cm.236"
   },
   {
     "id": 9,
@@ -131,8 +269,26 @@
     "images": [
       "thin-80.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "thin_lavabo_80_olculer",
+        "file": "assets/documents/thin_lavabo_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TIN 080",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-80-cm.237"
   },
   {
     "id": 10,
@@ -146,8 +302,26 @@
     "images": [
       "thin-100.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "Thin_100_olculer",
+        "file": "assets/documents/thin_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TIN 100",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-100-cm.238"
   },
   {
     "id": 11,
@@ -161,8 +335,26 @@
     "images": [
       "tulip-55.jpg"
     ],
-    "documents": [],
-    "featured": true
+    "documents": [
+      {
+        "name": "tulip_lavabo_55_olculer",
+        "file": "assets/documents/tulip_lavabo_55_olculer.pdf"
+      }
+    ],
+    "featured": true,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TLP 055",
+        "Dolap Uyumlu Lavabo",
+        "K30"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-55-cm.247"
   },
   {
     "id": 12,
@@ -176,8 +368,26 @@
     "images": [
       "tulip-65.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "tulip_lavabo_65_olculer",
+        "file": "assets/documents/tulip_lavabo_65_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TLP 065",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-65-cm.248"
   },
   {
     "id": 13,
@@ -191,8 +401,26 @@
     "images": [
       "tulip-75.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "tulip_lavabo_75_olculer",
+        "file": "assets/documents/tulip_lavabo_75_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TLP 075",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-75-cm.249"
   },
   {
     "id": 14,
@@ -206,8 +434,26 @@
     "images": [
       "tulip-80.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "tulip_lavabo_80_olculer",
+        "file": "assets/documents/tulip_lavabo_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TLP 080",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-80-cm.250"
   },
   {
     "id": 15,
@@ -221,8 +467,26 @@
     "images": [
       "tulip-86.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "tulip_lavabo_86_olculer",
+        "file": "assets/documents/tulip_lavabo_86_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TLP 086",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-86-cm.251"
   },
   {
     "id": 16,
@@ -236,8 +500,26 @@
     "images": [
       "tulip-100.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "tulip_lavabo_100_olculer",
+        "file": "assets/documents/tulip_lavabo_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TLP 100",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-100-cm.252"
   },
   {
     "id": 17,
@@ -251,8 +533,26 @@
     "images": [
       "tulip-105.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "tulip_lavabo_105_olculer",
+        "file": "assets/documents/tulip_lavabo_105_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TLP 105",
+        "Dolap Uyumlu Lavabo",
+        "K12"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-105-cm.253"
   },
   {
     "id": 20,
@@ -266,8 +566,20 @@
     "images": [
       "art-40.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "ART Teknik Çizim",
+        "file": "assets/documents/art-teknik-cizim.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/art-40.325"
   },
   {
     "id": 21,
@@ -281,8 +593,20 @@
     "images": [
       "eylul-80.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "eylül teknik çizim-Model",
+        "file": "assets/documents/eylul-teknik-cizim-model.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/eylul-80.326"
   },
   {
     "id": 22,
@@ -296,8 +620,41 @@
     "images": [
       "astona-100.jpg"
     ],
-    "documents": [],
-    "featured": true
+    "documents": [
+      {
+        "name": "astona_100_olculer",
+        "file": "assets/documents/astona_100_olculer.pdf"
+      }
+    ],
+    "featured": true,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AST 1110",
+        "Astona 100 Alt Modül",
+        "1200 x 460 x 500"
+      ],
+      [
+        "AST 1120",
+        "Astona 100 Üst Modül",
+        "-"
+      ],
+      [
+        "AST 1100",
+        "Astona 100 Set",
+        "-"
+      ],
+      [
+        "AST 2200",
+        "Astona Boy Dolap",
+        "380 x 1150 x 335"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/astona-100.15"
   },
   {
     "id": 23,
@@ -311,8 +668,41 @@
     "images": [
       "astona-80.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "astona_80_olculer",
+        "file": "assets/documents/astona_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "AST 1210",
+        "Astona 80 Alt Modül",
+        "810 x 460 x 500"
+      ],
+      [
+        "AST 1220",
+        "Astona 80 Üst Modül",
+        "-"
+      ],
+      [
+        "AST 1200",
+        "Astona 80 Set",
+        "-"
+      ],
+      [
+        "AST 2200",
+        "Astona Boy Dolap",
+        "380 x 1150 x 335"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/astona-80.16"
   },
   {
     "id": 24,
@@ -326,8 +716,41 @@
     "images": [
       "craft-105.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "craft_105_olculer",
+        "file": "assets/documents/craft_105_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "CRA 1110",
+        "Craft 105 Alt Modül",
+        "1040 x 480 x 500"
+      ],
+      [
+        "CRA 1120",
+        "Craft 105 Üst Modül",
+        "-"
+      ],
+      [
+        "CRA 1100",
+        "Craft 105 Set",
+        "-"
+      ],
+      [
+        "CRA 2200",
+        "Craft Boy Dolap",
+        "340 x 1180 x 320"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/craft-105.17"
   },
   {
     "id": 25,
@@ -341,8 +764,41 @@
     "images": [
       "mimoza-130.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "mimoza_130_olculer",
+        "file": "assets/documents/mimoza_130_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "MIM 1110",
+        "Mimoza 130 Alt Modül",
+        "1310 x 340 x 500"
+      ],
+      [
+        "MIM 1120",
+        "Mimoza 130 Üst Modül",
+        "-"
+      ],
+      [
+        "MIM 1100",
+        "Mimoza 130 Set",
+        "-"
+      ],
+      [
+        "MIM 2200",
+        "Mimoza Boy Dolap",
+        "365 x 1250 x 325"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/mimoza-130.18"
   },
   {
     "id": 26,
@@ -356,8 +812,41 @@
     "images": [
       "granada-105.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "granada_105_olculer",
+        "file": "assets/documents/granada_105_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "GRN 1110",
+        "Granada 105 Alt Modül",
+        "1050 x 480 x 475"
+      ],
+      [
+        "GRN 1120",
+        "Granada 105 Üst Modül",
+        "600 x 900 x 36"
+      ],
+      [
+        "GRN 1100",
+        "Granada 105 Set",
+        "-"
+      ],
+      [
+        "GRN 2300",
+        "Granada Boy Dolap",
+        "440 x 1120 x 350"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/granada-105.19"
   },
   {
     "id": 27,
@@ -371,8 +860,41 @@
     "images": [
       "carelia-80.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "carelia_80_olculer",
+        "file": "assets/documents/carelia_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "CAR 1110",
+        "Carelia 80 Alt Modül",
+        "773 x 500 x 500"
+      ],
+      [
+        "CAR 1120",
+        "Carelia 80 Üst Modül",
+        "620 x 900 x 36"
+      ],
+      [
+        "CAR 1100",
+        "Carelia 80 Set",
+        "-"
+      ],
+      [
+        "CAR 2300",
+        "Carelia İkili Boy Dolap",
+        "340 x 1345 x 300"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/carelia-80.20"
   },
   {
     "id": 28,
@@ -386,8 +908,41 @@
     "images": [
       "arnova-80.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "arnova_80_olculer",
+        "file": "assets/documents/arnova_80_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "ARN 1110",
+        "Arnova 80 Alt Modül",
+        "770 x 530 x 433"
+      ],
+      [
+        "ARN 1120",
+        "Arnova 80 Üst Modül",
+        "600 x 880 x 18"
+      ],
+      [
+        "ARN 1100",
+        "Arnova 80 Set",
+        "-"
+      ],
+      [
+        "ARN 2300",
+        "Arnova Boy Dolap",
+        "390 x 1280 x 330"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/arnova-80.21"
   },
   {
     "id": 29,
@@ -401,8 +956,41 @@
     "images": [
       "venus-100.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "venus_100_olculer",
+        "file": "assets/documents/venus_100_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "ÜRÜN KODU",
+      "ÜRÜN ADI",
+      "ÜRÜN ÖLÇÜLERİ"
+    ],
+    "spec_rows": [
+      [
+        "VNS 1110",
+        "Venüs 100 Alt Modül",
+        "970 x 433 x 845"
+      ],
+      [
+        "VNS 1120",
+        "Venüs 100 Üst Modül",
+        "1000 x 700 x 180"
+      ],
+      [
+        "VNS 1100",
+        "Venüs 100 Set",
+        "-"
+      ],
+      [
+        "VNS 2300",
+        "Venüs Boy Dolap",
+        "350 x 1450 x 320"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/venus-100.22"
   },
   {
     "id": 30,
@@ -417,7 +1005,10 @@
       "barcelona-100.jpg"
     ],
     "documents": [],
-    "featured": false
+    "featured": false,
+    "spec_columns": [],
+    "spec_rows": [],
+    "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/barcelona-100.23"
   },
   {
     "id": 50,
@@ -432,7 +1023,46 @@
       "star-kapak.jpg"
     ],
     "documents": [],
-    "featured": false
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "KOLİ AD.",
+      "PALET"
+    ],
+    "spec_rows": [
+      [
+        "5107 01",
+        "Star Klozet Kapağı Alttan Sıkmalı ( Duroplast Plastik Menteşeli)",
+        "10",
+        "200"
+      ],
+      [
+        "5117 01",
+        "Star Klozet Kapağı Üstten Sıkmalı (Duroplast Metal Menteşeli)",
+        "10",
+        "200"
+      ],
+      [
+        "5127 01",
+        "Star Klozet Kapağı Üstten Sıkmalı ( Duroplast Amortisörlü Metal Menteşeli )",
+        "10",
+        "200"
+      ],
+      [
+        "5117 02",
+        "Star Klozet Kapağı ( Melamin Softclose )",
+        "10",
+        "200"
+      ],
+      [
+        "5117 03",
+        "Star Klozet Kapağı ( PP Softclose )",
+        "10",
+        "200"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/klozet-kapaklari-2/star-klozet-kapagi.88"
   },
   {
     "id": 51,
@@ -447,7 +1077,52 @@
       "galaxy-kapak.jpg"
     ],
     "documents": [],
-    "featured": true
+    "featured": true,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "KOLİ AD.",
+      "PALET"
+    ],
+    "spec_rows": [
+      [
+        "5407 01",
+        "Galaxy Klozet Kapağı Alttan Sıkmalı (Duroplast Plastik Menteşeli)",
+        "10",
+        "200"
+      ],
+      [
+        "5417 01",
+        "Galaxy Klozet Kapağı Üstten Sıkmalı (Duroplast Metal Menteşeli)",
+        "10",
+        "200"
+      ],
+      [
+        "5427 01",
+        "Galaxy Klozet Kapağı Üstten Sıkmalı (Duroplast Amortisörlü Metal Menteşeli)",
+        "10",
+        "200"
+      ],
+      [
+        "5418 01",
+        "Galaxy Renkli Klozet Kapağı (Duroplast Metal Menteşeli)",
+        "10",
+        "200"
+      ],
+      [
+        "5417 02",
+        "Galaxy Klozet Kapağı (Softclose, Duroplast Metal Menteşeli)",
+        "10",
+        "200"
+      ],
+      [
+        "5417 03",
+        "Galaxy Klozet Kapağı (PP Softclose)",
+        "10",
+        "200"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/klozet-kapaklari-2/galaxy-klozet-kapagi.89"
   },
   {
     "id": 52,
@@ -462,7 +1137,22 @@
       "galaxy-slim-kapak.jpg"
     ],
     "documents": [],
-    "featured": false
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "KOLİ AD.",
+      "PALET"
+    ],
+    "spec_rows": [
+      [
+        "5917 01",
+        "Galaxy Slim Klozet Kapağı (Softclose Özellikli Duroplast Metal Menteşeli)",
+        "10",
+        "200"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/klozet-kapaklari-2/galaxy-slim-klozet-kapagi.90"
   },
   {
     "id": 53,
@@ -477,7 +1167,46 @@
       "space-kapak.jpg"
     ],
     "documents": [],
-    "featured": false
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "KOLİ AD.",
+      "PALET"
+    ],
+    "spec_rows": [
+      [
+        "5807 01",
+        "Space Klozet Kapağı Alttan Sıkmalı (Duroplast Plastik Mneteşeli)",
+        "10",
+        "200"
+      ],
+      [
+        "5817 01",
+        "Space Klozet Kapağı Üstten Sıkmalı (Duroplast Metal Mneteşeli)",
+        "10",
+        "200"
+      ],
+      [
+        "5827 01",
+        "Space Klozet Kapağı Üstten Sıkmalı (Duroplast Amortisörlü Metal Mneteşeli)",
+        "10",
+        "200"
+      ],
+      [
+        "5817 02",
+        "Space Klozet Kapağı (Melamin Softclose)",
+        "10",
+        "200"
+      ],
+      [
+        "5817 03",
+        "Space Klozet Kapağı (PP Softclose)",
+        "10",
+        "200"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/klozet-kapaklari-2/space-klozet-kapagi.91"
   },
   {
     "id": 54,
@@ -492,7 +1221,28 @@
       "space-cocuk-kapak.jpg"
     ],
     "documents": [],
-    "featured": false
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "KOLİ AD.",
+      "PALET"
+    ],
+    "spec_rows": [
+      [
+        "5507 01",
+        "Çocuk Klozet Kapağı PP",
+        "10",
+        "-"
+      ],
+      [
+        "5507 02",
+        "Çocuk Klozet Kapağı Puff",
+        "10",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/klozet-kapaklari-2/space-cocuk-klozet-kapagi.92"
   },
   {
     "id": 60,
@@ -506,8 +1256,26 @@
     "images": [
       "gomme-1.jpg"
     ],
-    "documents": [],
-    "featured": true
+    "documents": [
+      {
+        "name": "gomme_rezervuar_asma_olculeri",
+        "file": "assets/documents/gomme_rezervuar_asma_olculeri.pdf"
+      }
+    ],
+    "featured": true,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "0210 01",
+        "Asma Klozet Gömme Rezervuar (3/6 Litre Buton Hariç) Metal Ayaklı",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/gomme-rezervuar-ve-ic-takimlar-2/gomme-rezervuar-asma.93"
   },
   {
     "id": 61,
@@ -521,8 +1289,26 @@
     "images": [
       "gomme-2.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "gomme_rezervuar_asma_olculeri_2",
+        "file": "assets/documents/gomme_rezervuar_asma_olculeri_2.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "0220 01",
+        "Asma Klozet Gömme Rezervuarı (3/6 Litre Buton Hariç) Alçıpan Önü Metal Ayaklı",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/gomme-rezervuar-ve-ic-takimlar-2/gomme-rezervuar-asma.94"
   },
   {
     "id": 62,
@@ -536,8 +1322,26 @@
     "images": [
       "gomme-3.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "gomme_rezervuar_asma_olculeri_3",
+        "file": "assets/documents/gomme_rezervuar_asma_olculeri_3.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "0220 01",
+        "Hela Taşı Gömme Rezervuarı (3/6 Litre Buton hariç)",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/gomme-rezervuar-ve-ic-takimlar-2/gomme-rezervuar-asma.95"
   },
   {
     "id": 63,
@@ -552,7 +1356,35 @@
       "butonlar.jpg"
     ],
     "documents": [],
-    "featured": false
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "BU 0310",
+        "Parlak Krom Yuvarlak Buton",
+        "-"
+      ],
+      [
+        "BU 0320",
+        "Mat Krom Yuvarlak Buton",
+        "-"
+      ],
+      [
+        "BU 0410",
+        "Parlak Krom Dikdörtgen Buton",
+        "-"
+      ],
+      [
+        "BU 0420",
+        "Mat Krom Dikdörtgen Buton",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/gomme-rezervuar-ve-ic-takimlar-2/butonlar.96"
   },
   {
     "id": 64,
@@ -567,7 +1399,40 @@
       "ic-takimlar.jpg"
     ],
     "documents": [],
-    "featured": false
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "0110 01",
+        "Sail İç Takım Tek Basmalı",
+        "20"
+      ],
+      [
+        "0120 01",
+        "Grand İç Takım Tek Basmalı",
+        "20"
+      ],
+      [
+        "0111 01",
+        "Sail İç Takım Çift Basmalı (3/6 Litre)",
+        "20"
+      ],
+      [
+        "0121 01",
+        "Grand İç Takım Çift Basmalı (3/6 Litre)",
+        "20"
+      ],
+      [
+        "0130 01",
+        "Çocuk İç Takım",
+        "10"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/gomme-rezervuar-ve-ic-takimlar-2/ic-takimlar.97"
   },
   {
     "id": 65,
@@ -581,8 +1446,31 @@
     "images": [
       "astra-asma-klozet.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "astra_asma_klozet_olculer",
+        "file": "assets/documents/astra_asma_klozet_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "INK 300",
+        "Asma Klozet",
+        "A18 / K15"
+      ],
+      [
+        "5117 01",
+        "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
+        "K10"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/asma-klozetler-2/astra-asma-klozet.208"
   },
   {
     "id": 66,
@@ -596,8 +1484,41 @@
     "images": [
       "gideros-asma-klozet.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "gid300",
+        "file": "assets/documents/gid300.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "GID 300",
+        "Asma Klozet",
+        "A18 / K15"
+      ],
+      [
+        "5817 01",
+        "Space Klozet Kapağı (Duroplast Metal Menteşeli)",
+        "200"
+      ],
+      [
+        "5817 02",
+        "Space Klozet Kapağı (Softclose, Duroplast Metal Menteşeli)",
+        "K10"
+      ],
+      [
+        "5817 03",
+        "Space Klozet Kapağı (PP Softclose)",
+        "K10"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/asma-klozetler-2/gideros-asma-klozet.188"
   },
   {
     "id": 67,
@@ -611,8 +1532,51 @@
     "images": [
       "gideros-ds-klozet.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "gideros_ds_klozet_olculer",
+        "file": "assets/documents/gideros_ds_klozet_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "GID 330",
+        "DS Arka Çıkışlı Klozet",
+        "-"
+      ],
+      [
+        "GID 400",
+        "Rezervuar",
+        "-"
+      ],
+      [
+        "-",
+        "Klozet & Rezervuar",
+        "K9"
+      ],
+      [
+        "5817 01",
+        "Space Klozet Kapağı (Duroplast Metal Menteşeli)",
+        "200"
+      ],
+      [
+        "5817 02",
+        "Space Klozet Kapağı (Softclose, Duroplast Metal Menteşeli)",
+        "K10"
+      ],
+      [
+        "5817 03",
+        "Space Klozet Kapağı (PP Softclose)",
+        "K10"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/duvara-sifir-klozetler/gideros-ds-klozet.187"
   },
   {
     "id": 68,
@@ -626,8 +1590,56 @@
     "images": [
       "safran-ds-klozet.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "safran_ds_klozet_olculer",
+        "file": "assets/documents/safran_ds_klozet_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "SAF 330",
+        "Arka Çıkışlı Klozet",
+        "-"
+      ],
+      [
+        "SAF 400",
+        "Rezervuar",
+        "-"
+      ],
+      [
+        "-",
+        "DS Klozet & Rezervuar",
+        "K9"
+      ],
+      [
+        "5417 01",
+        "Galaxy Klozet Kapağı (Duroplast Metal Menteşeli)",
+        "200"
+      ],
+      [
+        "5917 01",
+        "Galaxy Slim Klozet Kapağı (Softclose, Duroplast Metal Menteşeli)",
+        "200"
+      ],
+      [
+        "5417 02",
+        "Galaxy Klozet Kapağı (Softclose, Duroplast Metal Menteşeli)",
+        "K10"
+      ],
+      [
+        "5417 03",
+        "Galaxy Klozet Kapağı (PP Softclose)",
+        "K10"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/duvara-sifir-klozetler/safran-ds-klozet.190"
   },
   {
     "id": 69,
@@ -641,8 +1653,46 @@
     "images": [
       "safran-ds-ankastre-klozet.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "safran_ds_ankastre_klozet_olculer",
+        "file": "assets/documents/safran_ds_ankastre_klozet_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "SAF 500",
+        "Entegre Bataryalı Sıcak/Soğuk Su Bağlantılı Klozet",
+        "K9"
+      ],
+      [
+        "SAF 510",
+        "Entegre Bataryalı Soğuk Su Bağlantılı Klozet",
+        "K9"
+      ],
+      [
+        "SAF 400",
+        "Rezervuar",
+        "-"
+      ],
+      [
+        "-",
+        "Sıcak/Soğuk Su Bağlantılı Klozet + Rezervuar",
+        "K10"
+      ],
+      [
+        "-",
+        "Soğuk Su Bağlantılı Klozet + Rezervuar",
+        "K10"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/duvara-sifir-klozetler/safran-ds-ankastre-klozet.191"
   },
   {
     "id": 70,
@@ -656,8 +1706,51 @@
     "images": [
       "inkum-alt-cikisli-klozet.jpg"
     ],
-    "documents": [],
-    "featured": true
+    "documents": [
+      {
+        "name": "inkum_alt_cikisli_klozet_olculer",
+        "file": "assets/documents/inkum_alt_cikisli_klozet_olculer.pdf"
+      }
+    ],
+    "featured": true,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "INK 310",
+        "Alt Çıkışlı Klozet",
+        "A15 / K9"
+      ],
+      [
+        "INK 400",
+        "Rezervuar",
+        "A30 / K9"
+      ],
+      [
+        "-",
+        "Alt Çıkışlı Klozet & Rezervuar",
+        "-"
+      ],
+      [
+        "5417 01",
+        "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
+        "K10"
+      ],
+      [
+        "5117 02",
+        "Star Klozet Kapağı (Melamin Softclose)",
+        "K10"
+      ],
+      [
+        "5117 03",
+        "Star Klozet Kapağı (PP Softclose)",
+        "K10"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/inkum-alt-cikisli-klozet.194"
   },
   {
     "id": 71,
@@ -671,8 +1764,51 @@
     "images": [
       "inkum-arka-cikisli-klozet.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "inkum_arka_cikisli_klozet_olculer",
+        "file": "assets/documents/inkum_arka_cikisli_klozet_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "INK 320",
+        "Arka Çıkışlı Klozet",
+        "A15 / K9"
+      ],
+      [
+        "INK 400",
+        "Rezervuar",
+        "A30 / K9"
+      ],
+      [
+        "-",
+        "Klozet & Rezervuar",
+        "-"
+      ],
+      [
+        "5117 01",
+        "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
+        "K10"
+      ],
+      [
+        "5117 02",
+        "Star Klozet Kapağı (Melamin Softclose)",
+        "K10"
+      ],
+      [
+        "5117 03",
+        "Star Klozet Kapağı (PP Softclose)",
+        "K10"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/inkum-arka-cikisli-klozet.195"
   },
   {
     "id": 72,
@@ -686,8 +1822,51 @@
     "images": [
       "efekta-arka-cikisli-klozet.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "efekta_arka_cikisli_klozet_olculer",
+        "file": "assets/documents/efekta_arka_cikisli_klozet_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "EFK 320",
+        "Arka Çıkışlı Klozet",
+        "A18 / K9"
+      ],
+      [
+        "EFK 400",
+        "Rezervuar",
+        "A30 / K9"
+      ],
+      [
+        "-",
+        "Arka Çıkışlı Klozet & Rezervuar",
+        "-"
+      ],
+      [
+        "5117 01",
+        "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
+        "K10"
+      ],
+      [
+        "5117 02",
+        "Star Klozet Kapağı ( Melamin Softclose)",
+        "K10"
+      ],
+      [
+        "5117 03",
+        "Star Klozet Kapağı (PP Softclose)",
+        "K10"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/efekta-arka-cikisli-klozet.196"
   },
   {
     "id": 73,
@@ -701,8 +1880,51 @@
     "images": [
       "efekta-alt-cikisli-klozet.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "efekta_alt_cikisli_klozet_olculer",
+        "file": "assets/documents/efekta_alt_cikisli_klozet_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "EFK 310",
+        "Alt Çıkışlı Klozet",
+        "A18 / K9"
+      ],
+      [
+        "EFK 400",
+        "Rezervuar",
+        "A30 / K9"
+      ],
+      [
+        "-",
+        "Klozet & Rezervuar",
+        "-"
+      ],
+      [
+        "5117 01",
+        "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
+        "K10"
+      ],
+      [
+        "5117 02",
+        "Star Klozet Kapağı (Melamin Softclose)",
+        "K10"
+      ],
+      [
+        "5117 03",
+        "Star Klozet Kapağı (PP Softclose)",
+        "K10"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/efekta-alt-cikisli-klozet.197"
   },
   {
     "id": 74,
@@ -716,8 +1938,51 @@
     "images": [
       "engelli-klozet.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "engelli_klozet_olculer",
+        "file": "assets/documents/engelli_klozet_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "ENG 310",
+        "Alt Çıkışlı Klozet",
+        "A10 / K6"
+      ],
+      [
+        "ENG 400",
+        "Engelli Rezervuarı",
+        "A30 / K6"
+      ],
+      [
+        "-",
+        "Klozet & Rezervuar",
+        "-"
+      ],
+      [
+        "5117 01",
+        "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
+        "K10"
+      ],
+      [
+        "5117 02",
+        "Star Klozet Kapağı (Melamin Softclose)",
+        "K10"
+      ],
+      [
+        "5117 03",
+        "Star Klozet Kapağı (PP Softclose)",
+        "K10"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/engelli-seri/engelli-klozet.198"
   },
   {
     "id": 75,
@@ -731,8 +1996,26 @@
     "images": [
       "engelli-lavabo-50x60.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "engelli_lavabo_50_60_olculer",
+        "file": "assets/documents/engelli_lavabo_50_60_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "ENG 060",
+        "Engelli Lavabo",
+        "K14"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/engelli-seri/engelli-lavabo-50x60.213"
   },
   {
     "id": 76,
@@ -746,8 +2029,46 @@
     "images": [
       "cocuk-klozet.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "cocuk_klozet_olculer",
+        "file": "assets/documents/cocuk_klozet_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "MIN 310",
+        "Çocuk Alt Klozet",
+        "A20 / K16"
+      ],
+      [
+        "MIN 400",
+        "Çocuk Rezervuar",
+        "A20 / K16"
+      ],
+      [
+        "-",
+        "Klozet & Rezervuar",
+        "-"
+      ],
+      [
+        "5507 01",
+        "Çocuk Klozet Kapağı (PP)",
+        "-"
+      ],
+      [
+        "5507 02",
+        "Çocuk Klozet Kapağı (Puff)",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/cocuk-klozet.202"
   },
   {
     "id": 77,
@@ -761,8 +2082,36 @@
     "images": [
       "cocuk-lavabo-35x45.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "cocuk_lavabo_35_45_olculer",
+        "file": "assets/documents/cocuk_lavabo_35_45_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "TEK 245",
+        "Lavabo 35x45",
+        "A48 / K30"
+      ],
+      [
+        "TEK 750",
+        "Yarım Ayak",
+        "A72 / K44"
+      ],
+      [
+        "-",
+        "Lavabo & Yarım Ayak",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/cocuk-lavabo-35x45.215"
   },
   {
     "id": 78,
@@ -776,8 +2125,46 @@
     "images": [
       "efes-lavabo-50x60.jpg"
     ],
-    "documents": [],
-    "featured": true
+    "documents": [
+      {
+        "name": "efes_lavabo_50_60_olculer",
+        "file": "assets/documents/efes_lavabo_50_60_olculer.pdf"
+      }
+    ],
+    "featured": true,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "EFS 060",
+        "Lavabo 50x60 Cm",
+        "A28 / K20"
+      ],
+      [
+        "EFS 700",
+        "Kolon Ayak",
+        "A30 / K40"
+      ],
+      [
+        "EFS 750",
+        "Yarım Ayak",
+        "A33 / K24"
+      ],
+      [
+        "-",
+        "Lavabo & Kolon Ayak",
+        "-"
+      ],
+      [
+        "-",
+        "Lavabo & Yarım Ayak",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/efes-lavabo-50x60.75"
   },
   {
     "id": 79,
@@ -791,8 +2178,46 @@
     "images": [
       "efes-lavabo-45x55.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "efes_lavabo_45_55_olculer",
+        "file": "assets/documents/efes_lavabo_45_55_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "EFS 055",
+        "Lavabo 45x55 Cm",
+        "A28 / K20"
+      ],
+      [
+        "EFS 700",
+        "Kolon Ayak",
+        "A30 / K40"
+      ],
+      [
+        "EFS 750",
+        "Yarım Ayak",
+        "A33 / K24"
+      ],
+      [
+        "-",
+        "Lavabo & Kolon Ayak",
+        "-"
+      ],
+      [
+        "-",
+        "Lavabo & Yarım Ayak",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/efes-lavabo-45x55.76"
   },
   {
     "id": 80,
@@ -806,8 +2231,36 @@
     "images": [
       "efes-lavabo-35x45.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "efes_lavabo_35_45_olculer",
+        "file": "assets/documents/efes_lavabo_35_45_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "EFS 045",
+        "Lavabo 35x45 Cm",
+        "A48 / K30"
+      ],
+      [
+        "EFS 760",
+        "Yarım Ayak (Küçük)",
+        "A60 / K44"
+      ],
+      [
+        "-",
+        "Lavabo & Yarım Ayak",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/efes-lavabo-35x45.77"
   },
   {
     "id": 81,
@@ -821,8 +2274,46 @@
     "images": [
       "safran-lavabo-50x60.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "safran_lavabo_50_60_olculer",
+        "file": "assets/documents/safran_lavabo_50_60_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "SAF 060",
+        "Lavabo 50x60 Cm",
+        "A22 / K14"
+      ],
+      [
+        "SAF 700",
+        "Kolon Ayak",
+        "A32 / K40"
+      ],
+      [
+        "SAF 750",
+        "Yarım Ayak",
+        "A32 / K32"
+      ],
+      [
+        "-",
+        "Lavabo & Kolon Ayak",
+        "-"
+      ],
+      [
+        "-",
+        "Lavabo & Yarım Ayak",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/safran-lavabo-50x60.78"
   },
   {
     "id": 82,
@@ -836,8 +2327,46 @@
     "images": [
       "safran-lavabo-45x55.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "safran_lavabo_45_55_olculer",
+        "file": "assets/documents/safran_lavabo_45_55_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "SAF 055",
+        "Lavabo 45x55 Cm",
+        "A32 / K24"
+      ],
+      [
+        "SAF 700",
+        "Kolon Ayak",
+        "A32 / K40"
+      ],
+      [
+        "SAF 750",
+        "Yarım Ayak",
+        "A32 / K32"
+      ],
+      [
+        "-",
+        "Lavabo & Kolon Ayak",
+        "-"
+      ],
+      [
+        "-",
+        "Lavabo & Yarım Ayak",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/safran-lavabo-45x55.79"
   },
   {
     "id": 83,
@@ -851,8 +2380,36 @@
     "images": [
       "art-40.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "efekta_40_50_olculer",
+        "file": "assets/documents/efekta_40_50_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLER",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "EFK 050",
+        "Lavabo 40x50",
+        "A36 / K30"
+      ],
+      [
+        "EFK 700",
+        "Kolon Ayak",
+        "A32 / K40"
+      ],
+      [
+        "-",
+        "Lavabo 40x50 & Kolon Ayak",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/efekta-lavabo-40x50.211"
   },
   {
     "id": 84,
@@ -866,7 +2423,45 @@
     "images": [
       "efekta-lavabo-45x55.jpg"
     ],
-    "documents": [],
-    "featured": false
+    "documents": [
+      {
+        "name": "efekta_45_55_olculer",
+        "file": "assets/documents/efekta_45_55_olculer.pdf"
+      }
+    ],
+    "featured": false,
+    "spec_columns": [
+      "KOD",
+      "ÜRÜN ÖZELLİKLERİ",
+      "PALET/AD."
+    ],
+    "spec_rows": [
+      [
+        "EFK 055",
+        "Lavabo 45x55",
+        "A32 / K24"
+      ],
+      [
+        "EFK 700",
+        "Kolon Ayak",
+        "A32 / K40"
+      ],
+      [
+        "EFK 750",
+        "Yarım Ayak",
+        "A32 / K32"
+      ],
+      [
+        "-",
+        "Lavabo 45x55 & Kolon Ayak",
+        "-"
+      ],
+      [
+        "-",
+        "Lavabo 45x55 & Yarım Ayak",
+        "-"
+      ]
+    ],
+    "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/efekta-lavabo-45x55.212"
   }
 ]

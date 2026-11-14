@@ -44,8 +44,10 @@ include __DIR__ . '/../includes/header.php';
       <div class="product-info">
         <h1><?= e($product['name']) ?></h1>
 
+        <?php $specRows = $product['spec_rows'] ?? []; ?>
+
         <div class="product-meta">
-          <?php if (!empty($product['code'])): ?>
+          <?php if (empty($specRows) && !empty($product['code'])): ?>
           <div class="product-meta-item">
             <span class="label">Ürün Kodu</span>
             <span class="value"><?= e($product['code']) ?></span>
@@ -59,7 +61,7 @@ include __DIR__ . '/../includes/header.php';
           </div>
           <?php endif; ?>
 
-          <?php if (!empty($product['palet'])): ?>
+          <?php if (empty($specRows) && !empty($product['palet'])): ?>
           <div class="product-meta-item">
             <span class="label">Palet Adedi</span>
             <span class="value"><?= e($product['palet']) ?></span>
@@ -74,12 +76,44 @@ include __DIR__ . '/../includes/header.php';
           <?php endif; ?>
         </div>
 
+        <?php if (!empty($specRows)): ?>
+        <div class="spec-block">
+          <h3 class="spec-title">Teknik Bilgiler</h3>
+          <div class="spec-table-wrap">
+            <table class="spec-table">
+              <thead>
+                <tr>
+                  <?php foreach ($product['spec_columns'] as $col): ?>
+                  <th><?= e($col) ?></th>
+                  <?php endforeach; ?>
+                </tr>
+              </thead>
+              <tbody>
+                <?php foreach ($specRows as $row): ?>
+                <tr>
+                  <?php foreach ($row as $cell): ?>
+                  <td><?= e($cell !== '' ? $cell : '—') ?></td>
+                  <?php endforeach; ?>
+                </tr>
+                <?php endforeach; ?>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <?php endif; ?>
+
         <?php if (!empty($product['documents'])): ?>
         <div class="product-docs">
-          <h3 style="margin-bottom:12px; font-size:16px; font-weight:600;">Teknik Dosyalar</h3>
+          <h3 class="spec-title">Teknik Çizimler</h3>
           <?php foreach ($product['documents'] as $doc): ?>
-          <a href="/assets/documents/<?= e($doc) ?>" target="_blank" download>
-            &#128196; <?= e($doc) ?>
+            <?php
+              $docFile = is_array($doc) ? ($doc['file'] ?? '') : 'assets/documents/' . $doc;
+              $docName = is_array($doc) ? ($doc['name'] ?? basename($docFile)) : $doc;
+              if ($docFile === '') continue;
+            ?>
+          <a href="/<?= e($docFile) ?>" target="_blank" rel="noopener" download>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            <?= e($docName) ?>
           </a>
           <?php endforeach; ?>
         </div>
