@@ -42,15 +42,40 @@ include __DIR__ . '/../includes/header.php';
   </div>
 </div>
 
-<section class="section">
+<section class="section section-compact">
   <div class="container">
-    <div class="contact-grid">
-      <!-- FORM -->
-      <div>
-        <h2 style="font-family:var(--font-display); font-size:28px; margin-bottom:24px; color:var(--primary);">Bize Ulaşın</h2>
+    <div class="contact-cards">
+      <a href="tel:<?= e(preg_replace('/\s+/', '', $settings['phone'])) ?>" class="hp-support-card reveal">
+        <span class="hp-point-icon"><?= icon('phone', 22) ?></span>
+        <div>
+          <h3>Telefon</h3>
+          <p><?= e($settings['phone']) ?></p>
+        </div>
+      </a>
+      <a href="mailto:<?= e($settings['email']) ?>" class="hp-support-card reveal">
+        <span class="hp-point-icon"><?= icon('mail', 22) ?></span>
+        <div>
+          <h3>E-posta</h3>
+          <p><?= e($settings['email']) ?></p>
+        </div>
+      </a>
+      <div class="hp-support-card reveal">
+        <span class="hp-point-icon"><?= icon('pin', 22) ?></span>
+        <div>
+          <h3>Adres</h3>
+          <p><?= e($settings['address']) ?></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="contact-split">
+      <div class="contact-form-box">
+        <span class="hp-eyebrow">Bize yazın</span>
+        <h2>Sorunuzu veya talebinizi iletin</h2>
+        <p class="contact-lead">Ürün bilgisi, teklif ve bayilik başvuruları için formu doldurun; ekibimiz size dönüş yapsın.</p>
 
         <?php if ($success): ?>
-        <div style="background:#d4edda; color:#155724; padding:16px; border-radius:8px; margin-bottom:20px;">
+        <div class="contact-success">
           Mesajınız başarıyla gönderildi. En kısa sürede size dönüş yapacağız.
         </div>
         <?php endif; ?>
@@ -64,40 +89,11 @@ include __DIR__ . '/../includes/header.php';
         </form>
       </div>
 
-      <!-- BİLGİLER -->
-      <div>
-        <h2 style="font-family:var(--font-display); font-size:28px; margin-bottom:24px; color:var(--primary);">İletişim Bilgileri</h2>
-
-        <div class="contact-info-item">
-          <div class="contact-info-icon">&#9742;</div>
-          <div>
-            <h4>Telefon</h4>
-            <p><?= e($settings['phone']) ?></p>
-          </div>
-        </div>
-
-        <div class="contact-info-item">
-          <div class="contact-info-icon">&#9993;</div>
-          <div>
-            <h4>E-posta</h4>
-            <p><?= e($settings['email']) ?></p>
-          </div>
-        </div>
-
-        <div class="contact-info-item">
-          <div class="contact-info-icon">&#9873;</div>
-          <div>
-            <h4>Adres</h4>
-            <p><?= e($settings['address']) ?></p>
-          </div>
-        </div>
-
-        <div style="margin-top:32px; border-radius:12px; overflow:hidden; height:250px; background:var(--bg-light);">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3003.5!2d32.3!3d41.6!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zQmFydMSxbg!5e0!3m2!1str!2str!4v1"
-            width="100%" height="250" style="border:0;" allowfullscreen loading="lazy">
-          </iframe>
-        </div>
+      <div class="contact-map">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2836.02421410033!2d32.29310119999999!3d41.5983918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x409b71ab7726ff29%3A0x573fad42f35e810e!2sALVIT%20-%20BARTIN%20SERAMIK%20SAN.%20TIC.%20A.%C5%9E.!5e1!3m2!1str!2str!4v1794763948233!5m2!1str!2str"
+          title="Alvit - Bartın Seramik konumu" style="border:0;" allowfullscreen loading="lazy"
+          referrerpolicy="strict-origin-when-cross-origin"></iframe>
       </div>
     </div>
   </div>

@@ -29,13 +29,6 @@ include __DIR__ . '/../includes/header.php';
   </div>
 </div>
 
-<?php if ($isAboutPage): ?>
-<div class="about-banner">
-  <img src="/assets/images/about/fabrika-uretim.jpg" alt="Alvit üretim tesisi">
-  <div class="about-banner-caption">Bartın Organize Sanayi Bölgesi Üretim Tesisimiz</div>
-</div>
-<?php endif; ?>
-
 <section class="section<?= ($isCertPage || $isDocsPage || $isVideoPage) ? ' section-compact' : '' ?>">
   <div class="container">
     <?php if ($isVisionPage): ?>
@@ -55,9 +48,11 @@ include __DIR__ . '/../includes/header.php';
     </div>
 
     <?php if (!empty($page['values'])): ?>
-    <div class="values-head">
-      <h2>Değerlerimiz</h2>
-      <p>Üretimden satış sonrasına kadar her adımda bizi yönlendiren ilkeler.</p>
+    <div class="hp-head values-head-row">
+      <div>
+        <span class="hp-eyebrow">Değerlerimiz</span>
+        <h2>Her adımda bizi yönlendiren ilkeler</h2>
+      </div>
     </div>
     <div class="values-grid">
       <?php foreach ($page['values'] as $value): ?>
@@ -81,6 +76,39 @@ include __DIR__ . '/../includes/header.php';
       <div class="vm-commit-actions">
         <a href="/sayfa/kalite-belgelerimiz" class="btn btn-primary">Belgelerimizi İnceleyin</a>
         <a href="/sayfa/kalite-politikasi" class="btn btn-outline">Kalite Politikamız</a>
+      </div>
+    </div>
+    <?php elseif ($isAboutPage): ?>
+    <div class="hp-about-inner about-split">
+      <div class="hp-about-media reveal">
+        <img src="/assets/images/about/fabrika-uretim.jpg" alt="Alvit üretim tesisi">
+        <span class="about-photo-caption">Bartın'daki üretim tesisimizden</span>
+      </div>
+      <div class="hp-about-text">
+        <span class="hp-eyebrow">Biz kimiz</span>
+        <h2>1994'ten beri Bartın'da seramik üretiyoruz</h2>
+        <div class="about-copy"><?= $page['content'] ?></div>
+        <div class="hp-stats">
+          <div>
+            <strong class="trust-value" data-count="1994">0</strong>
+            <span>Kuruluş</span>
+          </div>
+          <div>
+            <strong class="trust-value" data-count="<?= (int)$productCount ?>" data-suffix="+">0</strong>
+            <span>Ürün modeli</span>
+          </div>
+          <div>
+            <strong class="trust-value" data-count="<?= count(getCertificates()) ?>">0</strong>
+            <span>Kalite belgesi</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="hp-head about-links-head">
+      <div>
+        <span class="hp-eyebrow">Kurumsal</span>
+        <h2>Nasıl çalıştığımızı inceleyin</h2>
       </div>
     </div>
     <?php else: ?>
@@ -202,30 +230,29 @@ include __DIR__ . '/../includes/header.php';
 </section>
 
 <?php if ($isAboutPage): ?>
-<section class="trust-bar">
-  <div class="trust-bar-bg">
-    <img src="/assets/images/about/fabrika-uretim.jpg" alt="Alvit üretim tesisi" loading="lazy">
-  </div>
-  <div class="trust-bar-overlay"></div>
-  <div class="container trust-bar-inner">
-    <p class="trust-bar-caption">Rakamlarla Alvit</p>
-    <div class="trust-bar-grid">
-      <div class="trust-item">
-        <div class="trust-value" data-count="1994">0</div>
-        <div class="trust-label">Kuruluş Yılı</div>
+<?php
+  $aboutCats = getCategories();
+  $aboutCounts = [];
+  foreach (getProducts() as $ap) {
+      $aboutCounts[$ap['category_id']] = ($aboutCounts[$ap['category_id']] ?? 0) + 1;
+  }
+?>
+<section class="hp-innovation about-range">
+  <div class="container">
+    <div class="hp-head">
+      <div>
+        <span class="hp-eyebrow">Ne üretiyoruz</span>
+        <h2>Banyonun tamamı, tek üreticiden</h2>
       </div>
-      <div class="trust-item">
-        <div class="trust-value">Bartın</div>
-        <div class="trust-label">Türk Üretimi</div>
-      </div>
-      <div class="trust-item">
-        <div class="trust-value" data-count="<?= (int)$productCount ?>" data-suffix="+">0</div>
-        <div class="trust-label">Ürün Modeli</div>
-      </div>
-      <div class="trust-item">
-        <div class="trust-value" data-count="100" data-suffix="%">0</div>
-        <div class="trust-label">Seramik Kalitesi</div>
-      </div>
+      <a href="/urunler" class="hp-link hp-link-light">Tüm ürünler <?= icon('layers', 16) ?></a>
+    </div>
+    <div class="about-range-grid">
+      <?php foreach ($aboutCats as $ac): ?>
+      <a href="/kategori/<?= e($ac['slug']) ?>" class="about-range-item reveal">
+        <strong><?= (int)($aboutCounts[$ac['id']] ?? 0) ?></strong>
+        <span><?= e($ac['name']) ?></span>
+      </a>
+      <?php endforeach; ?>
     </div>
   </div>
 </section>
