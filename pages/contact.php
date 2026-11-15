@@ -72,7 +72,7 @@ include __DIR__ . '/../includes/header.php';
       <div class="contact-form-box">
         <span class="hp-eyebrow">Bize yazın</span>
         <h2>Sorunuzu veya talebinizi iletin</h2>
-        <p class="contact-lead">Ürün bilgisi, teklif ve bayilik başvuruları için formu doldurun; ekibimiz size dönüş yapsın.</p>
+        <p class="contact-lead">Ürün bilgisi ve teklif talepleriniz için formu doldurun; ekibimiz size dönüş yapsın.</p>
 
         <?php if ($success): ?>
         <div class="contact-success">

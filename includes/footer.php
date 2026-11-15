@@ -45,7 +45,7 @@
           <li><a href="/sayfa/montaj-kilavuzlari">Montaj Kılavuzları</a></li>
           <li><a href="/sayfa/urun-montaj-videolari">Montaj Videoları</a></li>
           <li><a href="/urunler">Ürün Kataloğu</a></li>
-          <li><a href="/iletisim">Bayilik Başvurusu</a></li>
+          <li><a href="/iletisim">İletişim</a></li>
         </ul>
       </div>
 

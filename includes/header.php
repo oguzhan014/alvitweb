@@ -143,7 +143,6 @@ $isUrunler = in_array($currentUri, ['/urunler', '/kategoriler'], true)
         <div class="search-suggestions"></div>
       </form>
 
-      <a href="/iletisim" class="nav-cta nav-cta-mobile">Bayilik Başvurusu</a>
     </nav>
 
     <div class="header-actions">
@@ -154,8 +153,6 @@ $isUrunler = in_array($currentUri, ['/urunler', '/kategoriler'], true)
         </button>
         <div class="search-suggestions"></div>
       </form>
-
-      <a href="/iletisim" class="nav-cta">Bayilik Başvurusu</a>
 
       <button class="menu-toggle" aria-label="Menü">
         <span></span>

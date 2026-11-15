@@ -272,7 +272,6 @@ include __DIR__ . '/../includes/header.php';
     </div>
     <div class="cta-banner-actions">
       <a href="/iletisim" class="btn btn-primary">Bize Ulaşın</a>
-      <a href="/iletisim" class="btn btn-outline">Bayilik Başvurusu</a>
     </div>
   </div>
 </section>
