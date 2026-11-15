@@ -295,6 +295,21 @@ ul { list-style: none; }
 
 .nav-expand { display: none; }
 
+/* Hover bridge — nav-item ile dropdown/mega arasındaki boşluğu kapatır */
+.nav-item.has-dropdown::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  height: 20px;
+  display: none;
+}
+
+.nav-item.has-dropdown:hover::after {
+  display: block;
+}
+
 /* Açılır menü (Kurumsal) */
 .dropdown-menu {
   position: absolute;

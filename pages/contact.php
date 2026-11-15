@@ -2,20 +2,19 @@
 $pageTitle = 'İletişim';
 $settings = getSettings();
 
-// Form gönderimi
-$success = false;
+// Form gönderimi (PRG pattern)
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    // Basit form işleme - gerçek projede e-posta gönderimi eklenebilir
-    $name = $_POST['name'] ?? '';
-    $email = $_POST['email'] ?? '';
-    $subject = $_POST['subject'] ?? '';
-    $message = $_POST['message'] ?? '';
+    $name = cleanPostText($_POST['name'] ?? '');
+    $email = trim($_POST['email'] ?? '');
+    $subject = cleanPostText($_POST['subject'] ?? '');
+    $message = cleanPostText($_POST['message'] ?? '');
 
     if ($name && $email && $message) {
-        // Mesajları JSON dosyasına kaydet
         $messages = loadJson('messages.json');
+        $maxId = 0;
+        foreach ($messages as $m) { if (($m['id'] ?? 0) > $maxId) $maxId = $m['id']; }
         $messages[] = [
-            'id' => count($messages) + 1,
+            'id' => $maxId + 1,
             'name' => $name,
             'email' => $email,
             'subject' => $subject,
@@ -24,9 +23,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             'read' => false
         ];
         saveJson('messages.json', $messages);
-        $success = true;
     }
+    header('Location: /iletisim?ok=1');
+    exit;
 }
+$success = isset($_GET['ok']);
 
 include __DIR__ . '/../includes/header.php';
 ?>
