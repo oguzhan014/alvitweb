@@ -15,6 +15,11 @@ include __DIR__ . '/../includes/header.php';
 
 <section class="section">
   <div class="container">
+    <div class="gallery-intro">
+      <span class="hp-eyebrow">Projelerimiz</span>
+      <h2>Ürünlerimizin mekanlardaki yansıması</h2>
+      <p>Alvit seramik ürünleriyle tasarlanan banyo ve yaşam alanlarından seçtiğimiz görselleri sizinle paylaşıyoruz. Her proje, kaliteli malzeme ve özenli işçiliğin buluştuğu bir hikaye anlatıyor.</p>
+    </div>
     <div class="gallery-grid">
       <?php foreach ($images as $i => $img):
         $filename = basename($img);
