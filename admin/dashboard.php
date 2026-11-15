@@ -48,6 +48,39 @@ adminHeader('Dashboard');
   </div>
 </div>
 
+<!-- İÇERİK ÖZETİ -->
+<div class="admin-card">
+  <h2 style="font-size:18px; margin-bottom:16px;">İçerik Durumu</h2>
+  <div class="content-summary">
+    <?php
+      $withSpecs = count(array_filter($products, fn($p) => !empty($p['spec_rows'])));
+      $withDocs = count(array_filter($products, fn($p) => !empty($p['documents'])));
+      $noImage = count(array_filter($products, fn($p) => empty($p['images'])));
+      $kurumsal = loadJson('kurumsal.json');
+      $reportCount = count($kurumsal['raporlar']['documents'] ?? []);
+      $guideCount = count($kurumsal['montaj-kilavuzlari']['documents'] ?? []);
+      $videoCount = count($kurumsal['urun-montaj-videolari']['videos'] ?? []);
+      $summary = [
+        ['Teknik tablosu olan ürün', $withSpecs . ' / ' . count($products), '/admin/products'],
+        ['Teknik çizimi olan ürün', $withDocs . ' / ' . count($products), '/admin/products'],
+        ['Görseli eksik ürün', (string)$noImage, '/admin/products'],
+        ['Koleksiyon', (string)count(loadJson('collections.json')), '/admin/collections'],
+        ['Renk', (string)count(loadJson('colors.json')), '/admin/colors'],
+        ['Kalite belgesi', (string)count(getCertificates()), '/admin/certificates'],
+        ['Rapor', (string)$reportCount, '/admin/files?sayfa=raporlar'],
+        ['Montaj kılavuzu', (string)$guideCount, '/admin/files?sayfa=montaj-kilavuzlari'],
+        ['Montaj videosu', (string)$videoCount, '/admin/files?sayfa=urun-montaj-videolari'],
+      ];
+      foreach ($summary as [$label, $value, $link]):
+    ?>
+    <a href="<?= e($link) ?>" class="summary-item">
+      <strong><?= e($value) ?></strong>
+      <span><?= e($label) ?></span>
+    </a>
+    <?php endforeach; ?>
+  </div>
+</div>
+
 <!-- SON ÜRÜNLER -->
 <div class="admin-card">
   <h2 style="font-size:18px; margin-bottom:16px;">Son Eklenen Ürünler</h2>

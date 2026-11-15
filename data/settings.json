@@ -1,19 +1,19 @@
 {
-  "site_name": "Alvit",
-  "site_slogan": "benim banyom...",
-  "site_description": "Alvit - Bartın Seramik A.Ş. 1994'ten bu yana kaliteli seramik banyo ürünleri üretmektedir.",
-  "phone": "+90 378 227 54 44",
-  "email": "alvit@alvit.com.tr",
-  "address": "Bartın Organize Sanayi Bölgesi, Bartın, Türkiye",
-  "logo": "assets/images/brand-logo-header.png",
-  "logo_footer": "assets/images/brand-logo-footer.png",
-  "social": {
-    "facebook": "https://www.facebook.com/alvitseramik",
-    "instagram": "https://www.instagram.com/alvitseramik",
-    "youtube": "https://www.youtube.com/alvitseramik",
-    "linkedin": ""
-  },
-  "footer_text": "© 2024 Alvit - Bartın Seramik A.Ş. Tüm hakları saklıdır.",
-  "admin_user": "admin",
-  "admin_pass": "$2y$10$YWxpdC5hZG1pbi5wYXNz"
+    "site_name": "Alvit",
+    "site_slogan": "benim banyom...",
+    "site_description": "Alvit - Bartın Seramik A.Ş. 1994'ten bu yana kaliteli seramik banyo ürünleri üretmektedir.",
+    "phone": "+90 378 227 54 44",
+    "email": "alvit@alvit.com.tr",
+    "address": "Bartın Organize Sanayi Bölgesi, Bartın, Türkiye",
+    "logo": "assets\/images\/brand-logo-header.png",
+    "logo_footer": "assets\/images\/brand-logo-footer.png",
+    "social": {
+        "facebook": "https:\/\/www.facebook.com\/alvitseramik",
+        "instagram": "https:\/\/www.instagram.com\/alvitseramik",
+        "youtube": "https:\/\/www.youtube.com\/alvitseramik",
+        "linkedin": ""
+    },
+    "footer_text": "© 2024 Alvit - Bartın Seramik A.Ş. Tüm hakları saklıdır.",
+    "admin_user": "admin",
+    "admin_pass": "$2y$12$.9dv039yC0DqO9YDT3EuA.piqwi49bE7\/shXTfdJzy4.l9flbWXXy"
 }

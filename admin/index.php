@@ -20,7 +20,9 @@ if ($adminUri === '/login') {
         $settings = getSettings();
         $user = $_POST['username'] ?? '';
         $pass = $_POST['password'] ?? '';
-        if ($user === $settings['admin_user'] && $pass === 'alvit2024') {
+        if ($user === $settings['admin_user']
+            && password_verify($pass, $settings['admin_pass'] ?? '')) {
+            session_regenerate_id(true);
             $_SESSION['admin_logged_in'] = true;
             header('Location: /admin');
             exit;
@@ -67,6 +69,25 @@ switch (true) {
     case $adminUri === '/sliders/add':
     case preg_match('#^/sliders/edit/(\d+)$#', $adminUri, $m) === 1:
         include __DIR__ . '/sliders.php';
+        break;
+    case $adminUri === '/collections':
+    case $adminUri === '/collections/add':
+    case preg_match('#^/collections/(edit|delete)/([a-z0-9-]+)$#', $adminUri) === 1:
+        include __DIR__ . '/collections.php';
+        break;
+    case $adminUri === '/colors':
+    case $adminUri === '/colors/add':
+    case preg_match('#^/colors/(edit|delete)/([a-z0-9-]+)$#', $adminUri) === 1:
+        include __DIR__ . '/colors.php';
+        break;
+    case $adminUri === '/certificates':
+    case $adminUri === '/certificates/add':
+    case preg_match('#^/certificates/(edit|delete)/(\d+)$#', $adminUri) === 1:
+        include __DIR__ . '/certificates.php';
+        break;
+    case $adminUri === '/files':
+    case preg_match('#^/files/(delete|video-delete)/([a-z0-9-]+)/(\d+)$#', $adminUri) === 1:
+        include __DIR__ . '/files.php';
         break;
     case $adminUri === '/messages':
         include __DIR__ . '/messages.php';

@@ -13,9 +13,51 @@ function loadJson($file) {
     return json_decode($content, true) ?: [];
 }
 
+/**
+ * JSON veri dosyasını güvenli şekilde yazar.
+ *
+ * json_encode bozuk UTF-8'de false döndüğü için önce kodlama denenir;
+ * başarısızsa dosyaya dokunulmaz. Yazma da geçici dosya üzerinden
+ * yapılır, böylece yarım kalan bir yazma mevcut veriyi bozmaz.
+ */
 function saveJson($file, $data) {
+    $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+    if ($json === false) {
+        error_log('saveJson: ' . $file . ' kodlanamadi - ' . json_last_error_msg());
+        return false;
+    }
+
     $path = DATA_DIR . $file;
-    file_put_contents($path, json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+    $tmp = $path . '.tmp';
+    if (file_put_contents($tmp, $json) === false) {
+        error_log('saveJson: ' . $file . ' yazilamadi');
+        return false;
+    }
+    if (!rename($tmp, $path)) {
+        @unlink($tmp);
+        error_log('saveJson: ' . $file . ' degistirilemedi');
+        return false;
+    }
+    return true;
+}
+
+/** Formdan gelen metni geçerli UTF-8'e indirger (bozuk baytları atar). */
+function cleanUtf8($text) {
+    $text = (string)$text;
+    if (mb_check_encoding($text, 'UTF-8')) return $text;
+    return mb_convert_encoding($text, 'UTF-8', 'UTF-8');
+}
+
+/** $_POST dizisini (iç içe dahil) UTF-8 açısından temizler. */
+function cleanPostText($input) {
+    if (is_array($input)) {
+        $out = [];
+        foreach ($input as $key => $value) {
+            $out[$key] = cleanPostText($value);
+        }
+        return $out;
+    }
+    return is_string($input) ? cleanUtf8($input) : $input;
 }
 
 function getSettings() {
@@ -267,6 +309,32 @@ function uploadImage($file, $subdir = 'products') {
         return $filename;
     }
     return false;
+}
+
+/**
+ * PDF/doküman yükler. Dönüş: "assets/documents/<alt klasör>/dosya.pdf" veya false.
+ */
+function uploadDocument($file, $subdir = '') {
+    $base = __DIR__ . '/../assets/documents/';
+    $targetDir = $base . ($subdir ? trim($subdir, '/') . '/' : '');
+    if (!is_dir($targetDir)) mkdir($targetDir, 0777, true);
+
+    $ext = strtolower(pathinfo($file['name'], PATHINFO_EXTENSION));
+    if (!in_array($ext, ['pdf', 'doc', 'docx', 'xls', 'xlsx'], true)) return false;
+
+    $filename = slugify(pathinfo($file['name'], PATHINFO_FILENAME)) . '-' . time() . '.' . $ext;
+    if (!move_uploaded_file($file['tmp_name'], $targetDir . $filename)) return false;
+
+    return 'assets/documents/' . ($subdir ? trim($subdir, '/') . '/' : '') . $filename;
+}
+
+/**
+ * Formdan gelen satır bazlı metni diziye çevirir (her satır bir madde).
+ */
+function linesToArray($text) {
+    $lines = preg_split('/\r\n|\r|\n/', (string)$text);
+    $lines = array_map('trim', $lines);
+    return array_values(array_filter($lines, fn($l) => $l !== ''));
 }
 
 function getProductImage($product) {

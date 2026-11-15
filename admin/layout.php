@@ -19,29 +19,39 @@ function adminHeader($title) {
     <h2>al<span>vi</span>t</h2>
     <small>Yönetim Paneli</small>
   </div>
+  <?php
+    $navUri = $_SERVER['REQUEST_URI'];
+    $navItems = [
+        ['/admin/products',     'Ürünler',          'layers'],
+        ['/admin/categories',   'Kategoriler',      'layers'],
+        ['/admin/collections',  'Koleksiyonlar',    'layers'],
+        ['/admin/colors',       'Renk Kataloğu',    'leaf'],
+        ['/admin/sliders',      'Slider',           'eye'],
+        null,
+        ['/admin/pages',        'Sayfalar',         'document'],
+        ['/admin/certificates', 'Kalite Belgeleri', 'shield'],
+        ['/admin/files',        'Kurumsal Dosyalar','document'],
+        ['/admin/messages',     'Mesajlar',         'users'],
+        ['/admin/settings',     'Ayarlar',          'gear'],
+    ];
+    $onSub = false;
+    foreach ($navItems as $item) {
+        if ($item && strpos($navUri, $item[0]) !== false) { $onSub = true; break; }
+    }
+  ?>
   <nav class="admin-nav">
-    <a href="/admin" <?= strpos($_SERVER['REQUEST_URI'], '/admin/products') === false && strpos($_SERVER['REQUEST_URI'], '/admin/categories') === false && strpos($_SERVER['REQUEST_URI'], '/admin/pages') === false && strpos($_SERVER['REQUEST_URI'], '/admin/sliders') === false && strpos($_SERVER['REQUEST_URI'], '/admin/messages') === false && strpos($_SERVER['REQUEST_URI'], '/admin/settings') === false ? 'class="active"' : '' ?>>
-      <span class="icon">&#9776;</span> Dashboard
+    <a href="/admin" <?= $onSub ? '' : 'class="active"' ?>>
+      <span class="icon"><?= icon('layers', 17) ?></span> Dashboard
     </a>
-    <a href="/admin/products" <?= strpos($_SERVER['REQUEST_URI'], '/admin/products') !== false ? 'class="active"' : '' ?>>
-      <span class="icon">&#9881;</span> Ürünler
-    </a>
-    <a href="/admin/categories" <?= strpos($_SERVER['REQUEST_URI'], '/admin/categories') !== false ? 'class="active"' : '' ?>>
-      <span class="icon">&#9783;</span> Kategoriler
-    </a>
-    <a href="/admin/sliders" <?= strpos($_SERVER['REQUEST_URI'], '/admin/sliders') !== false ? 'class="active"' : '' ?>>
-      <span class="icon">&#9724;</span> Slider
-    </a>
-    <div class="admin-nav-divider"></div>
-    <a href="/admin/pages" <?= strpos($_SERVER['REQUEST_URI'], '/admin/pages') !== false ? 'class="active"' : '' ?>>
-      <span class="icon">&#9998;</span> Sayfalar
-    </a>
-    <a href="/admin/messages" <?= strpos($_SERVER['REQUEST_URI'], '/admin/messages') !== false ? 'class="active"' : '' ?>>
-      <span class="icon">&#9993;</span> Mesajlar
-    </a>
-    <a href="/admin/settings" <?= strpos($_SERVER['REQUEST_URI'], '/admin/settings') !== false ? 'class="active"' : '' ?>>
-      <span class="icon">&#9881;</span> Ayarlar
-    </a>
+    <?php foreach ($navItems as $item): ?>
+      <?php if ($item === null): ?>
+      <div class="admin-nav-divider"></div>
+      <?php else: ?>
+      <a href="<?= $item[0] ?>" <?= strpos($navUri, $item[0]) !== false ? 'class="active"' : '' ?>>
+        <span class="icon"><?= icon($item[2], 17) ?></span> <?= e($item[1]) ?>
+      </a>
+      <?php endif; ?>
+    <?php endforeach; ?>
     <div class="admin-nav-divider"></div>
     <a href="/" target="_blank">
       <span class="icon">&#8594;</span> Siteyi Gör

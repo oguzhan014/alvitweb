@@ -1,243 +1,243 @@
 {
-  "raporlar": {
-    "title": "Raporlar",
-    "slug": "raporlar",
-    "type": "documents",
-    "source_url": "https://www.alvit.com.tr/kurumsal/raporlar",
-    "documents": [
-      {
-        "name": "2018 Yılı Yönetim Kurulu Faaliyet Raporu",
-        "url": "https://www.alvit.com.tr/files/fm/2018-Yonetim-Kurulu-Faaliyet-Raporu.pdf",
-        "file": "assets/documents/raporlar/2018-yonetim-kurulu-faaliyet-raporu.pdf"
-      },
-      {
-        "name": "2018 Yılı Bilanço ve Gelir Tablosu",
-        "url": "https://www.alvit.com.tr/files/fm/2018-Bilanco-Gelir-Tablosu.pdf",
-        "file": "assets/documents/raporlar/2018-bilanco-gelir-tablosu.pdf"
-      },
-      {
-        "name": "2019 Genel Kurul Toplantı Tutanağı",
-        "url": "https://www.alvit.com.tr/files/fm/2019-Genel-Kurul-Toplanti-Tutanagi.pdf",
-        "file": "assets/documents/raporlar/2019-genel-kurul-toplanti-tutanagi.pdf"
-      },
-      {
-        "name": "2019 Bağımsız Denetim Raporu",
-        "url": "https://www.alvit.com.tr/files/fm/2019_bagimsiz_denetim_raporu.pdf",
-        "file": "assets/documents/raporlar/2019_bagimsiz_denetim_raporu.pdf"
-      },
-      {
-        "name": "2019 Yılına İlişkin Genel Kurul Toplantı Tutanağı",
-        "url": "https://www.alvit.com.tr/files/fm/2019-Yilina-iliskin-genel-kurul-toplanti-tutanagi.pdf",
-        "file": "assets/documents/raporlar/2019-yilina-iliskin-genel-kurul-toplanti-tutanagi.pdf"
-      },
-      {
-        "name": "2019 Yılına İlişkin Yönetim Kurulu Gündem",
-        "url": "https://www.alvit.com.tr/files/fm/2019-yilina-iliskin-yonetim-kurulu-gundem.pdf",
-        "file": "assets/documents/raporlar/2019-yilina-iliskin-yonetim-kurulu-gundem.pdf"
-      },
-      {
-        "name": "2020 Yönetim Kurulu Başkanı Kararı",
-        "url": "https://www.alvit.com.tr/files/fm/2020-yonetim-kurulu-baskani-karari.pdf",
-        "file": "assets/documents/raporlar/2020-yonetim-kurulu-baskani-karari.pdf"
-      },
-      {
-        "name": "2020 Yılına İlişkin Faaliyet Raporu",
-        "url": "https://www.alvit.com.tr/files/fm/2020-Yilina-%C4%B0liskin-Faaliyet-Raporu.pdf",
-        "file": "assets/documents/raporlar/2020-yilina-i-liskin-faaliyet-raporu.pdf"
-      },
-      {
-        "name": "2020 Yılına İlişkin Genel Kurul Toplantı Tutanağı",
-        "url": "https://www.alvit.com.tr/files/fm/2020-Yilina-%C4%B0liskin-Genel-Kurul-Toplanti-Tutanagi.pdf",
-        "file": "assets/documents/raporlar/2020-yilina-i-liskin-genel-kurul-toplanti-tutanagi.pdf"
-      },
-      {
-        "name": "2020 Yılına İlişkin Yönetim Kurulu Gündem",
-        "url": "https://www.alvit.com.tr/files/fm/2020-Yilina-%C4%B0liskin-Yonetim-Kurulu-Gundem.pdf",
-        "file": "assets/documents/raporlar/2020-yilina-i-liskin-yonetim-kurulu-gundem.pdf"
-      },
-      {
-        "name": "2020 Bağımsız Denetim Raporu",
-        "url": "https://www.alvit.com.tr/files/fm/Bartin-Seramik-2020-Bagimsiz-Denetim-Raporu.pdf",
-        "file": "assets/documents/raporlar/bartin-seramik-2020-bagimsiz-denetim-raporu.pdf"
-      },
-      {
-        "name": "2020 Gelir Tablosu",
-        "url": "https://www.alvit.com.tr/files/fm/Seramik-2020-Gelir-Tablosu.pdf",
-        "file": "assets/documents/raporlar/seramik-2020-gelir-tablosu.pdf"
-      },
-      {
-        "name": "2020 İşletme Ayrıntılı Bilanço",
-        "url": "https://www.alvit.com.tr/files/fm/Seramik_2020_%C4%B0sletme_Ayrintili_Bilanco.pdf",
-        "file": "assets/documents/raporlar/seramik_2020_i-sletme_ayrintili_bilanco.pdf"
-      },
-      {
-        "name": "2021 Yılına İlişkin Riskin Erken Saptanması Sistemi ve Komitesi Hakkında Bağımsız Denetçi Raporu",
-        "url": "https://www.alvit.com.tr/files/fm/BARTIN%20SERAM%C4%B0K%202021%20R%C4%B0SK%C4%B0N%20ERKEN%20SAPTANMASI%20S%C4%B0STEM%C4%B0%20VE%20KOM%C4%B0TES%C4%B0%20HAKKINDA%20BA%C4%9EIMSIZ%20DENET%C3%87%C4%B0%20RAPORU.pdf",
-        "file": "assets/documents/raporlar/bartin-serami-k-2021-ri-ski-n-erken-saptanmasi-si-stemi-ve-komi-tesi-hakkinda-bagimsiz-denetci-raporu.pdf"
-      },
-      {
-        "name": "2021 Yılına İlişkin Finansal Tablolar ve Bağımsız Denetçi Raporu",
-        "url": "https://www.alvit.com.tr/files/fm/Bart%C4%B1n%20Seramik-%C4%B0mzal%C4%B1%202021%20Ba%C4%9F%C4%B1ms%C4%B1z%20Denetim%20Raporu.pdf",
-        "file": "assets/documents/raporlar/bartin-seramik-i-mzali-2021-bagimsiz-denetim-raporu.pdf"
-      },
-      {
-        "name": "2021 Yılına İlişkin Faaliyet Raporu",
-        "url": "https://www.alvit.com.tr/files/fm/BARTIN%20SERAM%C4%B0K%202021%20FAAL%C4%B0YET%20RAPORU.pdf",
-        "file": "assets/documents/raporlar/bartin-serami-k-2021-faali-yet-raporu.pdf"
-      },
-      {
-        "name": "2021 Ayrıntılı Bilanço",
-        "url": "https://www.alvit.com.tr/files/fm/SERAM%C4%B0K%202021%20AYRINTILI%20B%C4%B0LAN%C3%87O%202.pdf",
-        "file": "assets/documents/raporlar/serami-k-2021-ayrintili-bi-lanco-2.pdf"
-      },
-      {
-        "name": "2021 Ayrıntılı Gelir Tablosu",
-        "url": "https://www.alvit.com.tr/files/fm/SERAM%C4%B0K%202021%20AYRINTILI%20GEL%C4%B0R-TABLOSU.pdf",
-        "file": "assets/documents/raporlar/serami-k-2021-ayrintili-geli-r-tablosu.pdf"
-      },
-      {
-        "name": "2021 Yılına İlişkin Yönetim Kurulu Gündem",
-        "url": "https://www.alvit.com.tr/files/fm/2021%20YILINA%20%C4%B0L%C4%B0%C5%9EK%C4%B0N%20Y%C3%96NET%C4%B0M%20KURULU%20G%C3%9CNDEM.pdf",
-        "file": "assets/documents/raporlar/2021-yilina-i-li-ski-n-yoneti-m-kurulu-gundem.pdf"
-      },
-      {
-        "name": "2021 Yılına İlişkin Genel Kurul Toplantı Tutanağı",
-        "url": "https://www.alvit.com.tr/files/fm/2021%20YILINA%20%C4%B0L%C4%B0%C5%9EK%C4%B0N%20GENEL%20KURUL%20TOPLANTI%20TUTANA%C4%9EI.pdf",
-        "file": "assets/documents/raporlar/2021-yilina-i-li-ski-n-genel-kurul-toplanti-tutanagi.pdf"
-      },
-      {
-        "name": "2022 Yılına İlişkin Riskin Erken Saptanması Sistemi ve Komitesi Hakkında Bağımsız Denetçi Raporu",
-        "url": "https://www.alvit.com.tr/files/fm/BARTIN%20SERAM%C4%B0K%202022%20R%C4%B0SK%C4%B0N%20ERKEN%20SAPTANMASI%20S%C4%B0STEM%C4%B0%20VE%20KOM%C4%B0TES%C4%B0%20HAKKINDA%20BA%C4%9EIMSIZ%20DENET%C3%87%C4%B0%20RAPORU.pdf",
-        "file": "assets/documents/raporlar/bartin-serami-k-2022-ri-ski-n-erken-saptanmasi-si-stemi-ve-komi-tesi-hakkinda-bagimsiz-denetci-raporu.pdf"
-      },
-      {
-        "name": "2022 Yılına İlişkin Finansal Tablolar ve Bağımsız Denetçi Raporu",
-        "url": "https://www.alvit.com.tr/files/fm/SERAM%C4%B0K%202022%20BA%C4%9EIMSIZ%20DENET%C4%B0M%20RAPORU.pdf",
-        "file": "assets/documents/raporlar/serami-k-2022-bagimsiz-deneti-m-raporu.pdf"
-      },
-      {
-        "name": "2022 Yılına İlişkin Faaliyet Raporu",
-        "url": "https://www.alvit.com.tr/files/fm/BARTINSERAMIK%202022FAALIYET%20RAPORU.pdf",
-        "file": "assets/documents/raporlar/bartinseramik-2022faaliyet-raporu.pdf"
-      },
-      {
-        "name": "2022 Ayrıntılı Bilanço",
-        "url": "https://www.alvit.com.tr/files/fm/2022%20AYRINTILI%20B%C4%B0LAN%C3%87O.pdf",
-        "file": "assets/documents/raporlar/2022-ayrintili-bi-lanco.pdf"
-      },
-      {
-        "name": "2022 Ayrıntılı Gelir Tablosu",
-        "url": "https://www.alvit.com.tr/files/fm/2022AYRINTILIGELIRTABLOSU.pdf",
-        "file": "assets/documents/raporlar/2022ayrintiligelirtablosu.pdf"
-      },
-      {
-        "name": "2022 Yılına İlişkin Yönetim Kurulu Gündem",
-        "url": "https://www.alvit.com.tr/files/fm/2022%20YILINA%20%C4%B0L%C4%B0%C5%9EK%C4%B0N%20Y%C3%96NET%C4%B0M%20KURULU%20G%C3%9CNDEM.pdf",
-        "file": "assets/documents/raporlar/2022-yilina-i-li-ski-n-yoneti-m-kurulu-gundem.pdf"
-      },
-      {
-        "name": "2022 Yılına İlişkin Genel Kurul Toplantı Tutanağı",
-        "url": "https://www.alvit.com.tr/files/fm/2022%20YILINA%20%C4%B0L%C4%B0%C5%9EK%C4%B0N%20GENEL%20KURUL%20TOPLANTI%20TUTANA%C4%9EI.pdf",
-        "file": "assets/documents/raporlar/2022-yilina-i-li-ski-n-genel-kurul-toplanti-tutanagi.pdf"
-      }
-    ]
-  },
-  "montaj-kilavuzlari": {
-    "title": "Montaj Kılavuzları",
-    "slug": "montaj-kilavuzlari",
-    "type": "documents",
-    "source_url": "https://www.alvit.com.tr/kurumsal/montaj-kilavuzlari",
-    "documents": [
-      {
-        "name": "asma_klozet_montaji",
-        "url": "https://www.alvit.com.tr/files/fm/asma_klozet_montaji.pdf",
-        "file": "assets/documents/kilavuzlar/asma_klozet_montaji.pdf"
-      },
-      {
-        "name": "gizli_montajli_klozet_montaji",
-        "url": "https://www.alvit.com.tr/files/fm/gizli_montajli_klozet_montaji.pdf",
-        "file": "assets/documents/kilavuzlar/gizli_montajli_klozet_montaji.pdf"
-      },
-      {
-        "name": "duvara_sifir_tek_klozet_montaji",
-        "url": "https://www.alvit.com.tr/files/fm/duvara_sifir_tek_klozet_montaji.pdf",
-        "file": "assets/documents/kilavuzlar/duvara_sifir_tek_klozet_montaji.pdf"
-      },
-      {
-        "name": "duvarasifir_rezervuarli_klozetmontaji",
-        "url": "https://www.alvit.com.tr/files/fm/duvarasifir_rezervuarli_klozetmontaji.pdf",
-        "file": "assets/documents/kilavuzlar/duvarasifir_rezervuarli_klozetmontaji.pdf"
-      },
-      {
-        "name": "lavabo_montaji",
-        "url": "https://www.alvit.com.tr/files/fm/lavabo_montaji.pdf",
-        "file": "assets/documents/kilavuzlar/lavabo_montaji.pdf"
-      },
-      {
-        "name": "yarimayak_lavabo_montaji",
-        "url": "https://www.alvit.com.tr/files/fm/yarimayak_lavabo_montaji.pdf",
-        "file": "assets/documents/kilavuzlar/yarimayak_lavabo_montaji.pdf"
-      },
-      {
-        "name": "kolonayakli_lavabomontaji",
-        "url": "https://www.alvit.com.tr/files/fm/kolonayakli_lavabomontaji.pdf",
-        "file": "assets/documents/kilavuzlar/kolonayakli_lavabomontaji.pdf"
-      },
-      {
-        "name": "asma_monoblok_lavabo_montaji",
-        "url": "https://www.alvit.com.tr/files/fm/asma_monoblok_lavabo_montaji.pdf",
-        "file": "assets/documents/kilavuzlar/asma_monoblok_lavabo_montaji.pdf"
-      }
-    ]
-  },
-  "urun-montaj-videolari": {
-    "title": "Ürün Montaj Videoları",
-    "slug": "urun-montaj-videolari",
-    "type": "videos",
-    "source_url": "https://www.alvit.com.tr/kurumsal/urun-montaj-videolari",
-    "videos": [
-      {
-        "id": "tZI0ik2idHY",
-        "title": "ASMA KLOZET MONTAJI"
-      },
-      {
-        "id": "aqllv5FeogI",
-        "title": "LAVABO VE YAYLI YARIM AYAK MONTAJI"
-      },
-      {
-        "id": "2qioSb9KcJU",
-        "title": "REZERVUAR MONTAJI duvara sıfır klozet"
-      }
-    ]
-  },
-  "kisisel-verilerin-korunmasi-politikasi": {
-    "title": "Kişisel Verilerin Korunması Politikası",
-    "slug": "kisisel-verilerin-korunmasi-politikasi",
-    "type": "text",
-    "source_url": "https://www.alvit.com.tr/kurumsal/kisisel-verilerin-korunmasi-politikasi",
-    "content": "<p><strong>AMAÇ </strong><br>\r\nBu Politikanın amacı, Bartın Seramik A.Ş. (Kuruluş) nin temasta bulunduğu Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilginin işlenmesinde başta özel hayatın gizliliği olmak üzere kişilerin temel hak ve özgürlüklerini korumak ve kuruluşumuzun yükümlülükleri ile uyacakları usul ve esasları yönetim sistemi anlayışı içerisinde düzenlemek amacıyla hazırlanmıştır.</p>\r\n\r\n<p><strong>1. KAPSAM </strong><br>\r\nBu politika, kuruluşumuz tarafından kişisel verileri işlenen gerçek kişiler ile bu verileri tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işleyen gerçek ve tüzel kişileri ve bu verilerin yönetilmesini sağlayan yönetim sistemini kapsar.</p>\r\n\r\n<p><strong>2. SORUMLULUK</strong><br>\r\nİrtibat Kişisi, Veri İşleyenler ve Tüm çalışanlar</p>\r\n\r\n<p><strong>3. TANIMLAR VE KISALTMALAR</strong><br>\r\nBu politikanın ve Kuruluşumuzda uygulanan Kişisel Veri Yönetim Sisteminin uygulanmasında; </p>\r\n\r\n<p>a) Açık rıza: Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rızayı, <br>\r\nb) Anonim hâle getirme: Kişisel verilerin, başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli veya belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek hâle getirilmesini, <br>\r\nç) İlgili kişi: Kişisel verisi işlenen gerçek kişiyi, <br>\r\nd) Kişisel veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi, <br>\r\ne) Kişisel verilerin işlenmesi: Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hâle getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlemi, <br>\r\nf) Kurul: Kişisel Verileri Koruma Kurulunu, <br>\r\ng) Kurum: Kişisel Verileri Koruma Kurumunu, <br>\r\nğ) Veri işleyen: Veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel verileri işleyen gerçek veya tüzel kişiyi,<br>\r\nh) Veri kayıt sistemi: Kişisel verilerin belirli kriterlere göre yapılandırılarak işlendiği kayıt sistemini, <br>\r\nı) Veri sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi, ifade eder. </p>\r\n\r\n<p><strong>4. UYGULAMA<br>\r\n4.1. Kişisel Verilerin İşlenmesi <br>\r\n4.1.1. Genel ilkeler </strong></p>\r\n\r\n<p>Kuruluşumuzda kişisel veriler, 6698 sayılı Kişisel Verilerin Korunması Kanunu, bu kanuna bağlı olarak yayınlanan yönetmelik, tebliğ, Kurul Kararları ve rehberler ile birimlerimizde yapılan işlerle ilgili diğer kanunlarda öngörülen usul ve esaslara uygun olarak işlenmektedir.</p>\r\n\r\n<p><strong>4.1.2. Kuruluşumuz kişisel verilerin işlenmesi sırasında;</strong><br>\r\n•    Hukuka uygun olma ilkesi kapsamında; Kişisel verilerin işlenmesinde kanunlarla ve diğer hukuksal düzenlemelerle getirilen ilkelere uygun hareket edilmesi zorunluluğunu uygulamaktadır.<br>\r\n•    Dürüstlük kurallarına uygun olma ilkesi kapsamında; İlgili kişi aydınlatılmadan hiçbir şekilde kişisel verileri işlenmemektedir. Kişisel veriler ilgili kişiye karşı haksızlığa yol açacak şekilde kullanmamaktadır, toplanma amacını aşmamaktadır.<br>\r\n•    Doğru ve gerektiğinde güncel olma ilkesi kapsamında; Kişisel verilere dayalı olarak ilgili kişiye dair bir sonuç ortaya çıktığı için kişisel veriler doğru ve güncel olarak tutulmaktadır. Bununla beraber kuruluşumuz her zaman ilgili kişinin bilgilerinin doğru ve güncel olmasını temin edecek kanalları açık tutmaktadır.<br>\r\n•    Belirli, açık ve meşru amaçlar için işlenme ilkesi kapsamında; Kişisel veri işleme faaliyetleri ilgili kişi tarafından açık bir şekilde anlaşılabilir tutulmaktadır. Kişisel veri işleme faaliyetlerinin hangi hukuki işleme şartına dayalı olarak gerçekleştirildiği açıkça tanımlanmıştır. Kişisel veri işleme faaliyetinin ve bu faaliyetin gerçekleştirilme amacının belirliliğini sağlayacak detayda ortaya konulmaktadır. <br>\r\n•    Amacın meşru olması ilkesi kapsamında; işlenen veriler yapılan iş ile bağlantılı tutulmakta ve yapılan iş için gereklidir.<br>\r\n•    İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma ilkesi kapsamında; Mevcutta olmayan ve sonradan gerçekleşmesi düşünülen amaçlarla kişisel veri toplanmamaktadır. Kişisel veri işleme faaliyetinin gerçekleşmesi için gerekli olmayan ölçüde kişisel veri işlenmemektedir. Kişisel veriler yalnızca belirli amaçlar için ve gerektiği kadar toplanmaktadır ve amacın gerektirdiği yerlerde kullanılmaktadır.<br>\r\n•    İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza edilme ilkesi kapsamında; İlgili mevzuatta verilerin saklanması için öngörülen süreye uyulmakta, kişisel verileri ancak işlendikleri amaç için gerekli olan süre kadar muhafaza edilmektedir. Bir verinin daha fazla saklanması gerekmediğinde o veri silinmekte, yok edilmekte ya da anonim hale getirilmektedir. İleride tekrar kullanılabileceği düşünülerek ya da herhangi bir başka gerekçe ile kişisel veriler muhafaza edilmemektedir.</p>\r\n\r\n<p><strong>4.2. Kişisel verilerin işlenme şartları </strong><br>\r\nKuruluşumuzda kişisel veriler ilgili kişinin açık rızası olmaksızın işlenmemektedir. Ancak, kanunlarda açıkça öngörülmesi, fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması, bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, hukuki yükümlülüğü yerine getirebilmesi için zorunlu olması ilgili kişinin kendisi tarafından alenileştirilmiş olması, bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması, ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması. Şartlardan birinin varlığı hâlinde, ilgili kişinin açık rızası aranmaksızın kişisel verilerin işlenmesi mümkündür.</p>\r\n\r\n<p><strong>4.3. Özel nitelikli kişisel verilerin işlenme şartları </strong><br>\r\nKişilerin dernek, vakıf ya da sendika üyeliği, sağlığı, ceza mahkûmiyeti ve güvenlik tedbirleriyle ilgili verileri ile biyometrik verileri özel nitelikli kişisel veridir. Özel nitelikli kişisel verilerin, ilgilinin açık rızası olmaksızın işlenmesi yasaktır. Kuruluşumuzda ilgili yasalar gereği alınan özel nitelikli veriler için ilgili kişiden açık rıza alınmaktadır. Sağlık dışındaki kişisel veriler, kanunlarda öngörülen hâllerde ilgili kişinin açık rızası aranmadan işlenmektedir. Bununla beraber özel nitelikli kişisel verilerin işlenmesinde, Kurul tarafından belirlenen yeterli önlemler de ayrıca alınmaktadır.</p>\r\n\r\n<p><strong>4.4. Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesi </strong><br>\r\nKuruluşumuzda bu kanun ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde, diğer kanunlarda yer alan hükümler saklı kalmak üzere kişisel veriler resen veya ilgili kişinin talebi üzerine veri sorumlusu tarafından “Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik”e göre silinir, yok edilir veya anonim hâle getirilir. “Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Politikası” ile uygulanmaktadır.</p>\r\n\r\n<p><strong>4.5. Kişisel verilerin aktarılması</strong><br>\r\nKuruluşumuzda kişisel veriler ilgili kişinin açık rızası olmaksızın aktarılamaz, veri aktarma hususları Veri Sorumluları ile Veri İşleyenler arasında konuya uygun olarak hazırlanmış taahhütnameler ile düzenlenmektedir. Kişisel verilerin aktarılmasına ilişkin diğer kanunlarda yer alan hükümler ayrıca değerlendirilmektedir.</p>\r\n\r\n<p>Kişisel veriler, Ancak, kanunlarda açıkça öngörülmesi, fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması, bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, hukuki yükümlülüğü yerine getirebilmesi için zorunlu olması ilgili kişinin kendisi tarafından alenileştirilmiş olması, bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması, ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması, şartlardan birinin varlığı hâlinde, ilgili kişinin açık rızası aranmaksızın aktarılabilir.</p>\r\n\r\n<p>Yukarıda belirtilen şartlardan birinin varlığı hâlinde, Kişisel verilerin yurt dışına aktarılmak istenmesi durumunda kişisel verinin aktarılacağı yabancı ülkede; yeterli korumanın bulunması, yeterli korumanın bulunmaması durumunda Türkiye’deki ve ilgili yabancı ülkedeki veri sorumlularının yeterli bir korumayı yazılı olarak taahhüt etmeleri ve Kurulun izninin bulunması ve ilgili kişinin açık rızası aranmaksızın yurt dışına aktarılabilir.</p>\r\n\r\n<p><strong>4.6. Veri sorumlusunun aydınlatma yükümlülüğü </strong><br>\r\nKuruluşumuzda, ilgili kişilere aydınlatma metinleri içerisinde; Veri sorumlusunun kimliği, Kişisel verilerin hangi amaçla işleneceği, İşlenen kişisel verilerin kimlere ve hangi amaçla aktarılabileceği, Kişisel veri toplamanın yöntemi ve hukuki sebebi, hakları, konusunda bilgi verilmektedir. </p>\r\n\r\n<p>İlgili kişinin hakları kapsamında herkes, kuruluşumuza başvurarak kendisiyle ilgili; Kişisel veri işlenip işlenmediğini öğrenme, Kişisel verileri işlenmişse buna ilişkin bilgi talep etme, Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme, Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme, <br>\r\nKişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme (kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme) kişisel verilerin silinmesini veya yok edilmesini isteme (kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme), İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme, Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme haklarına sahiptir. </p>\r\n\r\n<p><strong>4.7. Veri güvenliğine ilişkin yükümlülükler </strong><br>\r\nKuruluşumuzun Veri sorumlusu olarak yapacağı iş ve sorumlulukları başta kişisel verilerin hukuka aykırı olarak işlenmesini önlemek, Kişisel verilere hukuka aykırı olarak erişilmesini önlemek ve kişisel verilerin muhafazasını sağlamak ile belirlenmiş güvenlik düzeyini temin etmeye yönelik gerekli her türlü görev yetki ve sorumluluklar “İrtibat Kişisinin Yapacağı İşler Talimatı” içerisinde tanımlanmıştır.</p>\r\n\r\n<p>Bununla birlikte Kuruluşumuzda Kişisel verilerin muhafazasını sağlamak amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbir “Kişisel Verilere Erişim Kişisel Veri Güvenliği Ve Gizlilik Politikası” uygulanarak alınmıştır.</p>\r\n\r\n<p>İşlenen kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi hâlinde, uygulanacak prosedür tanımlanmıştır.</p>\r\n\r\n<p><br>\r\n<strong>4.8. Veri sorumlusuna başvuru </strong><br>\r\nİlgili kişi, işlenen verileri ile ilgili taleplerini yazılı olarak veya Kurulun belirleyeceği diğer yöntemlerle kuruluşumuza iletebilir. Alınan talepler, talebin niteliğine göre en kısa sürede ve en geç otuz gün içinde ücretsiz olarak sonuçlandırır. Ancak, işlemin ayrıca bir maliyeti gerektirmesi hâlinde, Kurulca belirlenen tarifedeki ücret alınabilir. Kuruluşumuz talebi kabul eder veya gerekçesini açıklayarak reddeder ve cevabını ilgili kişiye yazılı olarak veya elektronik ortamda bildirir. Başvuruda yer alan talebin kabul edilmesi hâlinde gereği yerine getirilir. </p>\r\n\r\n<p><strong>4.9. Veri Sorumluları Sicili</strong><br>\r\nKuruluşumuz veri işlemeye başlamadan önce Veri Sorumluları Siciline kaydolmuştur. </p>",
-    "documents": []
-  },
-  "cerez-aydinlatma-metni": {
-    "title": "Çerez Aydınlatma Metni",
-    "slug": "cerez-aydinlatma-metni",
-    "type": "text",
-    "source_url": "https://www.alvit.com.tr/kurumsal/cerez-aydinlatma-metni",
-    "content": "<p><strong>ÇEREZ AYDINLATMA METNİ </strong><br>\r\n<br>\r\n<strong>1. ÇEREZLERE İLİŞKİN GENEL BİLGİ</strong><br>\r\nBu aydınlatma metni, BARTIN SERAMİK Sanayi ve Tic. A.Ş tarafından yönetilen internet sitelerini kapsamakta olup, çerez kullanımına ilişkin açıklamalar içermektedir. Sitemizi kullanarak çerezlerin işbu aydınlatma metninde belirtilen şekilde kullanılmalarını onaylamış olursunuz.</p>\r\n\r\n<p><strong>1.1. Çerez (Cookie) Nedir?</strong><br>\r\nÇerezler, bir internet sitesi ziyaret edildiğinde ziyaretçinin cihazında (örneğin bilgisayar veya telefon) depolanan ve isim-değer formatında veri barındırabilen küçük metin dosyalarıdır. Söz konusu metin dosyaları bunlara erişim sağlayabilen tarayıcı ve sunucular tarafından anlamlandırılabilmekte ve bu yolla internet sitesine ziyaretin gerçekleştirildiği cihaz ve dolayısıyla ilgili kullanıcı hakkında çeşitli bilgiler elde edilebilmektedir. </p>\r\n\r\n<p><br>\r\n<strong>1.2. Çerezler Ne Amaçla Kullanılmaktadır?</strong><br>\r\nÇerezler birçok farklı hedef için kullanılmaktadır. Örnek vermek gerekirse, çerezlere daha çok aşağıda belirtilen amaçlarla başvurulmaktadır:</p>\r\n\r\n<p>o    İnternet sitesinin düzgün bir şekilde çalışması (Örneğin; sitenin içerisindeki metin, fotoğraf, bağlantı gibi içeriklerin doğru yerlerde görüntülenmesi)</p>\r\n\r\n<p>o    Ziyaretçiler için daha kişiselleştirilmiş ve daha ilgi çekici bir deneyim sunulabilmesi (Örneğin; tercihlerinize özel hizmetlerin sunulması)</p>\r\n\r\n<p>o    İnternet sitesinin geliştirilerek optimize edilmesi (Örneğin; hata bulunan veya tercih edilmeyen sayfaların işler hale getirilmesi) ve</p>\r\n\r\n<p>o    Ziyaretçilerin tercihlerinin hatırlanması (Örneğin; internet sitemize giriş yaparken girdiğiniz bilgiler, dil tercihi ve diğer tercihler)</p>\r\n\r\n<p><strong>1.3. Çerez Türleri Nelerdir?</strong><br>\r\nOturum Çerezleri: İnternet sitesinden ayrılana dek cihazlarınızda tutulan geçici çerezleri ifade eder.<br>\r\nKalıcı Çerezler: Cihazınızın sabit diskinde uzun süreler kalan türde çerezler olup, kullanım süreleri birkaç günden birkaç yıla kadar değişiklik gösterebilmektedir.<br>\r\n<br>\r\n<strong>İşlevselliklerine Göre Çerezler</strong><br>\r\nZorunlu Çerezler: İnternet sitesinin düzgün bir şekilde çalışabilmesi ve kullanıcıların sitede sunulan hizmetlerden ve gezinme özelliklerinden yararlanmaları için kullanılmaları mecburi olan çerezlerdir.<br>\r\n<br>\r\nİşlevsel ve Analitik Çerezler: Tercihlerinizin hatırlanması, internet sitesinin etkin şekilde kullanılması, sitenin kullanıcı isteklerine cevap verecek şekilde optimize edilmesi gibi amaçlarla kullanılan ve ziyaretçilerin siteyi nasıl kullandığı hakkında verileri içeren çerezlerdir. Niteliği gereği bu türdeki çerezler kişisel verilerinizi içerebilir. Örneğin; sitemizde dil tercihinizi kaydeden çerezler birer işlevsel çerezdir.</p>\r\n\r\n<p><br>\r\n<strong>1.4. Çerezlerle İlgili Daha Detaylı Bilgiye Nereden Ulaşabilirim?</strong><br>\r\nÇerez metinlerinin içeriği çoğu zaman yalnızca mühendislerin işleyebileceği nitelikte olup, çerezler ile ilgili daha detaylı ve anlaşılabilir bir dil üzerinden bilgi almak isteyen ziyaretçilerimizin www.allaboutcookies.org veya www.aboutcookies.org (İngilizce) adreslerini ziyaret etmeleri önerilir.</p>\r\n\r\n<p><br>\r\n<strong>2. BARTIN SERAMİK Sanayi ve Tic. A.Ş Olarak Çerez Kullanımımız<br>\r\n2.1. İnternet Sitemizin Kullanımı Kapsamında Çerezleri Kim, Nasıl Gönderir?</strong></p>\r\n\r\n<p>Çerezler;<br>\r\n1. BARTIN SERAMİK Sanayi ve Tic. A.Ş tarafından ve/veya,<br>\r\n2. Eğer ziyaret edilen sayfada video veya fotoğraf gibi bazı içerikler sağlanmakta ise, üçüncü kişiler tarafından ve gezintiniz sırasında cihazınızda bulunan tarayıcı (Google Chrome, Safari vb.) ile sunucular arasında kurulan iletişim vasıtasıyla gönderilmektedir.</p>\r\n\r\n<p><strong>2.2. Cihazınızdan Aldığımız Bilgileri Nasıl Kullanıyoruz? </strong><br>\r\nÇerezler;</p>\r\n\r\n<p>o    İnternet sitemizi ziyaretiniz sırasında yaptığınız gezinti ve kullanım tercihlerinin,<br>\r\no    İnternet sitemizde cevapladığınız anket veya değerlendirmeye ilişkin bilgi ve sonuçların ve<br>\r\no    Tercihlerinize ilişkin bilgilerin hatırlanmasında yardımcı olur.</p>\r\n\r\n<p>Ayrıca, internet sitemizde yer alan yazıları, haberleri ve diğer sekmelerde yer alan içerikleri ziyaretleriniz sırasındaki tıklama sıklığı ve ziyaret edilen sayfalara ilişkin kullanım verilerini anonim hale getirmek suretiyle istatistiki amaçlarla kullanırız.</p>\r\n\r\n<p>Çerezler üzerinden topladığımız verileri kimliğinizi belirlemek amacıyla kullanmayız. Çerezler bu Politikada belirtilen amaçlar dışında kullanılmaz ve veri koruma mevzuatına aykırı olarak işlenmez.</p>\r\n\r\n<p><strong>2.3. Çerezleri Nasıl Kontrol Ederim?</strong><br>\r\nİnternet sitemizi kullanabilmek için çerezleri kabul etmek zorunda değilsiniz fakat bu <br>\r\nDurumda kullanıcı deneyiminizin kalitesi düşebilir.</p>\r\n\r\n<p>Çerezleri silebilir veya internet tarayıcınızı çerezleri engelleyebilecek şekilde ayarlayabilirsiniz fakat bu halde internet sitemizde yer alan bazı hizmetler olması gerektiği gibi çalışamayabilir.</p>\r\n\r\n<p>Tarayıcınızın çerezler ile ilgili ayarları hakkında detaylı bilgi için:<br>\r\nChrome https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=tr<br>\r\nFirefox https://support.mozilla.org/tr/kb/web-sitesi-tercihleri-cerezleri-acip-kapatma<br>\r\nSafari Browser https://support.apple.com/tr-tr/guide/safari/sfri11471/mac<br>\r\nOpera Bowser https://www.opera.com/tr/terms<br>\r\nMicrosoft Internet Edge Browser<br>\r\nhttps://support.microsoft.com/tr-tr/help/17442/windows-internet-explorer-delete-manage-cookies</p>",
-    "documents": []
-  },
-  "kvkk-ilgili-kisi-basvuru-formu": {
-    "title": "KVKK İlgili Kişi Başvuru Formu",
-    "slug": "kvkk-ilgili-kisi-basvuru-formu",
-    "type": "text",
-    "source_url": "https://www.alvit.com.tr/kurumsal/kvkk-ilgili-kisi-basvuru-formu",
-    "content": "<p><strong>KİŞİSEL VERİLERİN KORUNMASI KANUNU İLGİLİ KİŞİ BAŞVURU FORMU</strong></p>\r\n\r\n<p>6698 Sayılı Kişisel Verilerin Korunması Kanunu’nun (“KVKK”) 13. Maddesinde, KVKK’ da ilgili kişi olarak tanımlanan kişisel veri sahiplerine (Bundan sonra “Talep Sahibi” olarak anılacaktır) veri sorumlularına başvuru yaparak KVKK’ nın 11. Maddesinde sayılı olan kişisel verilerinin işlenmesine ilişkin birtakım taleplerde bulunma hakkı tanınmıştır.  <br>\r\n </p>",
-    "documents": [
-      {
-        "name": "ilgili_kisi-basvuru-formu",
-        "url": "https://www.alvit.com.tr/files/fm/ilgili_kisi-basvuru-formu.docx",
-        "file": "assets/documents/kurumsal/ilgili_kisi-basvuru-formu.docx"
-      }
-    ]
-  }
+    "raporlar": {
+        "title": "Raporlar",
+        "slug": "raporlar",
+        "type": "documents",
+        "source_url": "https:\/\/www.alvit.com.tr\/kurumsal\/raporlar",
+        "documents": [
+            {
+                "name": "2018 Yılı Yönetim Kurulu Faaliyet Raporu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2018-Yonetim-Kurulu-Faaliyet-Raporu.pdf",
+                "file": "assets\/documents\/raporlar\/2018-yonetim-kurulu-faaliyet-raporu.pdf"
+            },
+            {
+                "name": "2018 Yılı Bilanço ve Gelir Tablosu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2018-Bilanco-Gelir-Tablosu.pdf",
+                "file": "assets\/documents\/raporlar\/2018-bilanco-gelir-tablosu.pdf"
+            },
+            {
+                "name": "2019 Genel Kurul Toplantı Tutanağı",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2019-Genel-Kurul-Toplanti-Tutanagi.pdf",
+                "file": "assets\/documents\/raporlar\/2019-genel-kurul-toplanti-tutanagi.pdf"
+            },
+            {
+                "name": "2019 Bağımsız Denetim Raporu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2019_bagimsiz_denetim_raporu.pdf",
+                "file": "assets\/documents\/raporlar\/2019_bagimsiz_denetim_raporu.pdf"
+            },
+            {
+                "name": "2019 Yılına İlişkin Genel Kurul Toplantı Tutanağı",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2019-Yilina-iliskin-genel-kurul-toplanti-tutanagi.pdf",
+                "file": "assets\/documents\/raporlar\/2019-yilina-iliskin-genel-kurul-toplanti-tutanagi.pdf"
+            },
+            {
+                "name": "2019 Yılına İlişkin Yönetim Kurulu Gündem",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2019-yilina-iliskin-yonetim-kurulu-gundem.pdf",
+                "file": "assets\/documents\/raporlar\/2019-yilina-iliskin-yonetim-kurulu-gundem.pdf"
+            },
+            {
+                "name": "2020 Yönetim Kurulu Başkanı Kararı",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2020-yonetim-kurulu-baskani-karari.pdf",
+                "file": "assets\/documents\/raporlar\/2020-yonetim-kurulu-baskani-karari.pdf"
+            },
+            {
+                "name": "2020 Yılına İlişkin Faaliyet Raporu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2020-Yilina-%C4%B0liskin-Faaliyet-Raporu.pdf",
+                "file": "assets\/documents\/raporlar\/2020-yilina-i-liskin-faaliyet-raporu.pdf"
+            },
+            {
+                "name": "2020 Yılına İlişkin Genel Kurul Toplantı Tutanağı",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2020-Yilina-%C4%B0liskin-Genel-Kurul-Toplanti-Tutanagi.pdf",
+                "file": "assets\/documents\/raporlar\/2020-yilina-i-liskin-genel-kurul-toplanti-tutanagi.pdf"
+            },
+            {
+                "name": "2020 Yılına İlişkin Yönetim Kurulu Gündem",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2020-Yilina-%C4%B0liskin-Yonetim-Kurulu-Gundem.pdf",
+                "file": "assets\/documents\/raporlar\/2020-yilina-i-liskin-yonetim-kurulu-gundem.pdf"
+            },
+            {
+                "name": "2020 Bağımsız Denetim Raporu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/Bartin-Seramik-2020-Bagimsiz-Denetim-Raporu.pdf",
+                "file": "assets\/documents\/raporlar\/bartin-seramik-2020-bagimsiz-denetim-raporu.pdf"
+            },
+            {
+                "name": "2020 Gelir Tablosu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/Seramik-2020-Gelir-Tablosu.pdf",
+                "file": "assets\/documents\/raporlar\/seramik-2020-gelir-tablosu.pdf"
+            },
+            {
+                "name": "2020 İşletme Ayrıntılı Bilanço",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/Seramik_2020_%C4%B0sletme_Ayrintili_Bilanco.pdf",
+                "file": "assets\/documents\/raporlar\/seramik_2020_i-sletme_ayrintili_bilanco.pdf"
+            },
+            {
+                "name": "2021 Yılına İlişkin Riskin Erken Saptanması Sistemi ve Komitesi Hakkında Bağımsız Denetçi Raporu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/BARTIN%20SERAM%C4%B0K%202021%20R%C4%B0SK%C4%B0N%20ERKEN%20SAPTANMASI%20S%C4%B0STEM%C4%B0%20VE%20KOM%C4%B0TES%C4%B0%20HAKKINDA%20BA%C4%9EIMSIZ%20DENET%C3%87%C4%B0%20RAPORU.pdf",
+                "file": "assets\/documents\/raporlar\/bartin-serami-k-2021-ri-ski-n-erken-saptanmasi-si-stemi-ve-komi-tesi-hakkinda-bagimsiz-denetci-raporu.pdf"
+            },
+            {
+                "name": "2021 Yılına İlişkin Finansal Tablolar ve Bağımsız Denetçi Raporu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/Bart%C4%B1n%20Seramik-%C4%B0mzal%C4%B1%202021%20Ba%C4%9F%C4%B1ms%C4%B1z%20Denetim%20Raporu.pdf",
+                "file": "assets\/documents\/raporlar\/bartin-seramik-i-mzali-2021-bagimsiz-denetim-raporu.pdf"
+            },
+            {
+                "name": "2021 Yılına İlişkin Faaliyet Raporu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/BARTIN%20SERAM%C4%B0K%202021%20FAAL%C4%B0YET%20RAPORU.pdf",
+                "file": "assets\/documents\/raporlar\/bartin-serami-k-2021-faali-yet-raporu.pdf"
+            },
+            {
+                "name": "2021 Ayrıntılı Bilanço",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/SERAM%C4%B0K%202021%20AYRINTILI%20B%C4%B0LAN%C3%87O%202.pdf",
+                "file": "assets\/documents\/raporlar\/serami-k-2021-ayrintili-bi-lanco-2.pdf"
+            },
+            {
+                "name": "2021 Ayrıntılı Gelir Tablosu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/SERAM%C4%B0K%202021%20AYRINTILI%20GEL%C4%B0R-TABLOSU.pdf",
+                "file": "assets\/documents\/raporlar\/serami-k-2021-ayrintili-geli-r-tablosu.pdf"
+            },
+            {
+                "name": "2021 Yılına İlişkin Yönetim Kurulu Gündem",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2021%20YILINA%20%C4%B0L%C4%B0%C5%9EK%C4%B0N%20Y%C3%96NET%C4%B0M%20KURULU%20G%C3%9CNDEM.pdf",
+                "file": "assets\/documents\/raporlar\/2021-yilina-i-li-ski-n-yoneti-m-kurulu-gundem.pdf"
+            },
+            {
+                "name": "2021 Yılına İlişkin Genel Kurul Toplantı Tutanağı",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2021%20YILINA%20%C4%B0L%C4%B0%C5%9EK%C4%B0N%20GENEL%20KURUL%20TOPLANTI%20TUTANA%C4%9EI.pdf",
+                "file": "assets\/documents\/raporlar\/2021-yilina-i-li-ski-n-genel-kurul-toplanti-tutanagi.pdf"
+            },
+            {
+                "name": "2022 Yılına İlişkin Riskin Erken Saptanması Sistemi ve Komitesi Hakkında Bağımsız Denetçi Raporu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/BARTIN%20SERAM%C4%B0K%202022%20R%C4%B0SK%C4%B0N%20ERKEN%20SAPTANMASI%20S%C4%B0STEM%C4%B0%20VE%20KOM%C4%B0TES%C4%B0%20HAKKINDA%20BA%C4%9EIMSIZ%20DENET%C3%87%C4%B0%20RAPORU.pdf",
+                "file": "assets\/documents\/raporlar\/bartin-serami-k-2022-ri-ski-n-erken-saptanmasi-si-stemi-ve-komi-tesi-hakkinda-bagimsiz-denetci-raporu.pdf"
+            },
+            {
+                "name": "2022 Yılına İlişkin Finansal Tablolar ve Bağımsız Denetçi Raporu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/SERAM%C4%B0K%202022%20BA%C4%9EIMSIZ%20DENET%C4%B0M%20RAPORU.pdf",
+                "file": "assets\/documents\/raporlar\/serami-k-2022-bagimsiz-deneti-m-raporu.pdf"
+            },
+            {
+                "name": "2022 Yılına İlişkin Faaliyet Raporu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/BARTINSERAMIK%202022FAALIYET%20RAPORU.pdf",
+                "file": "assets\/documents\/raporlar\/bartinseramik-2022faaliyet-raporu.pdf"
+            },
+            {
+                "name": "2022 Ayrıntılı Bilanço",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2022%20AYRINTILI%20B%C4%B0LAN%C3%87O.pdf",
+                "file": "assets\/documents\/raporlar\/2022-ayrintili-bi-lanco.pdf"
+            },
+            {
+                "name": "2022 Ayrıntılı Gelir Tablosu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2022AYRINTILIGELIRTABLOSU.pdf",
+                "file": "assets\/documents\/raporlar\/2022ayrintiligelirtablosu.pdf"
+            },
+            {
+                "name": "2022 Yılına İlişkin Yönetim Kurulu Gündem",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2022%20YILINA%20%C4%B0L%C4%B0%C5%9EK%C4%B0N%20Y%C3%96NET%C4%B0M%20KURULU%20G%C3%9CNDEM.pdf",
+                "file": "assets\/documents\/raporlar\/2022-yilina-i-li-ski-n-yoneti-m-kurulu-gundem.pdf"
+            },
+            {
+                "name": "2022 Yılına İlişkin Genel Kurul Toplantı Tutanağı",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/2022%20YILINA%20%C4%B0L%C4%B0%C5%9EK%C4%B0N%20GENEL%20KURUL%20TOPLANTI%20TUTANA%C4%9EI.pdf",
+                "file": "assets\/documents\/raporlar\/2022-yilina-i-li-ski-n-genel-kurul-toplanti-tutanagi.pdf"
+            }
+        ]
+    },
+    "montaj-kilavuzlari": {
+        "title": "Montaj Kılavuzları",
+        "slug": "montaj-kilavuzlari",
+        "type": "documents",
+        "source_url": "https:\/\/www.alvit.com.tr\/kurumsal\/montaj-kilavuzlari",
+        "documents": [
+            {
+                "name": "asma_klozet_montaji",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/asma_klozet_montaji.pdf",
+                "file": "assets\/documents\/kilavuzlar\/asma_klozet_montaji.pdf"
+            },
+            {
+                "name": "gizli_montajli_klozet_montaji",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/gizli_montajli_klozet_montaji.pdf",
+                "file": "assets\/documents\/kilavuzlar\/gizli_montajli_klozet_montaji.pdf"
+            },
+            {
+                "name": "duvara_sifir_tek_klozet_montaji",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/duvara_sifir_tek_klozet_montaji.pdf",
+                "file": "assets\/documents\/kilavuzlar\/duvara_sifir_tek_klozet_montaji.pdf"
+            },
+            {
+                "name": "duvarasifir_rezervuarli_klozetmontaji",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/duvarasifir_rezervuarli_klozetmontaji.pdf",
+                "file": "assets\/documents\/kilavuzlar\/duvarasifir_rezervuarli_klozetmontaji.pdf"
+            },
+            {
+                "name": "lavabo_montaji",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/lavabo_montaji.pdf",
+                "file": "assets\/documents\/kilavuzlar\/lavabo_montaji.pdf"
+            },
+            {
+                "name": "yarimayak_lavabo_montaji",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/yarimayak_lavabo_montaji.pdf",
+                "file": "assets\/documents\/kilavuzlar\/yarimayak_lavabo_montaji.pdf"
+            },
+            {
+                "name": "kolonayakli_lavabomontaji",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/kolonayakli_lavabomontaji.pdf",
+                "file": "assets\/documents\/kilavuzlar\/kolonayakli_lavabomontaji.pdf"
+            },
+            {
+                "name": "asma_monoblok_lavabo_montaji",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/asma_monoblok_lavabo_montaji.pdf",
+                "file": "assets\/documents\/kilavuzlar\/asma_monoblok_lavabo_montaji.pdf"
+            }
+        ]
+    },
+    "urun-montaj-videolari": {
+        "title": "Ürün Montaj Videoları",
+        "slug": "urun-montaj-videolari",
+        "type": "videos",
+        "source_url": "https:\/\/www.alvit.com.tr\/kurumsal\/urun-montaj-videolari",
+        "videos": [
+            {
+                "id": "tZI0ik2idHY",
+                "title": "ASMA KLOZET MONTAJI"
+            },
+            {
+                "id": "aqllv5FeogI",
+                "title": "LAVABO VE YAYLI YARIM AYAK MONTAJI"
+            },
+            {
+                "id": "2qioSb9KcJU",
+                "title": "REZERVUAR MONTAJI duvara sıfır klozet"
+            }
+        ]
+    },
+    "kisisel-verilerin-korunmasi-politikasi": {
+        "title": "Kişisel Verilerin Korunması Politikası",
+        "slug": "kisisel-verilerin-korunmasi-politikasi",
+        "type": "text",
+        "source_url": "https:\/\/www.alvit.com.tr\/kurumsal\/kisisel-verilerin-korunmasi-politikasi",
+        "content": "<p><strong>AMAÇ <\/strong><br>\r\nBu Politikanın amacı, Bartın Seramik A.Ş. (Kuruluş) nin temasta bulunduğu Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilginin işlenmesinde başta özel hayatın gizliliği olmak üzere kişilerin temel hak ve özgürlüklerini korumak ve kuruluşumuzun yükümlülükleri ile uyacakları usul ve esasları yönetim sistemi anlayışı içerisinde düzenlemek amacıyla hazırlanmıştır.<\/p>\r\n\r\n<p><strong>1. KAPSAM <\/strong><br>\r\nBu politika, kuruluşumuz tarafından kişisel verileri işlenen gerçek kişiler ile bu verileri tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işleyen gerçek ve tüzel kişileri ve bu verilerin yönetilmesini sağlayan yönetim sistemini kapsar.<\/p>\r\n\r\n<p><strong>2. SORUMLULUK<\/strong><br>\r\nİrtibat Kişisi, Veri İşleyenler ve Tüm çalışanlar<\/p>\r\n\r\n<p><strong>3. TANIMLAR VE KISALTMALAR<\/strong><br>\r\nBu politikanın ve Kuruluşumuzda uygulanan Kişisel Veri Yönetim Sisteminin uygulanmasında; <\/p>\r\n\r\n<p>a) Açık rıza: Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rızayı, <br>\r\nb) Anonim hâle getirme: Kişisel verilerin, başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli veya belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek hâle getirilmesini, <br>\r\nç) İlgili kişi: Kişisel verisi işlenen gerçek kişiyi, <br>\r\nd) Kişisel veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi, <br>\r\ne) Kişisel verilerin işlenmesi: Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hâle getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlemi, <br>\r\nf) Kurul: Kişisel Verileri Koruma Kurulunu, <br>\r\ng) Kurum: Kişisel Verileri Koruma Kurumunu, <br>\r\nğ) Veri işleyen: Veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel verileri işleyen gerçek veya tüzel kişiyi,<br>\r\nh) Veri kayıt sistemi: Kişisel verilerin belirli kriterlere göre yapılandırılarak işlendiği kayıt sistemini, <br>\r\nı) Veri sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi, ifade eder. <\/p>\r\n\r\n<p><strong>4. UYGULAMA<br>\r\n4.1. Kişisel Verilerin İşlenmesi <br>\r\n4.1.1. Genel ilkeler <\/strong><\/p>\r\n\r\n<p>Kuruluşumuzda kişisel veriler, 6698 sayılı Kişisel Verilerin Korunması Kanunu, bu kanuna bağlı olarak yayınlanan yönetmelik, tebliğ, Kurul Kararları ve rehberler ile birimlerimizde yapılan işlerle ilgili diğer kanunlarda öngörülen usul ve esaslara uygun olarak işlenmektedir.<\/p>\r\n\r\n<p><strong>4.1.2. Kuruluşumuz kişisel verilerin işlenmesi sırasında;<\/strong><br>\r\n•    Hukuka uygun olma ilkesi kapsamında; Kişisel verilerin işlenmesinde kanunlarla ve diğer hukuksal düzenlemelerle getirilen ilkelere uygun hareket edilmesi zorunluluğunu uygulamaktadır.<br>\r\n•    Dürüstlük kurallarına uygun olma ilkesi kapsamında; İlgili kişi aydınlatılmadan hiçbir şekilde kişisel verileri işlenmemektedir. Kişisel veriler ilgili kişiye karşı haksızlığa yol açacak şekilde kullanmamaktadır, toplanma amacını aşmamaktadır.<br>\r\n•    Doğru ve gerektiğinde güncel olma ilkesi kapsamında; Kişisel verilere dayalı olarak ilgili kişiye dair bir sonuç ortaya çıktığı için kişisel veriler doğru ve güncel olarak tutulmaktadır. Bununla beraber kuruluşumuz her zaman ilgili kişinin bilgilerinin doğru ve güncel olmasını temin edecek kanalları açık tutmaktadır.<br>\r\n•    Belirli, açık ve meşru amaçlar için işlenme ilkesi kapsamında; Kişisel veri işleme faaliyetleri ilgili kişi tarafından açık bir şekilde anlaşılabilir tutulmaktadır. Kişisel veri işleme faaliyetlerinin hangi hukuki işleme şartına dayalı olarak gerçekleştirildiği açıkça tanımlanmıştır. Kişisel veri işleme faaliyetinin ve bu faaliyetin gerçekleştirilme amacının belirliliğini sağlayacak detayda ortaya konulmaktadır. <br>\r\n•    Amacın meşru olması ilkesi kapsamında; işlenen veriler yapılan iş ile bağlantılı tutulmakta ve yapılan iş için gereklidir.<br>\r\n•    İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma ilkesi kapsamında; Mevcutta olmayan ve sonradan gerçekleşmesi düşünülen amaçlarla kişisel veri toplanmamaktadır. Kişisel veri işleme faaliyetinin gerçekleşmesi için gerekli olmayan ölçüde kişisel veri işlenmemektedir. Kişisel veriler yalnızca belirli amaçlar için ve gerektiği kadar toplanmaktadır ve amacın gerektirdiği yerlerde kullanılmaktadır.<br>\r\n•    İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza edilme ilkesi kapsamında; İlgili mevzuatta verilerin saklanması için öngörülen süreye uyulmakta, kişisel verileri ancak işlendikleri amaç için gerekli olan süre kadar muhafaza edilmektedir. Bir verinin daha fazla saklanması gerekmediğinde o veri silinmekte, yok edilmekte ya da anonim hale getirilmektedir. İleride tekrar kullanılabileceği düşünülerek ya da herhangi bir başka gerekçe ile kişisel veriler muhafaza edilmemektedir.<\/p>\r\n\r\n<p><strong>4.2. Kişisel verilerin işlenme şartları <\/strong><br>\r\nKuruluşumuzda kişisel veriler ilgili kişinin açık rızası olmaksızın işlenmemektedir. Ancak, kanunlarda açıkça öngörülmesi, fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması, bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, hukuki yükümlülüğü yerine getirebilmesi için zorunlu olması ilgili kişinin kendisi tarafından alenileştirilmiş olması, bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması, ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması. Şartlardan birinin varlığı hâlinde, ilgili kişinin açık rızası aranmaksızın kişisel verilerin işlenmesi mümkündür.<\/p>\r\n\r\n<p><strong>4.3. Özel nitelikli kişisel verilerin işlenme şartları <\/strong><br>\r\nKişilerin dernek, vakıf ya da sendika üyeliği, sağlığı, ceza mahkûmiyeti ve güvenlik tedbirleriyle ilgili verileri ile biyometrik verileri özel nitelikli kişisel veridir. Özel nitelikli kişisel verilerin, ilgilinin açık rızası olmaksızın işlenmesi yasaktır. Kuruluşumuzda ilgili yasalar gereği alınan özel nitelikli veriler için ilgili kişiden açık rıza alınmaktadır. Sağlık dışındaki kişisel veriler, kanunlarda öngörülen hâllerde ilgili kişinin açık rızası aranmadan işlenmektedir. Bununla beraber özel nitelikli kişisel verilerin işlenmesinde, Kurul tarafından belirlenen yeterli önlemler de ayrıca alınmaktadır.<\/p>\r\n\r\n<p><strong>4.4. Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesi <\/strong><br>\r\nKuruluşumuzda bu kanun ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde, diğer kanunlarda yer alan hükümler saklı kalmak üzere kişisel veriler resen veya ilgili kişinin talebi üzerine veri sorumlusu tarafından “Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik”e göre silinir, yok edilir veya anonim hâle getirilir. “Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Politikası” ile uygulanmaktadır.<\/p>\r\n\r\n<p><strong>4.5. Kişisel verilerin aktarılması<\/strong><br>\r\nKuruluşumuzda kişisel veriler ilgili kişinin açık rızası olmaksızın aktarılamaz, veri aktarma hususları Veri Sorumluları ile Veri İşleyenler arasında konuya uygun olarak hazırlanmış taahhütnameler ile düzenlenmektedir. Kişisel verilerin aktarılmasına ilişkin diğer kanunlarda yer alan hükümler ayrıca değerlendirilmektedir.<\/p>\r\n\r\n<p>Kişisel veriler, Ancak, kanunlarda açıkça öngörülmesi, fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması, bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, hukuki yükümlülüğü yerine getirebilmesi için zorunlu olması ilgili kişinin kendisi tarafından alenileştirilmiş olması, bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması, ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması, şartlardan birinin varlığı hâlinde, ilgili kişinin açık rızası aranmaksızın aktarılabilir.<\/p>\r\n\r\n<p>Yukarıda belirtilen şartlardan birinin varlığı hâlinde, Kişisel verilerin yurt dışına aktarılmak istenmesi durumunda kişisel verinin aktarılacağı yabancı ülkede; yeterli korumanın bulunması, yeterli korumanın bulunmaması durumunda Türkiye’deki ve ilgili yabancı ülkedeki veri sorumlularının yeterli bir korumayı yazılı olarak taahhüt etmeleri ve Kurulun izninin bulunması ve ilgili kişinin açık rızası aranmaksızın yurt dışına aktarılabilir.<\/p>\r\n\r\n<p><strong>4.6. Veri sorumlusunun aydınlatma yükümlülüğü <\/strong><br>\r\nKuruluşumuzda, ilgili kişilere aydınlatma metinleri içerisinde; Veri sorumlusunun kimliği, Kişisel verilerin hangi amaçla işleneceği, İşlenen kişisel verilerin kimlere ve hangi amaçla aktarılabileceği, Kişisel veri toplamanın yöntemi ve hukuki sebebi, hakları, konusunda bilgi verilmektedir. <\/p>\r\n\r\n<p>İlgili kişinin hakları kapsamında herkes, kuruluşumuza başvurarak kendisiyle ilgili; Kişisel veri işlenip işlenmediğini öğrenme, Kişisel verileri işlenmişse buna ilişkin bilgi talep etme, Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme, Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme, <br>\r\nKişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme (kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme) kişisel verilerin silinmesini veya yok edilmesini isteme (kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme), İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme, Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme haklarına sahiptir. <\/p>\r\n\r\n<p><strong>4.7. Veri güvenliğine ilişkin yükümlülükler <\/strong><br>\r\nKuruluşumuzun Veri sorumlusu olarak yapacağı iş ve sorumlulukları başta kişisel verilerin hukuka aykırı olarak işlenmesini önlemek, Kişisel verilere hukuka aykırı olarak erişilmesini önlemek ve kişisel verilerin muhafazasını sağlamak ile belirlenmiş güvenlik düzeyini temin etmeye yönelik gerekli her türlü görev yetki ve sorumluluklar “İrtibat Kişisinin Yapacağı İşler Talimatı” içerisinde tanımlanmıştır.<\/p>\r\n\r\n<p>Bununla birlikte Kuruluşumuzda Kişisel verilerin muhafazasını sağlamak amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbir “Kişisel Verilere Erişim Kişisel Veri Güvenliği Ve Gizlilik Politikası” uygulanarak alınmıştır.<\/p>\r\n\r\n<p>İşlenen kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi hâlinde, uygulanacak prosedür tanımlanmıştır.<\/p>\r\n\r\n<p><br>\r\n<strong>4.8. Veri sorumlusuna başvuru <\/strong><br>\r\nİlgili kişi, işlenen verileri ile ilgili taleplerini yazılı olarak veya Kurulun belirleyeceği diğer yöntemlerle kuruluşumuza iletebilir. Alınan talepler, talebin niteliğine göre en kısa sürede ve en geç otuz gün içinde ücretsiz olarak sonuçlandırır. Ancak, işlemin ayrıca bir maliyeti gerektirmesi hâlinde, Kurulca belirlenen tarifedeki ücret alınabilir. Kuruluşumuz talebi kabul eder veya gerekçesini açıklayarak reddeder ve cevabını ilgili kişiye yazılı olarak veya elektronik ortamda bildirir. Başvuruda yer alan talebin kabul edilmesi hâlinde gereği yerine getirilir. <\/p>\r\n\r\n<p><strong>4.9. Veri Sorumluları Sicili<\/strong><br>\r\nKuruluşumuz veri işlemeye başlamadan önce Veri Sorumluları Siciline kaydolmuştur. <\/p>",
+        "documents": []
+    },
+    "cerez-aydinlatma-metni": {
+        "title": "Çerez Aydınlatma Metni",
+        "slug": "cerez-aydinlatma-metni",
+        "type": "text",
+        "source_url": "https:\/\/www.alvit.com.tr\/kurumsal\/cerez-aydinlatma-metni",
+        "content": "<p><strong>ÇEREZ AYDINLATMA METNİ <\/strong><br>\r\n<br>\r\n<strong>1. ÇEREZLERE İLİŞKİN GENEL BİLGİ<\/strong><br>\r\nBu aydınlatma metni, BARTIN SERAMİK Sanayi ve Tic. A.Ş tarafından yönetilen internet sitelerini kapsamakta olup, çerez kullanımına ilişkin açıklamalar içermektedir. Sitemizi kullanarak çerezlerin işbu aydınlatma metninde belirtilen şekilde kullanılmalarını onaylamış olursunuz.<\/p>\r\n\r\n<p><strong>1.1. Çerez (Cookie) Nedir?<\/strong><br>\r\nÇerezler, bir internet sitesi ziyaret edildiğinde ziyaretçinin cihazında (örneğin bilgisayar veya telefon) depolanan ve isim-değer formatında veri barındırabilen küçük metin dosyalarıdır. Söz konusu metin dosyaları bunlara erişim sağlayabilen tarayıcı ve sunucular tarafından anlamlandırılabilmekte ve bu yolla internet sitesine ziyaretin gerçekleştirildiği cihaz ve dolayısıyla ilgili kullanıcı hakkında çeşitli bilgiler elde edilebilmektedir. <\/p>\r\n\r\n<p><br>\r\n<strong>1.2. Çerezler Ne Amaçla Kullanılmaktadır?<\/strong><br>\r\nÇerezler birçok farklı hedef için kullanılmaktadır. Örnek vermek gerekirse, çerezlere daha çok aşağıda belirtilen amaçlarla başvurulmaktadır:<\/p>\r\n\r\n<p>o    İnternet sitesinin düzgün bir şekilde çalışması (Örneğin; sitenin içerisindeki metin, fotoğraf, bağlantı gibi içeriklerin doğru yerlerde görüntülenmesi)<\/p>\r\n\r\n<p>o    Ziyaretçiler için daha kişiselleştirilmiş ve daha ilgi çekici bir deneyim sunulabilmesi (Örneğin; tercihlerinize özel hizmetlerin sunulması)<\/p>\r\n\r\n<p>o    İnternet sitesinin geliştirilerek optimize edilmesi (Örneğin; hata bulunan veya tercih edilmeyen sayfaların işler hale getirilmesi) ve<\/p>\r\n\r\n<p>o    Ziyaretçilerin tercihlerinin hatırlanması (Örneğin; internet sitemize giriş yaparken girdiğiniz bilgiler, dil tercihi ve diğer tercihler)<\/p>\r\n\r\n<p><strong>1.3. Çerez Türleri Nelerdir?<\/strong><br>\r\nOturum Çerezleri: İnternet sitesinden ayrılana dek cihazlarınızda tutulan geçici çerezleri ifade eder.<br>\r\nKalıcı Çerezler: Cihazınızın sabit diskinde uzun süreler kalan türde çerezler olup, kullanım süreleri birkaç günden birkaç yıla kadar değişiklik gösterebilmektedir.<br>\r\n<br>\r\n<strong>İşlevselliklerine Göre Çerezler<\/strong><br>\r\nZorunlu Çerezler: İnternet sitesinin düzgün bir şekilde çalışabilmesi ve kullanıcıların sitede sunulan hizmetlerden ve gezinme özelliklerinden yararlanmaları için kullanılmaları mecburi olan çerezlerdir.<br>\r\n<br>\r\nİşlevsel ve Analitik Çerezler: Tercihlerinizin hatırlanması, internet sitesinin etkin şekilde kullanılması, sitenin kullanıcı isteklerine cevap verecek şekilde optimize edilmesi gibi amaçlarla kullanılan ve ziyaretçilerin siteyi nasıl kullandığı hakkında verileri içeren çerezlerdir. Niteliği gereği bu türdeki çerezler kişisel verilerinizi içerebilir. Örneğin; sitemizde dil tercihinizi kaydeden çerezler birer işlevsel çerezdir.<\/p>\r\n\r\n<p><br>\r\n<strong>1.4. Çerezlerle İlgili Daha Detaylı Bilgiye Nereden Ulaşabilirim?<\/strong><br>\r\nÇerez metinlerinin içeriği çoğu zaman yalnızca mühendislerin işleyebileceği nitelikte olup, çerezler ile ilgili daha detaylı ve anlaşılabilir bir dil üzerinden bilgi almak isteyen ziyaretçilerimizin www.allaboutcookies.org veya www.aboutcookies.org (İngilizce) adreslerini ziyaret etmeleri önerilir.<\/p>\r\n\r\n<p><br>\r\n<strong>2. BARTIN SERAMİK Sanayi ve Tic. A.Ş Olarak Çerez Kullanımımız<br>\r\n2.1. İnternet Sitemizin Kullanımı Kapsamında Çerezleri Kim, Nasıl Gönderir?<\/strong><\/p>\r\n\r\n<p>Çerezler;<br>\r\n1. BARTIN SERAMİK Sanayi ve Tic. A.Ş tarafından ve\/veya,<br>\r\n2. Eğer ziyaret edilen sayfada video veya fotoğraf gibi bazı içerikler sağlanmakta ise, üçüncü kişiler tarafından ve gezintiniz sırasında cihazınızda bulunan tarayıcı (Google Chrome, Safari vb.) ile sunucular arasında kurulan iletişim vasıtasıyla gönderilmektedir.<\/p>\r\n\r\n<p><strong>2.2. Cihazınızdan Aldığımız Bilgileri Nasıl Kullanıyoruz? <\/strong><br>\r\nÇerezler;<\/p>\r\n\r\n<p>o    İnternet sitemizi ziyaretiniz sırasında yaptığınız gezinti ve kullanım tercihlerinin,<br>\r\no    İnternet sitemizde cevapladığınız anket veya değerlendirmeye ilişkin bilgi ve sonuçların ve<br>\r\no    Tercihlerinize ilişkin bilgilerin hatırlanmasında yardımcı olur.<\/p>\r\n\r\n<p>Ayrıca, internet sitemizde yer alan yazıları, haberleri ve diğer sekmelerde yer alan içerikleri ziyaretleriniz sırasındaki tıklama sıklığı ve ziyaret edilen sayfalara ilişkin kullanım verilerini anonim hale getirmek suretiyle istatistiki amaçlarla kullanırız.<\/p>\r\n\r\n<p>Çerezler üzerinden topladığımız verileri kimliğinizi belirlemek amacıyla kullanmayız. Çerezler bu Politikada belirtilen amaçlar dışında kullanılmaz ve veri koruma mevzuatına aykırı olarak işlenmez.<\/p>\r\n\r\n<p><strong>2.3. Çerezleri Nasıl Kontrol Ederim?<\/strong><br>\r\nİnternet sitemizi kullanabilmek için çerezleri kabul etmek zorunda değilsiniz fakat bu <br>\r\nDurumda kullanıcı deneyiminizin kalitesi düşebilir.<\/p>\r\n\r\n<p>Çerezleri silebilir veya internet tarayıcınızı çerezleri engelleyebilecek şekilde ayarlayabilirsiniz fakat bu halde internet sitemizde yer alan bazı hizmetler olması gerektiği gibi çalışamayabilir.<\/p>\r\n\r\n<p>Tarayıcınızın çerezler ile ilgili ayarları hakkında detaylı bilgi için:<br>\r\nChrome https:\/\/support.google.com\/accounts\/answer\/61416?co=GENIE.Platform%3DDesktop&hl=tr<br>\r\nFirefox https:\/\/support.mozilla.org\/tr\/kb\/web-sitesi-tercihleri-cerezleri-acip-kapatma<br>\r\nSafari Browser https:\/\/support.apple.com\/tr-tr\/guide\/safari\/sfri11471\/mac<br>\r\nOpera Bowser https:\/\/www.opera.com\/tr\/terms<br>\r\nMicrosoft Internet Edge Browser<br>\r\nhttps:\/\/support.microsoft.com\/tr-tr\/help\/17442\/windows-internet-explorer-delete-manage-cookies<\/p>",
+        "documents": []
+    },
+    "kvkk-ilgili-kisi-basvuru-formu": {
+        "title": "KVKK İlgili Kişi Başvuru Formu",
+        "slug": "kvkk-ilgili-kisi-basvuru-formu",
+        "type": "text",
+        "source_url": "https:\/\/www.alvit.com.tr\/kurumsal\/kvkk-ilgili-kisi-basvuru-formu",
+        "content": "<p><strong>KİŞİSEL VERİLERİN KORUNMASI KANUNU İLGİLİ KİŞİ BAŞVURU FORMU<\/strong><\/p>\r\n\r\n<p>6698 Sayılı Kişisel Verilerin Korunması Kanunu’nun (“KVKK”) 13. Maddesinde, KVKK’ da ilgili kişi olarak tanımlanan kişisel veri sahiplerine (Bundan sonra “Talep Sahibi” olarak anılacaktır) veri sorumlularına başvuru yaparak KVKK’ nın 11. Maddesinde sayılı olan kişisel verilerinin işlenmesine ilişkin birtakım taleplerde bulunma hakkı tanınmıştır.  <br>\r\n <\/p>",
+        "documents": [
+            {
+                "name": "ilgili_kisi-basvuru-formu",
+                "url": "https:\/\/www.alvit.com.tr\/files\/fm\/ilgili_kisi-basvuru-formu.docx",
+                "file": "assets\/documents\/kurumsal\/ilgili_kisi-basvuru-formu.docx"
+            }
+        ]
+    }
 }

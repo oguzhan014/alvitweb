@@ -416,6 +416,96 @@ textarea.form-control { height: 120px; resize: vertical; }
 
 .login-card .btn-admin { width: 100%; justify-content: center; padding: 14px; font-size: 15px; }
 
+/* Dashboard içerik özeti */
+.content-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 12px;
+}
+
+.summary-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 16px 18px;
+  background: var(--admin-bg);
+  border: 1px solid var(--admin-border);
+  border-radius: 10px;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.summary-item:hover {
+  border-color: var(--admin-accent);
+  transform: translateY(-2px);
+}
+
+.summary-item strong {
+  font-size: 20px;
+  color: var(--admin-primary);
+}
+
+.summary-item span {
+  font-size: 12.5px;
+  color: var(--admin-text-light);
+}
+
+/* Sekme satırı */
+.tab-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+/* Form bölüm başlıkları ve tekrarlı satırlar */
+.form-section-title {
+  margin: 34px 0 6px;
+  padding-top: 20px;
+  border-top: 1px solid var(--admin-border);
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--admin-primary);
+}
+
+.form-hint {
+  margin-bottom: 14px;
+  font-size: 13px;
+  color: var(--admin-text-light);
+}
+
+.repeat-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.repeat-row .form-control { margin: 0; flex: 1; }
+
+.repeat-row .btn-admin { flex: 0 0 auto; padding: 9px 14px; }
+
+.spec-head .form-control {
+  font-weight: 600;
+  background: var(--admin-bg);
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 0.5px;
+}
+
+.spec-head-spacer { flex: 0 0 62px; }
+
+.doc-remove {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--admin-danger);
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.doc-rows { margin-bottom: 16px; }
+
 /* Image preview */
 .image-preview {
   display: flex;
