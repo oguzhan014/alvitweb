@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let countersStarted = false;
   function animateCounters() {
     if (countersStarted || !statValues.length) return;
-    const section = document.querySelector('.trust-bar');
+    const section = statValues[0].closest('section');
     if (!section || section.getBoundingClientRect().top > window.innerHeight - 100) return;
     countersStarted = true;
     statValues.forEach(el => {
