@@ -66,12 +66,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         $collections[$slug] = $entry;
         saveJson('collections.json', $collections);
-        $collections = loadJson('collections.json');
-        $message = 'Koleksiyon kaydedildi.';
-    } else {
-        $message = 'Başlık zorunlu.';
+        adminRedirect('/admin/collections/edit/' . $slug, $origSlug === '' ? 'added' : 'updated');
     }
+    $message = 'Başlık zorunlu.';
 }
+
+$message = $message ?: adminFlash([
+    'added'   => 'Koleksiyon eklendi.',
+    'updated' => 'Koleksiyon güncellendi.',
+    'deleted' => 'Koleksiyon silindi. Ürünler silinmedi.',
+]);
 
 $editSlug = null;
 if (preg_match('#/collections/edit/([a-z0-9-]+)$#', $adminUri, $m)) {
@@ -79,8 +83,6 @@ if (preg_match('#/collections/edit/([a-z0-9-]+)$#', $adminUri, $m)) {
 }
 $isForm = $editSlug !== null || strpos($adminUri, '/collections/add') !== false;
 $edit = $editSlug !== null ? ($collections[$editSlug] ?? null) : null;
-
-if (!empty($_GET['msg']) && $_GET['msg'] === 'deleted') $message = 'Koleksiyon silindi.';
 
 // Ürün sayılarını canlı hesapla
 $counts = [];

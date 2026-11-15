@@ -37,22 +37,28 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 }
             }
             unset($c);
-            $message = 'Belge güncellendi.';
+            saveJson('certificates.json', $certificates);
+            adminRedirect('/admin/certificates/edit/' . (int)$id, 'updated');
         } else {
+            $newId = getNextId($certificates);
             $certificates[] = [
-                'id' => getNextId($certificates),
+                'id' => $newId,
                 'name' => $name,
                 'category' => $category ?: 'Diğer Belgeler',
                 'file' => $file,
             ];
-            $message = 'Belge eklendi.';
+            saveJson('certificates.json', $certificates);
+            adminRedirect('/admin/certificates/edit/' . (int)$newId, 'added');
         }
-        saveJson('certificates.json', $certificates);
-        $certificates = getCertificates();
-    } else {
-        $message = 'Belge adı ve görseli zorunlu.';
     }
+    $message = 'Belge adı ve görseli zorunlu.';
 }
+
+$message = $message ?: adminFlash([
+    'added'   => 'Belge eklendi.',
+    'updated' => 'Belge güncellendi.',
+    'deleted' => 'Belge silindi.',
+]);
 
 $editCert = null;
 if (preg_match('#/certificates/edit/(\d+)$#', $adminUri, $m)) {
@@ -61,8 +67,6 @@ if (preg_match('#/certificates/edit/(\d+)$#', $adminUri, $m)) {
     }
 }
 $isForm = $editCert !== null || strpos($adminUri, '/certificates/add') !== false;
-
-if (!empty($_GET['msg']) && $_GET['msg'] === 'deleted') $message = 'Belge silindi.';
 
 $groups = [];
 foreach ($certificates as $c) $groups[$c['category']][] = $c;

@@ -120,7 +120,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             }
         }
         unset($p);
-        $message = 'Ürün güncellendi.';
+        saveJson('products.json', $products);
+        adminRedirect('/admin/products/edit/' . (int)$id, 'updated');
     } else {
         // YENİ EKLE
         $newProduct = [
@@ -142,10 +143,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         ];
         if ($collection !== '') $newProduct['collection'] = $collection;
         $products[] = $newProduct;
-        $message = 'Ürün eklendi.';
+        saveJson('products.json', $products);
+        adminRedirect('/admin/products/edit/' . (int)$newProduct['id'], 'added');
     }
-    saveJson('products.json', $products);
-    $products = getProducts(); // reload
 }
 
 // Determine action
@@ -156,9 +156,11 @@ if (strpos($adminUri, '/products/add') !== false) {
     $editProduct = getProductById((int)$m[1]);
 }
 
-if (!empty($_GET['msg']) && $_GET['msg'] === 'deleted') {
-    $message = 'Ürün silindi.';
-}
+$message = adminFlash([
+    'added'   => 'Ürün eklendi.',
+    'updated' => 'Ürün güncellendi.',
+    'deleted' => 'Ürün silindi.',
+]);
 
 adminHeader('Ürünler');
 
@@ -457,7 +459,8 @@ document.getElementById('addSpecRow').addEventListener('click', function() {
         <td><?= !empty($p['featured']) ? '&#11088;' : '-' ?></td>
         <td>
           <a href="/admin/products/edit/<?= $p['id'] ?>" class="btn-admin btn-admin-info btn-admin-sm">Düzenle</a>
-          <a href="/admin/products/delete/<?= $p['id'] ?>" class="btn-admin btn-admin-danger btn-admin-sm" onclick="return confirm('Bu ürünü silmek istediğinize emin misiniz?')">Sil</a>
+          <a href="/admin/products/delete/<?= $p['id'] ?>" class="btn-admin btn-admin-danger btn-admin-sm"
+             onclick="return confirm('<?= e(addslashes($p['name'])) ?> silinecek. Emin misiniz?\n\nBu işlem geri alınamaz.')">Sil</a>
         </td>
       </tr>
       <?php endforeach; ?>

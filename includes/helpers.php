@@ -21,7 +21,7 @@ function loadJson($file) {
  * yapılır, böylece yarım kalan bir yazma mevcut veriyi bozmaz.
  */
 function saveJson($file, $data) {
-    $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+    $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
     if ($json === false) {
         error_log('saveJson: ' . $file . ' kodlanamadi - ' . json_last_error_msg());
         return false;
@@ -39,6 +39,33 @@ function saveJson($file, $data) {
         return false;
     }
     return true;
+}
+
+/**
+ * Kaydetme sonrası yönlendirme (POST-Redirect-GET).
+ * Sayfa yenilendiğinde formun tekrar gönderilmesini önler.
+ */
+function adminRedirect($path, $code = 'saved') {
+    $sep = strpos($path, '?') !== false ? '&' : '?';
+    header('Location: ' . $path . $sep . 'msg=' . urlencode($code));
+    exit;
+}
+
+/**
+ * Adres çubuğundaki msg koduna karşılık gelen bildirim metnini döndürür.
+ * Sayfaya özel metinler $map ile verilebilir.
+ */
+function adminFlash($map = []) {
+    $default = [
+        'saved'    => 'Değişiklikler kaydedildi.',
+        'added'    => 'Kayıt eklendi.',
+        'updated'  => 'Kayıt güncellendi.',
+        'deleted'  => 'Kayıt silindi.',
+        'uploaded' => 'Dosya yüklendi.',
+    ];
+    $code = $_GET['msg'] ?? '';
+    if ($code === '') return '';
+    return $map[$code] ?? $default[$code] ?? '';
 }
 
 /** Formdan gelen metni geçerli UTF-8'e indirger (bozuk baytları atar). */

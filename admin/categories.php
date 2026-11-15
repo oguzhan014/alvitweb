@@ -42,7 +42,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             }
         }
         unset($cat);
-        $message = 'Kategori güncellendi.';
+        saveJson('categories.json', $categories);
+        adminRedirect('/admin/categories', 'updated');
     } else {
         // YENİ EKLE
         if ($parentId) {
@@ -73,11 +74,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 'subcategories' => []
             ];
         }
-        $message = 'Kategori eklendi.';
+        saveJson('categories.json', $categories);
+        adminRedirect('/admin/categories', 'added');
     }
-    saveJson('categories.json', $categories);
-    $categories = getCategories();
 }
+
+$message = adminFlash([
+    'added'   => 'Kategori eklendi.',
+    'updated' => 'Kategori güncellendi.',
+    'deleted' => 'Kategori silindi.',
+]);
 
 $action = 'list';
 $editCat = null;

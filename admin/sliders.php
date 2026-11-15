@@ -28,7 +28,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             }
         }
         unset($s);
-        $message = 'Slider güncellendi.';
+        saveJson('sliders.json', $sliders);
+        adminRedirect('/admin/sliders/edit/' . (int)$id, 'updated');
     } else {
         $sliders[] = [
             'id' => getNextId($sliders),
@@ -39,11 +40,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             'active' => $active,
             'order' => count($sliders) + 1
         ];
-        $message = 'Slider eklendi.';
+        $newId = $sliders[count($sliders) - 1]['id'];
+        saveJson('sliders.json', $sliders);
+        adminRedirect('/admin/sliders/edit/' . (int)$newId, 'added');
     }
-    saveJson('sliders.json', $sliders);
-    $sliders = getSliders();
 }
+
+$message = adminFlash([
+    'added'   => 'Slider eklendi.',
+    'updated' => 'Slider güncellendi.',
+    'deleted' => 'Slider silindi.',
+]);
 
 $action = 'list';
 $editSlider = null;
@@ -65,6 +72,10 @@ if ($action === 'form'):
   <h1><?= $editSlider ? 'Slider Düzenle' : 'Yeni Slider' ?></h1>
   <a href="/admin/sliders" class="btn-admin btn-admin-info">&larr; Geri</a>
 </div>
+
+<?php if ($message): ?>
+<div class="alert alert-success"><?= e($message) ?></div>
+<?php endif; ?>
 
 <div class="admin-card">
   <form method="POST" enctype="multipart/form-data">

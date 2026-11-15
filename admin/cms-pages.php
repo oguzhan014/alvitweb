@@ -32,7 +32,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             }
         }
         unset($p);
-        $message = 'Sayfa güncellendi.';
+        saveJson('pages.json', $pages);
+        adminRedirect('/admin/pages/edit/' . (int)$id, 'updated');
     } else {
         $pages[] = [
             'id' => getNextId($pages),
@@ -42,11 +43,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             'type' => $type,
             'order' => count($pages) + 1
         ];
-        $message = 'Sayfa eklendi.';
+        $newId = $pages[count($pages) - 1]['id'];
+        saveJson('pages.json', $pages);
+        adminRedirect('/admin/pages/edit/' . (int)$newId, 'added');
     }
-    saveJson('pages.json', $pages);
-    $pages = getPages();
 }
+
+$message = adminFlash([
+    'added'   => 'Sayfa eklendi.',
+    'updated' => 'Sayfa güncellendi.',
+]);
 
 $action = 'list';
 $editPage = null;
@@ -67,8 +73,17 @@ if ($action === 'form'):
 
 <div class="admin-topbar">
   <h1><?= $editPage ? 'Sayfa Düzenle' : 'Yeni Sayfa' ?></h1>
-  <a href="/admin/pages" class="btn-admin btn-admin-info">&larr; Geri</a>
+  <div class="admin-topbar-actions">
+    <?php if ($editPage): ?>
+    <a href="/sayfa/<?= e($editPage['slug']) ?>" target="_blank" class="btn-admin btn-admin-info">Sayfayı Gör</a>
+    <?php endif; ?>
+    <a href="/admin/pages" class="btn-admin btn-admin-info">&larr; Geri</a>
+  </div>
 </div>
+
+<?php if ($message): ?>
+<div class="alert alert-success"><?= e($message) ?></div>
+<?php endif; ?>
 
 <div class="admin-card">
   <form method="POST">

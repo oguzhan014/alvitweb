@@ -71,9 +71,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     'url' => '',
                     'file' => $up,
                 ];
-                $message = 'Dosya yüklendi.';
+                $redirectCode = 'uploaded';
             } else {
-                $message = 'Dosya türü kabul edilmedi (PDF, DOC, XLS).';
+                $redirectCode = 'badfile';
             }
         }
 
@@ -88,22 +88,25 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     'id' => $newVideo,
                     'title' => trim($post['new_video_title'] ?? '') ?: 'Montaj Videosu',
                 ];
-                $message = 'Video eklendi.';
+                $redirectCode = 'video';
             } else {
-                $message = 'Geçersiz video bağlantısı.';
+                $redirectCode = 'badvideo';
             }
         }
 
         saveJson('kurumsal.json', $kurumsal);
-        $kurumsal = loadJson('kurumsal.json');
-        $managed[$slug] = $kurumsal[$slug];
-        $active = $kurumsal[$slug];
-        $activeSlug = $slug;
-        if (!$message) $message = 'Değişiklikler kaydedildi.';
+        adminRedirect('/admin/files?sayfa=' . urlencode($slug), $redirectCode ?? 'saved');
     }
 }
 
-if (!empty($_GET['msg']) && $_GET['msg'] === 'deleted') $message = 'Kayıt silindi.';
+$message = adminFlash([
+    'saved'    => 'Değişiklikler kaydedildi.',
+    'uploaded' => 'Dosya yüklendi.',
+    'video'    => 'Video eklendi.',
+    'deleted'  => 'Kayıt listeden kaldırıldı.',
+    'badfile'  => 'Dosya türü kabul edilmedi (PDF, DOC, XLS).',
+    'badvideo' => 'Geçersiz video bağlantısı.',
+]);
 
 adminHeader('Kurumsal Dosyalar');
 ?>

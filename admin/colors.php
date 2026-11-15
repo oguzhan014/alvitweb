@@ -40,19 +40,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if ($origSlug !== '' && $origSlug !== $slug) unset($colors[$origSlug]);
         $colors[$slug] = $entry;
         saveJson('colors.json', $colors);
-        $colors = loadJson('colors.json');
-        $message = 'Renk kaydedildi.';
-    } else {
-        $message = 'Ad zorunlu, renk kodu #rrggbb biçiminde olmalı.';
+        adminRedirect('/admin/colors/edit/' . $slug, $origSlug === '' ? 'added' : 'updated');
     }
+    $message = 'Ad zorunlu, renk kodu #rrggbb biçiminde olmalı.';
 }
+
+$message = $message ?: adminFlash([
+    'added'   => 'Renk eklendi.',
+    'updated' => 'Renk güncellendi.',
+    'deleted' => 'Renk silindi.',
+]);
 
 $editSlug = null;
 if (preg_match('#/colors/edit/([a-z0-9-]+)$#', $adminUri, $m)) $editSlug = $m[1];
 $isForm = $editSlug !== null || strpos($adminUri, '/colors/add') !== false;
 $edit = $editSlug !== null ? ($colors[$editSlug] ?? null) : null;
-
-if (!empty($_GET['msg']) && $_GET['msg'] === 'deleted') $message = 'Renk silindi.';
 
 adminHeader('Renk Kataloğu');
 

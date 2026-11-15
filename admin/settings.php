@@ -16,15 +16,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $settings['social']['linkedin'] = trim($_POST['linkedin'] ?? '');
     $settings['footer_text'] = trim($_POST['footer_text'] ?? $settings['footer_text']);
 
-    // Şifre değiştirme
+    // Şifre değiştirme (giriş kontrolü bu hash'e bakar)
+    $passwordChanged = false;
     if (!empty($_POST['new_password'])) {
-        // Basit şifre güncelleme - gerçek projede hash kullanılmalı
         $settings['admin_pass'] = password_hash($_POST['new_password'], PASSWORD_DEFAULT);
+        $passwordChanged = true;
     }
 
     saveJson('settings.json', $settings);
-    $message = 'Ayarlar kaydedildi.';
+    adminRedirect('/admin/settings', $passwordChanged ? 'password' : 'saved');
 }
+
+$message = adminFlash([
+    'saved'    => 'Ayarlar kaydedildi.',
+    'password' => 'Ayarlar kaydedildi. Yeni şifreniz bir sonraki girişte geçerli olacak.',
+]);
 
 adminHeader('Ayarlar');
 ?>
