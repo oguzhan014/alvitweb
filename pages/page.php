@@ -81,7 +81,7 @@ include __DIR__ . '/../includes/header.php';
     <?php elseif ($isAboutPage): ?>
     <div class="hp-about-inner about-split">
       <div class="hp-about-media reveal">
-        <img src="/assets/images/about/fabrika-uretim.jpg" alt="Alvit üretim tesisi">
+        <img src="/assets/images/about/Alvitfabrika.jpeg" alt="Alvit üretim tesisi">
         <span class="about-photo-caption">Bartın'daki üretim tesisimizden</span>
       </div>
       <div class="hp-about-text">

@@ -143,7 +143,7 @@ include __DIR__ . '/../includes/header.php';
 <section class="section hp-about">
   <div class="container hp-about-inner">
     <div class="hp-about-media reveal">
-      <img src="/assets/images/about/fabrika-uretim.jpg" alt="Alvit üretim tesisi" loading="lazy">
+      <img src="/assets/images/about/Alvitfabrika.jpeg" alt="Alvit üretim tesisi" loading="lazy">
     </div>
     <div class="hp-about-text">
       <span class="hp-eyebrow">Hakkımızda</span>

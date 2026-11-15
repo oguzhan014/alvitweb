@@ -133,6 +133,7 @@ $isUrunler = in_array($currentUri, ['/urunler', '/kategoriler'], true)
         </div>
       </div>
 
+      <a href="/galeri" class="nav-link<?= $currentUri === '/galeri' ? ' active' : '' ?>">Galeri</a>
       <a href="/iletisim" class="nav-link<?= $currentUri === '/iletisim' ? ' active' : '' ?>">İletişim</a>
 
       <form class="header-search header-search-mobile" action="/ara" method="get" autocomplete="off">

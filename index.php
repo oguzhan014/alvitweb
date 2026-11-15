@@ -61,6 +61,11 @@ switch (true) {
         include __DIR__ . '/pages/page.php';
         break;
 
+    // Galeri
+    case $uri === '/galeri':
+        include __DIR__ . '/pages/gallery.php';
+        break;
+
     // İletişim
     case $uri === '/iletisim':
         include __DIR__ . '/pages/contact.php';

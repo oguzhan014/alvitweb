@@ -36,6 +36,7 @@
           <li><a href="/sayfa/kalite-politikasi">Kalite Politikası</a></li>
           <li><a href="/sayfa/kalite-belgelerimiz">Kalite Belgelerimiz</a></li>
           <li><a href="/sayfa/raporlar">Raporlar</a></li>
+          <li><a href="/galeri">Galeri</a></li>
         </ul>
       </div>
 

@@ -11,7 +11,7 @@
 
 <div class="admin-login">
   <div class="admin-login-brand">
-    <img src="/assets/images/about/fabrika-uretim.jpg" alt="" class="admin-login-brand-bg">
+    <img src="/assets/images/about/Alvitfabrika.jpeg" alt="" class="admin-login-brand-bg">
     <div class="admin-login-brand-overlay"></div>
     <div class="admin-login-brand-content">
       <img src="/assets/images/brand-logo-footer.png" alt="Alvit" class="admin-login-logo">

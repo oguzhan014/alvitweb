@@ -18,12 +18,13 @@ document.addEventListener('DOMContentLoaded', () => {
   if (menuToggle && navMenu) {
     menuToggle.addEventListener('click', () => {
       navMenu.classList.toggle('open');
+      menuToggle.classList.toggle('active');
       document.body.style.overflow = navMenu.classList.contains('open') ? 'hidden' : '';
     });
-    // close on link click
     navMenu.querySelectorAll('a').forEach(link => {
       link.addEventListener('click', () => {
         navMenu.classList.remove('open');
+        menuToggle.classList.remove('active');
         document.body.style.overflow = '';
       });
     });
