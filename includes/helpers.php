@@ -42,6 +42,33 @@ function getCertificates() {
     return loadJson('certificates.json');
 }
 
+/**
+ * İsimle çağrılan satır içi SVG ikon seti.
+ * Emoji yerine her yerde bunu kullanıyoruz; tek yerden yönetiliyor.
+ */
+function icon($name, $size = 24) {
+    $paths = [
+        'eye'       => '<circle cx="12" cy="12" r="3"/><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7-10-7-10-7z"/>',
+        'target'    => '<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.5"/>',
+        'award'     => '<circle cx="12" cy="8" r="6"/><polyline points="8.2 13.4 7 22 12 19 17 22 15.8 13.4"/>',
+        'bulb'      => '<path d="M9 18h6"/><path d="M10 22h4"/><path d="M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z"/>',
+        'handshake' => '<path d="M11 17l2 2a1.5 1.5 0 0 0 2.1-2.1"/><path d="M13.1 16.9l2.4 2.4a1.5 1.5 0 0 0 2.1-2.1l-5-5"/><path d="M2 10l4-4 4 2 4-2 4 4"/><path d="M6 6v8l5 4"/><path d="M18 6v8"/>',
+        'gear'      => '<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.6 1.6 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.6 1.6 0 0 0-1.8-.3 1.6 1.6 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1A1.6 1.6 0 0 0 9 19.4a1.6 1.6 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.6 1.6 0 0 0 .3-1.8 1.6 1.6 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1A1.6 1.6 0 0 0 4.6 9a1.6 1.6 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.6 1.6 0 0 0 1.8.3H9a1.6 1.6 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.6 1.6 0 0 0 1 1.5 1.6 1.6 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.6 1.6 0 0 0-.3 1.8V9a1.6 1.6 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.6 1.6 0 0 0-1.5 1z"/>',
+        'shield'    => '<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><polyline points="9 12 11 14 15 10"/>',
+        'leaf'      => '<path d="M11 20A7 7 0 0 1 4 13c0-6 7-11 16-11 0 9-5 16-11 16z"/><path d="M4 21c4-6 8-8 12-9"/>',
+        'layers'    => '<polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/>',
+        'document'  => '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="9" y1="13" x2="15" y2="13"/><line x1="9" y1="17" x2="13" y2="17"/>',
+        'factory'   => '<path d="M2 20h20"/><path d="M4 20V9l5 3V9l5 3V9l5 3v8"/><line x1="8" y1="16" x2="8" y2="17"/><line x1="13" y1="16" x2="13" y2="17"/><line x1="18" y1="16" x2="18" y2="17"/>',
+        'users'     => '<path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.9"/><path d="M16 3.1a4 4 0 0 1 0 7.8"/>',
+        'globe'     => '<circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15 15 0 0 1 0 20 15 15 0 0 1 0-20z"/>',
+    ];
+    if (!isset($paths[$name])) return '';
+    return '<svg width="' . (int)$size . '" height="' . (int)$size . '" viewBox="0 0 24 24"'
+         . ' fill="none" stroke="currentColor" stroke-width="1.6"'
+         . ' stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+         . $paths[$name] . '</svg>';
+}
+
 function getCollections() {
     $all = loadJson('collections.json');
     uasort($all, fn($a, $b) => $b['count'] <=> $a['count']);

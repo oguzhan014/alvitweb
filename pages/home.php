@@ -90,22 +90,22 @@ include __DIR__ . '/../includes/header.php';
     </div>
     <div class="features-grid">
       <div class="feature-item reveal">
-        <div class="feature-icon">&#9733;</div>
+        <div class="feature-icon"><?= icon('award', 28) ?></div>
         <h3>Üstün Kalite</h3>
         <p>TSE ve uluslararası standartlara uygun, birinci sınıf hammaddelerle üretim yapıyoruz.</p>
       </div>
       <div class="feature-item reveal">
-        <div class="feature-icon">&#9881;</div>
+        <div class="feature-icon"><?= icon('factory', 28) ?></div>
         <h3>Modern Üretim</h3>
         <p>Son teknoloji üretim hatlarımızla yüksek kalite ve verimlilik sağlıyoruz.</p>
       </div>
       <div class="feature-item reveal">
-        <div class="feature-icon">&#10003;</div>
+        <div class="feature-icon"><?= icon('layers', 28) ?></div>
         <h3>Geniş Ürün Yelpazesi</h3>
         <p>Lavabo, klozet, banyo mobilyası ve aksesuar - komple banyo çözümleri sunuyoruz.</p>
       </div>
       <a href="/sayfa/kalite-belgelerimiz" class="feature-item reveal feature-item-link">
-        <div class="feature-icon">&#128196;</div>
+        <div class="feature-icon"><?= icon('shield', 28) ?></div>
         <h3>Belgeli Kalite</h3>
         <p>Kalite politikamız ve belgelerimiz hakkında detaylı bilgi alın.</p>
       </a>

@@ -39,29 +39,48 @@ include __DIR__ . '/../includes/header.php';
 <section class="section<?= ($isCertPage || $isDocsPage || $isVideoPage) ? ' section-compact' : '' ?>">
   <div class="container">
     <?php if ($isVisionPage): ?>
-    <div class="vm-wrap">
+    <div class="vm-intro">
       <?= $page['content'] ?>
     </div>
-    <div class="page-values-grid">
-      <div class="feature-item reveal">
-        <div class="feature-icon">&#9733;</div>
-        <h3>Kalite</h3>
-        <p>TSE, CE ve ISO standartlarına uygun, birinci sınıf hammaddelerle üretim yapıyoruz.</p>
+
+    <div class="vm-grid">
+      <?php foreach ($page['blocks'] ?? [] as $i => $block): ?>
+      <article class="vm-card reveal">
+        <span class="vm-index"><?= str_pad($i + 1, 2, '0', STR_PAD_LEFT) ?></span>
+        <div class="vm-icon"><?= icon($block['icon'], 26) ?></div>
+        <h3><?= e($block['label']) ?></h3>
+        <p><?= e($block['text']) ?></p>
+      </article>
+      <?php endforeach; ?>
+    </div>
+
+    <?php if (!empty($page['values'])): ?>
+    <div class="values-head">
+      <h2>Değerlerimiz</h2>
+      <p>Üretimden satış sonrasına kadar her adımda bizi yönlendiren ilkeler.</p>
+    </div>
+    <div class="values-grid">
+      <?php foreach ($page['values'] as $value): ?>
+      <div class="value-card reveal">
+        <div class="value-icon"><?= icon($value['icon'], 22) ?></div>
+        <div>
+          <h3><?= e($value['title']) ?></h3>
+          <p><?= e($value['text']) ?></p>
+        </div>
       </div>
-      <div class="feature-item reveal">
-        <div class="feature-icon">&#128161;</div>
-        <h3>Yenilikçilik</h3>
-        <p>Değişen ihtiyaçlara uygun yeni tasarım ve üretim teknolojilerini yakından takip ediyoruz.</p>
+      <?php endforeach; ?>
+    </div>
+    <?php endif; ?>
+
+    <div class="vm-commit">
+      <div class="vm-commit-text">
+        <h2>Sözümüzün arkasındayız</h2>
+        <p>Bu ilkeleri yazıda bırakmıyoruz: üretimimiz TSE ve CE standartlarına göre denetleniyor,
+           kalite yönetim sistemimiz ISO 9001 kapsamında belgeleniyor.</p>
       </div>
-      <div class="feature-item reveal">
-        <div class="feature-icon">&#10084;</div>
-        <h3>Müşteri Memnuniyeti</h3>
-        <p>Satış öncesi ve sonrasında ihtiyaçlarınıza hızlı ve çözüm odaklı yaklaşıyoruz.</p>
-      </div>
-      <div class="feature-item reveal">
-        <div class="feature-icon">&#9881;</div>
-        <h3>Sürekli Gelişim</h3>
-        <p>Bartın'daki üretim tesisimizde süreçlerimizi sürekli iyileştirerek büyüyoruz.</p>
+      <div class="vm-commit-actions">
+        <a href="/sayfa/kalite-belgelerimiz" class="btn btn-primary">Belgelerimizi İnceleyin</a>
+        <a href="/sayfa/kalite-politikasi" class="btn btn-outline">Kalite Politikamız</a>
       </div>
     </div>
     <?php else: ?>
@@ -73,17 +92,17 @@ include __DIR__ . '/../includes/header.php';
     <?php if ($isAboutPage): ?>
     <div class="about-links">
       <a href="/sayfa/vizyon-misyon" class="feature-item reveal feature-item-link">
-        <div class="feature-icon">&#128161;</div>
+        <div class="feature-icon"><?= icon('target', 28) ?></div>
         <h3>Vizyon &amp; Misyon</h3>
         <p>Geleceğe bakışımız ve bizi bu noktaya taşıyan misyonumuz hakkında bilgi alın.</p>
       </a>
       <a href="/sayfa/kalite-politikasi" class="feature-item reveal feature-item-link">
-        <div class="feature-icon">&#9881;</div>
+        <div class="feature-icon"><?= icon('shield', 28) ?></div>
         <h3>Kalite Politikamız</h3>
         <p>Üretim sürecimizin her aşamasında nasıl bir kalite anlayışı benimsediğimizi keşfedin.</p>
       </a>
       <a href="/sayfa/kalite-belgelerimiz" class="feature-item reveal feature-item-link">
-        <div class="feature-icon">&#128196;</div>
+        <div class="feature-icon"><?= icon('document', 28) ?></div>
         <h3>Kalite Belgelerimiz</h3>
         <p>TSE, CE ve ISO belgelerimizi inceleyin, isterseniz indirin.</p>
       </a>

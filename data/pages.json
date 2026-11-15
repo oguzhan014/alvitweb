@@ -11,9 +11,43 @@
     "id": 2,
     "title": "Vizyon & Misyon",
     "slug": "vizyon-misyon",
-    "content": "<div class=\"vm-grid\"><div class=\"vm-card reveal\"><div class=\"vm-icon\">&#128065;</div><h3>Vizyonumuz</h3><p>Seramik banyo ürünleri sektöründe Türkiye'nin ve dünyanın önde gelen markalarından biri olmak.</p></div><div class=\"vm-card reveal\"><div class=\"vm-icon\">&#127919;</div><h3>Misyonumuz</h3><p>Müşterilerimize en kaliteli, yenilikçi ve çevre dostu banyo çözümleri sunarak yaşam alanlarını güzelleştirmek.</p></div></div>",
+    "content": "<p>1994’ten bu yana Bartın’daki tesislerimizde ürettiğimiz her ürünün arkasında net bir hedef ve ortak bir çalışma anlayışı var. Vizyonumuz nereye gitmek istediğimizi, misyonumuz ise bunu nasıl yaptığımızı anlatır.</p>",
     "order": 2,
-    "type": "vision"
+    "type": "vision",
+    "blocks": [
+      {
+        "icon": "eye",
+        "label": "Vizyonumuz",
+        "text": "Seramik banyo ürünleri sektöründe Türkiye’nin ve dünyanın önde gelen markalarından biri olmak."
+      },
+      {
+        "icon": "target",
+        "label": "Misyonumuz",
+        "text": "Müşterilerimize en kaliteli, yenilikçi ve çevre dostu banyo çözümleri sunarak yaşam alanlarını güzelleştirmek."
+      }
+    ],
+    "values": [
+      {
+        "icon": "award",
+        "title": "Kalite",
+        "text": "TSE, CE ve ISO 9001 standartlarına uygun, birinci sınıf hammaddelerle üretim yapıyoruz."
+      },
+      {
+        "icon": "bulb",
+        "title": "Yenilikçilik",
+        "text": "Değişen ihtiyaçlara uygun yeni tasarım ve üretim teknolojilerini yakından takip ediyoruz."
+      },
+      {
+        "icon": "handshake",
+        "title": "Müşteri Memnuniyeti",
+        "text": "Satış öncesi ve sonrasında ihtiyaçlarınıza hızlı ve çözüm odaklı yaklaşıyoruz."
+      },
+      {
+        "icon": "leaf",
+        "title": "Çevreye Saygı",
+        "text": "Su tasarruflu ürün tasarımı ve sorumlu üretim süreçleriyle çevresel etkimizi azaltıyoruz."
+      }
+    ]
   },
   {
     "id": 3,
