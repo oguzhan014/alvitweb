@@ -2,8 +2,10 @@
   {
     "id": 1,
     "title": "Zarif Tasarım, Üstün Kalite",
+    "title_en": "Elegant Design, Superior Quality",
     "subtitle": "Seramik banyo ürünlerinde yeni nesil çizgiler",
-    "image": "assets/images/categories/seramik-banyo.jpg",
+    "subtitle_en": "Next-generation lines in ceramic bathroom products",
+    "image": "assets/images/gallery/galeri-03.jpeg",
     "link": "/kategori/seramik-banyo-urunleri",
     "active": true,
     "order": 1
@@ -11,8 +13,10 @@
   {
     "id": 2,
     "title": "Banyo Mobilyalarında Şıklık",
+    "title_en": "Elegance in Bathroom Furniture",
     "subtitle": "Modern çizgiler, dayanıklı malzeme, zamansız tasarım",
-    "image": "assets/images/products/barcelona-100.jpg",
+    "subtitle_en": "Modern lines, durable materials, timeless design",
+    "image": "assets/images/gallery/galeri-07.jpeg",
     "link": "/kategori/banyo-mobilyalari",
     "active": true,
     "order": 2
@@ -20,8 +24,10 @@
   {
     "id": 3,
     "title": "Komple Banyo Çözümleri",
+    "title_en": "Complete Bathroom Solutions",
     "subtitle": "Klozetten gömme rezervuara, tek elden eksiksiz ürün yelpazesi",
-    "image": "assets/images/categories/tamamlayici-urunler.jpg",
+    "subtitle_en": "From toilets to concealed cisterns, a complete product range from a single source",
+    "image": "assets/images/gallery/galeri-15.jpeg",
     "link": "/kategoriler",
     "active": true,
     "order": 3

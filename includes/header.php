@@ -2,22 +2,23 @@
 $settings = getSettings();
 $categories = getCategories();
 $currentUri = $uri ?? '';
+$L = lang();
 
 $kurumsalLinks = [
-    ['slug' => 'hakkimizda',             'label' => 'Hakkımızda'],
-    ['slug' => 'vizyon-misyon',          'label' => 'Vizyon & Misyon'],
-    ['slug' => 'kalite-politikasi',      'label' => 'Kalite Politikası'],
-    ['slug' => 'kalite-belgelerimiz',    'label' => 'Kalite Belgelerimiz'],
-    ['slug' => 'raporlar',               'label' => 'Raporlar'],
-    ['slug' => 'montaj-kilavuzlari',     'label' => 'Montaj Kılavuzları'],
-    ['slug' => 'urun-montaj-videolari',  'label' => 'Ürün Montaj Videoları'],
+    ['slug' => 'hakkimizda',             'label_tr' => 'Hakkımızda',             'label_en' => 'About Us'],
+    ['slug' => 'vizyon-misyon',          'label_tr' => 'Vizyon & Misyon',        'label_en' => 'Vision & Mission'],
+    ['slug' => 'kalite-politikasi',      'label_tr' => 'Kalite Politikası',      'label_en' => 'Quality Policy'],
+    ['slug' => 'kalite-belgelerimiz',    'label_tr' => 'Kalite Belgelerimiz',    'label_en' => 'Our Certificates'],
+    ['slug' => 'raporlar',               'label_tr' => 'Raporlar',               'label_en' => 'Reports'],
+    ['slug' => 'montaj-kilavuzlari',     'label_tr' => 'Montaj Kılavuzları',     'label_en' => 'Installation Guides'],
+    ['slug' => 'urun-montaj-videolari',  'label_tr' => 'Ürün Montaj Videoları',  'label_en' => 'Installation Videos'],
 ];
 $isKurumsal = strpos($currentUri, '/sayfa/') === 0;
 $isUrunler = in_array($currentUri, ['/urunler', '/kategoriler'], true)
     || strpos($currentUri, '/kategori/') === 0;
 ?>
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="<?= $L ?>">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -43,8 +44,13 @@ $isUrunler = in_array($currentUri, ['/urunler', '/kategoriler'], true)
     </div>
 
     <div class="topbar-right">
-      <a href="/sayfa/montaj-kilavuzlari" class="topbar-link">Montaj Kılavuzları</a>
-      <a href="/sayfa/raporlar" class="topbar-link">Raporlar</a>
+      <a href="<?= langUrl('/sayfa/montaj-kilavuzlari') ?>" class="topbar-link"><?= t('footer_guides') ?></a>
+      <a href="<?= langUrl('/sayfa/raporlar') ?>" class="topbar-link"><?= $L === 'tr' ? 'Raporlar' : 'Reports' ?></a>
+
+      <a href="<?= switchLangUrl() ?>" class="topbar-link lang-switch" title="<?= $L === 'tr' ? 'Switch to English' : 'Türkçe\'ye geç' ?>">
+        <?= icon('globe', 14) ?> <?= $L === 'tr' ? 'EN' : 'TR' ?>
+      </a>
+
       <div class="topbar-social">
         <?php if (!empty($settings['social']['facebook'])): ?>
         <a href="<?= e($settings['social']['facebook']) ?>" target="_blank" rel="noopener" aria-label="Facebook">
@@ -68,30 +74,30 @@ $isUrunler = in_array($currentUri, ['/urunler', '/kategoriler'], true)
 
 <header class="header">
   <div class="header-inner">
-    <a href="/" class="logo">
+    <a href="<?= langUrl() ?>" class="logo">
       <img src="/<?= e($settings['logo']) ?>" alt="<?= e($settings['site_name']) ?>">
     </a>
 
     <nav class="nav-menu" id="navMenu">
-      <a href="/" class="nav-link<?= $currentUri === '/' ? ' active' : '' ?>">Anasayfa</a>
+      <a href="<?= langUrl() ?>" class="nav-link<?= $currentUri === '/' ? ' active' : '' ?>"><?= t('nav_home') ?></a>
 
       <!-- ÜRÜNLER: mega menü -->
       <div class="nav-item has-dropdown">
-        <a href="/urunler" class="nav-link<?= $isUrunler ? ' active' : '' ?>">
-          Ürünler
+        <a href="<?= langUrl('/urunler') ?>" class="nav-link<?= $isUrunler ? ' active' : '' ?>">
+          <?= t('nav_products') ?>
           <svg class="nav-caret" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
         </a>
-        <button type="button" class="nav-expand" aria-label="Alt menüyü aç"></button>
+        <button type="button" class="nav-expand" aria-label="<?= $L === 'tr' ? 'Alt menüyü aç' : 'Open submenu' ?>"></button>
 
         <div class="mega-menu">
           <div class="mega-inner">
             <?php foreach ($categories as $cat): ?>
             <div class="mega-col">
-              <a href="/kategori/<?= e($cat['slug']) ?>" class="mega-title"><?= e($cat['name']) ?></a>
+              <a href="<?= langUrl('/kategori/' . e($cat['slug'])) ?>" class="mega-title"><?= e(td($cat, 'name')) ?></a>
               <?php if (!empty($cat['subcategories'])): ?>
               <ul>
                 <?php foreach ($cat['subcategories'] as $sub): ?>
-                <li><a href="/kategori/<?= e($sub['slug']) ?>"><?= e($sub['name']) ?></a></li>
+                <li><a href="<?= langUrl('/kategori/' . e($sub['slug'])) ?>"><?= e(td($sub, 'name')) ?></a></li>
                 <?php endforeach; ?>
               </ul>
               <?php endif; ?>
@@ -99,17 +105,17 @@ $isUrunler = in_array($currentUri, ['/urunler', '/kategoriler'], true)
             <?php endforeach; ?>
           </div>
           <div class="mega-footer-row">
-            <a href="/urunler" class="mega-footer">
+            <a href="<?= langUrl('/urunler') ?>" class="mega-footer">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="4" y1="6" x2="20" y2="6"/><line x1="7" y1="12" x2="17" y2="12"/><line x1="10" y1="18" x2="14" y2="18"/></svg>
-              Tüm Ürünler
+              <?= t('nav_all_products') ?>
             </a>
-            <a href="/koleksiyonlar" class="mega-footer">
+            <a href="<?= langUrl('/koleksiyonlar') ?>" class="mega-footer">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
-              Koleksiyonlar
+              <?= t('nav_collections') ?>
             </a>
-            <a href="/renkler" class="mega-footer">
+            <a href="<?= langUrl('/renkler') ?>" class="mega-footer">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="13.5" cy="6.5" r="2.5"/><circle cx="17.5" cy="14" r="2.5"/><circle cx="8.5" cy="7.5" r="2.5"/><circle cx="6.5" cy="15" r="2.5"/><path d="M12 2a10 10 0 1 0 0 20c.83 0 1.5-.67 1.5-1.5 0-.39-.15-.74-.39-1a1.49 1.49 0 0 1 1.09-2.5H16a6 6 0 0 0 6-6c0-5-4.48-9-10-9z"/></svg>
-              Renk Kataloğu
+              <?= t('nav_colors') ?>
             </a>
           </div>
         </div>
@@ -117,28 +123,28 @@ $isUrunler = in_array($currentUri, ['/urunler', '/kategoriler'], true)
 
       <!-- KURUMSAL: açılır menü -->
       <div class="nav-item has-dropdown">
-        <a href="/sayfa/hakkimizda" class="nav-link<?= $isKurumsal ? ' active' : '' ?>">
-          Kurumsal
+        <a href="<?= langUrl('/sayfa/hakkimizda') ?>" class="nav-link<?= $isKurumsal ? ' active' : '' ?>">
+          <?= t('nav_corporate') ?>
           <svg class="nav-caret" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
         </a>
-        <button type="button" class="nav-expand" aria-label="Alt menüyü aç"></button>
+        <button type="button" class="nav-expand" aria-label="<?= $L === 'tr' ? 'Alt menüyü aç' : 'Open submenu' ?>"></button>
 
         <div class="dropdown-menu">
           <?php foreach ($kurumsalLinks as $link): ?>
-          <a href="/sayfa/<?= e($link['slug']) ?>"
+          <a href="<?= langUrl('/sayfa/' . e($link['slug'])) ?>"
              class="<?= $currentUri === '/sayfa/' . $link['slug'] ? 'active' : '' ?>">
-            <?= e($link['label']) ?>
+            <?= e($link['label_' . $L]) ?>
           </a>
           <?php endforeach; ?>
         </div>
       </div>
 
-      <a href="/galeri" class="nav-link<?= $currentUri === '/galeri' ? ' active' : '' ?>">Galeri</a>
-      <a href="/iletisim" class="nav-link<?= $currentUri === '/iletisim' ? ' active' : '' ?>">İletişim</a>
+      <a href="<?= langUrl('/galeri') ?>" class="nav-link<?= $currentUri === '/galeri' ? ' active' : '' ?>"><?= t('nav_gallery') ?></a>
+      <a href="<?= langUrl('/iletisim') ?>" class="nav-link<?= $currentUri === '/iletisim' ? ' active' : '' ?>"><?= t('nav_contact') ?></a>
 
-      <form class="header-search header-search-mobile" action="/ara" method="get" autocomplete="off">
-        <input type="text" name="q" placeholder="Ürün, model veya kategori ara..." value="<?= e($_GET['q'] ?? '') ?>">
-        <button type="submit" aria-label="Ara">
+      <form class="header-search header-search-mobile" action="<?= langUrl('/ara') ?>" method="get" autocomplete="off">
+        <input type="text" name="q" placeholder="<?= t('search_placeholder') ?>" value="<?= e($_GET['q'] ?? '') ?>">
+        <button type="submit" aria-label="<?= $L === 'tr' ? 'Ara' : 'Search' ?>">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
         </button>
         <div class="search-suggestions"></div>
@@ -147,15 +153,15 @@ $isUrunler = in_array($currentUri, ['/urunler', '/kategoriler'], true)
     </nav>
 
     <div class="header-actions">
-      <form class="header-search header-search-desktop" action="/ara" method="get" autocomplete="off">
-        <input type="text" name="q" placeholder="Ürün, model veya kategori ara..." value="<?= e($_GET['q'] ?? '') ?>">
-        <button type="submit" aria-label="Ara">
+      <form class="header-search header-search-desktop" action="<?= langUrl('/ara') ?>" method="get" autocomplete="off">
+        <input type="text" name="q" placeholder="<?= t('search_placeholder') ?>" value="<?= e($_GET['q'] ?? '') ?>">
+        <button type="submit" aria-label="<?= $L === 'tr' ? 'Ara' : 'Search' ?>">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
         </button>
         <div class="search-suggestions"></div>
       </form>
 
-      <button class="menu-toggle" aria-label="Menü">
+      <button class="menu-toggle" aria-label="<?= $L === 'tr' ? 'Menü' : 'Menu' ?>">
         <span></span>
         <span></span>
         <span></span>

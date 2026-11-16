@@ -9,6 +9,15 @@ $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 $uri = rtrim($uri, '/');
 if (empty($uri)) $uri = '/';
 
+// Dil algılama: /en/... prefix'i varsa İngilizce
+if (preg_match('#^/en(/.*)?$#', $uri, $langMatch)) {
+    setLang('en');
+    $uri = $langMatch[1] ?? '/';
+    if ($uri === '') $uri = '/';
+} else {
+    setLang('tr');
+}
+
 $settings = getSettings();
 
 // ---- ROUTING ----
@@ -83,9 +92,9 @@ switch (true) {
         $matches = searchProducts($q, 6);
         $out = array_map(function($p) {
             return [
-                'name' => $p['name'],
+                'name' => td($p, 'name'),
                 'code' => $p['code'] ?? '',
-                'url' => '/urun/' . $p['slug'],
+                'url' => langUrl('/urun/' . $p['slug']),
                 'image' => '/' . getProductImage($p),
             ];
         }, array_values($matches));

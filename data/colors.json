@@ -1,82 +1,92 @@
 {
-    "parlak-siyah": {
-        "name": "Parlak Siyah",
-        "slug": "parlak-siyah",
-        "image": "assets\/images\/colors\/parlak-siyah.jpg",
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/renkliler\/parlak-siyah.286",
-        "hex": "#000000",
-        "dark": true
-    },
-    "mat-siyah": {
-        "name": "Mat Siyah",
-        "slug": "mat-siyah",
-        "image": "assets\/images\/colors\/mat-siyah.jpg",
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/renkliler\/mat-siyah.287",
-        "hex": "#24201f",
-        "dark": true
-    },
-    "antrasit": {
-        "name": "Antrasit",
-        "slug": "antrasit",
-        "image": "assets\/images\/colors\/antrasit.jpg",
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/renkliler\/antrasit.288",
-        "hex": "#293133",
-        "dark": true
-    },
-    "vizon": {
-        "name": "Vizon",
-        "slug": "vizon",
-        "image": "assets\/images\/colors\/vizon.jpg",
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/renkliler\/vizon.289",
-        "hex": "#9e8a7f",
-        "dark": false
-    },
-    "karamel": {
-        "name": "Karamel",
-        "slug": "karamel",
-        "image": "assets\/images\/colors\/karamel.jpg",
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/renkliler\/karamel.290",
-        "hex": "#ffae42",
-        "dark": false
-    },
-    "somon": {
-        "name": "Somon",
-        "slug": "somon",
-        "image": "assets\/images\/colors\/somon.jpg",
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/renkliler\/somon.291",
-        "hex": "#fbbcb5",
-        "dark": false
-    },
-    "turuncu": {
-        "name": "Turuncu",
-        "slug": "turuncu",
-        "image": "assets\/images\/colors\/turuncu.jpg",
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/renkliler\/turuncu.292",
-        "hex": "#ff7f00",
-        "dark": false
-    },
-    "kirmizi": {
-        "name": "Kırmızı",
-        "slug": "kirmizi",
-        "image": "assets\/images\/colors\/kirmizi.jpg",
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/renkliler\/kirmizi.293",
-        "hex": "#e90506",
-        "dark": true
-    },
-    "altin": {
-        "name": "Altın",
-        "slug": "altin",
-        "image": "assets\/images\/colors\/altin.jpg",
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/renkliler\/altin.294",
-        "hex": "#daa521",
-        "dark": false
-    },
-    "platin": {
-        "name": "Platin",
-        "slug": "platin",
-        "image": "assets\/images\/colors\/platin.jpg",
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/renkliler\/platin.295",
-        "hex": "#adaeb2",
-        "dark": false
-    }
+  "parlak-siyah": {
+    "name": "Parlak Siyah",
+    "slug": "parlak-siyah",
+    "image": "assets/images/colors/parlak-siyah.jpg",
+    "source_url": "https://www.alvit.com.tr/urunler/renkliler/parlak-siyah.286",
+    "hex": "#000000",
+    "dark": true,
+    "name_en": "Glossy Black"
+  },
+  "mat-siyah": {
+    "name": "Mat Siyah",
+    "slug": "mat-siyah",
+    "image": "assets/images/colors/mat-siyah.jpg",
+    "source_url": "https://www.alvit.com.tr/urunler/renkliler/mat-siyah.287",
+    "hex": "#24201f",
+    "dark": true,
+    "name_en": "Matte Black"
+  },
+  "antrasit": {
+    "name": "Antrasit",
+    "slug": "antrasit",
+    "image": "assets/images/colors/antrasit.jpg",
+    "source_url": "https://www.alvit.com.tr/urunler/renkliler/antrasit.288",
+    "hex": "#293133",
+    "dark": true,
+    "name_en": "Anthracite"
+  },
+  "vizon": {
+    "name": "Vizon",
+    "slug": "vizon",
+    "image": "assets/images/colors/vizon.jpg",
+    "source_url": "https://www.alvit.com.tr/urunler/renkliler/vizon.289",
+    "hex": "#9e8a7f",
+    "dark": false,
+    "name_en": "Mink"
+  },
+  "karamel": {
+    "name": "Karamel",
+    "slug": "karamel",
+    "image": "assets/images/colors/karamel.jpg",
+    "source_url": "https://www.alvit.com.tr/urunler/renkliler/karamel.290",
+    "hex": "#ffae42",
+    "dark": false,
+    "name_en": "Caramel"
+  },
+  "somon": {
+    "name": "Somon",
+    "slug": "somon",
+    "image": "assets/images/colors/somon.jpg",
+    "source_url": "https://www.alvit.com.tr/urunler/renkliler/somon.291",
+    "hex": "#fbbcb5",
+    "dark": false,
+    "name_en": "Salmon"
+  },
+  "turuncu": {
+    "name": "Turuncu",
+    "slug": "turuncu",
+    "image": "assets/images/colors/turuncu.jpg",
+    "source_url": "https://www.alvit.com.tr/urunler/renkliler/turuncu.292",
+    "hex": "#ff7f00",
+    "dark": false,
+    "name_en": "Orange"
+  },
+  "kirmizi": {
+    "name": "Kırmızı",
+    "slug": "kirmizi",
+    "image": "assets/images/colors/kirmizi.jpg",
+    "source_url": "https://www.alvit.com.tr/urunler/renkliler/kirmizi.293",
+    "hex": "#e90506",
+    "dark": true,
+    "name_en": "Red"
+  },
+  "altin": {
+    "name": "Altın",
+    "slug": "altin",
+    "image": "assets/images/colors/altin.jpg",
+    "source_url": "https://www.alvit.com.tr/urunler/renkliler/altin.294",
+    "hex": "#daa521",
+    "dark": false,
+    "name_en": "Gold"
+  },
+  "platin": {
+    "name": "Platin",
+    "slug": "platin",
+    "image": "assets/images/colors/platin.jpg",
+    "source_url": "https://www.alvit.com.tr/urunler/renkliler/platin.295",
+    "hex": "#adaeb2",
+    "dark": false,
+    "name_en": "Platinum"
+  }
 }

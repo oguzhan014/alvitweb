@@ -1,16 +1,16 @@
 <?php
-$pageTitle = 'Renk Kataloğu';
+$pageTitle = t('colors_title');
 $colors = getColors();
 include __DIR__ . '/../includes/header.php';
 ?>
 
 <div class="page-header">
   <div class="container">
-    <h1>Renk Kataloğu</h1>
+    <h1><?= t('colors_title') ?></h1>
     <div class="breadcrumb-light">
-      <a href="/">Anasayfa</a>
+      <a href="<?= langUrl() ?>"><?= t('breadcrumb_home') ?></a>
       <span>&rsaquo;</span>
-      <span class="current">Renkler</span>
+      <span class="current"><?= t('nav_colors') ?></span>
     </div>
   </div>
 </div>
@@ -18,7 +18,7 @@ include __DIR__ . '/../includes/header.php';
 <section class="section section-compact">
   <div class="container">
     <div class="page-body page-body-compact">
-      <p>Standart beyaz üretimimizin yanı sıra seramik ürünlerimizi aşağıdaki renk seçenekleriyle de üretebiliyoruz. Renk talepleriniz için satış ekibimizle iletişime geçebilirsiniz.</p>
+      <p><?= t('colors_intro') ?></p>
     </div>
 
     <div class="color-grid">
@@ -26,7 +26,7 @@ include __DIR__ . '/../includes/header.php';
       <div class="color-card reveal<?= !empty($color['dark']) ? ' color-card-dark' : '' ?>">
         <div class="color-swatch" style="background: <?= e($color['hex']) ?>"></div>
         <div class="color-body">
-          <h3><?= e($color['name']) ?></h3>
+          <h3><?= e(td($color, 'name')) ?></h3>
           <span class="color-hex"><?= e(strtoupper($color['hex'])) ?></span>
         </div>
       </div>
@@ -36,10 +36,10 @@ include __DIR__ . '/../includes/header.php';
     <div class="cta-banner cta-inline">
       <div class="cta-banner-inner">
         <div>
-          <h2>Renkli Ürün Talebi</h2>
-          <p>Projeniz için özel renk ihtiyacınızı bizimle paylaşın, birlikte değerlendirelim.</p>
+          <h2><?= t('colors_cta_title') ?></h2>
+          <p><?= t('colors_cta_desc') ?></p>
         </div>
-        <a href="/iletisim" class="btn btn-primary">Bize Ulaşın</a>
+        <a href="<?= langUrl('/iletisim') ?>" class="btn btn-primary"><?= t('cta_btn') ?></a>
       </div>
     </div>
   </div>

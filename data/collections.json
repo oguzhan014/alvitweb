@@ -8,7 +8,8 @@
     ],
     "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/edge-serisi",
     "count": 2,
-    "image": "assets/images/products/edge-90-cm.jpg"
+    "image": "assets/images/products/edge-90-cm.jpg",
+    "title_en": "Edge Series"
   },
   "efekta-serisi": {
     "title": "Efekta Serisi",
@@ -21,7 +22,8 @@
     ],
     "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/efekta-serisi-3",
     "count": 4,
-    "image": "assets/images/products/efekta-arka-cikisli-klozet.jpg"
+    "image": "assets/images/products/efekta-arka-cikisli-klozet.jpg",
+    "title_en": "Efekta Series"
   },
   "efes-serisi": {
     "title": "Efes Serisi",
@@ -33,7 +35,8 @@
     ],
     "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/efes-serisi-4",
     "count": 3,
-    "image": "assets/images/products/efes-lavabo-50x60.jpg"
+    "image": "assets/images/products/efes-lavabo-50x60.jpg",
+    "title_en": "Efes Series"
   },
   "engelli-serisi": {
     "title": "Engelli Serisi",
@@ -44,7 +47,8 @@
     ],
     "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/engelli-serisi-3",
     "count": 2,
-    "image": "assets/images/products/engelli-klozet.jpg"
+    "image": "assets/images/products/engelli-klozet.jpg",
+    "title_en": "Accessible Series"
   },
   "gideros-serisi": {
     "title": "Gideros Serisi",
@@ -55,7 +59,8 @@
     ],
     "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/gideros-serisi-4",
     "count": 2,
-    "image": "assets/images/products/gideros-ds-klozet.jpg"
+    "image": "assets/images/products/gideros-ds-klozet.jpg",
+    "title_en": "Gideros Series"
   },
   "inkum-serisi": {
     "title": "İnkum Serisi",
@@ -67,7 +72,8 @@
     ],
     "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/inkum-serisi-4",
     "count": 3,
-    "image": "assets/images/products/inkum-alt-cikisli-klozet.jpg"
+    "image": "assets/images/products/inkum-alt-cikisli-klozet.jpg",
+    "title_en": "Inkum Series"
   },
   "line-serisi": {
     "title": "Line Serisi",
@@ -80,7 +86,8 @@
     ],
     "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/line-serisi-2",
     "count": 4,
-    "image": "assets/images/products/line-55.jpg"
+    "image": "assets/images/products/line-55.jpg",
+    "title_en": "Line Series"
   },
   "melt-serisi": {
     "title": "Melt Serisi",
@@ -90,7 +97,8 @@
     ],
     "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/melt-serisi",
     "count": 1,
-    "image": "assets/images/products/melt-80-cm.jpg"
+    "image": "assets/images/products/melt-80-cm.jpg",
+    "title_en": "Melt Series"
   },
   "safran-serisi": {
     "title": "Safran Serisi",
@@ -103,7 +111,8 @@
     ],
     "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/safran-serisi-4",
     "count": 4,
-    "image": "assets/images/products/safran-ds-klozet.jpg"
+    "image": "assets/images/products/safran-ds-klozet.jpg",
+    "title_en": "Safran Series"
   },
   "thin-serisi": {
     "title": "Thin Serisi",
@@ -117,7 +126,8 @@
     ],
     "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/thin-serisi-2",
     "count": 5,
-    "image": "assets/images/products/thin-55.jpg"
+    "image": "assets/images/products/thin-55.jpg",
+    "title_en": "Thin Series"
   },
   "tulip-serisi": {
     "title": "Tulip Serisi",
@@ -133,6 +143,7 @@
     ],
     "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/tulip-serisi-2",
     "count": 7,
-    "image": "assets/images/products/tulip-55.jpg"
+    "image": "assets/images/products/tulip-55.jpg",
+    "title_en": "Tulip Series"
   }
 }

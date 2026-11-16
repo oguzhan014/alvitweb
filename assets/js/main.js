@@ -277,12 +277,17 @@ document.addEventListener('DOMContentLoaded', () => {
       box.classList.remove('open');
     }
 
+    const isEn = (window._lang === 'en');
+    const langPrefix = isEn ? '/en' : '';
+
     function renderResults(items, query) {
       box.innerHTML = '';
       if (!items.length) {
         const empty = document.createElement('div');
         empty.className = 's-empty';
-        empty.textContent = `"${query}" için sonuç bulunamadı`;
+        empty.textContent = isEn
+          ? `No results found for "${query}"`
+          : `"${query}" için sonuç bulunamadı`;
         box.appendChild(empty);
         box.classList.add('open');
         return;
@@ -304,7 +309,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (item.code) {
           const code = document.createElement('div');
           code.className = 's-code';
-          code.textContent = 'Kod: ' + item.code;
+          code.textContent = (isEn ? 'Code: ' : 'Kod: ') + item.code;
           info.appendChild(code);
         }
 
@@ -315,7 +320,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
       const more = document.createElement('div');
       more.className = 's-more';
-      more.textContent = 'Tüm sonuçlar için Enter\'a basın';
+      more.textContent = isEn
+        ? 'Press Enter for all results'
+        : 'Tüm sonuçlar için Enter\'a basın';
       box.appendChild(more);
 
       box.classList.add('open');
@@ -329,7 +336,7 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
       }
       timer = setTimeout(() => {
-        fetch('/api/arama?q=' + encodeURIComponent(query))
+        fetch(langPrefix + '/api/arama?q=' + encodeURIComponent(query))
           .then(res => res.json())
           .then(items => renderResults(items, query))
           .catch(() => closeBox());

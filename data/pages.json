@@ -2,90 +2,116 @@
     {
         "id": 1,
         "title": "Hakkımızda",
+        "title_en": "About Us",
         "slug": "hakkimizda",
         "content": "<p>Alvit - Bartın Seramik A.Ş., 1994 yılından bu yana Türkiye'nin önde gelen seramik banyo ürünleri üreticilerinden biridir.<\/p><p>Bartın Organize Sanayi Bölgesi'ndeki modern üretim tesislerimizde, en son teknoloji ile üretim yaparak yurt içi ve yurt dışı pazarlara kaliteli ürünler sunmaktayız.<\/p><p>Müşteri memnuniyetini ön planda tutarak, yenilikçi tasarımlar ve üstün kalite anlayışıyla sektörde öncü olmaya devam ediyoruz.<\/p><p>Ürün gamımız lavabo, klozet, banyo mobilyası, klozet kapağı ve gömme rezervuar sistemlerini kapsar. Tüm ürünlerimiz TSE ve CE standartlarına uygun olarak üretilir, ISO 9001 Kalite Yönetim Sistemi kapsamında düzenli olarak  denetlenir.<\/p>",
+        "content_en": "<p>Alvit - Bartın Seramik A.Ş. has been one of Turkey's leading ceramic bathroom products manufacturers since 1994.<\/p><p>At our modern production facilities in the Bartın Organized Industrial Zone, we produce with the latest technology and offer quality products to domestic and international markets.<\/p><p>With a focus on customer satisfaction, we continue to lead the industry with innovative designs and superior quality standards.<\/p><p>Our product range covers washbasins, toilets, bathroom furniture, toilet seats and concealed cistern systems. All our products are manufactured in compliance with TSE and CE standards and are regularly audited under the ISO 9001 Quality Management System.<\/p>",
         "order": 1,
         "type": "about"
     },
     {
         "id": 2,
         "title": "Vizyon & Misyon",
+        "title_en": "Vision & Mission",
         "slug": "vizyon-misyon",
         "content": "<p>1994’ten bu yana Bartın’daki tesislerimizde ürettiğimiz her ürünün arkasında net bir hedef ve ortak bir çalışma anlayışı var. Vizyonumuz nereye gitmek istediğimizi, misyonumuz ise bunu nasıl yaptığımızı anlatır.<\/p>",
+        "content_en": "<p>Behind every product we manufacture at our facilities in Bartın since 1994, there is a clear goal and a shared work ethic. Our vision tells where we want to go, our mission tells how we do it.<\/p>",
         "order": 2,
         "type": "vision",
         "blocks": [
             {
                 "icon": "eye",
                 "label": "Vizyonumuz",
-                "text": "Seramik banyo ürünleri sektöründe Türkiye’nin ve dünyanın önde gelen markalarından biri olmak."
+                "label_en": "Our Vision",
+                "text": "Seramik banyo ürünleri sektöründe Türkiye’nin ve dünyanın önde gelen markalarından biri olmak.",
+                "text_en": "To become one of the leading brands in Turkey and the world in the ceramic bathroom products industry."
             },
             {
                 "icon": "target",
                 "label": "Misyonumuz",
-                "text": "Müşterilerimize en kaliteli, yenilikçi ve çevre dostu banyo çözümleri sunarak yaşam alanlarını güzelleştirmek."
+                "label_en": "Our Mission",
+                "text": "Müşterilerimize en kaliteli, yenilikçi ve çevre dostu banyo çözümleri sunarak yaşam alanlarını güzelleştirmek.",
+                "text_en": "To beautify living spaces by offering our customers the highest quality, innovative and eco-friendly bathroom solutions."
             }
         ],
         "values": [
             {
                 "icon": "award",
                 "title": "Kalite",
-                "text": "TSE, CE ve ISO 9001 standartlarına uygun, birinci sınıf hammaddelerle üretim yapıyoruz."
+                "title_en": "Quality",
+                "text": "TSE, CE ve ISO 9001 standartlarına uygun, birinci sınıf hammaddelerle üretim yapıyoruz.",
+                "text_en": "We manufacture with first-class raw materials in compliance with TSE, CE and ISO 9001 standards."
             },
             {
                 "icon": "bulb",
                 "title": "Yenilikçilik",
-                "text": "Değişen ihtiyaçlara uygun yeni tasarım ve üretim teknolojilerini yakından takip ediyoruz."
+                "title_en": "Innovation",
+                "text": "Değişen ihtiyaçlara uygun yeni tasarım ve üretim teknolojilerini yakından takip ediyoruz.",
+                "text_en": "We closely follow new design and production technologies to meet evolving needs."
             },
             {
                 "icon": "handshake",
                 "title": "Müşteri Memnuniyeti",
-                "text": "Satış öncesi ve sonrasında ihtiyaçlarınıza hızlı ve çözüm odaklı yaklaşıyoruz."
+                "title_en": "Customer Satisfaction",
+                "text": "Satış öncesi ve sonrasında ihtiyaçlarınıza hızlı ve çözüm odaklı yaklaşıyoruz.",
+                "text_en": "We take a fast and solution-oriented approach to your needs, both before and after sales."
             },
             {
                 "icon": "leaf",
                 "title": "Çevreye Saygı",
-                "text": "Su tasarruflu ürün tasarımı ve sorumlu üretim süreçleriyle çevresel etkimizi azaltıyoruz."
+                "title_en": "Environmental Respect",
+                "text": "Su tasarruflu ürün tasarımı ve sorumlu üretim süreçleriyle çevresel etkimizi azaltıyoruz.",
+                "text_en": "We reduce our environmental impact through water-saving product design and responsible production processes."
             }
         ]
     },
     {
         "id": 3,
         "title": "Kalite Politikası",
+        "title_en": "Quality Policy",
         "slug": "kalite-politikasi",
         "content": "<p>Alvit olarak kalite, üretim sürecimizin her aşamasında en öncelikli değerimizdir. TSE ve uluslararası standartlara uygun üretim yaparak, müşterilerimize güvenilir ve dayanıklı ürünler sunmaktayız.<\/p>",
+        "content_en": "<p>At Alvit, quality is our top priority at every stage of our production process. We manufacture in compliance with TSE and international standards, offering our customers reliable and durable products.<\/p>",
         "order": 3,
         "type": "text"
     },
     {
         "id": 4,
         "title": "Kalite Belgelerimiz",
+        "title_en": "Quality Certificates",
         "slug": "kalite-belgelerimiz",
         "content": "<p>TSE, CE ve ISO kalite belgelerimiz ile ürünlerimizin kalitesini belgeliyoruz. Aşağıdaki belgeleri büyüterek inceleyebilir veya \"İndir\" butonuyla bilgisayarınıza kaydedebilirsiniz.<\/p>",
+        "content_en": "<p>We certify the quality of our products with our TSE, CE and ISO quality certificates. You can enlarge the certificates below to view them or save them to your computer with the \"Download\" button.<\/p>",
         "order": 4,
         "type": "certificates"
     },
     {
         "id": 5,
         "title": "Raporlar",
+        "title_en": "Reports",
         "slug": "raporlar",
         "content": "<p>Faaliyet raporlarımız, bağımsız denetim raporlarımız, bilanço ve gelir tablolarımız ile genel kurul belgelerimizi yıllara göre aşağıdan inceleyebilir veya indirebilirsiniz.<\/p>",
+        "content_en": "<p>You can browse or download our annual reports, independent audit reports, balance sheets and income statements, and general assembly documents by year below.<\/p>",
         "type": "documents",
         "order": 5
     },
     {
         "id": 6,
         "title": "Montaj Kılavuzları",
+        "title_en": "Installation Guides",
         "slug": "montaj-kilavuzlari",
         "content": "<p>Ürünlerimizin doğru ve güvenli montajı için hazırladığımız kılavuzlara aşağıdan ulaşabilirsiniz.<\/p>",
+        "content_en": "<p>You can access the guides we have prepared for the correct and safe installation of our products below.<\/p>",
         "type": "documents",
         "order": 6
     },
     {
         "id": 7,
         "title": "Ürün Montaj Videoları",
+        "title_en": "Installation Videos",
         "slug": "urun-montaj-videolari",
         "content": "<p>Montaj adımlarını videolu anlatımlarımızla adım adım takip edebilirsiniz.<\/p>",
+        "content_en": "<p>Follow the installation steps with our video guides, step by step.<\/p>",
         "type": "videos",
         "order": 7
     },

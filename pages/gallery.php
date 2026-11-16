@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Galeri';
+$pageTitle = t('nav_gallery');
 $images = glob(__DIR__ . '/../assets/images/gallery/*.{jpg,jpeg,png,webp}', GLOB_BRACE);
 sort($images);
 
@@ -8,17 +8,17 @@ include __DIR__ . '/../includes/header.php';
 
 <section class="page-banner">
   <div class="container">
-    <h1>Galeri</h1>
-    <p>Alvit ürünleriyle hayat bulan mekanlardan kareler</p>
+    <h1><?= t('nav_gallery') ?></h1>
+    <p><?= t('gallery_desc') ?></p>
   </div>
 </section>
 
 <section class="section">
   <div class="container">
     <div class="gallery-intro">
-      <span class="hp-eyebrow">Projelerimiz</span>
-      <h2>Ürünlerimizin mekanlardaki yansıması</h2>
-      <p>Alvit seramik ürünleriyle tasarlanan banyo ve yaşam alanlarından seçtiğimiz görselleri sizinle paylaşıyoruz. Her proje, kaliteli malzeme ve özenli işçiliğin buluştuğu bir hikaye anlatıyor.</p>
+      <span class="hp-eyebrow"><?= t('gallery_eyebrow') ?></span>
+      <h2><?= t('gallery_title') ?></h2>
+      <p><?= t('gallery_desc') ?></p>
     </div>
     <div class="gallery-grid">
       <?php foreach ($images as $i => $img):
@@ -37,9 +37,9 @@ include __DIR__ . '/../includes/header.php';
 </section>
 
 <div class="lightbox" id="lightbox">
-  <button class="lightbox-close" aria-label="Kapat">&times;</button>
-  <button class="lightbox-prev" aria-label="Önceki">&#8592;</button>
-  <button class="lightbox-next" aria-label="Sonraki">&#8594;</button>
+  <button class="lightbox-close" aria-label="<?= lang() === 'tr' ? 'Kapat' : 'Close' ?>">&times;</button>
+  <button class="lightbox-prev" aria-label="<?= lang() === 'tr' ? 'Önceki' : 'Previous' ?>">&#8592;</button>
+  <button class="lightbox-next" aria-label="<?= lang() === 'tr' ? 'Sonraki' : 'Next' ?>">&#8594;</button>
   <div class="lightbox-content">
     <img src="" alt="" id="lightboxImg">
   </div>

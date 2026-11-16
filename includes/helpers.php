@@ -6,6 +6,46 @@
 define('DATA_DIR', __DIR__ . '/../data/');
 define('UPLOAD_DIR', __DIR__ . '/../assets/images/');
 
+// ---- DİL SİSTEMİ ----
+$GLOBALS['_lang'] = 'tr';
+$GLOBALS['_translations'] = [];
+
+function setLang($lang) {
+    $lang = in_array($lang, ['tr', 'en']) ? $lang : 'tr';
+    $GLOBALS['_lang'] = $lang;
+    $file = DATA_DIR . 'lang/' . $lang . '.json';
+    $GLOBALS['_translations'] = file_exists($file) ? json_decode(file_get_contents($file), true) : [];
+}
+
+function lang() {
+    return $GLOBALS['_lang'];
+}
+
+function t($key, $fallback = '') {
+    return $GLOBALS['_translations'][$key] ?? $fallback ?: $key;
+}
+
+function td($item, $field) {
+    if (lang() === 'en') {
+        $enKey = $field . '_en';
+        if (!empty($item[$enKey])) return $item[$enKey];
+    }
+    return $item[$field] ?? '';
+}
+
+function langUrl($path = '') {
+    if (lang() === 'en') return '/en' . $path;
+    return $path ?: '/';
+}
+
+function switchLangUrl() {
+    $uri = $_SERVER['REQUEST_URI'];
+    if (lang() === 'tr') {
+        return '/en' . $uri;
+    }
+    return preg_replace('#^/en#', '', $uri) ?: '/';
+}
+
 function loadJson($file) {
     $path = DATA_DIR . $file;
     if (!file_exists($path)) return [];
