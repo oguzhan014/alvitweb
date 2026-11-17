@@ -1,149 +1,112 @@
 {
-  "edge-serisi": {
-    "title": "Edge Serisi",
-    "slug": "edge-serisi",
-    "product_ids": [
-      "231",
-      "232"
-    ],
-    "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/edge-serisi",
-    "count": 2,
-    "image": "assets/images/products/edge-90-cm.jpg",
-    "title_en": "Edge Series"
-  },
-  "efekta-serisi": {
-    "title": "Efekta Serisi",
-    "slug": "efekta-serisi",
-    "product_ids": [
-      "196",
-      "197",
-      "211",
-      "212"
-    ],
-    "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/efekta-serisi-3",
-    "count": 4,
-    "image": "assets/images/products/efekta-arka-cikisli-klozet.jpg",
-    "title_en": "Efekta Series"
-  },
-  "efes-serisi": {
-    "title": "Efes Serisi",
-    "slug": "efes-serisi",
-    "product_ids": [
-      "75",
-      "76",
-      "77"
-    ],
-    "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/efes-serisi-4",
-    "count": 3,
-    "image": "assets/images/products/efes-lavabo-50x60.jpg",
-    "title_en": "Efes Series"
-  },
-  "engelli-serisi": {
-    "title": "Engelli Serisi",
-    "slug": "engelli-serisi",
-    "product_ids": [
-      "198",
-      "213"
-    ],
-    "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/engelli-serisi-3",
-    "count": 2,
-    "image": "assets/images/products/engelli-klozet.jpg",
-    "title_en": "Accessible Series"
-  },
-  "gideros-serisi": {
-    "title": "Gideros Serisi",
-    "slug": "gideros-serisi",
-    "product_ids": [
-      "187",
-      "188"
-    ],
-    "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/gideros-serisi-4",
-    "count": 2,
-    "image": "assets/images/products/gideros-ds-klozet.jpg",
-    "title_en": "Gideros Series"
-  },
-  "inkum-serisi": {
-    "title": "İnkum Serisi",
-    "slug": "inkum-serisi",
-    "product_ids": [
-      "194",
-      "195",
-      "284"
-    ],
-    "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/inkum-serisi-4",
-    "count": 3,
-    "image": "assets/images/products/inkum-alt-cikisli-klozet.jpg",
-    "title_en": "Inkum Series"
-  },
-  "line-serisi": {
-    "title": "Line Serisi",
-    "slug": "line-serisi",
-    "product_ids": [
-      "220",
-      "221",
-      "222",
-      "223"
-    ],
-    "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/line-serisi-2",
-    "count": 4,
-    "image": "assets/images/products/line-55.jpg",
-    "title_en": "Line Series"
-  },
-  "melt-serisi": {
-    "title": "Melt Serisi",
-    "slug": "melt-serisi",
-    "product_ids": [
-      "233"
-    ],
-    "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/melt-serisi",
-    "count": 1,
-    "image": "assets/images/products/melt-80-cm.jpg",
-    "title_en": "Melt Series"
-  },
-  "safran-serisi": {
-    "title": "Safran Serisi",
-    "slug": "safran-serisi",
-    "product_ids": [
-      "190",
-      "191",
-      "78",
-      "79"
-    ],
-    "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/safran-serisi-4",
-    "count": 4,
-    "image": "assets/images/products/safran-ds-klozet.jpg",
-    "title_en": "Safran Series"
-  },
-  "thin-serisi": {
-    "title": "Thin Serisi",
-    "slug": "thin-serisi",
-    "product_ids": [
-      "234",
-      "235",
-      "236",
-      "237",
-      "238"
-    ],
-    "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/thin-serisi-2",
-    "count": 5,
-    "image": "assets/images/products/thin-55.jpg",
-    "title_en": "Thin Series"
-  },
-  "tulip-serisi": {
-    "title": "Tulip Serisi",
-    "slug": "tulip-serisi",
-    "product_ids": [
-      "247",
-      "248",
-      "249",
-      "250",
-      "251",
-      "252",
-      "253"
-    ],
-    "source_url": "https://www.alvit.com.tr/urunler/koleksiyonlar/tulip-serisi-2",
-    "count": 7,
-    "image": "assets/images/products/tulip-55.jpg",
-    "title_en": "Tulip Series"
-  }
+    "efekta-serisi": {
+        "title": "Efekta Serisi",
+        "slug": "efekta-serisi",
+        "product_ids": [
+            "196",
+            "197",
+            "211",
+            "212"
+        ],
+        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/koleksiyonlar\/efekta-serisi-3",
+        "count": 4,
+        "image": "assets\/images\/products\/efekta-arka-cikisli-klozet.jpg",
+        "title_en": "Efekta Series"
+    },
+    "efes-serisi": {
+        "title": "Efes Serisi",
+        "slug": "efes-serisi",
+        "product_ids": [
+            "75",
+            "76",
+            "77"
+        ],
+        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/koleksiyonlar\/efes-serisi-4",
+        "count": 3,
+        "image": "assets\/images\/products\/efes-lavabo-50x60.jpg",
+        "title_en": "Efes Series"
+    },
+    "engelli-serisi": {
+        "title": "Engelli Serisi",
+        "slug": "engelli-serisi",
+        "product_ids": [
+            "198",
+            "213"
+        ],
+        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/koleksiyonlar\/engelli-serisi-3",
+        "count": 2,
+        "image": "assets\/images\/products\/engelli-klozet.jpg",
+        "title_en": "Accessible Series"
+    },
+    "gideros-serisi": {
+        "title": "Gideros Serisi",
+        "slug": "gideros-serisi",
+        "product_ids": [
+            "187",
+            "188"
+        ],
+        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/koleksiyonlar\/gideros-serisi-4",
+        "count": 2,
+        "image": "assets\/images\/products\/gideros-ds-klozet.jpg",
+        "title_en": "Gideros Series"
+    },
+    "inkum-serisi": {
+        "title": "İnkum Serisi",
+        "slug": "inkum-serisi",
+        "product_ids": [
+            "194",
+            "195",
+            "284"
+        ],
+        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/koleksiyonlar\/inkum-serisi-4",
+        "count": 3,
+        "image": "assets\/images\/products\/inkum-alt-cikisli-klozet.jpg",
+        "title_en": "Inkum Series"
+    },
+    "safran-serisi": {
+        "title": "Safran Serisi",
+        "slug": "safran-serisi",
+        "product_ids": [
+            "190",
+            "191",
+            "78",
+            "79"
+        ],
+        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/koleksiyonlar\/safran-serisi-4",
+        "count": 4,
+        "image": "assets\/images\/products\/safran-ds-klozet.jpg",
+        "title_en": "Safran Series"
+    },
+    "thin-serisi": {
+        "title": "Thin Serisi",
+        "slug": "thin-serisi",
+        "product_ids": [
+            "234",
+            "235",
+            "236",
+            "237",
+            "238"
+        ],
+        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/koleksiyonlar\/thin-serisi-2",
+        "count": 5,
+        "image": "assets\/images\/products\/thin-55.jpg",
+        "title_en": "Thin Series"
+    },
+    "tulip-serisi": {
+        "title": "Tulip Serisi",
+        "slug": "tulip-serisi",
+        "product_ids": [
+            "247",
+            "248",
+            "249",
+            "250",
+            "251",
+            "252",
+            "253"
+        ],
+        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/koleksiyonlar\/tulip-serisi-2",
+        "count": 7,
+        "image": "assets\/images\/products\/tulip-55.jpg",
+        "title_en": "Tulip Series"
+    }
 }
