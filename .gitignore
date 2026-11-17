@@ -4,3 +4,5 @@ Thumbs.db
 .vscode/
 .env
 node_modules/
+drive/
+task.md

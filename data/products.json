@@ -9,12 +9,12 @@
         "features": "Dolap Uyumlu Lavabo",
         "palet": "",
         "images": [
-            "new-line-80.jpg"
+            "new-line-80.png"
         ],
         "documents": [
             {
-                "name": "New Line 80 teknik çizim",
-                "file": "assets\/documents\/new-line-80-teknik-cizim.pdf"
+                "name": "New Line 80x45 cm",
+                "file": "assets\/documents\/new-line-80-teknik.pdf"
             }
         ],
         "featured": false,
@@ -38,12 +38,12 @@
         "features": "Etajerli Lavabo",
         "palet": "",
         "images": [
-            "thin-55.jpg"
+            "thin-55.png"
         ],
         "documents": [
             {
-                "name": "thin_lavabo_55_olculer",
-                "file": "assets\/documents\/thin_lavabo_55_olculer.pdf"
+                "name": "Thin 55x45 cm",
+                "file": "assets\/documents\/thin-55-teknik.pdf"
             }
         ],
         "featured": false,
@@ -74,12 +74,12 @@
         "features": "Etajerli Lavabo",
         "palet": "",
         "images": [
-            "thin-60.jpg"
+            "thin-60.png"
         ],
         "documents": [
             {
-                "name": "thin_lavabo_60_olculer",
-                "file": "assets\/documents\/thin_lavabo_60_olculer.pdf"
+                "name": "Thin 60x45 cm",
+                "file": "assets\/documents\/thin-60-teknik.pdf"
             }
         ],
         "featured": false,
@@ -110,12 +110,12 @@
         "features": "Etajerli Lavabo",
         "palet": "",
         "images": [
-            "thin-65.jpg"
+            "thin-65.png"
         ],
         "documents": [
             {
-                "name": "thin_lavabo_65_olculer",
-                "file": "assets\/documents\/thin_lavabo_65_olculer.pdf"
+                "name": "Thin 65x45 cm",
+                "file": "assets\/documents\/thin-65-teknik.pdf"
             }
         ],
         "featured": false,
@@ -146,12 +146,12 @@
         "features": "Etajerli Lavabo",
         "palet": "",
         "images": [
-            "thin-80.jpg"
+            "thin-80.png"
         ],
         "documents": [
             {
-                "name": "thin_lavabo_80_olculer",
-                "file": "assets\/documents\/thin_lavabo_80_olculer.pdf"
+                "name": "Thin 80x45 cm",
+                "file": "assets\/documents\/thin-80-teknik.pdf"
             }
         ],
         "featured": false,
@@ -182,12 +182,12 @@
         "features": "Etajerli Lavabo",
         "palet": "",
         "images": [
-            "thin-100.jpg"
+            "thin-100.png"
         ],
         "documents": [
             {
-                "name": "Thin_100_olculer",
-                "file": "assets\/documents\/thin_100_olculer.pdf"
+                "name": "Thin 100x45 cm",
+                "file": "assets\/documents\/thin-100-teknik.pdf"
             }
         ],
         "featured": false,
@@ -218,12 +218,12 @@
         "features": "Etajerli Lavabo",
         "palet": "",
         "images": [
-            "tulip-55.jpg"
+            "tulip-55.png"
         ],
         "documents": [
             {
-                "name": "tulip_lavabo_55_olculer",
-                "file": "assets\/documents\/tulip_lavabo_55_olculer.pdf"
+                "name": "70TP21055 - Tulip 55x45 cm",
+                "file": "assets\/documents\/tulip-55-teknik.pdf"
             }
         ],
         "featured": true,
@@ -254,12 +254,12 @@
         "features": "Etajerli Lavabo",
         "palet": "",
         "images": [
-            "tulip-65.jpg"
+            "tulip-65.png"
         ],
         "documents": [
             {
-                "name": "tulip_lavabo_65_olculer",
-                "file": "assets\/documents\/tulip_lavabo_65_olculer.pdf"
+                "name": "70TP21065 - Tulip 65x45 cm",
+                "file": "assets\/documents\/tulip-65-teknik.pdf"
             }
         ],
         "featured": false,
@@ -290,12 +290,12 @@
         "features": "Etajerli Lavabo",
         "palet": "",
         "images": [
-            "tulip-75.jpg"
+            "tulip-75.png"
         ],
         "documents": [
             {
-                "name": "tulip_lavabo_75_olculer",
-                "file": "assets\/documents\/tulip_lavabo_75_olculer.pdf"
+                "name": "70TP21075 - Tulip 75x45 cm",
+                "file": "assets\/documents\/tulip-75-teknik.pdf"
             }
         ],
         "featured": false,
@@ -326,12 +326,12 @@
         "features": "Etajerli Lavabo",
         "palet": "",
         "images": [
-            "tulip-80.jpg"
+            "tulip-80.png"
         ],
         "documents": [
             {
-                "name": "tulip_lavabo_80_olculer",
-                "file": "assets\/documents\/tulip_lavabo_80_olculer.pdf"
+                "name": "70TP21080 - Tulip 80x45 cm",
+                "file": "assets\/documents\/tulip-80-teknik.pdf"
             }
         ],
         "featured": false,
@@ -398,12 +398,12 @@
         "features": "Etajerli Lavabo",
         "palet": "",
         "images": [
-            "tulip-100.jpg"
+            "tulip-100.png"
         ],
         "documents": [
             {
-                "name": "tulip_lavabo_100_olculer",
-                "file": "assets\/documents\/tulip_lavabo_100_olculer.pdf"
+                "name": "70TP21100 - Tulip 100x45 cm",
+                "file": "assets\/documents\/tulip-100-teknik.pdf"
             }
         ],
         "featured": false,
@@ -434,12 +434,12 @@
         "features": "Etajerli Lavabo",
         "palet": "",
         "images": [
-            "tulip-105.jpg"
+            "tulip-105.png"
         ],
         "documents": [
             {
-                "name": "tulip_lavabo_105_olculer",
-                "file": "assets\/documents\/tulip_lavabo_105_olculer.pdf"
+                "name": "70TP21105 - Tulip 105x45 cm",
+                "file": "assets\/documents\/tulip-105-teknik.pdf"
             }
         ],
         "featured": false,
@@ -1432,12 +1432,12 @@
         "features": "Asma Klozet",
         "palet": "A18 \/ K15",
         "images": [
-            "gideros-asma-klozet.jpg"
+            "gideros-asma-klozet.png"
         ],
         "documents": [
             {
-                "name": "gid300",
-                "file": "assets\/documents\/gid300.pdf"
+                "name": "70GD02001 - Gideros Asma Klozet",
+                "file": "assets\/documents\/gideros-asma-klozet-teknik.pdf"
             }
         ],
         "featured": false,
@@ -1483,12 +1483,12 @@
         "features": "Duvara Sıfır (Arka Çıkışlı) Klozet",
         "palet": "K9",
         "images": [
-            "gideros-ds-klozet.jpg"
+            "gideros-ds-klozet.png"
         ],
         "documents": [
             {
-                "name": "gideros_ds_klozet_olculer",
-                "file": "assets\/documents\/gideros_ds_klozet_olculer.pdf"
+                "name": "70GD06001 - Gideros D.S Takım Klozet",
+                "file": "assets\/documents\/gideros-ds-klozet-teknik.pdf"
             }
         ],
         "featured": false,
@@ -1544,12 +1544,12 @@
         "features": "Duvara Sıfır (Arka Çıkışlı) Klozet",
         "palet": "K9",
         "images": [
-            "safran-ds-klozet.jpg"
+            "safran-ds-klozet.png"
         ],
         "documents": [
             {
-                "name": "safran_ds_klozet_olculer",
-                "file": "assets\/documents\/safran_ds_klozet_olculer.pdf"
+                "name": "70SF06001 - Safran Takım Klozet",
+                "file": "assets\/documents\/safran-ds-klozet-teknik.pdf"
             }
         ],
         "featured": false,
@@ -1666,12 +1666,12 @@
         "features": "Alt Çıkışlı Klozet Takımı",
         "palet": "A15 \/ K9",
         "images": [
-            "inkum-alt-cikisli-klozet.jpg"
+            "inkum-alt-cikisli-klozet.png"
         ],
         "documents": [
             {
-                "name": "inkum_alt_cikisli_klozet_olculer",
-                "file": "assets\/documents\/inkum_alt_cikisli_klozet_olculer.pdf"
+                "name": "70IN01001 - İnkum Alttan Çıkışlı Klozet Teknik Çizimi",
+                "file": "assets\/documents\/inkum-alt-klozet-teknik.pdf"
             }
         ],
         "featured": true,
@@ -1788,7 +1788,7 @@
         "features": "Arka Çıkışlı Klozet Takımı",
         "palet": "A18 \/ K9",
         "images": [
-            "efekta-arka-cikisli-klozet.jpg"
+            "efekta-arka-cikisli-klozet.png"
         ],
         "documents": [
             {
@@ -1849,12 +1849,12 @@
         "features": "Alt Çıkışlı Klozet Takımı",
         "palet": "A18 \/ K9",
         "images": [
-            "efekta-alt-cikisli-klozet.jpg"
+            "efekta-alt-cikisli-klozet.png"
         ],
         "documents": [
             {
-                "name": "efekta_alt_cikisli_klozet_olculer",
-                "file": "assets\/documents\/efekta_alt_cikisli_klozet_olculer.pdf"
+                "name": "70EF01001 - Efekta Alttan Çıkışlı Klozet",
+                "file": "assets\/documents\/efekta-alt-klozet-teknik.pdf"
             }
         ],
         "featured": false,
@@ -2007,12 +2007,12 @@
         "features": "Çocuk Boy Klozet Takımı",
         "palet": "A20 \/ K16",
         "images": [
-            "cocuk-klozet.jpg"
+            "cocuk-klozet.png"
         ],
         "documents": [
             {
-                "name": "cocuk_klozet_olculer",
-                "file": "assets\/documents\/cocuk_klozet_olculer.pdf"
+                "name": "70CH01001 - Çocuk Klozet",
+                "file": "assets\/documents\/cocuk-klozet-teknik.pdf"
             }
         ],
         "featured": false,
@@ -2062,7 +2062,7 @@
         "features": "Çocuk Boy Ayaklı Lavabo",
         "palet": "A48 \/ K30",
         "images": [
-            "cocuk-lavabo-35x45.jpg"
+            "cocuk-lavabo-35x45.png"
         ],
         "documents": [
             {
@@ -2107,12 +2107,12 @@
         "features": "Ayaklı Lavabo",
         "palet": "",
         "images": [
-            "safran-lavabo-50x60.jpg"
+            "safran-lavabo-50x60.png"
         ],
         "documents": [
             {
-                "name": "safran_lavabo_50_60_olculer",
-                "file": "assets\/documents\/safran_lavabo_50_60_olculer.pdf"
+                "name": "70SF20060 - Safran 60x50 cm",
+                "file": "assets\/documents\/safran-50x60-teknik.pdf"
             }
         ],
         "featured": false,
@@ -2163,12 +2163,12 @@
         "features": "Ayaklı Lavabo",
         "palet": "",
         "images": [
-            "safran-lavabo-45x55.jpg"
+            "safran-lavabo-45x55.png"
         ],
         "documents": [
             {
-                "name": "safran_lavabo_45_55_olculer",
-                "file": "assets\/documents\/safran_lavabo_45_55_olculer.pdf"
+                "name": "70SF20055- Safran 55x45 cm",
+                "file": "assets\/documents\/safran-45x55-teknik.pdf"
             }
         ],
         "featured": false,
@@ -2219,12 +2219,12 @@
         "features": "Ayaklı Lavabo",
         "palet": "",
         "images": [
-            "art-40.jpg"
+            "efekta-lavabo-40x50.png"
         ],
         "documents": [
             {
-                "name": "efekta_40_50_olculer",
-                "file": "assets\/documents\/efekta_40_50_olculer.pdf"
+                "name": "70EF20050 - Efekta 50X40 cm",
+                "file": "assets\/documents\/efekta-40x50-teknik.pdf"
             }
         ],
         "featured": false,
@@ -2265,12 +2265,12 @@
         "features": "Ayaklı Lavabo",
         "palet": "",
         "images": [
-            "efekta-lavabo-45x55.jpg"
+            "efekta-lavabo-45x55.png"
         ],
         "documents": [
             {
-                "name": "efekta_45_55_olculer",
-                "file": "assets\/documents\/efekta_45_55_olculer.pdf"
+                "name": "70SF20055- Efekta 55x45 cm",
+                "file": "assets\/documents\/efekta-45x55-teknik.pdf"
             }
         ],
         "featured": false,
@@ -4999,8 +4999,8 @@
         ],
         "documents": [
             {
-                "name": "tuvalet_tasi_olculer",
-                "file": "assets\/documents\/tuvalet_tasi_olculer.pdf"
+                "name": "70TT40001 - Tuvalet Taşı",
+                "file": "assets\/documents\/tuvalet-tasi-teknik.pdf"
             }
         ],
         "featured": false,
@@ -5036,8 +5036,8 @@
         ],
         "documents": [
             {
-                "name": "gunes_tuvalet_tasi_olculer",
-                "file": "assets\/documents\/gunes_tuvalet_tasi_olculer.pdf"
+                "name": "70TT42001 - Güneş Tuvalet Taşı",
+                "file": "assets\/documents\/gunes-tuvalet-tasi-teknik.pdf"
             }
         ],
         "featured": false,
@@ -5069,12 +5069,12 @@
         "features": "Slim Tuvalet Taşı (42x50)",
         "palet": "",
         "images": [
-            "inci-tuvalet-tasi.jpg"
+            "inci-tuvalet-tasi.png"
         ],
         "documents": [
             {
                 "name": "inci_tuvalet_tasi_olculer",
-                "file": "assets\/documents\/inci_tuvalet_tasi_olculer.pdf"
+                "file": "assets\/documents\/inci-tuvalet-tasi-teknik.pdf"
             }
         ],
         "featured": false,
@@ -7906,12 +7906,12 @@
         "features": "Alttan Çıkışlı Tek Klozet",
         "palet": "",
         "images": [
-            "alttan-cikisli-tek-klozet.jpg"
+            "alttan-cikisli-tek-klozet.png"
         ],
         "documents": [
             {
-                "name": "alttan_cikisli_tek_klozet_olculer",
-                "file": "assets\/documents\/alttan_cikisli_tek_klozet_olculer.pdf"
+                "name": "70TK07001 - Alttan Çıkışlı Tek Klozet",
+                "file": "assets\/documents\/alttan-tek-klozet-teknik.pdf"
             }
         ],
         "featured": false,
@@ -7948,12 +7948,12 @@
         "features": "Arka Çıkışlı Tek Klozet",
         "palet": "",
         "images": [
-            "arka-cikisli-tek-klozet.jpg"
+            "arka-cikisli-tek-klozet.png"
         ],
         "documents": [
             {
-                "name": "arka_cikisli_tek_klozet_olculer",
-                "file": "assets\/documents\/arka_cikisli_tek_klozet_olculer.pdf"
+                "name": "70TK07002 - Arkadan Çıkışlı Tek Klozet",
+                "file": "assets\/documents\/arka-tek-klozet-teknik.pdf"
             }
         ],
         "featured": false,
@@ -7990,12 +7990,12 @@
         "features": "Dolap Uyumlu Bataryalı Lavabo",
         "palet": "",
         "images": [
-            "dolap-uyumlu-bataryali-lavabo-25x45-cm.jpg"
+            "dolap-uyumlu-bataryali-lavabo-25x45-cm.png"
         ],
         "documents": [
             {
-                "name": "dolap_uyumlu_bataryali_lavabo_olculer",
-                "file": "assets\/documents\/dolap_uyumlu_bataryali_lavabo_olculer.pdf"
+                "name": "Slim Lavabo 45x25 cm",
+                "file": "assets\/documents\/slim-25x45-teknik.pdf"
             }
         ],
         "featured": false,
@@ -8027,12 +8027,12 @@
         "features": "Dolap Uyumlu Lavabo",
         "palet": "",
         "images": [
-            "dolap-uyumlu-ozel-tasarim-lavabo-28x45-cm.jpg"
+            "dolap-uyumlu-ozel-tasarim-lavabo-28x45-cm.png"
         ],
         "documents": [
             {
-                "name": "Tek_146",
-                "file": "assets\/documents\/tek_146.pdf"
+                "name": "Slim Lavabo 45x28 cm - YENİ TEKNİK ÇİZİM",
+                "file": "assets\/documents\/slim-28x45-teknik.pdf"
             }
         ],
         "featured": false,
@@ -8175,12 +8175,12 @@
         "features": "Proje Oval Lavabo Delikli",
         "palet": "",
         "images": [
-            "proje-oval-lavabo-28x36-cm.jpg"
+            "proje-oval-lavabo-28x36-cm.png"
         ],
         "documents": [
             {
-                "name": "proje_oval_lavabo_28_36_olculer",
-                "file": "assets\/documents\/proje_oval_lavabo_28_36_olculer.pdf"
+                "name": "Oval Proje Lavabo 28x36 cm",
+                "file": "assets\/documents\/proje-oval-lavabo-teknik.pdf"
             }
         ],
         "featured": false,
@@ -8261,7 +8261,7 @@
         "features": "35x45 Cm Proje Lavabo",
         "palet": "",
         "images": [
-            "proje-lavabo-35x45-cm.jpg"
+            "proje-lavabo-35x45-cm.png"
         ],
         "documents": [
             {
@@ -8310,7 +8310,7 @@
         "documents": [
             {
                 "name": "inkum_ayakli_bide_olculer",
-                "file": "assets\/documents\/inkum_ayakli_bide_olculer.pdf"
+                "file": "assets\/documents\/inkum-bide-teknik.pdf"
             }
         ],
         "featured": false,
@@ -8552,5 +8552,400 @@
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/assos-55.298",
         "name_en": "Assos 55",
         "features_en": "Bathroom Furniture"
+    },
+    {
+        "id": 215,
+        "name": "New Line 55 cm",
+        "slug": "new-line-55-cm",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": 101,
+        "features": "Dolap Uyumlu Lavabo",
+        "palet": "",
+        "images": [
+            "new-line-55.png"
+        ],
+        "documents": [
+            {
+                "name": "New Line 55x45 cm",
+                "file": "assets\/documents\/new-line-55-teknik.pdf"
+            }
+        ],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "New Line 55 cm",
+        "features_en": "Cabinet-Compatible Washbasin"
+    },
+    {
+        "id": 216,
+        "name": "New Line 65 cm",
+        "slug": "new-line-65-cm",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": 101,
+        "features": "Dolap Uyumlu Lavabo",
+        "palet": "",
+        "images": [
+            "new-line-65.png"
+        ],
+        "documents": [
+            {
+                "name": "New Line 65x45 cm",
+                "file": "assets\/documents\/new-line-65-teknik.pdf"
+            }
+        ],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "New Line 65 cm",
+        "features_en": "Cabinet-Compatible Washbasin"
+    },
+    {
+        "id": 217,
+        "name": "New Line 70 cm",
+        "slug": "new-line-70-cm",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": 101,
+        "features": "Dolap Uyumlu Lavabo",
+        "palet": "",
+        "images": [
+            "new-line-70.png"
+        ],
+        "documents": [
+            {
+                "name": "New Line 70x45 cm",
+                "file": "assets\/documents\/new-line-70-teknik.pdf"
+            }
+        ],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "New Line 70 cm",
+        "features_en": "Cabinet-Compatible Washbasin"
+    },
+    {
+        "id": 218,
+        "name": "New Line 90 cm",
+        "slug": "new-line-90-cm",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": 101,
+        "features": "Dolap Uyumlu Lavabo",
+        "palet": "",
+        "images": [
+            "new-line-90.png"
+        ],
+        "documents": [
+            {
+                "name": "New Line 90x45 cm",
+                "file": "assets\/documents\/new-line-90-teknik.pdf"
+            }
+        ],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "New Line 90 cm",
+        "features_en": "Cabinet-Compatible Washbasin"
+    },
+    {
+        "id": 219,
+        "name": "New Line 100 cm",
+        "slug": "new-line-100-cm",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": 101,
+        "features": "Dolap Uyumlu Lavabo",
+        "palet": "",
+        "images": [
+            "new-line-100.png"
+        ],
+        "documents": [
+            {
+                "name": "New Line 100x45 cm",
+                "file": "assets\/documents\/new-line-100-teknik.pdf"
+            }
+        ],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "New Line 100 cm",
+        "features_en": "Cabinet-Compatible Washbasin"
+    },
+    {
+        "id": 220,
+        "name": "Efekta Lavabo 50x60",
+        "slug": "efekta-lavabo-50x60",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": null,
+        "features": "Ayaklı Lavabo",
+        "palet": "",
+        "images": [
+            "efekta-lavabo-50x60.png"
+        ],
+        "documents": [
+            {
+                "name": "Efekta 60x50 cm Teknik Çizim",
+                "file": "assets\/documents\/efekta-50x60-teknik.pdf"
+            }
+        ],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "Efekta Washbasin 50x60",
+        "features_en": "Pedestal Washbasin",
+        "collection": "efekta-serisi"
+    },
+    {
+        "id": 221,
+        "name": "İnkum Asma Klozet",
+        "slug": "inkum-asma-klozet",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": 103,
+        "features": "Asma Klozet",
+        "palet": "",
+        "images": [
+            "inkum-asma-klozet.png"
+        ],
+        "documents": [
+            {
+                "name": "İnkum Asma Klozet Teknik Çizim",
+                "file": "assets\/documents\/inkum-asma-klozet-teknik.pdf"
+            }
+        ],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "İnkum Wall-Hung Toilet",
+        "features_en": "Wall-Hung Toilet",
+        "collection": "inkum-serisi"
+    },
+    {
+        "id": 222,
+        "name": "New Çevre Yıkamalı Helataşı",
+        "slug": "new-cevre-yikamali-helatasi",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": null,
+        "features": "Çevre Yıkamalı Tuvalet Taşı",
+        "palet": "",
+        "images": [
+            "new-cevre-yikamali-helatasi.png"
+        ],
+        "documents": [
+            {
+                "name": "New Çevre Yıkamalı Helataşı Teknik Çizim",
+                "file": "assets\/documents\/new-cevre-yikamali-helatasi-teknik.pdf"
+            }
+        ],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "New Peripheral Flush Squat Toilet",
+        "features_en": "Peripheral Flush Squat Toilet"
+    },
+    {
+        "id": 223,
+        "name": "Ara Bölme",
+        "slug": "ara-bolme",
+        "code": "",
+        "category_id": 4,
+        "subcategory_id": 406,
+        "features": "Pisuvar Ara Bölme",
+        "palet": "",
+        "images": [
+            "ara-bolme.jpg"
+        ],
+        "documents": [],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "Urinal Divider",
+        "features_en": "Urinal Divider"
+    },
+    {
+        "id": 224,
+        "name": "Tezgah Altı Lavabo 49x39 cm",
+        "slug": "tezgah-alti-lavabo-49x39-cm",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": null,
+        "features": "Tezgah Altı Lavabo",
+        "palet": "",
+        "images": [
+            "tezgah-alti-lavabo-49x39.jpg"
+        ],
+        "documents": [],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "Undermount Washbasin 49x39 cm",
+        "features_en": "Undermount Washbasin"
+    },
+    {
+        "id": 225,
+        "name": "Tezgah Altı Lavabo 54x44 cm",
+        "slug": "tezgah-alti-lavabo-54x44-cm",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": null,
+        "features": "Tezgah Altı Lavabo",
+        "palet": "",
+        "images": [
+            "tezgah-alti-lavabo-54x44.jpg"
+        ],
+        "documents": [],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "Undermount Washbasin 54x44 cm",
+        "features_en": "Undermount Washbasin"
+    },
+    {
+        "id": 226,
+        "name": "Tezgah Altı Lavabo 57x44 cm",
+        "slug": "tezgah-alti-lavabo-57x44-cm",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": null,
+        "features": "Tezgah Altı Lavabo",
+        "palet": "",
+        "images": [
+            "tezgah-alti-lavabo-57x44.jpg"
+        ],
+        "documents": [],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "Undermount Washbasin 57x44 cm",
+        "features_en": "Undermount Washbasin"
+    },
+    {
+        "id": 227,
+        "name": "Proje Oval Lavabo 28x36 cm (Batarya Deliksiz)",
+        "slug": "proje-oval-lavabo-28x36-deliksiz",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": null,
+        "features": "Proje Oval Lavabo Deliksiz",
+        "palet": "",
+        "images": [
+            "proje-oval-lavabo-deliksiz.png"
+        ],
+        "documents": [
+            {
+                "name": "Oval Proje Lavabo 28x36 cm Batarya Deliksiz Teknik Çizim",
+                "file": "assets\/documents\/proje-oval-lavabo-deliksiz-teknik.pdf"
+            }
+        ],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "Project Oval Washbasin 28x36 cm (No Faucet Hole)",
+        "features_en": "Project Oval Washbasin No Hole"
+    },
+    {
+        "id": 228,
+        "name": "Gideros Lavabo 45x35 cm",
+        "slug": "gideros-lavabo-45x35-cm",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": null,
+        "features": "Ayaklı Lavabo",
+        "palet": "",
+        "images": [],
+        "documents": [
+            {
+                "name": "Gideros Lavabo 45x35 cm Teknik Çizim",
+                "file": "assets\/documents\/gideros-lavabo-45x35-teknik.pdf"
+            }
+        ],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "Gideros Washbasin 45x35 cm",
+        "features_en": "Pedestal Washbasin",
+        "collection": "gideros-serisi"
+    },
+    {
+        "id": 229,
+        "name": "Gideros Lavabo 55x45 cm",
+        "slug": "gideros-lavabo-55x45-cm",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": null,
+        "features": "Ayaklı Lavabo",
+        "palet": "",
+        "images": [],
+        "documents": [
+            {
+                "name": "Gideros Lavabo 55x45 cm Teknik Çizim",
+                "file": "assets\/documents\/gideros-lavabo-55x45-teknik.pdf"
+            }
+        ],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "Gideros Washbasin 55x45 cm",
+        "features_en": "Pedestal Washbasin",
+        "collection": "gideros-serisi"
+    },
+    {
+        "id": 230,
+        "name": "Gideros Lavabo 60x50 cm",
+        "slug": "gideros-lavabo-60x50-cm",
+        "code": "",
+        "category_id": 1,
+        "subcategory_id": null,
+        "features": "Ayaklı Lavabo",
+        "palet": "",
+        "images": [],
+        "documents": [
+            {
+                "name": "Gideros Lavabo 60x50 cm Teknik Çizim",
+                "file": "assets\/documents\/gideros-lavabo-60x50-teknik.pdf"
+            }
+        ],
+        "featured": false,
+        "highlights": [],
+        "attributes": [],
+        "spec_columns": [],
+        "spec_rows": [],
+        "name_en": "Gideros Washbasin 60x50 cm",
+        "features_en": "Pedestal Washbasin",
+        "collection": "gideros-serisi"
     }
 ]

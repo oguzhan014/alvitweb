@@ -6,10 +6,11 @@
             "196",
             "197",
             "211",
-            "212"
+            "212",
+            "220"
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/koleksiyonlar\/efekta-serisi-3",
-        "count": 4,
+        "count": 5,
         "image": "assets\/images\/products\/efekta-arka-cikisli-klozet.jpg",
         "title_en": "Efekta Series"
     },
@@ -30,10 +31,13 @@
         "slug": "gideros-serisi",
         "product_ids": [
             "187",
-            "188"
+            "188",
+            "228",
+            "229",
+            "230"
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/koleksiyonlar\/gideros-serisi-4",
-        "count": 2,
+        "count": 5,
         "image": "assets\/images\/products\/gideros-ds-klozet.jpg",
         "title_en": "Gideros Series"
     },
@@ -43,10 +47,11 @@
         "product_ids": [
             "194",
             "195",
-            "284"
+            "284",
+            "221"
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/koleksiyonlar\/inkum-serisi-4",
-        "count": 3,
+        "count": 4,
         "image": "assets\/images\/products\/inkum-alt-cikisli-klozet.jpg",
         "title_en": "Inkum Series"
     },
