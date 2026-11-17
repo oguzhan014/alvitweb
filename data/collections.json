@@ -13,19 +13,6 @@
         "image": "assets\/images\/products\/efekta-arka-cikisli-klozet.jpg",
         "title_en": "Efekta Series"
     },
-    "efes-serisi": {
-        "title": "Efes Serisi",
-        "slug": "efes-serisi",
-        "product_ids": [
-            "75",
-            "76",
-            "77"
-        ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/koleksiyonlar\/efes-serisi-4",
-        "count": 3,
-        "image": "assets\/images\/products\/efes-lavabo-50x60.jpg",
-        "title_en": "Efes Series"
-    },
     "engelli-serisi": {
         "title": "Engelli Serisi",
         "slug": "engelli-serisi",
