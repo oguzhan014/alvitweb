@@ -1,5 +1,8 @@
 <?php
 $pageTitle = t('nav_home');
+$seoPageDescription = lang() === 'tr'
+    ? 'Alvit - Bartın Seramik A.Ş. 1994\'ten bu yana Bartın\'da seramik banyo ürünleri üretmektedir. Lavabo, klozet, rezervuar, banyo mobilyası, aksesuar ve koleksiyon serileri.'
+    : 'Alvit - Bartın Seramik A.Ş. has been manufacturing ceramic bathroom products in Bartın, Turkey since 1994. Washbasins, toilets, cisterns, bathroom furniture, accessories and collection series.';
 $sliders = array_values(array_filter(getSliders(), fn($s) => !isset($s['active']) || $s['active']));
 $categories = getCategories();
 $featured = getFeaturedProducts();

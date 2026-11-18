@@ -75,11 +75,6 @@ switch (true) {
     case preg_match('#^/collections/(edit|delete)/([a-z0-9-]+)$#', $adminUri) === 1:
         include __DIR__ . '/collections.php';
         break;
-    case $adminUri === '/colors':
-    case $adminUri === '/colors/add':
-    case preg_match('#^/colors/(edit|delete)/([a-z0-9-]+)$#', $adminUri) === 1:
-        include __DIR__ . '/colors.php';
-        break;
     case $adminUri === '/certificates':
     case $adminUri === '/certificates/add':
     case preg_match('#^/certificates/(edit|delete)/(\d+)$#', $adminUri) === 1:

@@ -25,7 +25,6 @@ function adminHeader($title) {
         ['/admin/products',     'Ürünler',          'layers'],
         ['/admin/categories',   'Kategoriler',      'layers'],
         ['/admin/collections',  'Koleksiyonlar',    'layers'],
-        ['/admin/colors',       'Renk Kataloğu',    'leaf'],
         ['/admin/sliders',      'Slider',           'eye'],
         null,
         ['/admin/pages',        'Sayfalar',         'document'],

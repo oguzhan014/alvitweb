@@ -22,8 +22,34 @@ $isUrunler = in_array($currentUri, ['/urunler', '/kategoriler'], true)
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title><?= isset($pageTitle) ? e($pageTitle) . ' | ' : '' ?><?= e($settings['site_name']) ?> - <?= e($settings['site_slogan']) ?></title>
-  <meta name="description" content="<?= e($settings['site_description']) ?>">
+<?php
+  $seoSiteName = 'Alvit - Bartın Seramik A.Ş.';
+  $seoSlogan = $L === 'tr' ? 'Seramik Banyo Ürünleri Üreticisi' : 'Ceramic Bathroom Products Manufacturer';
+  $seoTitleSuffix = " | {$seoSiteName}";
+
+  if (!empty($pageTitle) && $pageTitle !== t('nav_home')) {
+      $seoTitle = $pageTitle . $seoTitleSuffix;
+  } else {
+      $seoTitle = $seoSiteName . ' - ' . $seoSlogan;
+  }
+
+  $seoDesc = $seoPageDescription ?? ($L === 'tr'
+      ? 'Alvit - Bartın Seramik A.Ş. 1994\'ten bu yana Bartın\'da seramik banyo ürünleri üretmektedir. Lavabo, klozet, rezervuar, banyo mobilyası ve aksesuar.'
+      : 'Alvit - Bartın Seramik A.Ş. has been manufacturing ceramic bathroom products in Bartın since 1994. Washbasins, toilets, cisterns, bathroom furniture and accessories.');
+  $seoImage = $seoPageImage ?? $settings['logo'];
+  $seoType = $seoPageType ?? 'website';
+?>
+  <title><?= e($seoTitle) ?></title>
+  <meta name="description" content="<?= e($seoDesc) ?>">
+  <meta name="keywords" content="<?= e($L === 'tr'
+      ? 'alvit, bartın seramik, seramik banyo, lavabo, klozet, rezervuar, banyo mobilyası, banyo aksesuar, seramik üretici, bartın'
+      : 'alvit, bartin ceramic, ceramic bathroom, washbasin, toilet, cistern, bathroom furniture, bathroom accessories, ceramic manufacturer, bartin turkey') ?>">
+<?php if (!empty($seoNoIndex)): ?>
+  <meta name="robots" content="noindex, nofollow">
+<?php endif; ?>
+  <?= seoMetaTags(['title' => $seoTitle, 'description' => $seoDesc, 'image' => $seoImage, 'type' => $seoType]) ?>
+  <link rel="icon" type="image/png" href="/assets/images/brand-logo.jpg">
+  <link rel="apple-touch-icon" href="/assets/images/brand-logo.jpg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/style.css">

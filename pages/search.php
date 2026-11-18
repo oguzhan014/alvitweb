@@ -1,6 +1,7 @@
 <?php
 $q = trim($_GET['q'] ?? '');
 $pageTitle = t('search_title');
+$seoNoIndex = true;
 $results = $q !== '' ? searchProducts($q) : [];
 include __DIR__ . '/../includes/header.php';
 ?>

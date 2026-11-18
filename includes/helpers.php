@@ -197,10 +197,6 @@ function getProductsByCollection($slug) {
         fn($p) => ($p['collection'] ?? '') === $slug));
 }
 
-function getColors() {
-    return loadJson('colors.json');
-}
-
 /** Kurumsal sayfalara ait dosya/video verisini döndürür. */
 function getKurumsalData($slug) {
     $all = loadJson('kurumsal.json');

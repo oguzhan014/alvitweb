@@ -1,5 +1,8 @@
 <?php
 $pageTitle = t('nav_gallery');
+$seoPageDescription = lang() === 'tr'
+    ? 'Alvit fabrika ve ürün galerisi. Bartın Seramik A.Ş. üretim tesisi ve seramik banyo ürünleri fotoğrafları.'
+    : 'Alvit factory and product gallery. Bartın Seramik A.Ş. production facility and ceramic bathroom product photos.';
 $images = glob(__DIR__ . '/../assets/images/gallery/*.{jpg,jpeg,png,webp}', GLOB_BRACE);
 sort($images);
 

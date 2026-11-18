@@ -3,6 +3,9 @@ $category = getCategoryBySlug($categorySlug);
 if (!$category) { http_response_code(404); include __DIR__ . '/404.php'; return; }
 
 $pageTitle = td($category, 'name');
+$seoPageDescription = lang() === 'tr'
+    ? td($category, 'name') . ' - Alvit seramik banyo ürünleri. Bartın Seramik A.Ş. üretimi kaliteli ' . mb_strtolower(td($category, 'name')) . ' çeşitleri.'
+    : td($category, 'name') . ' - Alvit ceramic bathroom products. Quality ' . strtolower(td($category, 'name')) . ' manufactured by Bartın Seramik A.Ş.';
 $isSubcategory = isset($category['parent']);
 $parentCategory = $isSubcategory ? $category['parent'] : null;
 

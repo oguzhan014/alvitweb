@@ -65,7 +65,6 @@ adminHeader('Dashboard');
         ['Teknik çizimi olan ürün', $withDocs . ' / ' . count($products), '/admin/products'],
         ['Görseli eksik ürün', (string)$noImage, '/admin/products'],
         ['Koleksiyon', (string)count(loadJson('collections.json')), '/admin/collections'],
-        ['Renk', (string)count(loadJson('colors.json')), '/admin/colors'],
         ['Kalite belgesi', (string)count(getCertificates()), '/admin/certificates'],
         ['Rapor', (string)$reportCount, '/admin/files?sayfa=raporlar'],
         ['Montaj kılavuzu', (string)$guideCount, '/admin/files?sayfa=montaj-kilavuzlari'],

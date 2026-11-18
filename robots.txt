@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /data/
+Disallow: /includes/
+Disallow: /api/
+
+Sitemap: https://www.alvit.com.tr/sitemap.xml

@@ -1,5 +1,8 @@
 <?php
 $pageTitle = t('collections_title');
+$seoPageDescription = lang() === 'tr'
+    ? 'Alvit seramik banyo koleksiyonları. Özel tasarım seramik banyo serileri - Bartın Seramik A.Ş.'
+    : 'Alvit ceramic bathroom collections. Special design ceramic bathroom series - Bartın Seramik A.Ş.';
 $collections = getCollections();
 include __DIR__ . '/../includes/header.php';
 ?>

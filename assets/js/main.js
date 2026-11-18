@@ -2,6 +2,17 @@
 // ALVIT - Frontend JavaScript
 // ============================================================
 
+function acceptCookies() {
+  try { localStorage.setItem('cookie_consent', 'accepted'); } catch(e) {}
+  var cb = document.getElementById('cookieBanner');
+  if (cb) cb.style.display = 'none';
+}
+function rejectCookies() {
+  try { localStorage.setItem('cookie_consent', 'rejected'); } catch(e) {}
+  var cb = document.getElementById('cookieBanner');
+  if (cb) cb.style.display = 'none';
+}
+
 document.addEventListener('DOMContentLoaded', () => {
 
   // ---------- HEADER SCROLL ----------
@@ -363,4 +374,12 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   });
+
+  // ---------- COOKIE BANNER ----------
+  try {
+    if (!localStorage.getItem('cookie_consent')) {
+      var cb = document.getElementById('cookieBanner');
+      if (cb) cb.style.display = '';
+    }
+  } catch(e) {}
 });

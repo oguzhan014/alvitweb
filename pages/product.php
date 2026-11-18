@@ -6,6 +6,19 @@ $pageTitle = td($product, 'name');
 $category = getCategoryById($product['category_id']);
 $subcategory = $product['subcategory_id'] ? getCategoryById($product['subcategory_id']) : null;
 
+$seoPageDescription = lang() === 'tr'
+    ? td($product, 'name') . ' - Alvit seramik banyo ürünü. ' . (td($product, 'features') ?: 'Bartın Seramik A.Ş. üretimi.')
+    : td($product, 'name') . ' - Alvit ceramic bathroom product. ' . (td($product, 'features') ?: 'Manufactured by Bartın Seramik A.Ş.');
+$seoPageImage = getProductImage($product);
+$seoPageType = 'product';
+$seoStructuredData = seoProductSchema($product);
+
+$breadcrumbItems = [['name' => t('breadcrumb_home'), 'url' => '/']];
+if ($category) $breadcrumbItems[] = ['name' => td($category, 'name'), 'url' => '/kategori/' . $category['slug']];
+if ($subcategory) $breadcrumbItems[] = ['name' => td($subcategory, 'name'), 'url' => '/kategori/' . $subcategory['slug']];
+$breadcrumbItems[] = ['name' => td($product, 'name'), 'url' => ''];
+$seoStructuredData .= "\n" . seoBreadcrumbSchema($breadcrumbItems);
+
 $relatedProducts = array_slice(array_filter(getProducts(), function($p) use ($product) {
     return $p['category_id'] == $product['category_id'] && $p['id'] != $product['id'];
 }), 0, 4);

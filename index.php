@@ -4,6 +4,7 @@
 // ============================================================
 session_start();
 require_once __DIR__ . '/includes/helpers.php';
+require_once __DIR__ . '/includes/seo.php';
 
 $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 $uri = rtrim($uri, '/');
@@ -79,6 +80,12 @@ switch (true) {
     // Arama sonuçları sayfası
     case $uri === '/ara':
         include __DIR__ . '/pages/search.php';
+        break;
+
+    // Sitemap
+    case $uri === '/sitemap.xml':
+        header('Content-Type: application/xml; charset=utf-8');
+        echo generateSitemap();
         break;
 
     // Canlı arama API (JSON)

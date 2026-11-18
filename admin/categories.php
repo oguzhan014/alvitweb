@@ -7,6 +7,7 @@ $message = '';
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $id = $_POST['id'] ?? null;
     $name = trim($_POST['name'] ?? '');
+    $nameEn = trim($_POST['name_en'] ?? '');
     $slug = slugify($name);
     $description = trim($_POST['description'] ?? '');
     $parentId = $_POST['parent_id'] ? (int)$_POST['parent_id'] : null;
@@ -23,6 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         foreach ($categories as &$cat) {
             if ($cat['id'] == $id) {
                 $cat['name'] = $name;
+                $cat['name_en'] = $nameEn;
                 $cat['slug'] = $slug;
                 $cat['description'] = $description;
                 if ($image) $cat['image'] = $image;
@@ -33,6 +35,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 foreach ($cat['subcategories'] as &$sub) {
                     if ($sub['id'] == $id) {
                         $sub['name'] = $name;
+                        $sub['name_en'] = $nameEn;
                         $sub['slug'] = $slug;
                         if ($image) $sub['image'] = $image;
                         break 2;
@@ -55,6 +58,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     $cat['subcategories'][] = [
                         'id' => $subId,
                         'name' => $name,
+                        'name_en' => $nameEn,
                         'slug' => $slug,
                         'image' => $image
                     ];
@@ -67,6 +71,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $categories[] = [
                 'id' => getNextId($categories),
                 'name' => $name,
+                'name_en' => $nameEn,
                 'slug' => $slug,
                 'image' => $image,
                 'description' => $description,
@@ -123,9 +128,15 @@ if ($action === 'form'):
     <input type="hidden" name="id" value="<?= $editCat['id'] ?>">
     <?php endif; ?>
 
-    <div class="form-group">
-      <label>Kategori Adı *</label>
-      <input type="text" name="name" class="form-control" value="<?= e($editCat['name'] ?? '') ?>" required>
+    <div class="form-row">
+      <div class="form-group">
+        <label>Kategori Adı *</label>
+        <input type="text" name="name" class="form-control" value="<?= e($editCat['name'] ?? '') ?>" required>
+      </div>
+      <div class="form-group">
+        <label>Category Name (EN)</label>
+        <input type="text" name="name_en" class="form-control" value="<?= e($editCat['name_en'] ?? '') ?>" placeholder="İngilizce kategori adı">
+      </div>
     </div>
 
     <?php if (!$editCat): ?>

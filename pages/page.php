@@ -3,6 +3,9 @@ $page = getPageBySlug($pageSlug);
 if (!$page) { http_response_code(404); include __DIR__ . '/404.php'; return; }
 
 $pageTitle = td($page, 'title');
+$seoPageDescription = lang() === 'tr'
+    ? td($page, 'title') . ' - Alvit Bartın Seramik A.Ş. kurumsal bilgiler.'
+    : td($page, 'title') . ' - Alvit Bartın Seramik A.Ş. corporate information.';
 $pageType = $page['type'] ?? 'text';
 
 $isCertPage   = $pageType === 'certificates';

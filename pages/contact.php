@@ -1,5 +1,8 @@
 <?php
 $pageTitle = t('nav_contact');
+$seoPageDescription = lang() === 'tr'
+    ? 'Alvit - Bartın Seramik A.Ş. ile iletişime geçin. Adres: Şiremir Tabaklar Köyü, Bartın. Telefon, e-posta ve iletişim formu.'
+    : 'Contact Alvit - Bartın Seramik A.Ş. Address: Şiremir Tabaklar Village, Bartın, Turkey. Phone, email and contact form.';
 $settings = getSettings();
 
 // Form gönderimi (PRG pattern)

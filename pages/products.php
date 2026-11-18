@@ -1,5 +1,8 @@
 <?php
 $pageTitle = t('products_all_title');
+$seoPageDescription = lang() === 'tr'
+    ? 'Alvit seramik banyo ürünleri kataloğu. Lavabo, klozet, rezervuar, banyo mobilyası, aksesuar ve daha fazlası. Bartın Seramik A.Ş. üretimi.'
+    : 'Alvit ceramic bathroom products catalog. Washbasins, toilets, cisterns, bathroom furniture, accessories and more. Manufactured by Bartın Seramik A.Ş.';
 $categories = getCategories();
 $allProducts = array_values(getProducts());
 $colorFacets = getColorFacets($allProducts);

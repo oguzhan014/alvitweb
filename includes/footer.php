@@ -61,7 +61,7 @@
     </div>
 
     <div class="footer-bottom">
-      <p><?= e($settings['footer_text']) ?></p>
+      <p>&copy; <?= date('Y') ?> Alvit - Bartın Seramik A.Ş. <?= $L === 'tr' ? 'Tüm hakları saklıdır.' : 'All rights reserved.' ?></p>
       <nav class="footer-legal">
         <a href="<?= langUrl('/sayfa/kisisel-verilerin-korunmasi-politikasi') ?>"><?= $L === 'tr' ? 'KVKK Politikası' : 'Privacy Policy' ?></a>
         <a href="<?= langUrl('/sayfa/cerez-aydinlatma-metni') ?>"><?= $L === 'tr' ? 'Çerez Aydınlatma Metni' : 'Cookie Policy' ?></a>
@@ -70,6 +70,23 @@
     </div>
   </div>
 </footer>
+
+<?= seoOrganizationSchema() ?>
+<?= seoLocalBusinessSchema() ?>
+<?= seoWebSiteSchema() ?>
+<?php if (!empty($seoStructuredData)) echo $seoStructuredData; ?>
+
+<div id="cookieBanner" class="cookie-banner" style="display:none;">
+  <div class="cookie-banner-inner">
+    <p><?= $L === 'tr'
+        ? 'Bu web sitesi, deneyiminizi iyileştirmek için çerezler kullanmaktadır. Detaylı bilgi için <a href="' . langUrl('/sayfa/cerez-aydinlatma-metni') . '">Çerez Aydınlatma Metni</a>\'ni inceleyebilirsiniz.'
+        : 'This website uses cookies to improve your experience. For details, please see our <a href="' . langUrl('/sayfa/cerez-aydinlatma-metni') . '">Cookie Policy</a>.' ?></p>
+    <div class="cookie-banner-actions">
+      <button onclick="acceptCookies()" class="cookie-btn cookie-btn-accept"><?= $L === 'tr' ? 'Kabul Et' : 'Accept' ?></button>
+      <button onclick="rejectCookies()" class="cookie-btn cookie-btn-reject"><?= $L === 'tr' ? 'Reddet' : 'Reject' ?></button>
+    </div>
+  </div>
+</div>
 
 <script>window._lang = '<?= $L ?>';</script>
 <script src="/assets/js/main.js"></script>

@@ -3,6 +3,9 @@ $collection = getCollectionBySlug($collectionSlug);
 if (!$collection) { http_response_code(404); include __DIR__ . '/404.php'; return; }
 
 $pageTitle = td($collection, 'title');
+$seoPageDescription = lang() === 'tr'
+    ? td($collection, 'title') . ' koleksiyonu - Alvit seramik banyo ürünleri. Bartın Seramik A.Ş. tasarım serisi.'
+    : td($collection, 'title') . ' collection - Alvit ceramic bathroom products. Bartın Seramik A.Ş. design series.';
 $products = getProductsByCollection($collectionSlug);
 include __DIR__ . '/../includes/header.php';
 ?>
