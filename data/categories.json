@@ -1,166 +1,166 @@
 [
-  {
-    "id": 1,
-    "name": "Seramik Banyo Ürünleri",
-    "slug": "seramik-banyo-urunleri",
-    "image": "assets/images/categories/seramik-banyo.jpg",
-    "description": "Lavabo, klozet ve banyo seramik ürünleri",
-    "order": 1,
-    "subcategories": [
-      {
-        "id": 101,
-        "name": "Etajerli Lavabolar",
-        "slug": "etajerli-lavabolar",
-        "image": "assets/images/products/line-80.jpg",
-        "name_en": "Shelf Washbasins"
-      },
-      {
-        "id": 102,
-        "name": "Tezgah Üstü Lavabolar",
-        "slug": "tezgah-ustu-lavabolar",
-        "image": "assets/images/products/tulip-80.jpg",
-        "name_en": "Countertop Washbasins"
-      },
-      {
-        "id": 103,
-        "name": "Asma Klozetler",
-        "slug": "asma-klozetler",
-        "image": "assets/images/subcategories/asma-klozetler.jpg",
-        "name_en": "Wall-Hung Toilets"
-      },
-      {
-        "id": 104,
-        "name": "Duvara Sıfır Klozetler",
-        "slug": "duvara-sifir-klozetler",
-        "image": "assets/images/subcategories/duvara-sifir.jpg",
-        "name_en": "Back-to-Wall Toilets"
-      },
-      {
-        "id": 105,
-        "name": "Takım Klozetler",
-        "slug": "takim-klozetler",
-        "image": "assets/images/subcategories/takim-klozetler.jpg",
-        "name_en": "Close-Coupled Toilets"
-      },
-      {
-        "id": 106,
-        "name": "Engelli Seri",
-        "slug": "engelli-seri",
-        "image": "assets/images/subcategories/engelli-seri.jpg",
-        "name_en": "Accessible Series"
-      },
-      {
-        "id": 107,
-        "name": "Çocuk Seri",
-        "slug": "cocuk-seri",
-        "image": "assets/images/subcategories/cocuk-seri.jpg",
-        "name_en": "Children's Series"
-      },
-      {
-        "id": 108,
-        "name": "Lavabo Ayakları",
-        "slug": "lavabo-ayaklari",
-        "image": "assets/images/subcategories/lavabo-ayaklari.jpg",
-        "name_en": "Washbasin Pedestals"
-      },
-      {
-        "id": 109,
-        "name": "Bideler",
-        "slug": "bideler",
-        "image": "assets/images/products/inkum-ayakli-bide.jpg",
-        "name_en": "Bidets"
-      },
-      {
-        "id": 110,
-        "name": "Tek Parça Ürünler",
-        "slug": "tek-parca-urunler",
-        "image": "assets/images/products/etejer-15x60-cm.jpg",
-        "name_en": "One-Piece Products"
-      }
-    ],
-    "name_en": "Ceramic Bathroom Products"
-  },
-  {
-    "id": 2,
-    "name": "Banyo Mobilyaları",
-    "slug": "banyo-mobilyalari",
-    "image": "assets/images/products/astona-100.jpg",
-    "description": "Modern banyo dolap ve mobilya çözümleri",
-    "order": 2,
-    "subcategories": [],
-    "name_en": "Bathroom Furniture"
-  },
-  {
-    "id": 3,
-    "name": "Klozet Kapakları",
-    "slug": "klozet-kapaklari",
-    "image": "assets/images/categories/klozet-kapaklari.jpg",
-    "description": "Yavaş kapanan klozet kapakları",
-    "order": 3,
-    "subcategories": [],
-    "name_en": "Toilet Seat Covers"
-  },
-  {
-    "id": 4,
-    "name": "Tamamlayıcı Ürünler",
-    "slug": "tamamlayici-urunler",
-    "image": "assets/images/categories/tamamlayici-urunler.jpg",
-    "description": "Banyo aksesuar ve tamamlayıcı ürünler",
-    "order": 4,
-    "subcategories": [
-      {
-        "id": 401,
-        "name": "Fonksiyonel Ürünler",
-        "slug": "fonksiyonel-urunler",
-        "image": "assets/images/products/lavabo-pop-up-seti-seramik-kapakli.jpg",
-        "name_en": "Functional Products"
-      },
-      {
-        "id": 402,
-        "name": "Engelli Ürünleri",
-        "slug": "engelli-urunleri",
-        "image": "assets/images/products/yerden-tutunma-bari.jpg",
-        "name_en": "Accessible Products"
-      },
-      {
-        "id": 403,
-        "name": "Duş Sistemleri",
-        "slug": "dus-sistemleri",
-        "image": "assets/images/products/still-dus-seti.jpg",
-        "name_en": "Shower Systems"
-      },
-      {
-        "id": 404,
-        "name": "Banyo Aksesuarları",
-        "slug": "banyo-aksesuarlari",
-        "image": "assets/images/products/dis-fircalik.jpg",
-        "name_en": "Bathroom Accessories"
-      },
-      {
-        "id": 405,
-        "name": "Şampuanlıklar",
-        "slug": "sampuanliklar",
-        "image": "assets/images/products/oval-krom-sampuanlik.jpg",
-        "name_en": "Soap Dishes & Shelves"
-      },
-      {
-        "id": 406,
-        "name": "Islak Hacim Ürünleri",
-        "slug": "islak-hacim-urunleri",
-        "image": "assets/images/products/roll-klozet-firca-takim.jpg",
-        "name_en": "Wet Area Products"
-      }
-    ],
-    "name_en": "Complementary Products"
-  },
-  {
-    "id": 5,
-    "name": "Gömme Rezervuar ve İç Takımlar",
-    "slug": "gomme-rezervuar",
-    "image": "assets/images/products/gomme-1.jpg",
-    "description": "Gömme rezervuar sistemleri ve iç takımlar",
-    "order": 5,
-    "subcategories": [],
-    "name_en": "Concealed Cisterns & Mechanisms"
-  }
+    {
+        "id": 1,
+        "name": "Seramik Banyo Ürünleri",
+        "slug": "seramik-banyo-urunleri",
+        "image": "assets/images/categories/seramik-banyo.jpg",
+        "description": "Lavabo, klozet ve banyo seramik ürünleri",
+        "order": 1,
+        "subcategories": [
+            {
+                "id": 101,
+                "name": "Etajerli Lavabolar",
+                "slug": "etajerli-lavabolar",
+                "image": "assets/images/products/line-80.jpg",
+                "name_en": "Shelf Washbasins"
+            },
+            {
+                "id": 102,
+                "name": "Tezgah Üstü Lavabolar",
+                "slug": "tezgah-ustu-lavabolar",
+                "image": "assets/images/products/tulip-80.jpg",
+                "name_en": "Countertop Washbasins"
+            },
+            {
+                "id": 103,
+                "name": "Asma Klozetler",
+                "slug": "asma-klozetler",
+                "image": "assets/images/subcategories/asma-klozetler.jpg",
+                "name_en": "Wall-Hung Toilets"
+            },
+            {
+                "id": 104,
+                "name": "Duvara Sıfır Klozetler",
+                "slug": "duvara-sifir-klozetler",
+                "image": "assets/images/subcategories/duvara-sifir.jpg",
+                "name_en": "Back-to-Wall Toilets"
+            },
+            {
+                "id": 105,
+                "name": "Takım Klozetler",
+                "slug": "takim-klozetler",
+                "image": "assets/images/subcategories/takim-klozetler.jpg",
+                "name_en": "Close-Coupled Toilets"
+            },
+            {
+                "id": 106,
+                "name": "Engelli Seri",
+                "slug": "engelli-seri",
+                "image": "assets/images/subcategories/engelli-seri.jpg",
+                "name_en": "Accessible Series"
+            },
+            {
+                "id": 107,
+                "name": "Çocuk Seri",
+                "slug": "cocuk-seri",
+                "image": "assets/images/subcategories/cocuk-seri.jpg",
+                "name_en": "Children's Series"
+            },
+            {
+                "id": 108,
+                "name": "Lavabo Ayakları",
+                "slug": "lavabo-ayaklari",
+                "image": "assets/images/subcategories/lavabo-ayaklari.jpg",
+                "name_en": "Washbasin Pedestals"
+            },
+            {
+                "id": 109,
+                "name": "Bideler",
+                "slug": "bideler",
+                "image": "assets/images/products/inkum-ayakli-bide.jpg",
+                "name_en": "Bidets"
+            },
+            {
+                "id": 110,
+                "name": "Tek Parça Ürünler",
+                "slug": "tek-parca-urunler",
+                "image": "assets/images/products/etejer-15x60-cm.jpg",
+                "name_en": "One-Piece Products"
+            }
+        ],
+        "name_en": "Ceramic Bathroom Products"
+    },
+    {
+        "id": 2,
+        "name": "Banyo Mobilyaları",
+        "slug": "banyo-mobilyalari",
+        "image": "assets/images/products/astona-100.jpg",
+        "description": "Modern banyo dolap ve mobilya çözümleri",
+        "order": 2,
+        "subcategories": [],
+        "name_en": "Bathroom Furniture"
+    },
+    {
+        "id": 3,
+        "name": "Klozet Kapakları",
+        "slug": "klozet-kapaklari",
+        "image": "assets/images/categories/klozet-kapaklari.jpg",
+        "description": "Yavaş kapanan klozet kapakları",
+        "order": 3,
+        "subcategories": [],
+        "name_en": "Toilet Seat Covers"
+    },
+    {
+        "id": 4,
+        "name": "Tamamlayıcı Ürünler",
+        "slug": "tamamlayici-urunler",
+        "image": "assets/images/categories/lavabo-pop-up-seti-seramik-kapakli-1795032897.jpg",
+        "description": "Banyo aksesuar ve tamamlayıcı ürünler",
+        "order": 4,
+        "subcategories": [
+            {
+                "id": 401,
+                "name": "Fonksiyonel Ürünler",
+                "slug": "fonksiyonel-urunler",
+                "image": "assets/images/products/lavabo-pop-up-seti-seramik-kapakli.jpg",
+                "name_en": "Functional Products"
+            },
+            {
+                "id": 402,
+                "name": "Engelli Ürünleri",
+                "slug": "engelli-urunleri",
+                "image": "assets/images/products/yerden-tutunma-bari.jpg",
+                "name_en": "Accessible Products"
+            },
+            {
+                "id": 403,
+                "name": "Duş Sistemleri",
+                "slug": "dus-sistemleri",
+                "image": "assets/images/products/still-dus-seti.jpg",
+                "name_en": "Shower Systems"
+            },
+            {
+                "id": 404,
+                "name": "Banyo Aksesuarları",
+                "slug": "banyo-aksesuarlari",
+                "image": "assets/images/products/dis-fircalik.jpg",
+                "name_en": "Bathroom Accessories"
+            },
+            {
+                "id": 405,
+                "name": "Şampuanlıklar",
+                "slug": "sampuanliklar",
+                "image": "assets/images/products/oval-krom-sampuanlik.jpg",
+                "name_en": "Soap Dishes & Shelves"
+            },
+            {
+                "id": 406,
+                "name": "Islak Hacim Ürünleri",
+                "slug": "islak-hacim-urunleri",
+                "image": "assets/images/products/roll-klozet-firca-takim.jpg",
+                "name_en": "Wet Area Products"
+            }
+        ],
+        "name_en": "Complementary Products"
+    },
+    {
+        "id": 5,
+        "name": "Gömme Rezervuar ve İç Takımlar",
+        "slug": "gomme-rezervuar",
+        "image": "assets/images/products/gomme-1.jpg",
+        "description": "Gömme rezervuar sistemleri ve iç takımlar",
+        "order": 5,
+        "subcategories": [],
+        "name_en": "Concealed Cisterns & Mechanisms"
+    }
 ]
