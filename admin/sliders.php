@@ -6,7 +6,9 @@ $message = '';
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $id = $_POST['id'] ?? null;
     $title = trim($_POST['title'] ?? '');
+    $titleEn = trim($_POST['title_en'] ?? '');
     $subtitle = trim($_POST['subtitle'] ?? '');
+    $subtitleEn = trim($_POST['subtitle_en'] ?? '');
     $link = trim($_POST['link'] ?? '');
     $active = isset($_POST['active']);
 
@@ -20,7 +22,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         foreach ($sliders as &$s) {
             if ($s['id'] == $id) {
                 $s['title'] = $title;
+                $s['title_en'] = $titleEn;
                 $s['subtitle'] = $subtitle;
+                $s['subtitle_en'] = $subtitleEn;
                 $s['link'] = $link;
                 $s['active'] = $active;
                 if ($image) $s['image'] = $image;
@@ -34,7 +38,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $sliders[] = [
             'id' => getNextId($sliders),
             'title' => $title,
+            'title_en' => $titleEn,
             'subtitle' => $subtitle,
+            'subtitle_en' => $subtitleEn,
             'image' => $image ?: 'assets/images/sliders/default.jpg',
             'link' => $link,
             'active' => $active,
@@ -83,13 +89,25 @@ if ($action === 'form'):
     <input type="hidden" name="id" value="<?= $editSlider['id'] ?>">
     <?php endif; ?>
 
-    <div class="form-group">
-      <label>Başlık *</label>
-      <input type="text" name="title" class="form-control" value="<?= e($editSlider['title'] ?? '') ?>" required>
+    <div class="form-row">
+      <div class="form-group">
+        <label>Başlık *</label>
+        <input type="text" name="title" class="form-control" value="<?= e($editSlider['title'] ?? '') ?>" required>
+      </div>
+      <div class="form-group">
+        <label>Title (EN)</label>
+        <input type="text" name="title_en" class="form-control" value="<?= e($editSlider['title_en'] ?? '') ?>" placeholder="İngilizce başlık">
+      </div>
     </div>
-    <div class="form-group">
-      <label>Alt Başlık</label>
-      <input type="text" name="subtitle" class="form-control" value="<?= e($editSlider['subtitle'] ?? '') ?>">
+    <div class="form-row">
+      <div class="form-group">
+        <label>Alt Başlık</label>
+        <input type="text" name="subtitle" class="form-control" value="<?= e($editSlider['subtitle'] ?? '') ?>">
+      </div>
+      <div class="form-group">
+        <label>Subtitle (EN)</label>
+        <input type="text" name="subtitle_en" class="form-control" value="<?= e($editSlider['subtitle_en'] ?? '') ?>" placeholder="İngilizce alt başlık">
+      </div>
     </div>
     <div class="form-group">
       <label>Link</label>

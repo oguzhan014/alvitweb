@@ -42,10 +42,6 @@ switch (true) {
         include __DIR__ . '/pages/collection.php';
         break;
 
-    // Renk kataloğu
-    case $uri === '/renkler':
-        include __DIR__ . '/pages/colors.php';
-        break;
 
     // Kategoriler listesi
     case $uri === '/kategoriler':

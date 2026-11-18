@@ -11,7 +11,7 @@ $isVisionPage = $pageType === 'vision';
 $isDocsPage   = $pageType === 'documents';
 $isVideoPage  = $pageType === 'videos';
 
-$certificates = $isCertPage ? getCertificates() : [];
+$certificates = ($isCertPage || $isAboutPage) ? getCertificates() : [];
 $productCount = $isAboutPage ? count(getProducts()) : 0;
 $kurumsal = ($isDocsPage || $isVideoPage || $pageType === 'text')
     ? getKurumsalData($page['slug']) : [];

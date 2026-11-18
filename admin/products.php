@@ -40,6 +40,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $palet = trim($post['palet'] ?? '');
     $featured = isset($post['featured']);
     $collection = trim($post['collection'] ?? '');
+    $nameEn = trim($post['name_en'] ?? '');
+    $featuresEn = trim($post['features_en'] ?? '');
     $slug = slugify($name);
 
     // Görsel yükleme
@@ -103,6 +105,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 $p['category_id'] = $categoryId;
                 $p['subcategory_id'] = $subcategoryId;
                 $p['features'] = $features;
+                $p['name_en'] = $nameEn;
+                $p['features_en'] = $featuresEn;
                 $p['palet'] = $palet;
                 $p['featured'] = $featured;
                 $p['highlights'] = $highlights;
@@ -132,6 +136,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             'category_id' => $categoryId,
             'subcategory_id' => $subcategoryId,
             'features' => $features,
+            'name_en' => $nameEn,
+            'features_en' => $featuresEn,
             'palet' => $palet,
             'images' => $images,
             'documents' => $documents,
@@ -189,6 +195,13 @@ if ($action === 'form'):
         <input type="text" name="name" class="form-control" value="<?= e($editProduct['name'] ?? '') ?>" required>
       </div>
       <div class="form-group">
+        <label>Product Name (EN)</label>
+        <input type="text" name="name_en" class="form-control" value="<?= e($editProduct['name_en'] ?? '') ?>" placeholder="İngilizce ürün adı">
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group">
         <label>Ürün Kodu</label>
         <input type="text" name="code" class="form-control" value="<?= e($editProduct['code'] ?? '') ?>">
       </div>
@@ -223,9 +236,15 @@ if ($action === 'form'):
       </div>
     </div>
 
-    <div class="form-group">
-      <label>Ürün Özellikleri</label>
-      <input type="text" name="features" class="form-control" value="<?= e($editProduct['features'] ?? '') ?>" placeholder="Ör: Dolap Uyumlu Lavabo">
+    <div class="form-row">
+      <div class="form-group">
+        <label>Ürün Özellikleri</label>
+        <input type="text" name="features" class="form-control" value="<?= e($editProduct['features'] ?? '') ?>" placeholder="Ör: Dolap Uyumlu Lavabo">
+      </div>
+      <div class="form-group">
+        <label>Features (EN)</label>
+        <input type="text" name="features_en" class="form-control" value="<?= e($editProduct['features_en'] ?? '') ?>" placeholder="İngilizce özellik">
+      </div>
     </div>
 
     <div class="form-row">

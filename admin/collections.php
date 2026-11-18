@@ -32,7 +32,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     if ($title !== '' && $slug !== '') {
         $entry = $collections[$origSlug] ?? $collections[$slug] ?? [];
+        $titleEn = trim($post['title_en'] ?? '');
         $entry['title'] = $title;
+        $entry['title_en'] = $titleEn;
         $entry['slug'] = $slug;
 
         if (!empty($_FILES['image']['name']) && $_FILES['image']['error'] === UPLOAD_ERR_OK) {
@@ -113,9 +115,13 @@ if ($isForm):
         <input type="text" name="title" class="form-control" value="<?= e($edit['title'] ?? '') ?>" required>
       </div>
       <div class="form-group">
-        <label>Adres (slug)</label>
-        <input type="text" name="slug" class="form-control" value="<?= e($edit['slug'] ?? '') ?>" placeholder="otomatik oluşur">
+        <label>Collection Name (EN)</label>
+        <input type="text" name="title_en" class="form-control" value="<?= e($edit['title_en'] ?? '') ?>" placeholder="İngilizce koleksiyon adı">
       </div>
+    </div>
+    <div class="form-group">
+      <label>Adres (slug)</label>
+      <input type="text" name="slug" class="form-control" value="<?= e($edit['slug'] ?? '') ?>" placeholder="otomatik oluşur">
     </div>
 
     <div class="form-group">

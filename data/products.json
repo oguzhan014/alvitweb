@@ -3,11 +3,11 @@
         "id": 1,
         "name": "New Line 80 cm",
         "slug": "new-line-80-cm",
-        "code": "K24",
+        "code": "70NL21080",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Dolap Uyumlu Lavabo",
-        "palet": "",
+        "palet": "K12",
         "images": [
             "new-line-80.png"
         ],
@@ -32,11 +32,11 @@
         "id": 6,
         "name": "Thin Lavabo 55 cm",
         "slug": "thin-lavabo-55-cm",
-        "code": "",
+        "code": "70TH21065",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
-        "palet": "",
+        "palet": "K20",
         "images": [
             "thin-55.png"
         ],
@@ -68,11 +68,11 @@
         "id": 7,
         "name": "Thin Lavabo 60 cm",
         "slug": "thin-lavabo-60-cm",
-        "code": "",
+        "code": "70TH21060",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
-        "palet": "",
+        "palet": "K20",
         "images": [
             "thin-60.png"
         ],
@@ -104,11 +104,11 @@
         "id": 8,
         "name": "Thin Lavabo 65 cm",
         "slug": "thin-lavabo-65-cm",
-        "code": "",
+        "code": "70TH21065",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
-        "palet": "",
+        "palet": "K20",
         "images": [
             "thin-65.png"
         ],
@@ -140,7 +140,7 @@
         "id": 9,
         "name": "Thin Lavabo 80 cm",
         "slug": "thin-lavabo-80-cm",
-        "code": "",
+        "code": "70TH21080",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
@@ -176,11 +176,11 @@
         "id": 10,
         "name": "Thin Lavabo 100 cm",
         "slug": "thin-lavabo-100-cm",
-        "code": "",
+        "code": "70TH21100",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
-        "palet": "",
+        "palet": "K12",
         "images": [
             "thin-100.png"
         ],
@@ -212,11 +212,11 @@
         "id": 11,
         "name": "Tulip Lavabo 55 cm",
         "slug": "tulip-lavabo-55-cm",
-        "code": "",
+        "code": "70TP21055",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
-        "palet": "",
+        "palet": "K20",
         "images": [
             "tulip-55.png"
         ],
@@ -248,11 +248,11 @@
         "id": 12,
         "name": "Tulip Lavabo 65 cm",
         "slug": "tulip-lavabo-65-cm",
-        "code": "",
+        "code": "70TP21065",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
-        "palet": "",
+        "palet": "K20",
         "images": [
             "tulip-65.png"
         ],
@@ -284,11 +284,11 @@
         "id": 13,
         "name": "Tulip Lavabo 75 cm",
         "slug": "tulip-lavabo-75-cm",
-        "code": "",
+        "code": "70TP21075",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
-        "palet": "",
+        "palet": "K12",
         "images": [
             "tulip-75.png"
         ],
@@ -320,11 +320,11 @@
         "id": 14,
         "name": "Tulip Lavabo 80 cm",
         "slug": "tulip-lavabo-80-cm",
-        "code": "",
+        "code": "70TP21080",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
-        "palet": "",
+        "palet": "K12",
         "images": [
             "tulip-80.png"
         ],
@@ -356,11 +356,11 @@
         "id": 15,
         "name": "Tulip Lavabo 86 cm",
         "slug": "tulip-lavabo-86-cm",
-        "code": "",
+        "code": "70TP21086",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
-        "palet": "",
+        "palet": "K12",
         "images": [
             "tulip-86.jpg"
         ],
@@ -392,11 +392,11 @@
         "id": 16,
         "name": "Tulip Lavabo 100 cm",
         "slug": "tulip-lavabo-100-cm",
-        "code": "",
+        "code": "70TP21100",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
-        "palet": "",
+        "palet": "K12",
         "images": [
             "tulip-100.png"
         ],
@@ -428,11 +428,11 @@
         "id": 17,
         "name": "Tulip Lavabo 105 cm",
         "slug": "tulip-lavabo-105-cm",
-        "code": "",
+        "code": "70TP21105",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
-        "palet": "",
+        "palet": "K10",
         "images": [
             "tulip-105.png"
         ],
@@ -940,9 +940,9 @@
     },
     {
         "id": 50,
-        "name": "Star Klozet Kapağı",
-        "slug": "star-klozet-kapagi",
-        "code": "",
+        "name": "SCA Duroplast Klozet Kapağı",
+        "slug": "sca-duroplast-klozet-kapagi",
+        "code": "SCA.01.02",
         "category_id": 3,
         "subcategory_id": null,
         "features": "Yavaş Kapanan",
@@ -991,14 +991,17 @@
             ]
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/klozet-kapaklari-2\/star-klozet-kapagi.88",
-        "name_en": "Star Klozet Kapağı",
-        "features_en": "Soft-Close"
+        "name_en": "SCA Duroplast Toilet Seat Cover",
+        "features_en": "SCA Duroplast Slow-Close Metal Hinge Toilet Seat Cover",
+        "highlights": [
+            "SCA Duraplast Yavaş Kapanan Metal Menteşeli Klozet Kapağı"
+        ]
     },
     {
         "id": 51,
-        "name": "Galaxy Klozet Kapağı",
-        "slug": "galaxy-klozet-kapagi",
-        "code": "",
+        "name": "SCD Duroplast Klozet Kapağı",
+        "slug": "scd-duroplast-klozet-kapagi",
+        "code": "30SCD.01.02",
         "category_id": 3,
         "subcategory_id": null,
         "features": "Yavaş Kapanan",
@@ -1053,14 +1056,17 @@
             ]
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/klozet-kapaklari-2\/galaxy-klozet-kapagi.89",
-        "name_en": "Galaxy Klozet Kapağı",
-        "features_en": "Soft-Close"
+        "name_en": "SCD Duroplast Toilet Seat Cover",
+        "features_en": "SCD Duroplast Slow-Close Metal Hinge Toilet Seat Cover",
+        "highlights": [
+            "SCD Duroplast Yavaş Kapanan Metal Menteşeli Klozet Kapağı"
+        ]
     },
     {
         "id": 52,
-        "name": "Galaxy Slim Klozet Kapağı",
-        "slug": "galaxy-slim-klozet-kapagi",
-        "code": "",
+        "name": "SCD Slim Klozet Kapağı",
+        "slug": "scd-slim-klozet-kapagi",
+        "code": "30SCD.03.02",
         "category_id": 3,
         "subcategory_id": null,
         "features": "Yavaş Kapanan Slim",
@@ -1085,14 +1091,17 @@
             ]
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/klozet-kapaklari-2\/galaxy-slim-klozet-kapagi.90",
-        "name_en": "Galaxy Slim Klozet Kapağı",
-        "features_en": "Soft-Close Slim"
+        "name_en": "SCD Slim Toilet Seat Cover",
+        "features_en": "SCD Slim Duroplast Slow-Close Metal Hinge Toilet Seat Cover",
+        "highlights": [
+            "SCD Slim Duroplast Yavaş Kapanan Metal Menteşeli Klozet Kapağı"
+        ]
     },
     {
         "id": 53,
-        "name": "Space Klozet Kapağı",
-        "slug": "space-klozet-kapagi",
-        "code": "",
+        "name": "SCS Klozet Kapağı",
+        "slug": "scs-klozet-kapagi",
+        "code": "30SCS.01.02",
         "category_id": 3,
         "subcategory_id": null,
         "features": "Yavaş Kapanan",
@@ -1141,18 +1150,21 @@
             ]
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/klozet-kapaklari-2\/space-klozet-kapagi.91",
-        "name_en": "Space Klozet Kapağı",
-        "features_en": "Soft-Close"
+        "name_en": "SCS Toilet Seat Cover",
+        "features_en": "SCS Slow-Close Metal Hinge Toilet Seat Cover",
+        "highlights": [
+            "SCS  Yavaş Kapanan Metal Menteşeli Klozet Kapağı"
+        ]
     },
     {
         "id": 54,
-        "name": "Space Çocuk Klozet Kapağı",
-        "slug": "space-cocuk-klozet-kapagi",
-        "code": "",
+        "name": "Çocuk Klozet Kapağı",
+        "slug": "cocuk-klozet-kapagi",
+        "code": "30SCC.02.02",
         "category_id": 3,
         "subcategory_id": null,
         "features": "Çocuk - Yavaş Kapanan",
-        "palet": "",
+        "palet": "K10",
         "images": [
             "space-cocuk-kapak.jpg"
         ],
@@ -1179,18 +1191,21 @@
             ]
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/klozet-kapaklari-2\/space-cocuk-klozet-kapagi.92",
-        "name_en": "Space Çocuk Klozet Kapağı",
-        "features_en": "Child - Soft-Close"
+        "name_en": "Children's Toilet Seat Cover",
+        "features_en": "SCC PP Slow-Close Metal Hinge White Toilet Seat Cover",
+        "highlights": [
+            "SCC PP Yavaş Kapanan Metal Menteşeli Beyaz Klozet Kapağı"
+        ]
     },
     {
         "id": 60,
         "name": "Gömme Rezervuar (Asma) Model 1",
         "slug": "gomme-rezervuar-asma-1",
-        "code": "",
+        "code": "GRZ4101",
         "category_id": 5,
         "subcategory_id": null,
         "features": "Asma Klozet Uyumlu",
-        "palet": "",
+        "palet": "1",
         "images": [
             "gomme-1.jpg"
         ],
@@ -1215,7 +1230,10 @@
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/gomme-rezervuar-ve-ic-takimlar-2\/gomme-rezervuar-asma.93",
         "name_en": "Gömme Rezervuar (Asma) Model 1",
-        "features_en": "Wall-Hung Toilet Uyumlu"
+        "features_en": "Wall-Hung Toilet Uyumlu",
+        "highlights": [
+            "Asma Klozet İçin Metal Ayaklı 3\/6 Lt Set"
+        ]
     },
     {
         "id": 61,
@@ -1291,11 +1309,11 @@
         "id": 63,
         "name": "Butonlar",
         "slug": "butonlar",
-        "code": "",
+        "code": "GKP.4000",
         "category_id": 5,
-        "subcategory_id": null,
+        "subcategory_id": 401,
         "features": "Rezervuar Butonları",
-        "palet": "",
+        "palet": "1",
         "images": [
             "butonlar.jpg"
         ],
@@ -1336,11 +1354,11 @@
         "id": 64,
         "name": "İç Takımlar",
         "slug": "ic-takimlar",
-        "code": "",
+        "code": "70MCS",
         "category_id": 5,
-        "subcategory_id": null,
+        "subcategory_id": 401,
         "features": "Rezervuar İç Takım",
-        "palet": "",
+        "palet": "K20",
         "images": [
             "ic-takimlar.jpg"
         ],
@@ -1426,7 +1444,7 @@
         "id": 66,
         "name": "Gideros Asma Klozet",
         "slug": "gideros-asma-klozet",
-        "code": "GID 300",
+        "code": "70GD02001",
         "category_id": 1,
         "subcategory_id": 103,
         "features": "Asma Klozet",
@@ -1477,7 +1495,7 @@
         "id": 67,
         "name": "Gideros DS Klozet",
         "slug": "gideros-ds-klozet",
-        "code": "GID 330",
+        "code": "70GD06001",
         "category_id": 1,
         "subcategory_id": 104,
         "features": "Duvara Sıfır (Arka Çıkışlı) Klozet",
@@ -1538,7 +1556,7 @@
         "id": 68,
         "name": "Safran DS Klozet",
         "slug": "safran-ds-klozet",
-        "code": "SAF 330",
+        "code": "70SF06001",
         "category_id": 1,
         "subcategory_id": 104,
         "features": "Duvara Sıfır (Arka Çıkışlı) Klozet",
@@ -1604,7 +1622,7 @@
         "id": 69,
         "name": "Safran DS Ankastre Klozet",
         "slug": "safran-ds-ankastre-klozet",
-        "code": "SAF 500",
+        "code": "70SF06001",
         "category_id": 1,
         "subcategory_id": 104,
         "features": "Entegre Bataryalı Ankastre Duvara Sıfır Klozet",
@@ -1654,13 +1672,18 @@
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/duvara-sifir-klozetler\/safran-ds-ankastre-klozet.191",
         "collection": "safran-serisi",
         "name_en": "Safran DS Ankastre Klozet",
-        "features_en": "Built-in Back-to-Wall Toilet with Integrated Faucet"
+        "features_en": "Built-in Back-to-Wall Toilet with Integrated Faucet",
+        "highlights": [
+            "63 cm",
+            "Montaj seti dahildir",
+            "Klozet Kapağı dahi değildir"
+        ]
     },
     {
         "id": 70,
         "name": "İnkum Alt Çıkışlı Klozet",
         "slug": "inkum-alt-cikisli-klozet",
-        "code": "INK 310",
+        "code": "70IN01001",
         "category_id": 1,
         "subcategory_id": 105,
         "features": "Alt Çıkışlı Klozet Takımı",
@@ -1715,13 +1738,18 @@
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/takim-klozetler\/inkum-alt-cikisli-klozet.194",
         "collection": "inkum-serisi",
         "name_en": "İnkum Alt Çıkışlı Klozet",
-        "features_en": "Floor Outlet Toilet Set"
+        "features_en": "Floor Outlet Toilet Set",
+        "highlights": [
+            "68 cm",
+            "Montaj Seti Dahil Değildir",
+            "Klozet Kapağı Dahil Değildir"
+        ]
     },
     {
         "id": 71,
         "name": "İnkum Arka Çıkışlı Klozet",
         "slug": "inkum-arka-cikisli-klozet",
-        "code": "INK 320",
+        "code": "70IN01002",
         "category_id": 1,
         "subcategory_id": 105,
         "features": "Arka Çıkışlı Klozet Takımı",
@@ -1776,13 +1804,18 @@
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/takim-klozetler\/inkum-arka-cikisli-klozet.195",
         "collection": "inkum-serisi",
         "name_en": "İnkum Arka Çıkışlı Klozet",
-        "features_en": "Wall Outlet Toilet Set"
+        "features_en": "Wall Outlet Toilet Set",
+        "highlights": [
+            "68 cm",
+            "Montaj Seti Dahildir",
+            "Klozet Kapağı Dahil Değildir"
+        ]
     },
     {
         "id": 72,
         "name": "Efekta Arka Çıkışlı Klozet",
         "slug": "efekta-arka-cikisli-klozet",
-        "code": "EFK 320",
+        "code": "70EF01002",
         "category_id": 1,
         "subcategory_id": 105,
         "features": "Arka Çıkışlı Klozet Takımı",
@@ -1837,13 +1870,18 @@
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/takim-klozetler\/efekta-arka-cikisli-klozet.196",
         "collection": "efekta-serisi",
         "name_en": "Efekta Arka Çıkışlı Klozet",
-        "features_en": "Wall Outlet Toilet Set"
+        "features_en": "Wall Outlet Toilet Set",
+        "highlights": [
+            "65 cm",
+            "Montaj Seti Dahildir",
+            "Klozet Kapağı Dahil Değildir"
+        ]
     },
     {
         "id": 73,
         "name": "Efekta Alt Çıkışlı Klozet",
         "slug": "efekta-alt-cikisli-klozet",
-        "code": "EFK 310",
+        "code": "70EF01001",
         "category_id": 1,
         "subcategory_id": 105,
         "features": "Alt Çıkışlı Klozet Takımı",
@@ -1898,13 +1936,18 @@
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/takim-klozetler\/efekta-alt-cikisli-klozet.197",
         "collection": "efekta-serisi",
         "name_en": "Efekta Alt Çıkışlı Klozet",
-        "features_en": "Floor Outlet Toilet Set"
+        "features_en": "Floor Outlet Toilet Set",
+        "highlights": [
+            "65 cm",
+            "Montaj Seti Dahil Değildir",
+            "Klozet Kapağı Dahil Değildir"
+        ]
     },
     {
         "id": 74,
         "name": "Engelli Klozet",
         "slug": "engelli-klozet",
-        "code": "ENG 310",
+        "code": "70SD01001",
         "category_id": 1,
         "subcategory_id": 106,
         "features": "Engelli Kullanımına Uygun Yüksek Klozet",
@@ -1959,17 +2002,21 @@
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/engelli-seri\/engelli-klozet.198",
         "collection": "engelli-serisi",
         "name_en": "Engelli Klozet",
-        "features_en": "Accessible Raised Toilet"
+        "features_en": "Accessible Raised Toilet",
+        "highlights": [
+            "Montaj Seti Dahil Değildir",
+            "Klozet Kapağı Dahil Değildir"
+        ]
     },
     {
         "id": 75,
-        "name": "Engelli Lavabo 50x60",
-        "slug": "engelli-lavabo-50x60",
-        "code": "",
+        "name": "Engelli Lavabo 60X50",
+        "slug": "engelli-lavabo-60x50",
+        "code": "70SD20060",
         "category_id": 1,
         "subcategory_id": 106,
         "features": "Engelli Kullanımına Uygun Lavabo",
-        "palet": "",
+        "palet": "K16",
         "images": [
             "engelli-lavabo-50x60.jpg"
         ],
@@ -1994,14 +2041,21 @@
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/engelli-seri\/engelli-lavabo-50x60.213",
         "collection": "engelli-serisi",
-        "name_en": "Engelli Lavabo 50x60",
-        "features_en": "Accessible Washbasin"
+        "name_en": "Accessible Washbasin 60x50",
+        "features_en": "Accessible Washbasin",
+        "highlights": [
+            "60X50 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Duvara Monte Edilebilir",
+            "Montaj Seti Dahil Değildir"
+        ]
     },
     {
         "id": 76,
         "name": "Çocuk Klozet",
         "slug": "cocuk-klozet",
-        "code": "MIN 310",
+        "code": "70CH01001",
         "category_id": 1,
         "subcategory_id": 107,
         "features": "Çocuk Boy Klozet Takımı",
@@ -2050,13 +2104,18 @@
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/takim-klozetler\/cocuk-klozet.202",
         "name_en": "Çocuk Klozet",
-        "features_en": "Child Size Toilet Set"
+        "features_en": "Child Size Toilet Set",
+        "highlights": [
+            "57 cm",
+            "Montaj Seti Dahil",
+            "Klozet Kapağı Dahil"
+        ]
     },
     {
         "id": 77,
         "name": "Çocuk Lavabo 35x45",
         "slug": "cocuk-lavabo-35x45",
-        "code": "TEK 245",
+        "code": "70TK20045",
         "category_id": 1,
         "subcategory_id": 107,
         "features": "Çocuk Boy Ayaklı Lavabo",
@@ -2095,17 +2154,24 @@
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/lavabo-ayak-serisi\/cocuk-lavabo-35x45.215",
         "name_en": "Çocuk Lavabo 35x45",
-        "features_en": "Child Size Pedestal Washbasin"
+        "features_en": "Child Size Pedestal Washbasin",
+        "highlights": [
+            "45X35 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya Kullanımına Uygun Değil",
+            "Montaj Seti Dahil Değildir"
+        ]
     },
     {
         "id": 81,
         "name": "Safran Lavabo 50x60",
         "slug": "safran-lavabo-50x60",
-        "code": "",
+        "code": "70SF20060",
         "category_id": 1,
         "subcategory_id": 108,
         "features": "Ayaklı Lavabo",
-        "palet": "",
+        "palet": "A22",
         "images": [
             "safran-lavabo-50x60.png"
         ],
@@ -2151,17 +2217,24 @@
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/lavabo-ayak-serisi\/safran-lavabo-50x60.78",
         "collection": "safran-serisi",
         "name_en": "Safran Lavabo 50x60",
-        "features_en": "Pedestal Washbasin"
+        "features_en": "Pedestal Washbasin",
+        "highlights": [
+            "60X50 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya Kullanımına Uygun Değil",
+            "Montaj Seti Dahil Değildir"
+        ]
     },
     {
         "id": 82,
         "name": "Safran Lavabo 45x55",
         "slug": "safran-lavabo-45x55",
-        "code": "",
+        "code": "70SF20055",
         "category_id": 1,
         "subcategory_id": 108,
         "features": "Ayaklı Lavabo",
-        "palet": "",
+        "palet": "A32",
         "images": [
             "safran-lavabo-45x55.png"
         ],
@@ -2207,17 +2280,24 @@
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/lavabo-ayak-serisi\/safran-lavabo-45x55.79",
         "collection": "safran-serisi",
         "name_en": "Safran Lavabo 45x55",
-        "features_en": "Pedestal Washbasin"
+        "features_en": "Pedestal Washbasin",
+        "highlights": [
+            "55x45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya Kullanımına Uygun Değil",
+            "Montaj Seti Dahil Değildir"
+        ]
     },
     {
         "id": 83,
-        "name": "Efekta Lavabo 40x50",
-        "slug": "efekta-lavabo-40x50",
-        "code": "",
+        "name": "Efekta Lavabo 50X40",
+        "slug": "efekta-lavabo-50x40",
+        "code": "70EF20050",
         "category_id": 1,
         "subcategory_id": 108,
         "features": "Ayaklı Lavabo",
-        "palet": "",
+        "palet": "A36",
         "images": [
             "efekta-lavabo-40x50.png"
         ],
@@ -2252,18 +2332,21 @@
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/lavabo-ayak-serisi\/efekta-lavabo-40x50.211",
         "collection": "efekta-serisi",
-        "name_en": "Efekta Lavabo 40x50",
-        "features_en": "Pedestal Washbasin"
+        "name_en": "Efekta Washbasin 50x40",
+        "features_en": "Pedestal Washbasin",
+        "highlights": [
+            "50X40 cm"
+        ]
     },
     {
         "id": 84,
-        "name": "Efekta Lavabo 45x55",
-        "slug": "efekta-lavabo-45x55",
-        "code": "",
+        "name": "Efekta Lavabo 55x45",
+        "slug": "efekta-lavabo-55x45",
+        "code": "70SF20055",
         "category_id": 1,
         "subcategory_id": 108,
         "features": "Ayaklı Lavabo",
-        "palet": "",
+        "palet": "A32",
         "images": [
             "efekta-lavabo-45x55.png"
         ],
@@ -2308,8 +2391,15 @@
         ],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/lavabo-ayak-serisi\/efekta-lavabo-45x55.212",
         "collection": "efekta-serisi",
-        "name_en": "Efekta Lavabo 45x55",
-        "features_en": "Pedestal Washbasin"
+        "name_en": "Efekta Washbasin 55x45",
+        "features_en": "Pedestal Washbasin",
+        "highlights": [
+            "55X45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile kullanıma uygun değil",
+            "Montaj seti dahil değildir"
+        ]
     },
     {
         "id": 85,
@@ -4836,11 +4926,11 @@
         "id": 121,
         "name": "Etejer 15x60 cm",
         "slug": "etejer-15x60-cm",
-        "code": "AKS 860",
+        "code": "70AK72060",
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Etejer 15x60 Cm",
-        "palet": "",
+        "palet": "K48",
         "images": [
             "etejer-15x60-cm.jpg"
         ],
@@ -4873,11 +4963,11 @@
         "id": 122,
         "name": "Etejer 10x49 cm",
         "slug": "etejer-10x49-cm",
-        "code": "AKS 849",
+        "code": "70AK72049",
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Etejer 10x49 Cm",
-        "palet": "",
+        "palet": "K60",
         "images": [
             "etejer-10x49-cm.jpg"
         ],
@@ -4910,11 +5000,11 @@
         "id": 123,
         "name": "Sabunluk-Kağıtlık",
         "slug": "sabunluk-kagitlik",
-        "code": "AKS 810",
+        "code": "70AK71001",
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Kollu Sabunluk",
-        "palet": "",
+        "palet": "K70",
         "images": [
             "sabunluk-kagitlik.jpg"
         ],
@@ -4952,11 +5042,11 @@
         "id": 124,
         "name": "Bide Sabunluk",
         "slug": "bide-sabunluk",
-        "code": "AKS 820",
+        "code": "70AK7002",
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Bide Sabunluk",
-        "palet": "",
+        "palet": "K40",
         "images": [
             "bide-sabunluk.jpg"
         ],
@@ -4989,11 +5079,11 @@
         "id": 125,
         "name": "Tuvalet Taşı",
         "slug": "tuvalet-tasi",
-        "code": "TEK 500",
+        "code": "70TT4001",
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Çevre Yıkamalı (50x60)",
-        "palet": "",
+        "palet": "A36",
         "images": [
             "tuvalet-tasi.jpg"
         ],
@@ -5026,11 +5116,11 @@
         "id": 126,
         "name": "Güneş Tuvalet Taşı",
         "slug": "gunes-tuvalet-tasi",
-        "code": "TEK 520",
+        "code": "70TT42001",
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Çevre Yıkamalı (56x60)",
-        "palet": "",
+        "palet": "A36",
         "images": [
             "gunes-tuvalet-tasi.jpg"
         ],
@@ -5063,7 +5153,7 @@
         "id": 127,
         "name": "İnci Tuvalet Taşı",
         "slug": "inci-tuvalet-tasi",
-        "code": "TEK 530",
+        "code": "70TT43001",
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Slim Tuvalet Taşı (42x50)",
@@ -5100,11 +5190,11 @@
         "id": 128,
         "name": "Pisuvar",
         "slug": "pisuvar",
-        "code": "PSR 620",
+        "code": "70PS54001",
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Pisuvar Üstten Su Girişli",
-        "palet": "",
+        "palet": "A32",
         "images": [
             "pisuvar.jpg"
         ],
@@ -5137,7 +5227,7 @@
         "id": 129,
         "name": "Lavabo Pop-Up Seti (Seramik Kapaklı)",
         "slug": "lavabo-pop-up-seti-seramik-kapakli",
-        "code": "AKS 1060",
+        "code": "56BC03000",
         "category_id": 4,
         "subcategory_id": 401,
         "features": "Lavabo Pop-Up Seti (Seramik Kapaklı)",
@@ -5169,12 +5259,12 @@
     },
     {
         "id": 130,
-        "name": "Lavabo Pop-Up Seti (Pirinç Kapaklı)",
-        "slug": "lavabo-pop-up-seti-pirinc-kapakli",
-        "code": "AKS 1070",
+        "name": "Lavabo Pop-Up Seti (Plastik Kapaklı)",
+        "slug": "lavabo-pop-up-seti-plastik-kapakli",
+        "code": "56BC03001",
         "category_id": 4,
         "subcategory_id": 401,
-        "features": "Lavabo Pop-Up Seti (Pirinç Kapaklı)",
+        "features": "Lavabo Pop-Up Seti (Plastik Kapaklı)",
         "palet": "",
         "images": [
             "lavabo-pop-up-seti-pirinc-kapakli.jpg"
@@ -5194,8 +5284,8 @@
         "highlights": [],
         "attributes": [],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/fonksiyonel-urunler-2\/lavabo-pop-up-seti-pirinc-kapakli.110",
-        "name_en": "Lavabo Pop-Up Seti (Pirinç Kapaklı)",
-        "features_en": "Washbasin Pop-Up Set (Brass Cap)"
+        "name_en": "Washbasin Pop-Up Set (Plastic Cap)",
+        "features_en": "Washbasin Pop-Up Set (Plastic Cap)"
     },
     {
         "id": 131,
@@ -7900,11 +7990,11 @@
         "id": 198,
         "name": "Alttan Çıkışlı Tek Klozet",
         "slug": "alttan-cikisli-tek-klozet",
-        "code": "TEK 360",
+        "code": "70TK07001",
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Alttan Çıkışlı Tek Klozet",
-        "palet": "",
+        "palet": "K15\/A21",
         "images": [
             "alttan-cikisli-tek-klozet.png"
         ],
@@ -7932,7 +8022,11 @@
                 "K10"
             ]
         ],
-        "highlights": [],
+        "highlights": [
+            "55 cm",
+            "Montaj Seti Dahil Değildir",
+            "Klozet Kapağı Dahil Değildir"
+        ],
         "attributes": [],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/alttan-cikisli-tek-klozet.204",
         "name_en": "Alttan Çıkışlı Tek Klozet",
@@ -7942,11 +8036,11 @@
         "id": 199,
         "name": "Arka Çıkışlı Tek Klozet",
         "slug": "arka-cikisli-tek-klozet",
-        "code": "TEK 350",
+        "code": "70TK07002",
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Arka Çıkışlı Tek Klozet",
-        "palet": "",
+        "palet": "K15\/A21",
         "images": [
             "arka-cikisli-tek-klozet.png"
         ],
@@ -7974,7 +8068,11 @@
                 "K10"
             ]
         ],
-        "highlights": [],
+        "highlights": [
+            "47 cm",
+            "Montaj Seti Dahil Değildir",
+            "Klozet Kapağı Dahil Değildir"
+        ],
         "attributes": [],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/arka-cikisli-tek-klozet.205",
         "name_en": "Arka Çıkışlı Tek Klozet",
@@ -7984,11 +8082,11 @@
         "id": 203,
         "name": "Dolap Uyumlu Bataryalı Lavabo 25x45 cm",
         "slug": "dolap-uyumlu-bataryali-lavabo-25x45-cm",
-        "code": "TEK 045",
+        "code": "70TK21045",
         "category_id": 1,
-        "subcategory_id": 102,
+        "subcategory_id": 101,
         "features": "Dolap Uyumlu Bataryalı Lavabo",
-        "palet": "",
+        "palet": "K56",
         "images": [
             "dolap-uyumlu-bataryali-lavabo-25x45-cm.png"
         ],
@@ -8011,7 +8109,13 @@
                 "56"
             ]
         ],
-        "highlights": [],
+        "highlights": [
+            "25X45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya Kullanımına Uygun",
+            "Montaj Seti Dahil Değildir"
+        ],
         "attributes": [],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tezgah-ustu-lavabolar\/dolap-uyumlu-bataryali-lavabo-25x45-cm.272",
         "name_en": "Dolap Uyumlu Bataryalı Lavabo 25x45 cm",
@@ -8019,13 +8123,13 @@
     },
     {
         "id": 204,
-        "name": "Dolap Uyumlu Özel Tasarım Lavabo 28x45 cm",
-        "slug": "dolap-uyumlu-ozel-tasarim-lavabo-28x45-cm",
-        "code": "TEK 146",
+        "name": "Slim Dolap Uyumlu Lavabo 28x45 cm",
+        "slug": "slim-dolap-uyumlu-lavabo-28x45-cm",
+        "code": "70TK23146",
         "category_id": 1,
         "subcategory_id": 102,
-        "features": "Dolap Uyumlu Lavabo",
-        "palet": "",
+        "features": "Tezgah Üstü Lavabo",
+        "palet": "K42",
         "images": [
             "dolap-uyumlu-ozel-tasarim-lavabo-28x45-cm.png"
         ],
@@ -8048,11 +8152,17 @@
                 "K42"
             ]
         ],
-        "highlights": [],
+        "highlights": [
+            "28X44 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile kullanıma uygun",
+            "Montaj seti dahil değildir"
+        ],
         "attributes": [],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tezgah-ustu-lavabolar\/dolap-uyumlu-ozel-tasarim-lavabo-28x45-cm.273",
-        "name_en": "Dolap Uyumlu Özel Tasarım Lavabo 28x45 cm",
-        "features_en": "Cabinet-Compatible Washbasin"
+        "name_en": "Slim Cabinet-Compatible Washbasin 28x45 cm",
+        "features_en": "Countertop Washbasin"
     },
     {
         "id": 205,
@@ -8169,11 +8279,11 @@
         "id": 208,
         "name": "Proje Oval Lavabo 28x36 cm",
         "slug": "proje-oval-lavabo-28x36-cm",
-        "code": "TEK 036",
+        "code": "70TK22036",
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Proje Oval Lavabo Delikli",
-        "palet": "",
+        "palet": "A54",
         "images": [
             "proje-oval-lavabo-28x36-cm.png"
         ],
@@ -8201,7 +8311,9 @@
                 "A54"
             ]
         ],
-        "highlights": [],
+        "highlights": [
+            "28X36 cm"
+        ],
         "attributes": [],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/proje-oval-lavabo-28x36-cm.277",
         "name_en": "Proje Oval Lavabo 28x36 cm",
@@ -8255,11 +8367,11 @@
         "id": 210,
         "name": "Proje Lavabo 35x45 cm",
         "slug": "proje-lavabo-35x45-cm",
-        "code": "TEK 245",
+        "code": "70TK20045",
         "category_id": 1,
         "subcategory_id": 110,
         "features": "35x45 Cm Proje Lavabo",
-        "palet": "",
+        "palet": "A48",
         "images": [
             "proje-lavabo-35x45-cm.png"
         ],
@@ -8299,11 +8411,11 @@
         "id": 211,
         "name": "İnkum Ayaklı Bide",
         "slug": "inkum-ayakli-bide",
-        "code": "INK 390",
+        "code": "70IN11001",
         "category_id": 1,
         "subcategory_id": 109,
         "features": "Ayaklı Bide",
-        "palet": "",
+        "palet": "K15",
         "images": [
             "inkum-ayakli-bide.jpg"
         ],
@@ -8326,7 +8438,10 @@
                 "A18 \/ K15"
             ]
         ],
-        "highlights": [],
+        "highlights": [
+            "58 cm",
+            "Montaj seti dahil değildir"
+        ],
         "attributes": [],
         "source_url": "https:\/\/www.alvit.com.tr\/urunler\/bideler\/inkum-ayakli-bide.284",
         "collection": "inkum-serisi",
@@ -8557,11 +8672,11 @@
         "id": 215,
         "name": "New Line 55 cm",
         "slug": "new-line-55-cm",
-        "code": "",
+        "code": "70NL21055",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Dolap Uyumlu Lavabo",
-        "palet": "",
+        "palet": "K12",
         "images": [
             "new-line-55.png"
         ],
@@ -8572,7 +8687,13 @@
             }
         ],
         "featured": false,
-        "highlights": [],
+        "highlights": [
+            "55X45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya kullanımına uygun",
+            "Montaj seti dahil değildir"
+        ],
         "attributes": [],
         "spec_columns": [],
         "spec_rows": [],
@@ -8583,11 +8704,11 @@
         "id": 216,
         "name": "New Line 65 cm",
         "slug": "new-line-65-cm",
-        "code": "",
+        "code": "70NL21065",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Dolap Uyumlu Lavabo",
-        "palet": "",
+        "palet": "K12",
         "images": [
             "new-line-65.png"
         ],
@@ -8598,7 +8719,12 @@
             }
         ],
         "featured": false,
-        "highlights": [],
+        "highlights": [
+            "65X45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya kullanımına uygun"
+        ],
         "attributes": [],
         "spec_columns": [],
         "spec_rows": [],
@@ -8609,11 +8735,11 @@
         "id": 217,
         "name": "New Line 70 cm",
         "slug": "new-line-70-cm",
-        "code": "",
+        "code": "70NL21070",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Dolap Uyumlu Lavabo",
-        "palet": "",
+        "palet": "K12",
         "images": [
             "new-line-70.png"
         ],
@@ -8624,7 +8750,13 @@
             }
         ],
         "featured": false,
-        "highlights": [],
+        "highlights": [
+            "80X45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile kullanıma uygun",
+            "Montaj seti dahil değildir"
+        ],
         "attributes": [],
         "spec_columns": [],
         "spec_rows": [],
@@ -8635,11 +8767,11 @@
         "id": 218,
         "name": "New Line 90 cm",
         "slug": "new-line-90-cm",
-        "code": "",
+        "code": "70NL21090",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Dolap Uyumlu Lavabo",
-        "palet": "",
+        "palet": "K12",
         "images": [
             "new-line-90.png"
         ],
@@ -8650,7 +8782,13 @@
             }
         ],
         "featured": false,
-        "highlights": [],
+        "highlights": [
+            "90X45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile kullanıma uygun",
+            "Montaj seti dahil değildir"
+        ],
         "attributes": [],
         "spec_columns": [],
         "spec_rows": [],
@@ -8661,11 +8799,11 @@
         "id": 219,
         "name": "New Line 100 cm",
         "slug": "new-line-100-cm",
-        "code": "",
+        "code": "70NL21100",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Dolap Uyumlu Lavabo",
-        "palet": "",
+        "palet": "K12",
         "images": [
             "new-line-100.png"
         ],
@@ -8676,7 +8814,13 @@
             }
         ],
         "featured": false,
-        "highlights": [],
+        "highlights": [
+            "100X45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile kullanımına uygun",
+            "Montaj seti dahil değil"
+        ],
         "attributes": [],
         "spec_columns": [],
         "spec_rows": [],
@@ -8685,13 +8829,13 @@
     },
     {
         "id": 220,
-        "name": "Efekta Lavabo 50x60",
-        "slug": "efekta-lavabo-50x60",
-        "code": "",
+        "name": "Efekta Lavabo 60X50",
+        "slug": "efekta-lavabo-60x50",
+        "code": "70SF20060",
         "category_id": 1,
-        "subcategory_id": null,
+        "subcategory_id": 108,
         "features": "Ayaklı Lavabo",
-        "palet": "",
+        "palet": "A22",
         "images": [
             "efekta-lavabo-50x60.png"
         ],
@@ -8702,11 +8846,17 @@
             }
         ],
         "featured": false,
-        "highlights": [],
+        "highlights": [
+            "60X50 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya Kullanımına Uygun Değil",
+            "Montaj Seti Dahil Değil"
+        ],
         "attributes": [],
         "spec_columns": [],
         "spec_rows": [],
-        "name_en": "Efekta Washbasin 50x60",
+        "name_en": "Efekta Washbasin 60x50",
         "features_en": "Pedestal Washbasin",
         "collection": "efekta-serisi"
     },
@@ -8714,11 +8864,11 @@
         "id": 221,
         "name": "İnkum Asma Klozet",
         "slug": "inkum-asma-klozet",
-        "code": "",
+        "code": "70IN02001",
         "category_id": 1,
         "subcategory_id": 103,
         "features": "Asma Klozet",
-        "palet": "",
+        "palet": "K12\/A18",
         "images": [
             "inkum-asma-klozet.png"
         ],
@@ -8729,7 +8879,11 @@
             }
         ],
         "featured": false,
-        "highlights": [],
+        "highlights": [
+            "52 cm",
+            "Montaj Seti Dahil Değildir",
+            "Klojet Kapağı Dahil Değildir"
+        ],
         "attributes": [],
         "spec_columns": [],
         "spec_rows": [],
@@ -8739,13 +8893,13 @@
     },
     {
         "id": 222,
-        "name": "New Çevre Yıkamalı Helataşı",
-        "slug": "new-cevre-yikamali-helatasi",
-        "code": "",
+        "name": "New Çevre Yıkamalı Tuvalet Taşı",
+        "slug": "new-cevre-yikamali-tuvalet-tasi",
+        "code": "70TT44001",
         "category_id": 1,
-        "subcategory_id": null,
+        "subcategory_id": 110,
         "features": "Çevre Yıkamalı Tuvalet Taşı",
-        "palet": "",
+        "palet": "A28",
         "images": [
             "new-cevre-yikamali-helatasi.png"
         ],
@@ -8767,11 +8921,11 @@
         "id": 223,
         "name": "Ara Bölme",
         "slug": "ara-bolme",
-        "code": "",
+        "code": "70SP58001",
         "category_id": 4,
         "subcategory_id": 406,
         "features": "Pisuvar Ara Bölme",
-        "palet": "",
+        "palet": "K20",
         "images": [
             "ara-bolme.jpg"
         ],
@@ -8788,17 +8942,21 @@
         "id": 224,
         "name": "Tezgah Altı Lavabo 49x39 cm",
         "slug": "tezgah-alti-lavabo-49x39-cm",
-        "code": "",
+        "code": "70SP25049",
         "category_id": 1,
-        "subcategory_id": null,
+        "subcategory_id": 110,
         "features": "Tezgah Altı Lavabo",
-        "palet": "",
+        "palet": "K50",
         "images": [
             "tezgah-alti-lavabo-49x39.jpg"
         ],
         "documents": [],
         "featured": false,
-        "highlights": [],
+        "highlights": [
+            "49X39 cm",
+            "Batarya Deliksiz",
+            "Su Taşma Delikli"
+        ],
         "attributes": [],
         "spec_columns": [],
         "spec_rows": [],
@@ -8809,17 +8967,21 @@
         "id": 225,
         "name": "Tezgah Altı Lavabo 54x44 cm",
         "slug": "tezgah-alti-lavabo-54x44-cm",
-        "code": "",
+        "code": "70SP25054",
         "category_id": 1,
-        "subcategory_id": null,
+        "subcategory_id": 110,
         "features": "Tezgah Altı Lavabo",
-        "palet": "",
+        "palet": "K50",
         "images": [
             "tezgah-alti-lavabo-54x44.jpg"
         ],
         "documents": [],
         "featured": false,
-        "highlights": [],
+        "highlights": [
+            "54X44 cm",
+            "Batarya Deliksiz",
+            "Su Taşma Delikli"
+        ],
         "attributes": [],
         "spec_columns": [],
         "spec_rows": [],
@@ -8830,17 +8992,21 @@
         "id": 226,
         "name": "Tezgah Altı Lavabo 57x44 cm",
         "slug": "tezgah-alti-lavabo-57x44-cm",
-        "code": "",
+        "code": "70SP25057",
         "category_id": 1,
-        "subcategory_id": null,
+        "subcategory_id": 110,
         "features": "Tezgah Altı Lavabo",
-        "palet": "",
+        "palet": "K50",
         "images": [
             "tezgah-alti-lavabo-57x44.jpg"
         ],
         "documents": [],
         "featured": false,
-        "highlights": [],
+        "highlights": [
+            "54X44 cm",
+            "Batarya Deliksiz",
+            "Su Taşma Delikli"
+        ],
         "attributes": [],
         "spec_columns": [],
         "spec_rows": [],
@@ -8851,11 +9017,11 @@
         "id": 227,
         "name": "Proje Oval Lavabo 28x36 cm (Batarya Deliksiz)",
         "slug": "proje-oval-lavabo-28x36-deliksiz",
-        "code": "",
+        "code": "70TK22036",
         "category_id": 1,
-        "subcategory_id": null,
+        "subcategory_id": 110,
         "features": "Proje Oval Lavabo Deliksiz",
-        "palet": "",
+        "palet": "A54",
         "images": [
             "proje-oval-lavabo-deliksiz.png"
         ],
@@ -8866,7 +9032,10 @@
             }
         ],
         "featured": false,
-        "highlights": [],
+        "highlights": [
+            "28X36 cm",
+            "Batarya Delikli"
+        ],
         "attributes": [],
         "spec_columns": [],
         "spec_rows": [],

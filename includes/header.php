@@ -113,10 +113,6 @@ $isUrunler = in_array($currentUri, ['/urunler', '/kategoriler'], true)
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
               <?= t('nav_collections') ?>
             </a>
-            <a href="<?= langUrl('/renkler') ?>" class="mega-footer">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="13.5" cy="6.5" r="2.5"/><circle cx="17.5" cy="14" r="2.5"/><circle cx="8.5" cy="7.5" r="2.5"/><circle cx="6.5" cy="15" r="2.5"/><path d="M12 2a10 10 0 1 0 0 20c.83 0 1.5-.67 1.5-1.5 0-.39-.15-.74-.39-1a1.49 1.49 0 0 1 1.09-2.5H16a6 6 0 0 0 6-6c0-5-4.48-9-10-9z"/></svg>
-              <?= t('nav_colors') ?>
-            </a>
           </div>
         </div>
       </div>
