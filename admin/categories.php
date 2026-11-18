@@ -162,6 +162,11 @@ if ($action === 'form'):
         <input type="file" name="image" accept="image/*">
         <p>Görsel yüklemek için tıklayın</p>
       </div>
+      <?php if (!empty($editCat['image'])): ?>
+      <div class="image-preview">
+        <div class="image-preview-item"><img src="/<?= e($editCat['image']) ?>" alt=""></div>
+      </div>
+      <?php endif; ?>
     </div>
 
     <button type="submit" class="btn-admin btn-admin-success">
@@ -185,6 +190,7 @@ if ($action === 'form'):
   <table class="admin-table">
     <thead>
       <tr>
+        <th>Görsel</th>
         <th>Kategori Adı</th>
         <th>Alt Kategoriler</th>
         <th>Ürün Sayısı</th>
@@ -194,6 +200,11 @@ if ($action === 'form'):
     <tbody>
       <?php foreach ($categories as $cat): ?>
       <tr>
+        <td>
+          <?php if (!empty($cat['image'])): ?>
+          <img src="/<?= e($cat['image']) ?>" alt="" style="width:46px;height:46px;object-fit:cover;border-radius:6px;">
+          <?php endif; ?>
+        </td>
         <td><strong><?= e($cat['name']) ?></strong></td>
         <td>
           <?php if (!empty($cat['subcategories'])): ?>
