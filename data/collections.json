@@ -145,7 +145,16 @@
         "title": "Tek Klozetler",
         "title_en": "Single Toilet",
         "slug": "tek-klozetler",
-        "count": 0,
-        "product_ids": []
+        "count": 2,
+        "product_ids": [],
+        "image": "assets/images/products/alttan-cikisli-tek-klozet.png"
+    },
+    "slim-lavabolar": {
+        "title": "Slim Lavabolar",
+        "title_en": "Slim Washbas",
+        "slug": "slim-lavabolar",
+        "count": 1,
+        "product_ids": [],
+        "image": "assets/images/products/dolap-uyumlu-bataryali-lavabo-25x45-cm.png"
     }
 }
