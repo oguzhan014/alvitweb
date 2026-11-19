@@ -14,7 +14,7 @@
         "documents": [
             {
                 "name": "New Line 80x45 cm",
-                "file": "assets\/documents\/new-line-80-teknik.pdf"
+                "file": "assets/documents/new-line-80-teknik.pdf"
             }
         ],
         "featured": false,
@@ -24,7 +24,7 @@
             "PALET AD."
         ],
         "spec_rows": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/new-line-80-cm.324",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/new-line-80-cm.324",
         "name_en": "New Line 80 cm",
         "features_en": "Cabinet-Compatible Washbasin"
     },
@@ -43,14 +43,14 @@
         "documents": [
             {
                 "name": "Thin 55x45 cm",
-                "file": "assets\/documents\/thin-55-teknik.pdf"
+                "file": "assets/documents/thin-55-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -59,7 +59,7 @@
                 "K24"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/thin-lavabo-55-cm.234",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-55-cm.234",
         "collection": "thin-serisi",
         "name_en": "Thin Lavabo 55 cm",
         "features_en": "Shelf Washbasin"
@@ -79,14 +79,14 @@
         "documents": [
             {
                 "name": "Thin 60x45 cm",
-                "file": "assets\/documents\/thin-60-teknik.pdf"
+                "file": "assets/documents/thin-60-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -95,7 +95,7 @@
                 "K12"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/thin-lavabo-60-cm.235",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-60-cm.235",
         "collection": "thin-serisi",
         "name_en": "Thin Lavabo 60 cm",
         "features_en": "Shelf Washbasin"
@@ -115,14 +115,14 @@
         "documents": [
             {
                 "name": "Thin 65x45 cm",
-                "file": "assets\/documents\/thin-65-teknik.pdf"
+                "file": "assets/documents/thin-65-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -131,7 +131,7 @@
                 "K12"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/thin-lavabo-65-cm.236",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-65-cm.236",
         "collection": "thin-serisi",
         "name_en": "Thin Lavabo 65 cm",
         "features_en": "Shelf Washbasin"
@@ -151,14 +151,14 @@
         "documents": [
             {
                 "name": "Thin 80x45 cm",
-                "file": "assets\/documents\/thin-80-teknik.pdf"
+                "file": "assets/documents/thin-80-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -167,7 +167,7 @@
                 "K12"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/thin-lavabo-80-cm.237",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-80-cm.237",
         "collection": "thin-serisi",
         "name_en": "Thin Lavabo 80 cm",
         "features_en": "Shelf Washbasin"
@@ -187,14 +187,14 @@
         "documents": [
             {
                 "name": "Thin 100x45 cm",
-                "file": "assets\/documents\/thin-100-teknik.pdf"
+                "file": "assets/documents/thin-100-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -203,7 +203,7 @@
                 "K12"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/thin-lavabo-100-cm.238",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-100-cm.238",
         "collection": "thin-serisi",
         "name_en": "Thin Lavabo 100 cm",
         "features_en": "Shelf Washbasin"
@@ -223,14 +223,14 @@
         "documents": [
             {
                 "name": "70TP21055 - Tulip 55x45 cm",
-                "file": "assets\/documents\/tulip-55-teknik.pdf"
+                "file": "assets/documents/tulip-55-teknik.pdf"
             }
         ],
-        "featured": true,
+        "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -239,10 +239,12 @@
                 "K30"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/tulip-lavabo-55-cm.247",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-55-cm.247",
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 55 cm",
-        "features_en": "Shelf Washbasin"
+        "features_en": "Shelf Washbasin",
+        "highlights": [],
+        "attributes": []
     },
     {
         "id": 12,
@@ -259,14 +261,14 @@
         "documents": [
             {
                 "name": "70TP21065 - Tulip 65x45 cm",
-                "file": "assets\/documents\/tulip-65-teknik.pdf"
+                "file": "assets/documents/tulip-65-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -275,7 +277,7 @@
                 "K12"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/tulip-lavabo-65-cm.248",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-65-cm.248",
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 65 cm",
         "features_en": "Shelf Washbasin"
@@ -295,14 +297,14 @@
         "documents": [
             {
                 "name": "70TP21075 - Tulip 75x45 cm",
-                "file": "assets\/documents\/tulip-75-teknik.pdf"
+                "file": "assets/documents/tulip-75-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -311,7 +313,7 @@
                 "K12"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/tulip-lavabo-75-cm.249",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-75-cm.249",
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 75 cm",
         "features_en": "Shelf Washbasin"
@@ -331,14 +333,14 @@
         "documents": [
             {
                 "name": "70TP21080 - Tulip 80x45 cm",
-                "file": "assets\/documents\/tulip-80-teknik.pdf"
+                "file": "assets/documents/tulip-80-teknik.pdf"
             }
         ],
-        "featured": false,
+        "featured": true,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -347,10 +349,12 @@
                 "K12"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/tulip-lavabo-80-cm.250",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-80-cm.250",
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 80 cm",
-        "features_en": "Shelf Washbasin"
+        "features_en": "Shelf Washbasin",
+        "highlights": [],
+        "attributes": []
     },
     {
         "id": 15,
@@ -367,14 +371,14 @@
         "documents": [
             {
                 "name": "tulip_lavabo_86_olculer",
-                "file": "assets\/documents\/tulip_lavabo_86_olculer.pdf"
+                "file": "assets/documents/tulip_lavabo_86_olculer.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -383,7 +387,7 @@
                 "K12"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/tulip-lavabo-86-cm.251",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-86-cm.251",
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 86 cm",
         "features_en": "Shelf Washbasin"
@@ -403,14 +407,14 @@
         "documents": [
             {
                 "name": "70TP21100 - Tulip 100x45 cm",
-                "file": "assets\/documents\/tulip-100-teknik.pdf"
+                "file": "assets/documents/tulip-100-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -419,7 +423,7 @@
                 "K12"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/tulip-lavabo-100-cm.252",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-100-cm.252",
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 100 cm",
         "features_en": "Shelf Washbasin"
@@ -439,14 +443,14 @@
         "documents": [
             {
                 "name": "70TP21105 - Tulip 105x45 cm",
-                "file": "assets\/documents\/tulip-105-teknik.pdf"
+                "file": "assets/documents/tulip-105-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -455,7 +459,7 @@
                 "K12"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/konsol-lavabolar\/tulip-lavabo-105-cm.253",
+        "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-105-cm.253",
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 105 cm",
         "features_en": "Shelf Washbasin"
@@ -475,7 +479,7 @@
         "documents": [
             {
                 "name": "ART Teknik Çizim",
-                "file": "assets\/documents\/art-teknik-cizim.pdf"
+                "file": "assets/documents/art-teknik-cizim.pdf"
             }
         ],
         "featured": false,
@@ -485,7 +489,7 @@
             "ÜRÜN ÖLÇÜLERİ"
         ],
         "spec_rows": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/art-40.325",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/art-40.325",
         "name_en": "Art 40",
         "features_en": "Bathroom Furniture"
     },
@@ -504,7 +508,7 @@
         "documents": [
             {
                 "name": "eylül teknik çizim-Model",
-                "file": "assets\/documents\/eylul-teknik-cizim-model.pdf"
+                "file": "assets/documents/eylul-teknik-cizim-model.pdf"
             }
         ],
         "featured": false,
@@ -514,7 +518,7 @@
             "ÜRÜN ÖLÇÜLERİ"
         ],
         "spec_rows": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/eylul-80.326",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/eylul-80.326",
         "name_en": "Eylül 80",
         "features_en": "Bathroom Furniture"
     },
@@ -533,7 +537,7 @@
         "documents": [
             {
                 "name": "astona_100_olculer",
-                "file": "assets\/documents\/astona_100_olculer.pdf"
+                "file": "assets/documents/astona_100_olculer.pdf"
             }
         ],
         "featured": true,
@@ -564,7 +568,7 @@
                 "380 x 1150 x 335"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/astona-100.15",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/astona-100.15",
         "name_en": "Astona 100",
         "features_en": "Bathroom Furniture"
     },
@@ -583,7 +587,7 @@
         "documents": [
             {
                 "name": "astona_80_olculer",
-                "file": "assets\/documents\/astona_80_olculer.pdf"
+                "file": "assets/documents/astona_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -614,7 +618,7 @@
                 "380 x 1150 x 335"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/astona-80.16",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/astona-80.16",
         "name_en": "Astona 80",
         "features_en": "Bathroom Furniture"
     },
@@ -633,7 +637,7 @@
         "documents": [
             {
                 "name": "craft_105_olculer",
-                "file": "assets\/documents\/craft_105_olculer.pdf"
+                "file": "assets/documents/craft_105_olculer.pdf"
             }
         ],
         "featured": false,
@@ -664,7 +668,7 @@
                 "340 x 1180 x 320"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/craft-105.17",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/craft-105.17",
         "name_en": "Craft 105",
         "features_en": "Bathroom Furniture"
     },
@@ -683,7 +687,7 @@
         "documents": [
             {
                 "name": "mimoza_130_olculer",
-                "file": "assets\/documents\/mimoza_130_olculer.pdf"
+                "file": "assets/documents/mimoza_130_olculer.pdf"
             }
         ],
         "featured": false,
@@ -714,7 +718,7 @@
                 "365 x 1250 x 325"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/mimoza-130.18",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/mimoza-130.18",
         "name_en": "Mimoza 130",
         "features_en": "Bathroom Furniture"
     },
@@ -733,7 +737,7 @@
         "documents": [
             {
                 "name": "granada_105_olculer",
-                "file": "assets\/documents\/granada_105_olculer.pdf"
+                "file": "assets/documents/granada_105_olculer.pdf"
             }
         ],
         "featured": false,
@@ -764,7 +768,7 @@
                 "440 x 1120 x 350"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/granada-105.19",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/granada-105.19",
         "name_en": "Granada 105",
         "features_en": "Bathroom Furniture"
     },
@@ -783,7 +787,7 @@
         "documents": [
             {
                 "name": "carelia_80_olculer",
-                "file": "assets\/documents\/carelia_80_olculer.pdf"
+                "file": "assets/documents/carelia_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -814,7 +818,7 @@
                 "340 x 1345 x 300"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/carelia-80.20",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/carelia-80.20",
         "name_en": "Carelia 80",
         "features_en": "Bathroom Furniture"
     },
@@ -833,7 +837,7 @@
         "documents": [
             {
                 "name": "arnova_80_olculer",
-                "file": "assets\/documents\/arnova_80_olculer.pdf"
+                "file": "assets/documents/arnova_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -864,7 +868,7 @@
                 "390 x 1280 x 330"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/arnova-80.21",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/arnova-80.21",
         "name_en": "Arnova 80",
         "features_en": "Bathroom Furniture"
     },
@@ -883,7 +887,7 @@
         "documents": [
             {
                 "name": "venus_100_olculer",
-                "file": "assets\/documents\/venus_100_olculer.pdf"
+                "file": "assets/documents/venus_100_olculer.pdf"
             }
         ],
         "featured": false,
@@ -914,7 +918,7 @@
                 "350 x 1450 x 320"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/venus-100.22",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/venus-100.22",
         "name_en": "Venus 100",
         "features_en": "Bathroom Furniture"
     },
@@ -934,7 +938,7 @@
         "featured": false,
         "spec_columns": [],
         "spec_rows": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/barcelona-100.23",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/barcelona-100.23",
         "name_en": "Barcelona 100",
         "features_en": "Bathroom Furniture"
     },
@@ -942,7 +946,7 @@
         "id": 50,
         "name": "SCA Duroplast Klozet Kapağı",
         "slug": "sca-duroplast-klozet-kapagi",
-        "code": "SCA.01.02",
+        "code": "30SCA.01.02",
         "category_id": 3,
         "subcategory_id": null,
         "features": "Yavaş Kapanan",
@@ -990,12 +994,13 @@
                 "200"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/klozet-kapaklari-2\/star-klozet-kapagi.88",
+        "source_url": "https://www.alvit.com.tr/urunler/klozet-kapaklari-2/star-klozet-kapagi.88",
         "name_en": "SCA Duroplast Toilet Seat Cover",
         "features_en": "SCA Duroplast Slow-Close Metal Hinge Toilet Seat Cover",
         "highlights": [
             "SCA Duraplast Yavaş Kapanan Metal Menteşeli Klozet Kapağı"
-        ]
+        ],
+        "attributes": []
     },
     {
         "id": 51,
@@ -1055,7 +1060,7 @@
                 "200"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/klozet-kapaklari-2\/galaxy-klozet-kapagi.89",
+        "source_url": "https://www.alvit.com.tr/urunler/klozet-kapaklari-2/galaxy-klozet-kapagi.89",
         "name_en": "SCD Duroplast Toilet Seat Cover",
         "features_en": "SCD Duroplast Slow-Close Metal Hinge Toilet Seat Cover",
         "highlights": [
@@ -1090,7 +1095,7 @@
                 "200"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/klozet-kapaklari-2\/galaxy-slim-klozet-kapagi.90",
+        "source_url": "https://www.alvit.com.tr/urunler/klozet-kapaklari-2/galaxy-slim-klozet-kapagi.90",
         "name_en": "SCD Slim Toilet Seat Cover",
         "features_en": "SCD Slim Duroplast Slow-Close Metal Hinge Toilet Seat Cover",
         "highlights": [
@@ -1149,7 +1154,7 @@
                 "200"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/klozet-kapaklari-2\/space-klozet-kapagi.91",
+        "source_url": "https://www.alvit.com.tr/urunler/klozet-kapaklari-2/space-klozet-kapagi.91",
         "name_en": "SCS Toilet Seat Cover",
         "features_en": "SCS Slow-Close Metal Hinge Toilet Seat Cover",
         "highlights": [
@@ -1190,7 +1195,7 @@
                 "-"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/klozet-kapaklari-2\/space-cocuk-klozet-kapagi.92",
+        "source_url": "https://www.alvit.com.tr/urunler/klozet-kapaklari-2/space-cocuk-klozet-kapagi.92",
         "name_en": "Children's Toilet Seat Cover",
         "features_en": "SCC PP Slow-Close Metal Hinge White Toilet Seat Cover",
         "highlights": [
@@ -1212,27 +1217,27 @@
         "documents": [
             {
                 "name": "gomme_rezervuar_asma_olculeri",
-                "file": "assets\/documents\/gomme_rezervuar_asma_olculeri.pdf"
+                "file": "assets/documents/gomme_rezervuar_asma_olculeri.pdf"
             }
         ],
         "featured": true,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "0210 01",
-                "Asma Klozet Gömme Rezervuar (3\/6 Litre Buton Hariç) Metal Ayaklı",
+                "Asma Klozet Gömme Rezervuar (3/6 Litre Buton Hariç) Metal Ayaklı",
                 "-"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/gomme-rezervuar-ve-ic-takimlar-2\/gomme-rezervuar-asma.93",
+        "source_url": "https://www.alvit.com.tr/urunler/gomme-rezervuar-ve-ic-takimlar-2/gomme-rezervuar-asma.93",
         "name_en": "Gömme Rezervuar (Asma) Model 1",
         "features_en": "Wall-Hung Toilet Uyumlu",
         "highlights": [
-            "Asma Klozet İçin Metal Ayaklı 3\/6 Lt Set"
+            "Asma Klozet İçin Metal Ayaklı 3/6 Lt Set"
         ]
     },
     {
@@ -1250,23 +1255,23 @@
         "documents": [
             {
                 "name": "gomme_rezervuar_asma_olculeri_2",
-                "file": "assets\/documents\/gomme_rezervuar_asma_olculeri_2.pdf"
+                "file": "assets/documents/gomme_rezervuar_asma_olculeri_2.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "0220 01",
-                "Asma Klozet Gömme Rezervuarı (3\/6 Litre Buton Hariç) Alçıpan Önü Metal Ayaklı",
+                "Asma Klozet Gömme Rezervuarı (3/6 Litre Buton Hariç) Alçıpan Önü Metal Ayaklı",
                 "-"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/gomme-rezervuar-ve-ic-takimlar-2\/gomme-rezervuar-asma.94",
+        "source_url": "https://www.alvit.com.tr/urunler/gomme-rezervuar-ve-ic-takimlar-2/gomme-rezervuar-asma.94",
         "name_en": "Gömme Rezervuar (Asma) Model 2",
         "features_en": "Wall-Hung Toilet Uyumlu"
     },
@@ -1285,23 +1290,23 @@
         "documents": [
             {
                 "name": "gomme_rezervuar_asma_olculeri_3",
-                "file": "assets\/documents\/gomme_rezervuar_asma_olculeri_3.pdf"
+                "file": "assets/documents/gomme_rezervuar_asma_olculeri_3.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "0220 01",
-                "Hela Taşı Gömme Rezervuarı (3\/6 Litre Buton hariç)",
+                "Hela Taşı Gömme Rezervuarı (3/6 Litre Buton hariç)",
                 "-"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/gomme-rezervuar-ve-ic-takimlar-2\/gomme-rezervuar-asma.95",
+        "source_url": "https://www.alvit.com.tr/urunler/gomme-rezervuar-ve-ic-takimlar-2/gomme-rezervuar-asma.95",
         "name_en": "Gömme Rezervuar (Asma) Model 3",
         "features_en": "Wall-Hung Toilet Uyumlu"
     },
@@ -1322,7 +1327,7 @@
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -1346,7 +1351,7 @@
                 "-"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/gomme-rezervuar-ve-ic-takimlar-2\/butonlar.96",
+        "source_url": "https://www.alvit.com.tr/urunler/gomme-rezervuar-ve-ic-takimlar-2/butonlar.96",
         "name_en": "Butonlar",
         "features_en": "Cistern Buttons"
     },
@@ -1367,7 +1372,7 @@
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -1382,12 +1387,12 @@
             ],
             [
                 "0111 01",
-                "Sail İç Takım Çift Basmalı (3\/6 Litre)",
+                "Sail İç Takım Çift Basmalı (3/6 Litre)",
                 "20"
             ],
             [
                 "0121 01",
-                "Grand İç Takım Çift Basmalı (3\/6 Litre)",
+                "Grand İç Takım Çift Basmalı (3/6 Litre)",
                 "20"
             ],
             [
@@ -1396,49 +1401,9 @@
                 "10"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/gomme-rezervuar-ve-ic-takimlar-2\/ic-takimlar.97",
+        "source_url": "https://www.alvit.com.tr/urunler/gomme-rezervuar-ve-ic-takimlar-2/ic-takimlar.97",
         "name_en": "İç Takımlar",
         "features_en": "Cistern Internal Mechanism"
-    },
-    {
-        "id": 65,
-        "name": "Astra Asma Klozet",
-        "slug": "astra-asma-klozet",
-        "code": "INK 300",
-        "category_id": 1,
-        "subcategory_id": 103,
-        "features": "Asma Klozet",
-        "palet": "A18 \/ K15",
-        "images": [
-            "astra-asma-klozet.jpg"
-        ],
-        "documents": [
-            {
-                "name": "astra_asma_klozet_olculer",
-                "file": "assets\/documents\/astra_asma_klozet_olculer.pdf"
-            }
-        ],
-        "featured": false,
-        "spec_columns": [
-            "KOD",
-            "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
-        ],
-        "spec_rows": [
-            [
-                "INK 300",
-                "Asma Klozet",
-                "A18 \/ K15"
-            ],
-            [
-                "5117 01",
-                "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
-                "K10"
-            ]
-        ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/asma-klozetler-2\/astra-asma-klozet.208",
-        "name_en": "Astra Asma Klozet",
-        "features_en": "Wall-Hung Toilet"
     },
     {
         "id": 66,
@@ -1448,27 +1413,27 @@
         "category_id": 1,
         "subcategory_id": 103,
         "features": "Asma Klozet",
-        "palet": "A18 \/ K15",
+        "palet": "A18 / K15",
         "images": [
             "gideros-asma-klozet.png"
         ],
         "documents": [
             {
                 "name": "70GD02001 - Gideros Asma Klozet",
-                "file": "assets\/documents\/gideros-asma-klozet-teknik.pdf"
+                "file": "assets/documents/gideros-asma-klozet-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "GID 300",
                 "Asma Klozet",
-                "A18 \/ K15"
+                "A18 / K15"
             ],
             [
                 "5817 01",
@@ -1486,7 +1451,7 @@
                 "K10"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/asma-klozetler-2\/gideros-asma-klozet.188",
+        "source_url": "https://www.alvit.com.tr/urunler/asma-klozetler-2/gideros-asma-klozet.188",
         "collection": "gideros-serisi",
         "name_en": "Gideros Asma Klozet",
         "features_en": "Wall-Hung Toilet"
@@ -1506,14 +1471,14 @@
         "documents": [
             {
                 "name": "70GD06001 - Gideros D.S Takım Klozet",
-                "file": "assets\/documents\/gideros-ds-klozet-teknik.pdf"
+                "file": "assets/documents/gideros-ds-klozet-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -1547,7 +1512,7 @@
                 "K10"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/duvara-sifir-klozetler\/gideros-ds-klozet.187",
+        "source_url": "https://www.alvit.com.tr/urunler/duvara-sifir-klozetler/gideros-ds-klozet.187",
         "collection": "gideros-serisi",
         "name_en": "Gideros DS Klozet",
         "features_en": "Back-to-Wall (Rear Outlet) Toilet"
@@ -1567,14 +1532,14 @@
         "documents": [
             {
                 "name": "70SF06001 - Safran Takım Klozet",
-                "file": "assets\/documents\/safran-ds-klozet-teknik.pdf"
+                "file": "assets/documents/safran-ds-klozet-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -1613,7 +1578,7 @@
                 "K10"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/duvara-sifir-klozetler\/safran-ds-klozet.190",
+        "source_url": "https://www.alvit.com.tr/urunler/duvara-sifir-klozetler/safran-ds-klozet.190",
         "collection": "safran-serisi",
         "name_en": "Safran DS Klozet",
         "features_en": "Back-to-Wall (Rear Outlet) Toilet"
@@ -1633,19 +1598,19 @@
         "documents": [
             {
                 "name": "safran_ds_ankastre_klozet_olculer",
-                "file": "assets\/documents\/safran_ds_ankastre_klozet_olculer.pdf"
+                "file": "assets/documents/safran_ds_ankastre_klozet_olculer.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "SAF 500",
-                "Entegre Bataryalı Sıcak\/Soğuk Su Bağlantılı Klozet",
+                "Entegre Bataryalı Sıcak/Soğuk Su Bağlantılı Klozet",
                 "K9"
             ],
             [
@@ -1660,7 +1625,7 @@
             ],
             [
                 "-",
-                "Sıcak\/Soğuk Su Bağlantılı Klozet + Rezervuar",
+                "Sıcak/Soğuk Su Bağlantılı Klozet + Rezervuar",
                 "K10"
             ],
             [
@@ -1669,7 +1634,7 @@
                 "K10"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/duvara-sifir-klozetler\/safran-ds-ankastre-klozet.191",
+        "source_url": "https://www.alvit.com.tr/urunler/duvara-sifir-klozetler/safran-ds-ankastre-klozet.191",
         "collection": "safran-serisi",
         "name_en": "Safran DS Ankastre Klozet",
         "features_en": "Built-in Back-to-Wall Toilet with Integrated Faucet",
@@ -1682,37 +1647,37 @@
     {
         "id": 70,
         "name": "İnkum Alt Çıkışlı Klozet",
-        "slug": "inkum-alt-cikisli-klozet",
+        "slug": "i-nkum-alt-cikisli-klozet",
         "code": "70IN01001",
         "category_id": 1,
         "subcategory_id": 105,
         "features": "Alt Çıkışlı Klozet Takımı",
-        "palet": "A15 \/ K9",
+        "palet": "A15 / K9",
         "images": [
-            "inkum-alt-cikisli-klozet.png"
+            "i-nkum-alttan-cikisli-klozet-guncel-1795037561.png"
         ],
         "documents": [
             {
                 "name": "70IN01001 - İnkum Alttan Çıkışlı Klozet Teknik Çizimi",
-                "file": "assets\/documents\/inkum-alt-klozet-teknik.pdf"
+                "file": "assets/documents/inkum-alt-klozet-teknik.pdf"
             }
         ],
         "featured": true,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "INK 310",
                 "Alt Çıkışlı Klozet",
-                "A15 \/ K9"
+                "A15 / K9"
             ],
             [
                 "INK 400",
                 "Rezervuar",
-                "A30 \/ K9"
+                "A30 / K9"
             ],
             [
                 "-",
@@ -1735,7 +1700,7 @@
                 "K10"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/takim-klozetler\/inkum-alt-cikisli-klozet.194",
+        "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/inkum-alt-cikisli-klozet.194",
         "collection": "inkum-serisi",
         "name_en": "İnkum Alt Çıkışlı Klozet",
         "features_en": "Floor Outlet Toilet Set",
@@ -1743,7 +1708,8 @@
             "68 cm",
             "Montaj Seti Dahil Değildir",
             "Klozet Kapağı Dahil Değildir"
-        ]
+        ],
+        "attributes": []
     },
     {
         "id": 71,
@@ -1753,32 +1719,32 @@
         "category_id": 1,
         "subcategory_id": 105,
         "features": "Arka Çıkışlı Klozet Takımı",
-        "palet": "A15 \/ K9",
+        "palet": "A15 / K9",
         "images": [
             "inkum-arka-cikisli-klozet.jpg"
         ],
         "documents": [
             {
                 "name": "inkum_arka_cikisli_klozet_olculer",
-                "file": "assets\/documents\/inkum_arka_cikisli_klozet_olculer.pdf"
+                "file": "assets/documents/inkum_arka_cikisli_klozet_olculer.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "INK 320",
                 "Arka Çıkışlı Klozet",
-                "A15 \/ K9"
+                "A15 / K9"
             ],
             [
                 "INK 400",
                 "Rezervuar",
-                "A30 \/ K9"
+                "A30 / K9"
             ],
             [
                 "-",
@@ -1801,7 +1767,7 @@
                 "K10"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/takim-klozetler\/inkum-arka-cikisli-klozet.195",
+        "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/inkum-arka-cikisli-klozet.195",
         "collection": "inkum-serisi",
         "name_en": "İnkum Arka Çıkışlı Klozet",
         "features_en": "Wall Outlet Toilet Set",
@@ -1819,32 +1785,32 @@
         "category_id": 1,
         "subcategory_id": 105,
         "features": "Arka Çıkışlı Klozet Takımı",
-        "palet": "A18 \/ K9",
+        "palet": "A18 / K9",
         "images": [
             "efekta-arka-cikisli-klozet.png"
         ],
         "documents": [
             {
                 "name": "efekta_arka_cikisli_klozet_olculer",
-                "file": "assets\/documents\/efekta_arka_cikisli_klozet_olculer.pdf"
+                "file": "assets/documents/efekta_arka_cikisli_klozet_olculer.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "EFK 320",
                 "Arka Çıkışlı Klozet",
-                "A18 \/ K9"
+                "A18 / K9"
             ],
             [
                 "EFK 400",
                 "Rezervuar",
-                "A30 \/ K9"
+                "A30 / K9"
             ],
             [
                 "-",
@@ -1867,7 +1833,7 @@
                 "K10"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/takim-klozetler\/efekta-arka-cikisli-klozet.196",
+        "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/efekta-arka-cikisli-klozet.196",
         "collection": "efekta-serisi",
         "name_en": "Efekta Arka Çıkışlı Klozet",
         "features_en": "Wall Outlet Toilet Set",
@@ -1885,32 +1851,32 @@
         "category_id": 1,
         "subcategory_id": 105,
         "features": "Alt Çıkışlı Klozet Takımı",
-        "palet": "A18 \/ K9",
+        "palet": "A18 / K9",
         "images": [
             "efekta-alt-cikisli-klozet.png"
         ],
         "documents": [
             {
                 "name": "70EF01001 - Efekta Alttan Çıkışlı Klozet",
-                "file": "assets\/documents\/efekta-alt-klozet-teknik.pdf"
+                "file": "assets/documents/efekta-alt-klozet-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "EFK 310",
                 "Alt Çıkışlı Klozet",
-                "A18 \/ K9"
+                "A18 / K9"
             ],
             [
                 "EFK 400",
                 "Rezervuar",
-                "A30 \/ K9"
+                "A30 / K9"
             ],
             [
                 "-",
@@ -1933,7 +1899,7 @@
                 "K10"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/takim-klozetler\/efekta-alt-cikisli-klozet.197",
+        "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/efekta-alt-cikisli-klozet.197",
         "collection": "efekta-serisi",
         "name_en": "Efekta Alt Çıkışlı Klozet",
         "features_en": "Floor Outlet Toilet Set",
@@ -1951,32 +1917,32 @@
         "category_id": 1,
         "subcategory_id": 106,
         "features": "Engelli Kullanımına Uygun Yüksek Klozet",
-        "palet": "A10 \/ K6",
+        "palet": "A10 / K6",
         "images": [
             "engelli-klozet.jpg"
         ],
         "documents": [
             {
                 "name": "engelli_klozet_olculer",
-                "file": "assets\/documents\/engelli_klozet_olculer.pdf"
+                "file": "assets/documents/engelli_klozet_olculer.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "ENG 310",
                 "Alt Çıkışlı Klozet",
-                "A10 \/ K6"
+                "A10 / K6"
             ],
             [
                 "ENG 400",
                 "Engelli Rezervuarı",
-                "A30 \/ K6"
+                "A30 / K6"
             ],
             [
                 "-",
@@ -1999,7 +1965,7 @@
                 "K10"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/engelli-seri\/engelli-klozet.198",
+        "source_url": "https://www.alvit.com.tr/urunler/engelli-seri/engelli-klozet.198",
         "collection": "engelli-serisi",
         "name_en": "Engelli Klozet",
         "features_en": "Accessible Raised Toilet",
@@ -2023,14 +1989,14 @@
         "documents": [
             {
                 "name": "engelli_lavabo_50_60_olculer",
-                "file": "assets\/documents\/engelli_lavabo_50_60_olculer.pdf"
+                "file": "assets/documents/engelli_lavabo_50_60_olculer.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -2039,7 +2005,7 @@
                 "K14"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/engelli-seri\/engelli-lavabo-50x60.213",
+        "source_url": "https://www.alvit.com.tr/urunler/engelli-seri/engelli-lavabo-50x60.213",
         "collection": "engelli-serisi",
         "name_en": "Accessible Washbasin 60x50",
         "features_en": "Accessible Washbasin",
@@ -2059,32 +2025,32 @@
         "category_id": 1,
         "subcategory_id": 107,
         "features": "Çocuk Boy Klozet Takımı",
-        "palet": "A20 \/ K16",
+        "palet": "A20 / K16",
         "images": [
             "cocuk-klozet.png"
         ],
         "documents": [
             {
                 "name": "70CH01001 - Çocuk Klozet",
-                "file": "assets\/documents\/cocuk-klozet-teknik.pdf"
+                "file": "assets/documents/cocuk-klozet-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "MIN 310",
                 "Çocuk Alt Klozet",
-                "A20 \/ K16"
+                "A20 / K16"
             ],
             [
                 "MIN 400",
                 "Çocuk Rezervuar",
-                "A20 \/ K16"
+                "A20 / K16"
             ],
             [
                 "-",
@@ -2102,7 +2068,7 @@
                 "-"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/takim-klozetler\/cocuk-klozet.202",
+        "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/cocuk-klozet.202",
         "name_en": "Çocuk Klozet",
         "features_en": "Child Size Toilet Set",
         "highlights": [
@@ -2119,32 +2085,32 @@
         "category_id": 1,
         "subcategory_id": 107,
         "features": "Çocuk Boy Ayaklı Lavabo",
-        "palet": "A48 \/ K30",
+        "palet": "A48 / K30",
         "images": [
             "cocuk-lavabo-35x45.png"
         ],
         "documents": [
             {
                 "name": "cocuk_lavabo_35_45_olculer",
-                "file": "assets\/documents\/cocuk_lavabo_35_45_olculer.pdf"
+                "file": "assets/documents/cocuk_lavabo_35_45_olculer.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "TEK 245",
                 "Lavabo 35x45",
-                "A48 \/ K30"
+                "A48 / K30"
             ],
             [
                 "TEK 750",
                 "Yarım Ayak",
-                "A72 \/ K44"
+                "A72 / K44"
             ],
             [
                 "-",
@@ -2152,7 +2118,7 @@
                 "-"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/lavabo-ayak-serisi\/cocuk-lavabo-35x45.215",
+        "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/cocuk-lavabo-35x45.215",
         "name_en": "Çocuk Lavabo 35x45",
         "features_en": "Child Size Pedestal Washbasin",
         "highlights": [
@@ -2178,30 +2144,30 @@
         "documents": [
             {
                 "name": "70SF20060 - Safran 60x50 cm",
-                "file": "assets\/documents\/safran-50x60-teknik.pdf"
+                "file": "assets/documents/safran-50x60-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "SAF 060",
                 "Lavabo 50x60 Cm",
-                "A22 \/ K14"
+                "A22 / K14"
             ],
             [
                 "SAF 700",
                 "Kolon Ayak",
-                "A32 \/ K40"
+                "A32 / K40"
             ],
             [
                 "SAF 750",
                 "Yarım Ayak",
-                "A32 \/ K32"
+                "A32 / K32"
             ],
             [
                 "-",
@@ -2214,7 +2180,7 @@
                 "-"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/lavabo-ayak-serisi\/safran-lavabo-50x60.78",
+        "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/safran-lavabo-50x60.78",
         "collection": "safran-serisi",
         "name_en": "Safran Lavabo 50x60",
         "features_en": "Pedestal Washbasin",
@@ -2241,30 +2207,30 @@
         "documents": [
             {
                 "name": "70SF20055- Safran 55x45 cm",
-                "file": "assets\/documents\/safran-45x55-teknik.pdf"
+                "file": "assets/documents/safran-45x55-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "SAF 055",
                 "Lavabo 45x55 Cm",
-                "A32 \/ K24"
+                "A32 / K24"
             ],
             [
                 "SAF 700",
                 "Kolon Ayak",
-                "A32 \/ K40"
+                "A32 / K40"
             ],
             [
                 "SAF 750",
                 "Yarım Ayak",
-                "A32 \/ K32"
+                "A32 / K32"
             ],
             [
                 "-",
@@ -2277,7 +2243,7 @@
                 "-"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/lavabo-ayak-serisi\/safran-lavabo-45x55.79",
+        "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/safran-lavabo-45x55.79",
         "collection": "safran-serisi",
         "name_en": "Safran Lavabo 45x55",
         "features_en": "Pedestal Washbasin",
@@ -2304,25 +2270,25 @@
         "documents": [
             {
                 "name": "70EF20050 - Efekta 50X40 cm",
-                "file": "assets\/documents\/efekta-40x50-teknik.pdf"
+                "file": "assets/documents/efekta-40x50-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLER",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "EFK 050",
                 "Lavabo 40x50",
-                "A36 \/ K30"
+                "A36 / K30"
             ],
             [
                 "EFK 700",
                 "Kolon Ayak",
-                "A32 \/ K40"
+                "A32 / K40"
             ],
             [
                 "-",
@@ -2330,7 +2296,7 @@
                 "-"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/lavabo-ayak-serisi\/efekta-lavabo-40x50.211",
+        "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/efekta-lavabo-40x50.211",
         "collection": "efekta-serisi",
         "name_en": "Efekta Washbasin 50x40",
         "features_en": "Pedestal Washbasin",
@@ -2353,30 +2319,30 @@
         "documents": [
             {
                 "name": "70SF20055- Efekta 55x45 cm",
-                "file": "assets\/documents\/efekta-45x55-teknik.pdf"
+                "file": "assets/documents/efekta-45x55-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "EFK 055",
                 "Lavabo 45x55",
-                "A32 \/ K24"
+                "A32 / K24"
             ],
             [
                 "EFK 700",
                 "Kolon Ayak",
-                "A32 \/ K40"
+                "A32 / K40"
             ],
             [
                 "EFK 750",
                 "Yarım Ayak",
-                "A32 \/ K32"
+                "A32 / K32"
             ],
             [
                 "-",
@@ -2389,7 +2355,7 @@
                 "-"
             ]
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/lavabo-ayak-serisi\/efekta-lavabo-45x55.212",
+        "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/efekta-lavabo-45x55.212",
         "collection": "efekta-serisi",
         "name_en": "Efekta Washbasin 55x45",
         "features_en": "Pedestal Washbasin",
@@ -2419,7 +2385,7 @@
         "spec_rows": [],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/madrid-85.24",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/madrid-85.24",
         "name_en": "Madrid 85",
         "features_en": "Bathroom Furniture"
     },
@@ -2438,7 +2404,7 @@
         "documents": [
             {
                 "name": "despina_100_olculer",
-                "file": "assets\/documents\/despina_100_olculer.pdf"
+                "file": "assets/documents/despina_100_olculer.pdf"
             }
         ],
         "featured": false,
@@ -2489,7 +2455,7 @@
                 "value": "Beyaz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/despina-100.25",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/despina-100.25",
         "name_en": "Despina 100",
         "features_en": "Bathroom Furniture"
     },
@@ -2508,7 +2474,7 @@
         "documents": [
             {
                 "name": "zeblin_100_olculer",
-                "file": "assets\/documents\/zeblin_100_olculer.pdf"
+                "file": "assets/documents/zeblin_100_olculer.pdf"
             }
         ],
         "featured": false,
@@ -2560,7 +2526,7 @@
                 "value": "Siyah"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/zeblin-100.26",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/zeblin-100.26",
         "name_en": "Zeblin 100",
         "features_en": "Bathroom Furniture"
     },
@@ -2579,7 +2545,7 @@
         "documents": [
             {
                 "name": "zeblin_80_olculer",
-                "file": "assets\/documents\/zeblin_80_olculer.pdf"
+                "file": "assets/documents/zeblin_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -2631,7 +2597,7 @@
                 "value": "Siyah"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/zeblin-80.27",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/zeblin-80.27",
         "name_en": "Zeblin 80",
         "features_en": "Bathroom Furniture"
     },
@@ -2650,7 +2616,7 @@
         "documents": [
             {
                 "name": "diamond_100_olculer",
-                "file": "assets\/documents\/diamond_100_olculer.pdf"
+                "file": "assets/documents/diamond_100_olculer.pdf"
             }
         ],
         "featured": false,
@@ -2703,7 +2669,7 @@
                 "value": "Siyah, Beyaz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/diamond-100.28",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/diamond-100.28",
         "name_en": "Diamond 100",
         "features_en": "Bathroom Furniture"
     },
@@ -2722,7 +2688,7 @@
         "documents": [
             {
                 "name": "victor_80_olculer",
-                "file": "assets\/documents\/victor_80_olculer.pdf"
+                "file": "assets/documents/victor_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -2777,7 +2743,7 @@
                 "value": "Siyah"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/victor-80.29",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/victor-80.29",
         "name_en": "Victor 80",
         "features_en": "Bathroom Furniture"
     },
@@ -2796,7 +2762,7 @@
         "documents": [
             {
                 "name": "loft_80_olculer",
-                "file": "assets\/documents\/loft_80_olculer.pdf"
+                "file": "assets/documents/loft_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -2847,7 +2813,7 @@
                 "value": "Siyah"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/loft-80.30",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/loft-80.30",
         "name_en": "Loft 80",
         "features_en": "Bathroom Furniture"
     },
@@ -2866,7 +2832,7 @@
         "documents": [
             {
                 "name": "arwen_90_olculer",
-                "file": "assets\/documents\/arwen_90_olculer.pdf"
+                "file": "assets/documents/arwen_90_olculer.pdf"
             }
         ],
         "featured": false,
@@ -2919,7 +2885,7 @@
                 "value": "Masif Ahşap"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/arwen-90.31",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/arwen-90.31",
         "name_en": "Arwen 90",
         "features_en": "Bathroom Furniture"
     },
@@ -2938,7 +2904,7 @@
         "documents": [
             {
                 "name": "kios_60_olculer",
-                "file": "assets\/documents\/kios_60_olculer.pdf"
+                "file": "assets/documents/kios_60_olculer.pdf"
             }
         ],
         "featured": false,
@@ -2979,7 +2945,7 @@
                 "value": "Siyah"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/kios-60.33",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/kios-60.33",
         "name_en": "Kios 60",
         "features_en": "Bathroom Furniture"
     },
@@ -2998,7 +2964,7 @@
         "documents": [
             {
                 "name": "anka_65_80_olculer",
-                "file": "assets\/documents\/anka_65_80_olculer.pdf"
+                "file": "assets/documents/anka_65_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3063,7 +3029,7 @@
                 "value": "Beyaz, Antrasit"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/anka-65-80.34",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/anka-65-80.34",
         "name_en": "Anka 65-80",
         "features_en": "Bathroom Furniture"
     },
@@ -3082,7 +3048,7 @@
         "documents": [
             {
                 "name": "adel_80_olculer",
-                "file": "assets\/documents\/adel_80_olculer.pdf"
+                "file": "assets/documents/adel_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3132,7 +3098,7 @@
                 "value": "Beyaz, Antrasit"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/adel-80.35",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/adel-80.35",
         "name_en": "Adel 80",
         "features_en": "Bathroom Furniture"
     },
@@ -3151,7 +3117,7 @@
         "documents": [
             {
                 "name": "arya_100_olculer",
-                "file": "assets\/documents\/arya_100_olculer.pdf"
+                "file": "assets/documents/arya_100_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3202,7 +3168,7 @@
                 "value": "Beyaz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/arya-100.37",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/arya-100.37",
         "name_en": "Arya 100",
         "features_en": "Bathroom Furniture"
     },
@@ -3221,7 +3187,7 @@
         "documents": [
             {
                 "name": "arya_65_80_olculer",
-                "file": "assets\/documents\/arya_65_80_olculer.pdf"
+                "file": "assets/documents/arya_65_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3280,7 +3246,7 @@
                 "value": "Beyaz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/arya-65-80.38",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/arya-65-80.38",
         "name_en": "Arya 65-80",
         "features_en": "Bathroom Furniture"
     },
@@ -3299,7 +3265,7 @@
         "documents": [
             {
                 "name": "lizbon_80_olculer",
-                "file": "assets\/documents\/lizbon_80_olculer.pdf"
+                "file": "assets/documents/lizbon_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3347,7 +3313,7 @@
                 "value": "Royal Mermer"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/lizbon-80.39",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/lizbon-80.39",
         "name_en": "Lizbon 80",
         "features_en": "Bathroom Furniture"
     },
@@ -3366,7 +3332,7 @@
         "documents": [
             {
                 "name": "mostar_65_80_olculer",
-                "file": "assets\/documents\/mostar_65_80_olculer.pdf"
+                "file": "assets/documents/mostar_65_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3429,7 +3395,7 @@
                 "value": "Beyaz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/mostar-65-80.40",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/mostar-65-80.40",
         "name_en": "Mostar 65-80",
         "features_en": "Bathroom Furniture"
     },
@@ -3448,7 +3414,7 @@
         "documents": [
             {
                 "name": "roma_80_olculer",
-                "file": "assets\/documents\/roma_80_olculer.pdf"
+                "file": "assets/documents/roma_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3497,7 +3463,7 @@
                 "value": "Patik"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/roma-80.41",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/roma-80.41",
         "name_en": "Roma 80",
         "features_en": "Bathroom Furniture"
     },
@@ -3516,7 +3482,7 @@
         "documents": [
             {
                 "name": "felix_80_olculer",
-                "file": "assets\/documents\/felix_80_olculer.pdf"
+                "file": "assets/documents/felix_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3567,7 +3533,7 @@
                 "value": "Varak Yaldız"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/felix-80.42",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/felix-80.42",
         "name_en": "Felix 80",
         "features_en": "Bathroom Furniture"
     },
@@ -3586,7 +3552,7 @@
         "documents": [
             {
                 "name": "bella_80_olculer",
-                "file": "assets\/documents\/bella_80_olculer.pdf"
+                "file": "assets/documents/bella_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3632,7 +3598,7 @@
                 "value": "Beyaz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/bella-80.43",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/bella-80.43",
         "name_en": "Bella 80",
         "features_en": "Bathroom Furniture"
     },
@@ -3651,7 +3617,7 @@
         "documents": [
             {
                 "name": "helen_80_olculer",
-                "file": "assets\/documents\/helen_80_olculer.pdf"
+                "file": "assets/documents/helen_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3702,7 +3668,7 @@
                 "value": "Altın, Gümüş"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/helen-80.44",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/helen-80.44",
         "name_en": "Helen 80",
         "features_en": "Bathroom Furniture"
     },
@@ -3721,7 +3687,7 @@
         "documents": [
             {
                 "name": "kares_80_olculer",
-                "file": "assets\/documents\/kares_80_olculer.pdf"
+                "file": "assets/documents/kares_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3768,7 +3734,7 @@
                 "value": "Beyaz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/kares-80.45",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/kares-80.45",
         "name_en": "Kares 80",
         "features_en": "Bathroom Furniture"
     },
@@ -3787,7 +3753,7 @@
         "documents": [
             {
                 "name": "sofya_65_80_olculer",
-                "file": "assets\/documents\/sofya_65_80_olculer.pdf"
+                "file": "assets/documents/sofya_65_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3848,7 +3814,7 @@
                 "value": "Mat Beyaz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/sofya-65-80.46",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/sofya-65-80.46",
         "name_en": "Sofya 65-80",
         "features_en": "Bathroom Furniture"
     },
@@ -3867,7 +3833,7 @@
         "documents": [
             {
                 "name": "viyana_125_olculer",
-                "file": "assets\/documents\/viyana_125_olculer.pdf"
+                "file": "assets/documents/viyana_125_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3914,7 +3880,7 @@
                 "value": "Siyah, Beyaz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/viyana-125.47",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/viyana-125.47",
         "name_en": "Viyana 125",
         "features_en": "Bathroom Furniture"
     },
@@ -3933,7 +3899,7 @@
         "documents": [
             {
                 "name": "berlin_80_olculer",
-                "file": "assets\/documents\/berlin_80_olculer.pdf"
+                "file": "assets/documents/berlin_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -3980,7 +3946,7 @@
                 "value": "Mat Beyaz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/berlin-80.49",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/berlin-80.49",
         "name_en": "Berlin 80",
         "features_en": "Bathroom Furniture"
     },
@@ -3999,7 +3965,7 @@
         "documents": [
             {
                 "name": "Leon_80_olculer",
-                "file": "assets\/documents\/leon_80_olculer.pdf"
+                "file": "assets/documents/leon_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -4050,7 +4016,7 @@
                 "value": "Parlak Beyaz, Füme"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/leon-80.50",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/leon-80.50",
         "name_en": "Leon 80",
         "features_en": "Bathroom Furniture"
     },
@@ -4069,7 +4035,7 @@
         "documents": [
             {
                 "name": "class_65_80_olculer",
-                "file": "assets\/documents\/class_65_80_olculer.pdf"
+                "file": "assets/documents/class_65_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -4133,7 +4099,7 @@
                 "value": "Beyaz, Füme"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/class-65-80.51",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/class-65-80.51",
         "name_en": "Class 65-80",
         "features_en": "Bathroom Furniture"
     },
@@ -4152,7 +4118,7 @@
         "documents": [
             {
                 "name": "icon_65_80_pdf",
-                "file": "assets\/documents\/icon_65_80_pdf.pdf"
+                "file": "assets/documents/icon_65_80_pdf.pdf"
             }
         ],
         "featured": false,
@@ -4205,7 +4171,7 @@
                 "value": "Antrasit, Beyaz, Keçe, Venezia, Otantik Meşe"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/icon-65-80.53",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/icon-65-80.53",
         "name_en": "İcon 65-80",
         "features_en": "Bathroom Furniture"
     },
@@ -4224,7 +4190,7 @@
         "documents": [
             {
                 "name": "vela_80_olculer",
-                "file": "assets\/documents\/vela_80_olculer.pdf"
+                "file": "assets/documents/vela_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -4270,7 +4236,7 @@
                 "value": "Venezia, Beyaz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/vela-80.54",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vela-80.54",
         "name_en": "Vela 80",
         "features_en": "Bathroom Furniture"
     },
@@ -4289,7 +4255,7 @@
         "documents": [
             {
                 "name": "gala_100_olculer",
-                "file": "assets\/documents\/gala_100_olculer.pdf"
+                "file": "assets/documents/gala_100_olculer.pdf"
             }
         ],
         "featured": false,
@@ -4341,7 +4307,7 @@
                 "value": "Siyah"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/gala-100.55",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/gala-100.55",
         "name_en": "Gala 100",
         "features_en": "Bathroom Furniture"
     },
@@ -4360,11 +4326,11 @@
         "documents": [
             {
                 "name": "elina_100_olculer",
-                "file": "assets\/documents\/elina_100_olculer.pdf"
+                "file": "assets/documents/elina_100_olculer.pdf"
             },
             {
                 "name": "Elina_80_olculer",
-                "file": "assets\/documents\/elina_80_olculer.pdf"
+                "file": "assets/documents/elina_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -4427,7 +4393,7 @@
                 "value": "Venezia, Abanoz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/elina-100-80.57",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/elina-100-80.57",
         "name_en": "Elina 100-80",
         "features_en": "Bathroom Furniture"
     },
@@ -4446,11 +4412,11 @@
         "documents": [
             {
                 "name": "elina_65_olculer",
-                "file": "assets\/documents\/elina_65_olculer.pdf"
+                "file": "assets/documents/elina_65_olculer.pdf"
             },
             {
                 "name": "elina_55_olculer",
-                "file": "assets\/documents\/elina_55_olculer.pdf"
+                "file": "assets/documents/elina_55_olculer.pdf"
             }
         ],
         "featured": false,
@@ -4508,7 +4474,7 @@
                 "value": "Venezia, Abanoz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/elina-65-55.58",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/elina-65-55.58",
         "name_en": "Elina 65-55",
         "features_en": "Bathroom Furniture"
     },
@@ -4527,7 +4493,7 @@
         "documents": [
             {
                 "name": "ELF_80",
-                "file": "assets\/documents\/elf_80.pdf"
+                "file": "assets/documents/elf_80.pdf"
             }
         ],
         "featured": false,
@@ -4574,7 +4540,7 @@
                 "value": "Beyaz, Venezia, Abanoz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/elf-80.59",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/elf-80.59",
         "name_en": "Elf 80",
         "features_en": "Bathroom Furniture"
     },
@@ -4593,7 +4559,7 @@
         "documents": [
             {
                 "name": "Rodos_65_80",
-                "file": "assets\/documents\/rodos_65_80.pdf"
+                "file": "assets/documents/rodos_65_80.pdf"
             }
         ],
         "featured": false,
@@ -4651,7 +4617,7 @@
                 "value": "Beyaz, Atlantis, Venezia"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/rodos-65-80.60",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/rodos-65-80.60",
         "name_en": "Rodos 65-80",
         "features_en": "Bathroom Furniture"
     },
@@ -4670,7 +4636,7 @@
         "documents": [
             {
                 "name": "assos_100_olculer",
-                "file": "assets\/documents\/assos_100_olculer.pdf"
+                "file": "assets/documents/assos_100_olculer.pdf"
             }
         ],
         "featured": false,
@@ -4720,7 +4686,7 @@
                 "value": "Siyah, Beyaz, Kırmızı, Bordo, Samba"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/assos-100.61",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/assos-100.61",
         "name_en": "Assos 100",
         "features_en": "Bathroom Furniture"
     },
@@ -4739,7 +4705,7 @@
         "documents": [
             {
                 "name": "assos_80_olculer",
-                "file": "assets\/documents\/assos_80_olculer.pdf"
+                "file": "assets/documents/assos_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -4784,7 +4750,7 @@
                 "value": "Siyah, Beyaz, Kırmızı, Bordo, Samba"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/assos-80.62",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/assos-80.62",
         "name_en": "Assos 80",
         "features_en": "Bathroom Furniture"
     },
@@ -4803,7 +4769,7 @@
         "documents": [
             {
                 "name": "assos_65_olculer",
-                "file": "assets\/documents\/assos_65_olculer.pdf"
+                "file": "assets/documents/assos_65_olculer.pdf"
             }
         ],
         "featured": false,
@@ -4848,7 +4814,7 @@
                 "value": "Siyah, Beyaz, Kırmızı, Bordo, Samba"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/assos-65.63",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/assos-65.63",
         "name_en": "Assos 65",
         "features_en": "Bathroom Furniture"
     },
@@ -4867,7 +4833,7 @@
         "documents": [
             {
                 "name": "river_100_olculer",
-                "file": "assets\/documents\/river_100_olculer.pdf"
+                "file": "assets/documents/river_100_olculer.pdf"
             }
         ],
         "featured": false,
@@ -4918,7 +4884,7 @@
                 "value": "Beyaz, Venezia, Siyah, Bordo"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/river-100.65",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/river-100.65",
         "name_en": "River 100",
         "features_en": "Bathroom Furniture"
     },
@@ -4937,25 +4903,25 @@
         "documents": [
             {
                 "name": "etejer_15x60_cm_olculer",
-                "file": "assets\/documents\/etejer_15x60_cm_olculer.pdf"
+                "file": "assets/documents/etejer_15x60_cm_olculer.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "AKS 860",
                 "Etejer 15x60 Cm",
-                "K5 \/ 240"
+                "K5 / 240"
             ]
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/etejer-15x60-cm.98",
+        "source_url": "https://www.alvit.com.tr/urunler/tek-parca/etejer-15x60-cm.98",
         "name_en": "Etejer 15x60 cm",
         "features_en": "Shelf 15x60 Cm"
     },
@@ -4974,25 +4940,25 @@
         "documents": [
             {
                 "name": "etejer_10X49_cm_olculer",
-                "file": "assets\/documents\/etejer_10x49_cm_olculer.pdf"
+                "file": "assets/documents/etejer_10x49_cm_olculer.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "AKS 849",
                 "Etejer 10x49 Cm",
-                "K8 \/ 480"
+                "K8 / 480"
             ]
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/etejer-10x49-cm.99",
+        "source_url": "https://www.alvit.com.tr/urunler/tek-parca/etejer-10x49-cm.99",
         "name_en": "Etejer 10x49 cm",
         "features_en": "Shelf 10x49 Cm"
     },
@@ -5011,30 +4977,30 @@
         "documents": [
             {
                 "name": "sabunluk_kagitlik_olculer",
-                "file": "assets\/documents\/sabunluk_kagitlik_olculer.pdf"
+                "file": "assets/documents/sabunluk_kagitlik_olculer.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "AKS 810",
                 "Kollu Sabunluk",
-                "K6 \/ 420"
+                "K6 / 420"
             ],
             [
                 "AKS 830",
                 "Kağıtlık",
-                "K6 \/ 420"
+                "K6 / 420"
             ]
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/sabunluk-kagitlik.100",
+        "source_url": "https://www.alvit.com.tr/urunler/tek-parca/sabunluk-kagitlik.100",
         "name_en": "Sabunluk-Kağıtlık",
         "features_en": "Kollu Soap Dish"
     },
@@ -5053,14 +5019,14 @@
         "documents": [
             {
                 "name": "bide_sabunluk_olcu",
-                "file": "assets\/documents\/bide_sabunluk_olcu.pdf"
+                "file": "assets/documents/bide_sabunluk_olcu.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -5071,7 +5037,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/bide-sabunluk.101",
+        "source_url": "https://www.alvit.com.tr/urunler/tek-parca/bide-sabunluk.101",
         "name_en": "Bide Sabunluk",
         "features_en": "Bidet Soap Dish"
     },
@@ -5090,25 +5056,25 @@
         "documents": [
             {
                 "name": "70TT40001 - Tuvalet Taşı",
-                "file": "assets\/documents\/tuvalet-tasi-teknik.pdf"
+                "file": "assets/documents/tuvalet-tasi-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "TEK 500",
                 "Çevre Yıkamalı (50x60)",
-                "A32 \/ K20"
+                "A32 / K20"
             ]
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/tuvalet-tasi.102",
+        "source_url": "https://www.alvit.com.tr/urunler/tek-parca/tuvalet-tasi.102",
         "name_en": "Tuvalet Taşı",
         "features_en": "Rim Wash (50x60)"
     },
@@ -5127,25 +5093,25 @@
         "documents": [
             {
                 "name": "70TT42001 - Güneş Tuvalet Taşı",
-                "file": "assets\/documents\/gunes-tuvalet-tasi-teknik.pdf"
+                "file": "assets/documents/gunes-tuvalet-tasi-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "TEK 520",
                 "Çevre Yıkamalı (56x60)",
-                "A32 \/ K20"
+                "A32 / K20"
             ]
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/gunes-tuvalet-tasi.103",
+        "source_url": "https://www.alvit.com.tr/urunler/tek-parca/gunes-tuvalet-tasi.103",
         "name_en": "Güneş Tuvalet Taşı",
         "features_en": "Rim Wash (56x60)"
     },
@@ -5164,25 +5130,25 @@
         "documents": [
             {
                 "name": "inci_tuvalet_tasi_olculer",
-                "file": "assets\/documents\/inci-tuvalet-tasi-teknik.pdf"
+                "file": "assets/documents/inci-tuvalet-tasi-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "TEK 530",
                 "Slim Tuvalet Taşı (42x50)",
-                "A28 \/ K20"
+                "A28 / K20"
             ]
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/inci-tuvalet-tasi.105",
+        "source_url": "https://www.alvit.com.tr/urunler/tek-parca/inci-tuvalet-tasi.105",
         "name_en": "İnci Tuvalet Taşı",
         "features_en": "Slim Squat Toilet (42x50)"
     },
@@ -5201,25 +5167,25 @@
         "documents": [
             {
                 "name": "pisuvar_olculer",
-                "file": "assets\/documents\/pisuvar_olculer.pdf"
+                "file": "assets/documents/pisuvar_olculer.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "PSR 620",
                 "Pisuvar Üstten Su Girişli",
-                "A32 \/ K24"
+                "A32 / K24"
             ]
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/pisuvar.107",
+        "source_url": "https://www.alvit.com.tr/urunler/tek-parca/pisuvar.107",
         "name_en": "Pisuvar",
         "features_en": "Urinal Top Inlet"
     },
@@ -5253,7 +5219,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/fonksiyonel-urunler-2\/lavabo-pop-up-seti-seramik-kapakli.109",
+        "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/lavabo-pop-up-seti-seramik-kapakli.109",
         "name_en": "Lavabo Pop-Up Seti (Seramik Kapaklı)",
         "features_en": "Washbasin Pop-Up Set (With Ceramic Cap)"
     },
@@ -5283,39 +5249,9 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/fonksiyonel-urunler-2\/lavabo-pop-up-seti-pirinc-kapakli.110",
+        "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/lavabo-pop-up-seti-pirinc-kapakli.110",
         "name_en": "Washbasin Pop-Up Set (Plastic Cap)",
         "features_en": "Washbasin Pop-Up Set (Plastic Cap)"
-    },
-    {
-        "id": 131,
-        "name": "Lavabo Pop-Up Seti",
-        "slug": "lavabo-pop-up-seti",
-        "code": "AKS 1080",
-        "category_id": 4,
-        "subcategory_id": 401,
-        "features": "Lavabo Pop-Up Seti",
-        "palet": "",
-        "images": [
-            "lavabo-pop-up-seti.jpg"
-        ],
-        "documents": [],
-        "featured": false,
-        "spec_columns": [
-            "KOD",
-            "ÜRÜN ÖZELLİKLERİ"
-        ],
-        "spec_rows": [
-            [
-                "AKS 1080",
-                "Lavabo Pop-Up Seti"
-            ]
-        ],
-        "highlights": [],
-        "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/fonksiyonel-urunler-2\/lavabo-pop-up-seti.111",
-        "name_en": "Lavabo Pop-Up Seti",
-        "features_en": "Washbasin Pop-Up Set"
     },
     {
         "id": 132,
@@ -5343,7 +5279,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/fonksiyonel-urunler-2\/tasli-sifon.112",
+        "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/tasli-sifon.112",
         "name_en": "Taşlı Sifon",
         "features_en": "Stone Drain Trap"
     },
@@ -5373,7 +5309,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/fonksiyonel-urunler-2\/u-krom-sifon.113",
+        "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/u-krom-sifon.113",
         "name_en": "U Krom Sifon",
         "features_en": "U Chrome Sifon"
     },
@@ -5407,7 +5343,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/fonksiyonel-urunler-2\/fotoselli-pisuvar-muslugu.114",
+        "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/fotoselli-pisuvar-muslugu.114",
         "name_en": "Fotoselli Pisuvar Musluğu",
         "features_en": "Sensor Surface-Mount Urinal Faucet"
     },
@@ -5441,7 +5377,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/fonksiyonel-urunler-2\/zaman-ayarli-pirinc-bas.115",
+        "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/zaman-ayarli-pirinc-bas.115",
         "name_en": "Zaman Ayarlı Pirinç Bas",
         "features_en": "Timed Concealed Brass Push Valve"
     },
@@ -5475,7 +5411,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/fonksiyonel-urunler-2\/zaman-ayarli-pisuvar-muslugu.116",
+        "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/zaman-ayarli-pisuvar-muslugu.116",
         "name_en": "Zaman Ayarlı Pisuvar Musluğu",
         "features_en": "Timed Urinal Faucet"
     },
@@ -5486,7 +5422,7 @@
         "code": "AKS 01",
         "category_id": 4,
         "subcategory_id": 401,
-        "features": "Ankastre Klozet Musluğu Sıcak \/ Soğuk Ayarlı",
+        "features": "Ankastre Klozet Musluğu Sıcak / Soğuk Ayarlı",
         "palet": "",
         "images": [
             "ankastre-klozet-muslugu.jpg"
@@ -5500,7 +5436,7 @@
         "spec_rows": [
             [
                 "AKS 01",
-                "Ankastre Klozet Musluğu Sıcak \/ Soğuk Ayarlı"
+                "Ankastre Klozet Musluğu Sıcak / Soğuk Ayarlı"
             ],
             [
                 "AKS 02",
@@ -5509,9 +5445,9 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/fonksiyonel-urunler-2\/ankastre-klozet-muslugu.117",
+        "source_url": "https://www.alvit.com.tr/urunler/fonksiyonel-urunler-2/ankastre-klozet-muslugu.117",
         "name_en": "Ankastre Klozet Musluğu",
-        "features_en": "Built-in Toilet Faucet Hot \/ Cold Adjustable"
+        "features_en": "Built-in Toilet Faucet Hot / Cold Adjustable"
     },
     {
         "id": 138,
@@ -5539,7 +5475,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/engelli-urunleri-2\/yerden-tutunma-bari.118",
+        "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/yerden-tutunma-bari.118",
         "name_en": "Yerden Tutunma Barı",
         "features_en": "Yerden Grab Bar"
     },
@@ -5569,7 +5505,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/engelli-urunleri-2\/mafsalli-tutunma-bari.119",
+        "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/mafsalli-tutunma-bari.119",
         "name_en": "Mafsallı Tutunma Barı",
         "features_en": "Hinged Grab Bar"
     },
@@ -5599,7 +5535,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/engelli-urunleri-2\/tutunma-bari-40-cm.120",
+        "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/tutunma-bari-40-cm.120",
         "name_en": "Tutunma Barı 40 cm",
         "features_en": "Grab Bar 40 Cm"
     },
@@ -5629,7 +5565,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/engelli-urunleri-2\/tutunma-bari-60-cm.121",
+        "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/tutunma-bari-60-cm.121",
         "name_en": "Tutunma Barı 60 cm",
         "features_en": "Accessible Product"
     },
@@ -5659,7 +5595,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/engelli-urunleri-2\/yerden-duvara-doner-ayak.122",
+        "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/yerden-duvara-doner-ayak.122",
         "name_en": "Yerden Duvara Döner Ayak",
         "features_en": "Floor-to-Wall Swivel Pedestal"
     },
@@ -5689,7 +5625,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/engelli-urunleri-2\/tutunma-bari-30-cm.123",
+        "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/tutunma-bari-30-cm.123",
         "name_en": "Tutunma Barı 30 cm",
         "features_en": "Grab Bar 30 Cm"
     },
@@ -5719,7 +5655,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/engelli-urunleri-2\/tutunma-bari-50-cm.124",
+        "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/tutunma-bari-50-cm.124",
         "name_en": "Tutunma Barı 50 cm",
         "features_en": "Grab Bar 50 Cm"
     },
@@ -5749,7 +5685,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/engelli-urunleri-2\/engelli-dus-oturagi-plastik.125",
+        "source_url": "https://www.alvit.com.tr/urunler/engelli-urunleri-2/engelli-dus-oturagi-plastik.125",
         "name_en": "Engelli Duş Oturağı Plastik",
         "features_en": "Accessible Shower Seat Plastic"
     },
@@ -5779,7 +5715,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/dus-sistemleri-2\/still-dus-seti.126",
+        "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/still-dus-seti.126",
         "name_en": "Still Duş Seti",
         "features_en": "Still Shower Set"
     },
@@ -5807,7 +5743,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/dus-sistemleri-2\/verto-dus-seti.127",
+        "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/verto-dus-seti.127",
         "name_en": "Verto Duş Seti",
         "features_en": "Verto Shower Set"
     },
@@ -5837,7 +5773,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/dus-sistemleri-2\/mena-dus-seti.129",
+        "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/mena-dus-seti.129",
         "name_en": "Mena Duş Seti",
         "features_en": "Mena Shower Set"
     },
@@ -5867,7 +5803,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/dus-sistemleri-2\/solar-krom-tepe-dusu.130",
+        "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/solar-krom-tepe-dusu.130",
         "name_en": "Solar Krom Tepe Duşu",
         "features_en": "Solar Chrome Overhead Shower"
     },
@@ -5897,7 +5833,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/dus-sistemleri-2\/norma-tepe-dusu.131",
+        "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/norma-tepe-dusu.131",
         "name_en": "Norma Tepe Duşu",
         "features_en": "Norma Tepe Showeru"
     },
@@ -5927,7 +5863,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/dus-sistemleri-2\/krom-taharet-set.132",
+        "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/krom-taharet-set.132",
         "name_en": "Krom Taharet Set",
         "features_en": "Chrome Taharet Set"
     },
@@ -5957,7 +5893,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/dus-sistemleri-2\/round-brass-taharet-seti.133",
+        "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/round-brass-taharet-seti.133",
         "name_en": "Round Brass Taharet Seti",
         "features_en": "Round Brass Taharet Set"
     },
@@ -5987,7 +5923,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/dus-sistemleri-2\/delux-orgulu-spiral.134",
+        "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/delux-orgulu-spiral.134",
         "name_en": "Delux Örgülü Spiral",
         "features_en": "Delux Braided Hose"
     },
@@ -6017,7 +5953,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/dus-sistemleri-2\/standart-spiral.135",
+        "source_url": "https://www.alvit.com.tr/urunler/dus-sistemleri-2/standart-spiral.135",
         "name_en": "Standart Spiral",
         "features_en": "Standart Spiral"
     },
@@ -6047,7 +5983,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/dis-fircalik.136",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/dis-fircalik.136",
         "name_en": "Diş Fırçalık",
         "features_en": "F1 Toothbrush Holder"
     },
@@ -6077,7 +6013,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/f1-tuvalet-kagitlik.137",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/f1-tuvalet-kagitlik.137",
         "name_en": "F1 Tuvalet Kağıtlık",
         "features_en": "F1 Tuvalet Toilet Paper Holder"
     },
@@ -6107,7 +6043,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/f1-kapakli-tuvalet-kagitlik.138",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/f1-kapakli-tuvalet-kagitlik.138",
         "name_en": "F1 Kapaklı Tuvalet Kağıtlık",
         "features_en": "F1 Covered Toilet Paper Holder"
     },
@@ -6137,7 +6073,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/f1-uzun-havluluk.139",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/f1-uzun-havluluk.139",
         "name_en": "F1 Uzun Havluluk",
         "features_en": "F1 Uzun Towel Rail"
     },
@@ -6167,7 +6103,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/f1-ikili-askilik.140",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/f1-ikili-askilik.140",
         "name_en": "F1 İkili Askılık",
         "features_en": "F1 Double Hook"
     },
@@ -6197,7 +6133,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/f1-set-askilik.141",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/f1-set-askilik.141",
         "name_en": "F1 Set Askılık",
         "features_en": "F1 Set Hook"
     },
@@ -6227,9 +6163,9 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/sampuanliklar-2\/oval-krom-sampuanlik.142",
+        "source_url": "https://www.alvit.com.tr/urunler/sampuanliklar-2/oval-krom-sampuanlik.142",
         "name_en": "Oval Krom Şampuanlık",
-        "features_en": "Oval Chrome Soap Dish \/ Shelf"
+        "features_en": "Oval Chrome Soap Dish / Shelf"
     },
     {
         "id": 162,
@@ -6257,9 +6193,9 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/sampuanliklar-2\/oval-krom-sampuanlik.143",
+        "source_url": "https://www.alvit.com.tr/urunler/sampuanliklar-2/oval-krom-sampuanlik.143",
         "name_en": "Oval Krom Şampuanlık (A502)",
-        "features_en": "Oval Chrome Soap Dish \/ Shelf"
+        "features_en": "Oval Chrome Soap Dish / Shelf"
     },
     {
         "id": 163,
@@ -6287,9 +6223,9 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/sampuanliklar-2\/oval-krom-sampuanlik.144",
+        "source_url": "https://www.alvit.com.tr/urunler/sampuanliklar-2/oval-krom-sampuanlik.144",
         "name_en": "Oval Krom Şampuanlık (A503)",
-        "features_en": "Oval Chrome Soap Dish \/ Shelf"
+        "features_en": "Oval Chrome Soap Dish / Shelf"
     },
     {
         "id": 164,
@@ -6317,7 +6253,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/islak-hacim-urunleri-2\/roll-klozet-firca-takim.145",
+        "source_url": "https://www.alvit.com.tr/urunler/islak-hacim-urunleri-2/roll-klozet-firca-takim.145",
         "name_en": "Roll Klozet Fırça Takım",
         "features_en": "Roll Toilet Brush Set"
     },
@@ -6347,7 +6283,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/islak-hacim-urunleri-2\/ayakli-kagitlik-firca-seti.146",
+        "source_url": "https://www.alvit.com.tr/urunler/islak-hacim-urunleri-2/ayakli-kagitlik-firca-seti.146",
         "name_en": "Ayaklı Kağıtlık Fırça Seti",
         "features_en": "Standing Paper Holder & Brush Set"
     },
@@ -6377,7 +6313,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/islak-hacim-urunleri-2\/micro-pedalli-cop-kovasi-3l.147",
+        "source_url": "https://www.alvit.com.tr/urunler/islak-hacim-urunleri-2/micro-pedalli-cop-kovasi-3l.147",
         "name_en": "Micro Pedallı Çöp Kovası 3L",
         "features_en": "Micro Pedal Waste Bin 3L"
     },
@@ -6451,7 +6387,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/islak-hacim-urunleri-2\/pedalli-cop-kovasi.148",
+        "source_url": "https://www.alvit.com.tr/urunler/islak-hacim-urunleri-2/pedalli-cop-kovasi.148",
         "name_en": "Pedallı Çöp Kovası",
         "features_en": "Pedal Waste Bin 3L"
     },
@@ -6481,7 +6417,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/fenice-dis-fircalik.149",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/fenice-dis-fircalik.149",
         "name_en": "Fenice Diş Fırçalık",
         "features_en": "Fenice Toothbrush Holder"
     },
@@ -6511,7 +6447,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/fenice-tuvalet-kagitlik.150",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/fenice-tuvalet-kagitlik.150",
         "name_en": "Fenice Tuvalet Kağıtlık",
         "features_en": "Fenice Tuvalet Toilet Paper Holder"
     },
@@ -6541,7 +6477,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/fenice-kapakli-tuvalet-kagitlik.151",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/fenice-kapakli-tuvalet-kagitlik.151",
         "name_en": "Fenice Kapaklı Tuvalet Kağıtlık",
         "features_en": "Fenice Covered Toilet Paper Holder"
     },
@@ -6571,7 +6507,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/fenice-askilik-tekli-pimli.152",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/fenice-askilik-tekli-pimli.152",
         "name_en": "Fenice Askılık Tekli Pimli",
         "features_en": "Fenice Single Hook Pin Type"
     },
@@ -6601,7 +6537,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/fenice-ikili-askilik-pimli.153",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/fenice-ikili-askilik-pimli.153",
         "name_en": "Fenice İkili Askılık Pimli",
         "features_en": "Fenice Double Hook Pin Type"
     },
@@ -6631,7 +6567,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/fenice-askilik-tekli-lamali.154",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/fenice-askilik-tekli-lamali.154",
         "name_en": "Fenice Askılık Tekli Lamalı",
         "features_en": "Fenice Single Hook Blade Type"
     },
@@ -6661,7 +6597,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/arya-dis-fircalik.155",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-dis-fircalik.155",
         "name_en": "Arya Diş Fırçalık",
         "features_en": "Arya Toothbrush Holder"
     },
@@ -6691,7 +6627,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/arya-rozetli-sungerlik.156",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-rozetli-sungerlik.156",
         "name_en": "Arya Rozetli Süngerlik",
         "features_en": "Arya Rosette Sponge Holder"
     },
@@ -6721,7 +6657,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/arya-tuvalet-kagitlik.157",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-tuvalet-kagitlik.157",
         "name_en": "Arya Tuvalet Kağıtlık",
         "features_en": "Arya Tuvalet Toilet Paper Holder"
     },
@@ -6751,7 +6687,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/arya-kapakli-tuvalet-kagitlik.158",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-kapakli-tuvalet-kagitlik.158",
         "name_en": "Arya Kapaklı Tuvalet Kağıtlık",
         "features_en": "Arya Covered Toilet Paper Holder"
     },
@@ -6781,7 +6717,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/arya-klozet-fircasi.159",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-klozet-fircasi.159",
         "name_en": "Arya Klozet Fırçası",
         "features_en": "Arya Toilet Brush"
     },
@@ -6811,7 +6747,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/arya-yuvarlak-havluluk.160",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-yuvarlak-havluluk.160",
         "name_en": "Arya Yuvarlak Havluluk",
         "features_en": "Arya Yuvarlak Towel Rail"
     },
@@ -6841,7 +6777,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/arya-tekli-askilik.161",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-tekli-askilik.161",
         "name_en": "Arya Tekli Askılık",
         "features_en": "Arya Single Hook"
     },
@@ -6871,7 +6807,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/arya-ikili-askilik.162",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-ikili-askilik.162",
         "name_en": "Arya İkili Askılık",
         "features_en": "Arya Double Hook"
     },
@@ -6901,7 +6837,7 @@
         ],
         "highlights": [],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-aksesuarlari-2\/arya-set-askilik.163",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-aksesuarlari-2/arya-set-askilik.163",
         "name_en": "Arya Set Askılık",
         "features_en": "Arya Set Hook"
     },
@@ -6920,7 +6856,7 @@
         "documents": [
             {
                 "name": "river_80_olculer",
-                "file": "assets\/documents\/river_80_olculer.pdf"
+                "file": "assets/documents/river_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -6966,7 +6902,7 @@
                 "value": "Beyaz, Venezia, Siyah, Bordo"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/river-80.164",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/river-80.164",
         "name_en": "River 80",
         "features_en": "Bathroom Furniture"
     },
@@ -6985,7 +6921,7 @@
         "documents": [
             {
                 "name": "river_65_olculer",
-                "file": "assets\/documents\/river_65_olculer.pdf"
+                "file": "assets/documents/river_65_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7031,7 +6967,7 @@
                 "value": "Beyaz, Venezia, Siyah, Bordo"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/river-65.165",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/river-65.165",
         "name_en": "River 65",
         "features_en": "Bathroom Furniture"
     },
@@ -7050,7 +6986,7 @@
         "documents": [
             {
                 "name": "river_55_olculer",
-                "file": "assets\/documents\/river_55_olculer.pdf"
+                "file": "assets/documents/river_55_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7096,7 +7032,7 @@
                 "value": "Beyaz, Venezia, Siyah, Bordo"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/river-55.166",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/river-55.166",
         "name_en": "River 55",
         "features_en": "Bathroom Furniture"
     },
@@ -7115,7 +7051,7 @@
         "documents": [
             {
                 "name": "silver_80_olculer",
-                "file": "assets\/documents\/silver_80_olculer.pdf"
+                "file": "assets/documents/silver_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7167,7 +7103,7 @@
                 "value": "Beyaz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/silver-80.167",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/silver-80.167",
         "name_en": "Silver 80",
         "features_en": "Bathroom Furniture"
     },
@@ -7186,7 +7122,7 @@
         "documents": [
             {
                 "name": "vega_65_80_olculer",
-                "file": "assets\/documents\/vega_65_80_olculer.pdf"
+                "file": "assets/documents/vega_65_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7244,7 +7180,7 @@
                 "value": "Abanoz, Samba"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/vega-65-80.168",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vega-65-80.168",
         "name_en": "Vega 65-80",
         "features_en": "Bathroom Furniture"
     },
@@ -7263,7 +7199,7 @@
         "documents": [
             {
                 "name": "vital_100_olculer",
-                "file": "assets\/documents\/vital_100_olculer.pdf"
+                "file": "assets/documents/vital_100_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7315,7 +7251,7 @@
                 "value": "Beyaz, Kırmızı, Siyah"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/vital-100.173",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vital-100.173",
         "name_en": "Vital 100",
         "features_en": "Bathroom Furniture"
     },
@@ -7334,7 +7270,7 @@
         "documents": [
             {
                 "name": "vital_80_olculer",
-                "file": "assets\/documents\/vital_80_olculer.pdf"
+                "file": "assets/documents/vital_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7381,7 +7317,7 @@
                 "value": "Beyaz, Kırmızı, Siyah"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/vital-80.174",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vital-80.174",
         "name_en": "Vital 80",
         "features_en": "Bathroom Furniture"
     },
@@ -7400,7 +7336,7 @@
         "documents": [
             {
                 "name": "vital_65_olculer",
-                "file": "assets\/documents\/vital_65_olculer.pdf"
+                "file": "assets/documents/vital_65_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7447,7 +7383,7 @@
                 "value": "Beyaz, Kırmızı, Siyah"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/vital-65.175",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vital-65.175",
         "name_en": "Vital 65",
         "features_en": "Bathroom Furniture"
     },
@@ -7466,7 +7402,7 @@
         "documents": [
             {
                 "name": "vital_55_olculer",
-                "file": "assets\/documents\/vital_55_olculer.pdf"
+                "file": "assets/documents/vital_55_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7513,7 +7449,7 @@
                 "value": "Beyaz, Kırmızı, Siyah"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/vital-55.176",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vital-55.176",
         "name_en": "Vital 55",
         "features_en": "Bathroom Furniture"
     },
@@ -7532,7 +7468,7 @@
         "documents": [
             {
                 "name": "vital_asma_65_80_olculer",
-                "file": "assets\/documents\/vital_asma_65_80_olculer.pdf"
+                "file": "assets/documents/vital_asma_65_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7591,7 +7527,7 @@
                 "value": "Beyaz, Kırmızı, Siyah"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/vital-asma-65-80.177",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/vital-asma-65-80.177",
         "name_en": "Vital Asma 65-80",
         "features_en": "Bathroom Furniture"
     },
@@ -7610,7 +7546,7 @@
         "documents": [
             {
                 "name": "yenice_65_85_olculer",
-                "file": "assets\/documents\/yenice_65_85_olculer.pdf"
+                "file": "assets/documents/yenice_65_85_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7669,7 +7605,7 @@
                 "value": "Beyaz, Venezia, Atlantis"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/yenice-65-85.179",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/yenice-65-85.179",
         "name_en": "Yenice 65-85",
         "features_en": "Bathroom Furniture"
     },
@@ -7688,7 +7624,7 @@
         "documents": [
             {
                 "name": "turna_65_80_olculer",
-                "file": "assets\/documents\/turna_65_80_olculer.pdf"
+                "file": "assets/documents/turna_65_80_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7775,7 +7711,7 @@
                 "value": "Beyaz, Keçe, Venezia, Keçe, Samba"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/turna-65-80.180",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/turna-65-80.180",
         "name_en": "Turna 65-80",
         "features_en": "Bathroom Furniture"
     },
@@ -7794,7 +7730,7 @@
         "documents": [
             {
                 "name": "turna_55_olculer",
-                "file": "assets\/documents\/turna_55_olculer.pdf"
+                "file": "assets/documents/turna_55_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7854,7 +7790,7 @@
                 "value": "Beyaz, Siyah, Venezia, Keçe, Samba"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/turna-55.181",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/turna-55.181",
         "name_en": "Turna 55",
         "features_en": "Bathroom Furniture"
     },
@@ -7873,7 +7809,7 @@
         "documents": [
             {
                 "name": "plus_45_olculer",
-                "file": "assets\/documents\/plus_45_olculer.pdf"
+                "file": "assets/documents/plus_45_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7918,7 +7854,7 @@
                 "value": "Beyaz, Kırmızı, Siyah, Venezia, Bordo, Abanoz, Samba"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/plus-45.182",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/plus-45.182",
         "name_en": "Plus 45",
         "features_en": "Bathroom Furniture"
     },
@@ -7937,7 +7873,7 @@
         "documents": [
             {
                 "name": "slim_45_olculer",
-                "file": "assets\/documents\/slim_45_olculer.pdf"
+                "file": "assets/documents/slim_45_olculer.pdf"
             }
         ],
         "featured": false,
@@ -7982,7 +7918,7 @@
                 "value": "Beyaz, Kırmızı, Siyah, Venezia, Bordo, Abanoz, Samba"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/slim-45.183",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/slim-45.183",
         "name_en": "Slim 45",
         "features_en": "Bathroom Furniture"
     },
@@ -7994,27 +7930,27 @@
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Alttan Çıkışlı Tek Klozet",
-        "palet": "K15\/A21",
+        "palet": "K15/A21",
         "images": [
             "alttan-cikisli-tek-klozet.png"
         ],
         "documents": [
             {
                 "name": "70TK07001 - Alttan Çıkışlı Tek Klozet",
-                "file": "assets\/documents\/alttan-tek-klozet-teknik.pdf"
+                "file": "assets/documents/alttan-tek-klozet-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "TEK 360",
                 "Alttan Çıkışlı Tek Klozet",
-                "A21 \/ K15"
+                "A21 / K15"
             ],
             [
                 "5117 01",
@@ -8028,7 +7964,7 @@
             "Klozet Kapağı Dahil Değildir"
         ],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/alttan-cikisli-tek-klozet.204",
+        "source_url": "https://www.alvit.com.tr/urunler/tek-parca/alttan-cikisli-tek-klozet.204",
         "name_en": "Alttan Çıkışlı Tek Klozet",
         "features_en": "Bottom Outlet Single Toilet"
     },
@@ -8040,27 +7976,27 @@
         "category_id": 1,
         "subcategory_id": 110,
         "features": "Arka Çıkışlı Tek Klozet",
-        "palet": "K15\/A21",
+        "palet": "K15/A21",
         "images": [
             "arka-cikisli-tek-klozet.png"
         ],
         "documents": [
             {
                 "name": "70TK07002 - Arkadan Çıkışlı Tek Klozet",
-                "file": "assets\/documents\/arka-tek-klozet-teknik.pdf"
+                "file": "assets/documents/arka-tek-klozet-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
                 "TEK 350",
                 "Arka Çıkışlı Tek Klozet",
-                "A15 \/ K15"
+                "A15 / K15"
             ],
             [
                 "5117 01",
@@ -8074,7 +8010,7 @@
             "Klozet Kapağı Dahil Değildir"
         ],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/arka-cikisli-tek-klozet.205",
+        "source_url": "https://www.alvit.com.tr/urunler/tek-parca/arka-cikisli-tek-klozet.205",
         "name_en": "Arka Çıkışlı Tek Klozet",
         "features_en": "Rear Outlet Single Toilet"
     },
@@ -8093,14 +8029,14 @@
         "documents": [
             {
                 "name": "Slim Lavabo 45x25 cm",
-                "file": "assets\/documents\/slim-25x45-teknik.pdf"
+                "file": "assets/documents/slim-25x45-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -8117,7 +8053,7 @@
             "Montaj Seti Dahil Değildir"
         ],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tezgah-ustu-lavabolar\/dolap-uyumlu-bataryali-lavabo-25x45-cm.272",
+        "source_url": "https://www.alvit.com.tr/urunler/tezgah-ustu-lavabolar/dolap-uyumlu-bataryali-lavabo-25x45-cm.272",
         "name_en": "Dolap Uyumlu Bataryalı Lavabo 25x45 cm",
         "features_en": "Cabinet-Compatible Washbasin with Faucet"
     },
@@ -8136,14 +8072,14 @@
         "documents": [
             {
                 "name": "Slim Lavabo 45x28 cm - YENİ TEKNİK ÇİZİM",
-                "file": "assets\/documents\/slim-28x45-teknik.pdf"
+                "file": "assets/documents/slim-28x45-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -8160,120 +8096,9 @@
             "Montaj seti dahil değildir"
         ],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tezgah-ustu-lavabolar\/dolap-uyumlu-ozel-tasarim-lavabo-28x45-cm.273",
+        "source_url": "https://www.alvit.com.tr/urunler/tezgah-ustu-lavabolar/dolap-uyumlu-ozel-tasarim-lavabo-28x45-cm.273",
         "name_en": "Slim Cabinet-Compatible Washbasin 28x45 cm",
         "features_en": "Countertop Washbasin"
-    },
-    {
-        "id": 205,
-        "name": "Tezgah Altı Lavabo 39x51 cm",
-        "slug": "tezgah-alti-lavabo-39x51-cm",
-        "code": "HIL 051",
-        "category_id": 1,
-        "subcategory_id": 110,
-        "features": "Tezgah Altı Lavabo",
-        "palet": "",
-        "images": [
-            "tezgah-alti-lavabo-39x51-cm.jpg"
-        ],
-        "documents": [
-            {
-                "name": "tezgah_alti_lavabo_39_51_olculer",
-                "file": "assets\/documents\/tezgah_alti_lavabo_39_51_olculer.pdf"
-            }
-        ],
-        "featured": false,
-        "spec_columns": [
-            "KOD",
-            "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
-        ],
-        "spec_rows": [
-            [
-                "HIL 051",
-                "Tezgah Altı Lavabo",
-                "K50"
-            ]
-        ],
-        "highlights": [],
-        "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/tezgah-alti-lavabo-39x51-cm.274",
-        "name_en": "Tezgah Altı Lavabo 39x51 cm",
-        "features_en": "Undermount Washbasin"
-    },
-    {
-        "id": 206,
-        "name": "Tezgah Altı Lavabo 37x47 cm",
-        "slug": "tezgah-alti-lavabo-37x47-cm",
-        "code": "HIL 047",
-        "category_id": 1,
-        "subcategory_id": 110,
-        "features": "Tezgah Altı Lavabo",
-        "palet": "",
-        "images": [
-            "tezgah-alti-lavabo-37x47-cm.jpg"
-        ],
-        "documents": [
-            {
-                "name": "tezgah_alti_lavabo_37_47_olculer",
-                "file": "assets\/documents\/tezgah_alti_lavabo_37_47_olculer.pdf"
-            }
-        ],
-        "featured": false,
-        "spec_columns": [
-            "KOD",
-            "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
-        ],
-        "spec_rows": [
-            [
-                "HIL 047",
-                "Tezgah Altı Lavabo",
-                "K50"
-            ]
-        ],
-        "highlights": [],
-        "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/tezgah-alti-lavabo-37x47-cm.275",
-        "name_en": "Tezgah Altı Lavabo 37x47 cm",
-        "features_en": "Undermount Washbasin"
-    },
-    {
-        "id": 207,
-        "name": "Tezgah Altı Lavabo 32x43",
-        "slug": "tezgah-alti-lavabo-32x43",
-        "code": "HIL 043",
-        "category_id": 1,
-        "subcategory_id": 110,
-        "features": "Tezgah Altı Lavabo",
-        "palet": "",
-        "images": [
-            "tezgah-alti-lavabo-32x43.jpg"
-        ],
-        "documents": [
-            {
-                "name": "tezgah_alti_lavabo_32_43_olculer",
-                "file": "assets\/documents\/tezgah_alti_lavabo_32_43_olculer.pdf"
-            }
-        ],
-        "featured": false,
-        "spec_columns": [
-            "KOD",
-            "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
-        ],
-        "spec_rows": [
-            [
-                "HIL 043",
-                "Tezgah Altı Lavabo",
-                "K50"
-            ]
-        ],
-        "highlights": [],
-        "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/tezgah-alti-lavabo-32x43.276",
-        "name_en": "Tezgah Altı Lavabo 32x43",
-        "features_en": "Undermount Washbasin"
     },
     {
         "id": 208,
@@ -8290,14 +8115,14 @@
         "documents": [
             {
                 "name": "Oval Proje Lavabo 28x36 cm",
-                "file": "assets\/documents\/proje-oval-lavabo-teknik.pdf"
+                "file": "assets/documents/proje-oval-lavabo-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -8315,53 +8140,9 @@
             "28X36 cm"
         ],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/proje-oval-lavabo-28x36-cm.277",
+        "source_url": "https://www.alvit.com.tr/urunler/tek-parca/proje-oval-lavabo-28x36-cm.277",
         "name_en": "Proje Oval Lavabo 28x36 cm",
         "features_en": "Proje Oval Washbasin Delikli"
-    },
-    {
-        "id": 209,
-        "name": "Proje Lavabo 40x50",
-        "slug": "proje-lavabo-40x50",
-        "code": "EFK 050",
-        "category_id": 1,
-        "subcategory_id": 110,
-        "features": "40x50 Cm Proje Lavabo",
-        "palet": "",
-        "images": [
-            "proje-lavabo-40x50.jpg"
-        ],
-        "documents": [
-            {
-                "name": "proje_lavabo_40_50_olculer",
-                "file": "assets\/documents\/proje_lavabo_40_50_olculer.pdf"
-            }
-        ],
-        "featured": false,
-        "spec_columns": [
-            "KOD",
-            "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
-        ],
-        "spec_rows": [
-            [
-                "EFK 050",
-                "40x50 Cm Proje Lavabo",
-                "32"
-            ],
-            [
-                "TEK 750",
-                "35X45 Uyumlu Yarım Ayak",
-                "72"
-            ]
-        ],
-        "highlights": [
-            "EFK 700 Kodlu Kolon Ayak İle Uyumludur"
-        ],
-        "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/proje-lavabo-40x50.280",
-        "name_en": "Proje Lavabo 40x50",
-        "features_en": "40x50 Cm Proje Washbasin"
     },
     {
         "id": 210,
@@ -8378,14 +8159,14 @@
         "documents": [
             {
                 "name": "proje_lavabo_35_45_olculer",
-                "file": "assets\/documents\/proje_lavabo_35_45_olculer.pdf"
+                "file": "assets/documents/proje_lavabo_35_45_olculer.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD."
+            "PALET/AD."
         ],
         "spec_rows": [
             [
@@ -8403,7 +8184,7 @@
             "EFK 700 Kodlu Kolon Ayak İle Uyumludur."
         ],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/tek-parca\/proje-lavabo-35x45-cm.281",
+        "source_url": "https://www.alvit.com.tr/urunler/tek-parca/proje-lavabo-35x45-cm.281",
         "name_en": "Proje Lavabo 35x45 cm",
         "features_en": "35x45 Cm Proje Washbasin"
     },
@@ -8422,20 +8203,20 @@
         "documents": [
             {
                 "name": "inkum_ayakli_bide_olculer",
-                "file": "assets\/documents\/inkum-bide-teknik.pdf"
+                "file": "assets/documents/inkum-bide-teknik.pdf"
             }
         ],
         "featured": false,
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
-            "PALET\/AD"
+            "PALET/AD"
         ],
         "spec_rows": [
             [
                 "INK 390",
                 "Ayaklı Bide",
-                "A18 \/ K15"
+                "A18 / K15"
             ]
         ],
         "highlights": [
@@ -8443,7 +8224,7 @@
             "Montaj seti dahil değildir"
         ],
         "attributes": [],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/bideler\/inkum-ayakli-bide.284",
+        "source_url": "https://www.alvit.com.tr/urunler/bideler/inkum-ayakli-bide.284",
         "collection": "inkum-serisi",
         "name_en": "İnkum Ayaklı Bide",
         "features_en": "Pedestal Bidet"
@@ -8463,7 +8244,7 @@
         "documents": [
             {
                 "name": "Most_100_olculer",
-                "file": "assets\/documents\/most_100_olculer.pdf"
+                "file": "assets/documents/most_100_olculer.pdf"
             }
         ],
         "featured": false,
@@ -8508,7 +8289,7 @@
                 "value": "Beyaz, Venezia, Abanoz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/most-100.296",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/most-100.296",
         "name_en": "Most 100",
         "features_en": "Bathroom Furniture"
     },
@@ -8527,15 +8308,15 @@
         "documents": [
             {
                 "name": "Most_80__olculer",
-                "file": "assets\/documents\/most_80__olculer.pdf"
+                "file": "assets/documents/most_80__olculer.pdf"
             },
             {
                 "name": "Most_65_olculer",
-                "file": "assets\/documents\/most_65_olculer.pdf"
+                "file": "assets/documents/most_65_olculer.pdf"
             },
             {
                 "name": "Most_boy_dolap_olculer",
-                "file": "assets\/documents\/most_boy_dolap_olculer.pdf"
+                "file": "assets/documents/most_boy_dolap_olculer.pdf"
             }
         ],
         "featured": false,
@@ -8600,7 +8381,7 @@
                 "value": "Beyaz, Venezia, Abanoz"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/most-80-65-boy-dolap.297",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/most-80-65-boy-dolap.297",
         "name_en": "Most 80-65-Boy Dolap",
         "features_en": "Bathroom Furniture"
     },
@@ -8619,7 +8400,7 @@
         "documents": [
             {
                 "name": "Assos_55_olculer",
-                "file": "assets\/documents\/assos_55_olculer.pdf"
+                "file": "assets/documents/assos_55_olculer.pdf"
             }
         ],
         "featured": false,
@@ -8664,7 +8445,7 @@
                 "value": "Siyah, Kırmızı, Beyaz, Bordo, Samba"
             }
         ],
-        "source_url": "https:\/\/www.alvit.com.tr\/urunler\/banyo-mobilyalari-2\/assos-55.298",
+        "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/assos-55.298",
         "name_en": "Assos 55",
         "features_en": "Bathroom Furniture"
     },
@@ -8683,7 +8464,7 @@
         "documents": [
             {
                 "name": "New Line 55x45 cm",
-                "file": "assets\/documents\/new-line-55-teknik.pdf"
+                "file": "assets/documents/new-line-55-teknik.pdf"
             }
         ],
         "featured": false,
@@ -8715,7 +8496,7 @@
         "documents": [
             {
                 "name": "New Line 65x45 cm",
-                "file": "assets\/documents\/new-line-65-teknik.pdf"
+                "file": "assets/documents/new-line-65-teknik.pdf"
             }
         ],
         "featured": false,
@@ -8746,7 +8527,7 @@
         "documents": [
             {
                 "name": "New Line 70x45 cm",
-                "file": "assets\/documents\/new-line-70-teknik.pdf"
+                "file": "assets/documents/new-line-70-teknik.pdf"
             }
         ],
         "featured": false,
@@ -8778,7 +8559,7 @@
         "documents": [
             {
                 "name": "New Line 90x45 cm",
-                "file": "assets\/documents\/new-line-90-teknik.pdf"
+                "file": "assets/documents/new-line-90-teknik.pdf"
             }
         ],
         "featured": false,
@@ -8810,7 +8591,7 @@
         "documents": [
             {
                 "name": "New Line 100x45 cm",
-                "file": "assets\/documents\/new-line-100-teknik.pdf"
+                "file": "assets/documents/new-line-100-teknik.pdf"
             }
         ],
         "featured": false,
@@ -8842,7 +8623,7 @@
         "documents": [
             {
                 "name": "Efekta 60x50 cm Teknik Çizim",
-                "file": "assets\/documents\/efekta-50x60-teknik.pdf"
+                "file": "assets/documents/efekta-50x60-teknik.pdf"
             }
         ],
         "featured": false,
@@ -8868,14 +8649,14 @@
         "category_id": 1,
         "subcategory_id": 103,
         "features": "Asma Klozet",
-        "palet": "K12\/A18",
+        "palet": "K12/A18",
         "images": [
             "inkum-asma-klozet.png"
         ],
         "documents": [
             {
                 "name": "İnkum Asma Klozet Teknik Çizim",
-                "file": "assets\/documents\/inkum-asma-klozet-teknik.pdf"
+                "file": "assets/documents/inkum-asma-klozet-teknik.pdf"
             }
         ],
         "featured": false,
@@ -8906,7 +8687,7 @@
         "documents": [
             {
                 "name": "New Çevre Yıkamalı Helataşı Teknik Çizim",
-                "file": "assets\/documents\/new-cevre-yikamali-helatasi-teknik.pdf"
+                "file": "assets/documents/new-cevre-yikamali-helatasi-teknik.pdf"
             }
         ],
         "featured": false,
@@ -9028,7 +8809,7 @@
         "documents": [
             {
                 "name": "Oval Proje Lavabo 28x36 cm Batarya Deliksiz Teknik Çizim",
-                "file": "assets\/documents\/proje-oval-lavabo-deliksiz-teknik.pdf"
+                "file": "assets/documents/proje-oval-lavabo-deliksiz-teknik.pdf"
             }
         ],
         "featured": false,
@@ -9041,80 +8822,5 @@
         "spec_rows": [],
         "name_en": "Project Oval Washbasin 28x36 cm (No Faucet Hole)",
         "features_en": "Project Oval Washbasin No Hole"
-    },
-    {
-        "id": 228,
-        "name": "Gideros Lavabo 45x35 cm",
-        "slug": "gideros-lavabo-45x35-cm",
-        "code": "",
-        "category_id": 1,
-        "subcategory_id": null,
-        "features": "Ayaklı Lavabo",
-        "palet": "",
-        "images": [],
-        "documents": [
-            {
-                "name": "Gideros Lavabo 45x35 cm Teknik Çizim",
-                "file": "assets\/documents\/gideros-lavabo-45x35-teknik.pdf"
-            }
-        ],
-        "featured": false,
-        "highlights": [],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
-        "name_en": "Gideros Washbasin 45x35 cm",
-        "features_en": "Pedestal Washbasin",
-        "collection": "gideros-serisi"
-    },
-    {
-        "id": 229,
-        "name": "Gideros Lavabo 55x45 cm",
-        "slug": "gideros-lavabo-55x45-cm",
-        "code": "",
-        "category_id": 1,
-        "subcategory_id": null,
-        "features": "Ayaklı Lavabo",
-        "palet": "",
-        "images": [],
-        "documents": [
-            {
-                "name": "Gideros Lavabo 55x45 cm Teknik Çizim",
-                "file": "assets\/documents\/gideros-lavabo-55x45-teknik.pdf"
-            }
-        ],
-        "featured": false,
-        "highlights": [],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
-        "name_en": "Gideros Washbasin 55x45 cm",
-        "features_en": "Pedestal Washbasin",
-        "collection": "gideros-serisi"
-    },
-    {
-        "id": 230,
-        "name": "Gideros Lavabo 60x50 cm",
-        "slug": "gideros-lavabo-60x50-cm",
-        "code": "",
-        "category_id": 1,
-        "subcategory_id": null,
-        "features": "Ayaklı Lavabo",
-        "palet": "",
-        "images": [],
-        "documents": [
-            {
-                "name": "Gideros Lavabo 60x50 cm Teknik Çizim",
-                "file": "assets\/documents\/gideros-lavabo-60x50-teknik.pdf"
-            }
-        ],
-        "featured": false,
-        "highlights": [],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
-        "name_en": "Gideros Washbasin 60x50 cm",
-        "features_en": "Pedestal Washbasin",
-        "collection": "gideros-serisi"
     }
 ]
