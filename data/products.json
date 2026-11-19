@@ -52,7 +52,7 @@
         "id": 6,
         "name": "Thin Lavabo 55 cm",
         "slug": "thin-lavabo-55-cm",
-        "code": "70TH21065",
+        "code": "70TH21055",
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
@@ -74,15 +74,28 @@
         ],
         "spec_rows": [
             [
-                "TIN 055",
+                "70TH21055",
                 "Dolap Uyumlu Lavabo",
-                "K24"
+                "K20"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-55-cm.234",
         "collection": "thin-serisi",
         "name_en": "Thin Lavabo 55 cm",
-        "features_en": "Shelf Washbasin"
+        "features_en": "Shelf Washbasin",
+        "highlights": [
+            "55X45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile Kullanıma Uygun",
+            "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 7,
@@ -159,15 +172,28 @@
         ],
         "spec_rows": [
             [
-                "TIN 065",
+                "70TH21065",
                 "Dolap Uyumlu Lavabo",
-                "K12"
+                "K20"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-65-cm.236",
         "collection": "thin-serisi",
         "name_en": "Thin Lavabo 65 cm",
-        "features_en": "Shelf Washbasin"
+        "features_en": "Shelf Washbasin",
+        "highlights": [
+            "65x45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile Kullanıma Uygun",
+            "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 9,
@@ -177,7 +203,7 @@
         "category_id": 1,
         "subcategory_id": 101,
         "features": "Etajerli Lavabo",
-        "palet": "",
+        "palet": "K12",
         "images": [
             "thin-80.png"
         ],
@@ -195,7 +221,7 @@
         ],
         "spec_rows": [
             [
-                "TIN 080",
+                "70TH21080",
                 "Dolap Uyumlu Lavabo",
                 "K12"
             ]
@@ -203,7 +229,20 @@
         "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-80-cm.237",
         "collection": "thin-serisi",
         "name_en": "Thin Lavabo 80 cm",
-        "features_en": "Shelf Washbasin"
+        "features_en": "Shelf Washbasin",
+        "highlights": [
+            "80X45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile Kullanıma Uygun",
+            "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 10,
@@ -231,7 +270,7 @@
         ],
         "spec_rows": [
             [
-                "TIN 100",
+                "70TH21100",
                 "Dolap Uyumlu Lavabo",
                 "K12"
             ]
@@ -239,7 +278,20 @@
         "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/thin-lavabo-100-cm.238",
         "collection": "thin-serisi",
         "name_en": "Thin Lavabo 100 cm",
-        "features_en": "Shelf Washbasin"
+        "features_en": "Shelf Washbasin",
+        "highlights": [
+            "100X45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile Kullanıma Uygun",
+            "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 11,
@@ -305,15 +357,28 @@
         ],
         "spec_rows": [
             [
-                "TLP 065",
+                "70TP21065",
                 "Dolap Uyumlu Lavabo",
-                "K12"
+                "K20"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-65-cm.248",
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 65 cm",
-        "features_en": "Shelf Washbasin"
+        "features_en": "Shelf Washbasin",
+        "highlights": [
+            "65x46 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile Kullanıma Uygun",
+            "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 13,
@@ -341,7 +406,7 @@
         ],
         "spec_rows": [
             [
-                "TLP 075",
+                "70TP21075",
                 "Dolap Uyumlu Lavabo",
                 "K12"
             ]
@@ -349,7 +414,20 @@
         "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-75-cm.249",
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 75 cm",
-        "features_en": "Shelf Washbasin"
+        "features_en": "Shelf Washbasin",
+        "highlights": [
+            "75X46 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile Kullanıma Uygun",
+            "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 14,
@@ -377,7 +455,7 @@
         ],
         "spec_rows": [
             [
-                "TLP 080",
+                "70TP21080",
                 "Dolap Uyumlu Lavabo",
                 "K12"
             ]
@@ -386,8 +464,19 @@
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 80 cm",
         "features_en": "Shelf Washbasin",
-        "highlights": [],
-        "attributes": []
+        "highlights": [
+            "80x46 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile Kullanıma Uygun",
+            "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 15,
@@ -415,7 +504,7 @@
         ],
         "spec_rows": [
             [
-                "TLP 086",
+                "70TP21086",
                 "Dolap Uyumlu Lavabo",
                 "K12"
             ]
@@ -423,7 +512,20 @@
         "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-86-cm.251",
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 86 cm",
-        "features_en": "Shelf Washbasin"
+        "features_en": "Shelf Washbasin",
+        "highlights": [
+            "86X46 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile Kullanıma Uygun",
+            "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 16,
@@ -451,7 +553,7 @@
         ],
         "spec_rows": [
             [
-                "TLP 100",
+                "70TP21100",
                 "Dolap Uyumlu Lavabo",
                 "K12"
             ]
@@ -459,7 +561,20 @@
         "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-100-cm.252",
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 100 cm",
-        "features_en": "Shelf Washbasin"
+        "features_en": "Shelf Washbasin",
+        "highlights": [
+            "100X46 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile Kullanıma Uygun",
+            "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 17,
@@ -648,7 +763,7 @@
         "id": 23,
         "name": "Astona 80",
         "slug": "astona-80",
-        "code": "",
+        "code": "Astona 80",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
@@ -1091,7 +1206,12 @@
         "highlights": [
             "SCA Duraplast Yavaş Kapanan Metal Menteşeli Klozet Kapağı"
         ],
-        "attributes": []
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 51,
@@ -1522,30 +1642,29 @@
         ],
         "spec_rows": [
             [
-                "GID 300",
+                "70GD02001",
                 "Asma Klozet",
-                "A18 / K15"
+                "A18/K12"
             ],
             [
-                "5817 01",
-                "Space Klozet Kapağı (Duroplast Metal Menteşeli)",
-                "200"
-            ],
-            [
-                "5817 02",
-                "Space Klozet Kapağı (Softclose, Duroplast Metal Menteşeli)",
-                "K10"
-            ],
-            [
-                "5817 03",
-                "Space Klozet Kapağı (PP Softclose)",
+                "30SCS.01.02",
+                "SCS Duroplast Klozet Kapağı",
                 "K10"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/asma-klozetler-2/gideros-asma-klozet.188",
         "collection": "gideros-serisi",
         "name_en": "Gideros Asma Klozet",
-        "features_en": "Wall-Hung Toilet"
+        "features_en": "Wall-Hung Toilet",
+        "highlights": [
+            "51 cm"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 67,
@@ -1573,12 +1692,12 @@
         ],
         "spec_rows": [
             [
-                "GID 330",
+                "70GD06001",
                 "DS Arka Çıkışlı Klozet",
-                "-"
+                "K9"
             ],
             [
-                "GID 400",
+                "70DE60001",
                 "Rezervuar",
                 "-"
             ],
@@ -1588,25 +1707,43 @@
                 "K9"
             ],
             [
-                "5817 01",
+                "30SCS.01.02",
                 "Space Klozet Kapağı (Duroplast Metal Menteşeli)",
-                "200"
-            ],
-            [
-                "5817 02",
-                "Space Klozet Kapağı (Softclose, Duroplast Metal Menteşeli)",
                 "K10"
             ],
             [
-                "5817 03",
-                "Space Klozet Kapağı (PP Softclose)",
-                "K10"
+                "42MCS02",
+                "İç Takım",
+                "K20"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/duvara-sifir-klozetler/gideros-ds-klozet.187",
         "collection": "gideros-serisi",
         "name_en": "Gideros DS Klozet",
-        "features_en": "Back-to-Wall (Rear Outlet) Toilet"
+        "features_en": "Back-to-Wall (Rear Outlet) Toilet",
+        "highlights": [
+            "63 cm",
+            "Montaj Seti Dahil Değildir",
+            "Klozet Kapağı Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Mat Siyah"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Antrasit"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Parlak Siyah"
+            }
+        ]
     },
     {
         "id": 68,
