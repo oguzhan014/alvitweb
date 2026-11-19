@@ -23,10 +23,30 @@
             "ÜRÜN ÖZELLİKLERİ",
             "PALET AD."
         ],
-        "spec_rows": [],
+        "spec_rows": [
+            [
+                "70NL21055",
+                "Dolap Uyumlu Lavabıo",
+                "K12"
+            ]
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/new-line-80-cm.324",
         "name_en": "New Line 80 cm",
-        "features_en": "Cabinet-Compatible Washbasin"
+        "features_en": "Cabinet-Compatible Washbasin",
+        "highlights": [
+            "55X45 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile Kullanıma Uygun",
+            "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "collection": "new-line"
     },
     {
         "id": 6,
@@ -4920,7 +4940,12 @@
             ]
         ],
         "highlights": [],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/tek-parca/etejer-15x60-cm.98",
         "name_en": "Etejer 15x60 cm",
         "features_en": "Shelf 15x60 Cm"
@@ -8475,11 +8500,27 @@
             "Mobilya kullanımına uygun",
             "Montaj seti dahil değildir"
         ],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
+        "spec_rows": [
+            [
+                "70NL21055",
+                "Dolap Uyumlu Lavabo",
+                "K12"
+            ]
+        ],
         "name_en": "New Line 55 cm",
-        "features_en": "Cabinet-Compatible Washbasin"
+        "features_en": "Cabinet-Compatible Washbasin",
+        "collection": "new-line"
     },
     {
         "id": 216,
@@ -8506,11 +8547,27 @@
             "Su Taşma Delikli",
             "Mobilya kullanımına uygun"
         ],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
+        "spec_rows": [
+            [
+                "70NL21065",
+                "Dolap Uyumlu Lavabo",
+                "K12"
+            ]
+        ],
         "name_en": "New Line 65 cm",
-        "features_en": "Cabinet-Compatible Washbasin"
+        "features_en": "Cabinet-Compatible Washbasin",
+        "collection": "new-line"
     },
     {
         "id": 217,
@@ -8538,11 +8595,27 @@
             "Mobilya ile kullanıma uygun",
             "Montaj seti dahil değildir"
         ],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
+        "spec_rows": [
+            [
+                "70NL21070",
+                "Dolap Uyumlu Lavabo",
+                "K12"
+            ]
+        ],
         "name_en": "New Line 70 cm",
-        "features_en": "Cabinet-Compatible Washbasin"
+        "features_en": "Cabinet-Compatible Washbasin",
+        "collection": "new-line"
     },
     {
         "id": 218,
@@ -8570,9 +8643,24 @@
             "Mobilya ile kullanıma uygun",
             "Montaj seti dahil değildir"
         ],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
+        "spec_rows": [
+            [
+                "70NL21090",
+                "Dolap Uyumlu Lavabo",
+                "K12"
+            ]
+        ],
         "name_en": "New Line 90 cm",
         "features_en": "Cabinet-Compatible Washbasin"
     },
@@ -8602,11 +8690,27 @@
             "Mobilya ile kullanımına uygun",
             "Montaj seti dahil değil"
         ],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
+        "spec_rows": [
+            [
+                "70NL21100",
+                "Dolap Uyumlu Lavabo",
+                "K12"
+            ]
+        ],
         "name_en": "New Line 100 cm",
-        "features_en": "Cabinet-Compatible Washbasin"
+        "features_en": "Cabinet-Compatible Washbasin",
+        "collection": "new-line"
     },
     {
         "id": 220,
@@ -8738,11 +8842,27 @@
             "Batarya Deliksiz",
             "Su Taşma Delikli"
         ],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
+        "spec_rows": [
+            [
+                "70SP25049",
+                "Tezgah Altı Lavabo",
+                "K50"
+            ]
+        ],
         "name_en": "Undermount Washbasin 49x39 cm",
-        "features_en": "Undermount Washbasin"
+        "features_en": "Undermount Washbasin",
+        "collection": "tezgah-alti-lavabolar"
     },
     {
         "id": 225,
@@ -8763,11 +8883,27 @@
             "Batarya Deliksiz",
             "Su Taşma Delikli"
         ],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
+        "spec_rows": [
+            [
+                "70SP25054",
+                "Tezgah Altı Lavabo",
+                "K50"
+            ]
+        ],
         "name_en": "Undermount Washbasin 54x44 cm",
-        "features_en": "Undermount Washbasin"
+        "features_en": "Undermount Washbasin",
+        "collection": "tezgah-alti-lavabolar"
     },
     {
         "id": 226,
@@ -8788,11 +8924,27 @@
             "Batarya Deliksiz",
             "Su Taşma Delikli"
         ],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
+        "spec_rows": [
+            [
+                "70SP25057",
+                "Tezgah Altı Lavabo",
+                "K50"
+            ]
+        ],
         "name_en": "Undermount Washbasin 57x44 cm",
-        "features_en": "Undermount Washbasin"
+        "features_en": "Undermount Washbasin",
+        "collection": "tezgah-alti-lavabolar"
     },
     {
         "id": 227,

@@ -100,5 +100,21 @@
         "count": 7,
         "image": "assets/images/products/tulip-55.jpg",
         "title_en": "Tulip Series"
+    },
+    "new-line": {
+        "title": "New Line Serisi",
+        "title_en": "New Line Series",
+        "slug": "new-line",
+        "count": 1,
+        "product_ids": [],
+        "image": "assets/images/products/new-line-80.png"
+    },
+    "tezgah-alti-lavabolar": {
+        "title": "Tezgah Altı Lavabolar",
+        "title_en": "Undermount washbasin",
+        "slug": "tezgah-alti-lavabolar",
+        "image": "assets/images/products/tezgah-alti-lavabo-57x44-1795070844.jpg",
+        "count": 0,
+        "product_ids": []
     }
 }
