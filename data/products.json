@@ -5098,10 +5098,16 @@
             ]
         ],
         "highlights": [],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/tek-parca/tuvalet-tasi.102",
         "name_en": "Tuvalet Taşı",
-        "features_en": "Rim Wash (50x60)"
+        "features_en": "Rim Wash (50x60)",
+        "collection": "tuvalet-taslari"
     },
     {
         "id": 126,
@@ -5135,15 +5141,21 @@
             ]
         ],
         "highlights": [],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/tek-parca/gunes-tuvalet-tasi.103",
         "name_en": "Güneş Tuvalet Taşı",
-        "features_en": "Rim Wash (56x60)"
+        "features_en": "Rim Wash (56x60)",
+        "collection": "tuvalet-taslari"
     },
     {
         "id": 127,
         "name": "İnci Tuvalet Taşı",
-        "slug": "inci-tuvalet-tasi",
+        "slug": "i-nci-tuvalet-tasi",
         "code": "70TT43001",
         "category_id": 1,
         "subcategory_id": 110,
@@ -5175,7 +5187,8 @@
         "attributes": [],
         "source_url": "https://www.alvit.com.tr/urunler/tek-parca/inci-tuvalet-tasi.105",
         "name_en": "İnci Tuvalet Taşı",
-        "features_en": "Slim Squat Toilet (42x50)"
+        "features_en": "Slim Squat Toilet (42x50)",
+        "collection": "tuvalet-taslari"
     },
     {
         "id": 128,
@@ -5209,10 +5222,16 @@
             ]
         ],
         "highlights": [],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/tek-parca/pisuvar.107",
-        "name_en": "Pisuvar",
-        "features_en": "Urinal Top Inlet"
+        "name_en": "Urinal",
+        "features_en": "Urinal Top Inlet",
+        "collection": "pisuvar-ve-ara-bolme"
     },
     {
         "id": 129,
@@ -8123,7 +8142,8 @@
         "attributes": [],
         "source_url": "https://www.alvit.com.tr/urunler/tezgah-ustu-lavabolar/dolap-uyumlu-ozel-tasarim-lavabo-28x45-cm.273",
         "name_en": "Slim Cabinet-Compatible Washbasin 28x45 cm",
-        "features_en": "Countertop Washbasin"
+        "features_en": "Countertop Washbasin",
+        "collection": "proje-lavabolar"
     },
     {
         "id": 208,
@@ -8167,7 +8187,8 @@
         "attributes": [],
         "source_url": "https://www.alvit.com.tr/urunler/tek-parca/proje-oval-lavabo-28x36-cm.277",
         "name_en": "Proje Oval Lavabo 28x36 cm",
-        "features_en": "Proje Oval Washbasin Delikli"
+        "features_en": "Proje Oval Washbasin Delikli",
+        "collection": "proje-lavabolar"
     },
     {
         "id": 210,
@@ -8817,11 +8838,21 @@
         "documents": [],
         "featured": false,
         "highlights": [],
-        "attributes": [],
-        "spec_columns": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
         "spec_rows": [],
         "name_en": "Urinal Divider",
-        "features_en": "Urinal Divider"
+        "features_en": "Urinal Divider",
+        "collection": "pisuvar-ve-ara-bolme"
     },
     {
         "id": 224,
@@ -8949,7 +8980,7 @@
     {
         "id": 227,
         "name": "Proje Oval Lavabo 28x36 cm (Batarya Deliksiz)",
-        "slug": "proje-oval-lavabo-28x36-deliksiz",
+        "slug": "proje-oval-lavabo-28x36-cm-batarya-deliksiz",
         "code": "70TK22036",
         "category_id": 1,
         "subcategory_id": 110,
@@ -8970,9 +9001,14 @@
             "Batarya Delikli"
         ],
         "attributes": [],
-        "spec_columns": [],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
         "spec_rows": [],
         "name_en": "Project Oval Washbasin 28x36 cm (No Faucet Hole)",
-        "features_en": "Project Oval Washbasin No Hole"
+        "features_en": "Project Oval Washbasin No Hole",
+        "collection": "proje-lavabolar"
     }
 ]

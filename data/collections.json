@@ -116,5 +116,36 @@
         "image": "assets/images/products/tezgah-alti-lavabo-57x44-1795070844.jpg",
         "count": 0,
         "product_ids": []
+    },
+    "tuvalet-taslari": {
+        "title": "Tuvalet Taşları",
+        "title_en": "Rim Wash",
+        "slug": "tuvalet-taslari",
+        "image": "assets/images/products/gunes-tuvalet-tasi-1795072499.jpg",
+        "count": 0,
+        "product_ids": []
+    },
+    "pisuvar-ve-ara-bolme": {
+        "title": "Pisuvar ve Ara bölme",
+        "title_en": "",
+        "slug": "pisuvar-ve-ara-bolme",
+        "image": "assets/images/products/pi-suvar-1795073644.jpg",
+        "count": 0,
+        "product_ids": []
+    },
+    "proje-lavabolar": {
+        "title": "Proje Lavabolar",
+        "title_en": "Project Washbasin",
+        "slug": "proje-lavabolar",
+        "image": "assets/images/products/proje-lavabo-35x45-cm-1795074491.png",
+        "count": 0,
+        "product_ids": []
+    },
+    "tek-klozetler": {
+        "title": "Tek Klozetler",
+        "title_en": "Single Toilet",
+        "slug": "tek-klozetler",
+        "count": 0,
+        "product_ids": []
     }
 }
