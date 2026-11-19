@@ -87,6 +87,7 @@ if ($action === 'form'):
 
 <div class="admin-card">
   <form method="POST">
+    <?= csrfField() ?>
     <?php if ($editPage): ?>
     <input type="hidden" name="id" value="<?= $editPage['id'] ?>">
     <?php endif; ?>

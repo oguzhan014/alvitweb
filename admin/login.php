@@ -34,6 +34,7 @@
       <?php endif; ?>
 
       <form method="POST">
+        <?= csrfField() ?>
         <input type="text" name="username" class="form-control" placeholder="Kullanıcı Adı" required>
         <input type="password" name="password" class="form-control" placeholder="Şifre" required>
         <button type="submit" class="btn-admin btn-admin-primary">Giriş Yap</button>

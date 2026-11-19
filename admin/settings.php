@@ -45,6 +45,7 @@ adminHeader('Ayarlar');
 
 <div class="admin-card">
   <form method="POST">
+    <?= csrfField() ?>
     <h3 style="margin-bottom:20px; font-size:16px; color:var(--admin-primary);">Genel Bilgiler</h3>
 
     <div class="form-row">

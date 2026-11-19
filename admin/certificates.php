@@ -85,6 +85,7 @@ if ($isForm):
 
 <div class="admin-card">
   <form method="POST" enctype="multipart/form-data">
+    <?= csrfField() ?>
     <?php if ($editCert): ?>
     <input type="hidden" name="id" value="<?= (int)$editCert['id'] ?>">
     <input type="hidden" name="current_file" value="<?= e($editCert['file']) ?>">

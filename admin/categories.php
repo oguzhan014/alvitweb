@@ -124,6 +124,7 @@ if ($action === 'form'):
 
 <div class="admin-card">
   <form method="POST" enctype="multipart/form-data">
+    <?= csrfField() ?>
     <?php if ($editCat): ?>
     <input type="hidden" name="id" value="<?= $editCat['id'] ?>">
     <?php endif; ?>

@@ -132,6 +132,7 @@ adminHeader('Kurumsal Dosyalar');
 <?php if ($active): ?>
 <div class="admin-card">
   <form method="POST" enctype="multipart/form-data">
+    <?= csrfField() ?>
     <input type="hidden" name="slug" value="<?= e($activeSlug) ?>">
 
     <?php if (!empty($active['documents'])): ?>

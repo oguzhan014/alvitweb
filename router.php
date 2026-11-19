@@ -5,8 +5,8 @@
 $uri = $_SERVER['REQUEST_URI'];
 $path = parse_url($uri, PHP_URL_PATH);
 
-// Hassas veri klasorlerine disaridan erisimi engelle (canli sunucudaki .htaccess ile ayni kural)
-if (preg_match('#^/(data|includes)/#', $path)) {
+// Hassas dosya ve klasorlere erisimi engelle
+if (preg_match('#^/(data|includes)/|^/\.(git|claude|user\.ini|htaccess)#', $path)) {
     http_response_code(403);
     echo 'Forbidden';
     return true;

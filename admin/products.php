@@ -203,6 +203,7 @@ if ($action === 'form'):
 
 <div class="admin-card">
   <form method="POST" enctype="multipart/form-data">
+    <?= csrfField() ?>
     <?php if ($editProduct): ?>
     <input type="hidden" name="id" value="<?= $editProduct['id'] ?>">
     <?php endif; ?>

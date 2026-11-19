@@ -6,7 +6,7 @@ $seoPageDescription = lang() === 'tr'
 $settings = getSettings();
 
 // Form gönderimi (PRG pattern)
-if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && csrfCheck()) {
     $name = cleanPostText($_POST['name'] ?? '');
     $email = trim($_POST['email'] ?? '');
     $subject = cleanPostText($_POST['subject'] ?? '');
@@ -85,6 +85,7 @@ include __DIR__ . '/../includes/header.php';
         <?php endif; ?>
 
         <form method="POST" class="contact-form">
+          <?= csrfField() ?>
           <input type="text" name="name" placeholder="<?= t('contact_form_name') ?>" required>
           <input type="email" name="email" placeholder="<?= t('contact_form_email') ?>" required>
           <input type="text" name="subject" placeholder="<?= t('contact_form_subject') ?>">

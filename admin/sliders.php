@@ -85,6 +85,7 @@ if ($action === 'form'):
 
 <div class="admin-card">
   <form method="POST" enctype="multipart/form-data">
+    <?= csrfField() ?>
     <?php if ($editSlider): ?>
     <input type="hidden" name="id" value="<?= $editSlider['id'] ?>">
     <?php endif; ?>

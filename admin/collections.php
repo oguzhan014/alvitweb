@@ -108,6 +108,7 @@ if ($isForm):
 
 <div class="admin-card">
   <form method="POST" enctype="multipart/form-data">
+    <?= csrfField() ?>
     <input type="hidden" name="orig_slug" value="<?= e($editSlug ?? '') ?>">
     <div class="form-row">
       <div class="form-group">

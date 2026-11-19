@@ -81,6 +81,44 @@ function saveJson($file, $data) {
     return true;
 }
 
+// ---- CSRF KORUMASI ----
+function csrfToken() {
+    if (empty($_SESSION['csrf_token'])) {
+        $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
+    }
+    return $_SESSION['csrf_token'];
+}
+
+function csrfField() {
+    return '<input type="hidden" name="_token" value="' . csrfToken() . '">';
+}
+
+function csrfCheck() {
+    if ($_SERVER['REQUEST_METHOD'] !== 'POST') return true;
+    $token = $_POST['_token'] ?? '';
+    return hash_equals(csrfToken(), $token);
+}
+
+// ---- BRUTE-FORCE KORUMASI ----
+function loginRateLimit() {
+    $file = DATA_DIR . '.login_attempts.json';
+    $ip = $_SERVER['REMOTE_ADDR'] ?? 'unknown';
+    $attempts = file_exists($file) ? json_decode(file_get_contents($file), true) : [];
+    $now = time();
+    $attempts = array_filter($attempts, fn($a) => ($now - $a['time']) < 900);
+    $myAttempts = array_filter($attempts, fn($a) => $a['ip'] === $ip);
+    return count($myAttempts) < 10;
+}
+
+function loginAttemptRecord() {
+    $file = DATA_DIR . '.login_attempts.json';
+    $attempts = file_exists($file) ? json_decode(file_get_contents($file), true) : [];
+    $now = time();
+    $attempts = array_filter($attempts, fn($a) => ($now - $a['time']) < 900);
+    $attempts[] = ['ip' => $_SERVER['REMOTE_ADDR'] ?? 'unknown', 'time' => $now];
+    file_put_contents($file, json_encode(array_values($attempts)));
+}
+
 /**
  * Kaydetme sonrası yönlendirme (POST-Redirect-GET).
  * Sayfa yenilendiğinde formun tekrar gönderilmesini önler.

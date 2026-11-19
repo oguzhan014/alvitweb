@@ -17,17 +17,24 @@ $isLoggedIn = !empty($_SESSION['admin_logged_in']);
 // Login/Logout
 if ($adminUri === '/login') {
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-        $settings = getSettings();
-        $user = $_POST['username'] ?? '';
-        $pass = $_POST['password'] ?? '';
-        if ($user === $settings['admin_user']
-            && password_verify($pass, $settings['admin_pass'] ?? '')) {
-            session_regenerate_id(true);
-            $_SESSION['admin_logged_in'] = true;
-            header('Location: /admin');
-            exit;
+        if (!loginRateLimit()) {
+            $loginError = 'Çok fazla deneme. 15 dakika sonra tekrar deneyin.';
+        } elseif (!csrfCheck()) {
+            $loginError = 'Geçersiz istek. Sayfayı yenileyip tekrar deneyin.';
+        } else {
+            $settings = getSettings();
+            $user = $_POST['username'] ?? '';
+            $pass = $_POST['password'] ?? '';
+            if ($user === $settings['admin_user']
+                && password_verify($pass, $settings['admin_pass'] ?? '')) {
+                session_regenerate_id(true);
+                $_SESSION['admin_logged_in'] = true;
+                header('Location: /admin');
+                exit;
+            }
+            loginAttemptRecord();
+            $loginError = 'Hatalı kullanıcı adı veya şifre';
         }
-        $loginError = 'Hatalı kullanıcı adı veya şifre';
     }
     include __DIR__ . '/login.php';
     return;
@@ -42,6 +49,11 @@ if ($adminUri === '/logout') {
 if (!$isLoggedIn) {
     header('Location: /admin/login');
     exit;
+}
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && !csrfCheck()) {
+    http_response_code(403);
+    die('Geçersiz istek (CSRF). Sayfayı yenileyip tekrar deneyin.');
 }
 
 // Admin routes

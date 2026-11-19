@@ -52,6 +52,7 @@ $flash = adminFlash();
   <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
     <a href="/admin/messages" class="btn-admin btn-admin-sm">&larr; Tüm Mesajlar</a>
     <form method="POST" onsubmit="return confirm('Bu mesajı silmek istediğinize emin misiniz?')">
+      <?= csrfField() ?>
       <input type="hidden" name="delete" value="<?= $detail['id'] ?>">
       <button type="submit" class="btn-admin btn-admin-danger btn-admin-sm">Sil</button>
     </form>
