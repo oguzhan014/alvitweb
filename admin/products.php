@@ -28,6 +28,10 @@ if (preg_match('#/products/delete/(\d+)$#', $adminUri, $m)) {
 
 // ADD / EDIT form submit
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    if (empty($_POST) && empty($_FILES) && isset($_SERVER['CONTENT_LENGTH']) && (int)$_SERVER['CONTENT_LENGTH'] > 0) {
+        $maxPost = ini_get('post_max_size');
+        adminRedirect($_SERVER['REQUEST_URI'], 'post_too_large');
+    }
     // Bozuk baytlar JSON kodlamasını düşürdüğü için gelen metinler temizlenir
     $post = cleanPostText($_POST);
 
@@ -77,6 +81,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Teknik dosyalar: mevcutlardan kalanlar + yeni yüklenen
     $documents = [];
+    $docError = '';
     foreach ($post['doc_file'] ?? [] as $i => $docFile) {
         $docFile = trim($docFile);
         $docName = trim($post['doc_name'][$i] ?? '');
@@ -84,14 +89,23 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $documents[] = ['name' => $docName ?: basename($docFile), 'file' => $docFile];
         }
     }
-    if (!empty($_FILES['new_doc']['name']) && $_FILES['new_doc']['error'] === UPLOAD_ERR_OK) {
-        $uploadedDoc = uploadDocument($_FILES['new_doc'], 'urunler');
-        if ($uploadedDoc) {
-            $docLabel = trim($post['new_doc_name'] ?? '');
-            $documents[] = [
-                'name' => $docLabel ?: pathinfo($_FILES['new_doc']['name'], PATHINFO_FILENAME),
-                'file' => $uploadedDoc,
-            ];
+    if (!empty($_FILES['new_doc']['name'])) {
+        $docErr = $_FILES['new_doc']['error'] ?? UPLOAD_ERR_NO_FILE;
+        if ($docErr === UPLOAD_ERR_OK) {
+            $uploadedDoc = uploadDocument($_FILES['new_doc'], 'urunler');
+            if ($uploadedDoc) {
+                $docLabel = trim($post['new_doc_name'] ?? '');
+                $documents[] = [
+                    'name' => $docLabel ?: pathinfo($_FILES['new_doc']['name'], PATHINFO_FILENAME),
+                    'file' => $uploadedDoc,
+                ];
+            } else {
+                $docError = 'doc_move_fail';
+            }
+        } elseif ($docErr === UPLOAD_ERR_INI_SIZE || $docErr === UPLOAD_ERR_FORM_SIZE) {
+            $docError = 'doc_too_large';
+        } else {
+            $docError = 'doc_upload_fail';
         }
     }
 
@@ -125,7 +139,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
         unset($p);
         saveJson('products.json', $products);
-        adminRedirect('/admin/products/edit/' . (int)$id, 'updated');
+        adminRedirect('/admin/products/edit/' . (int)$id, $docError ?: 'updated');
     } else {
         // YENİ EKLE
         $newProduct = [
@@ -150,7 +164,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if ($collection !== '') $newProduct['collection'] = $collection;
         $products[] = $newProduct;
         saveJson('products.json', $products);
-        adminRedirect('/admin/products/edit/' . (int)$newProduct['id'], 'added');
+        adminRedirect('/admin/products/edit/' . (int)$newProduct['id'], $docError ?: 'added');
     }
 }
 
@@ -163,9 +177,13 @@ if (strpos($adminUri, '/products/add') !== false) {
 }
 
 $message = adminFlash([
-    'added'   => 'Ürün eklendi.',
-    'updated' => 'Ürün güncellendi.',
-    'deleted' => 'Ürün silindi.',
+    'added'           => 'Ürün eklendi.',
+    'updated'         => 'Ürün güncellendi.',
+    'deleted'         => 'Ürün silindi.',
+    'post_too_large'  => '⚠️ Gönderilen veri çok büyük (maks: ' . ini_get('post_max_size') . '). Hiçbir değişiklik kaydedilmedi! Daha küçük dosya deneyin.',
+    'doc_too_large'   => '⚠️ PDF dosyası çok büyük! Maksimum boyut: ' . ini_get('upload_max_filesize') . '. Ürün kaydedildi ama PDF yüklenemedi.',
+    'doc_move_fail'   => '⚠️ PDF dosyası sunucuya yazılamadı (izin hatası). Ürün kaydedildi ama PDF yüklenemedi.',
+    'doc_upload_fail' => '⚠️ PDF yükleme başarısız oldu. Ürün kaydedildi ama PDF yüklenemedi.',
 ]);
 
 adminHeader('Ürünler');
@@ -180,7 +198,7 @@ if ($action === 'form'):
 </div>
 
 <?php if ($message): ?>
-<div class="alert alert-success"><?= e($message) ?></div>
+<div class="alert <?= str_contains($message, '⚠️') ? 'alert-danger' : 'alert-success' ?>"><?= $message ?></div>
 <?php endif; ?>
 
 <div class="admin-card">
@@ -374,7 +392,7 @@ if ($action === 'form'):
 
     <div class="form-row">
       <div class="form-group">
-        <label>Yeni PDF yükle</label>
+        <label>Yeni PDF yükle <small style="color:#888;">(maks: <?= ini_get('upload_max_filesize') ?>)</small></label>
         <input type="file" name="new_doc" class="form-control" accept=".pdf,.doc,.docx,.xls,.xlsx">
       </div>
       <div class="form-group">
