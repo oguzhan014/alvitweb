@@ -221,6 +221,11 @@ function icon($name, $size = 24) {
 
 function getCollections() {
     $all = loadJson('collections.json');
+    $products = getProducts();
+    foreach ($all as $slug => &$col) {
+        $col['count'] = count(array_filter($products, fn($p) => ($p['collection'] ?? '') === $slug));
+    }
+    unset($col);
     uasort($all, fn($a, $b) => $b['count'] <=> $a['count']);
     return $all;
 }

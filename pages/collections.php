@@ -4,6 +4,7 @@ $seoPageDescription = lang() === 'tr'
     ? 'Alvit seramik banyo koleksiyonları. Özel tasarım seramik banyo serileri - Bartın Seramik A.Ş.'
     : 'Alvit ceramic bathroom collections. Special design ceramic bathroom series - Bartın Seramik A.Ş.';
 $collections = getCollections();
+$allProducts = getProducts();
 include __DIR__ . '/../includes/header.php';
 ?>
 
@@ -36,7 +37,7 @@ include __DIR__ . '/../includes/header.php';
         </div>
         <div class="collection-body">
           <h3><?= e(td($col, 'title')) ?></h3>
-          <span class="collection-count"><?= (int)$col['count'] ?> <?= t('product_count_suffix') ?></span>
+          <span class="collection-count"><?= count(array_filter($allProducts, fn($p) => ($p['collection'] ?? '') === $col['slug'])) ?> <?= t('product_count_suffix') ?></span>
         </div>
       </a>
       <?php endforeach; ?>
