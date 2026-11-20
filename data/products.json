@@ -602,15 +602,28 @@
         ],
         "spec_rows": [
             [
-                "TLP 105",
+                "70TP21105",
                 "Dolap Uyumlu Lavabo",
-                "K12"
+                "K10"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/konsol-lavabolar/tulip-lavabo-105-cm.253",
         "collection": "tulip-serisi",
         "name_en": "Tulip Lavabo 105 cm",
-        "features_en": "Shelf Washbasin"
+        "features_en": "Shelf Washbasin",
+        "highlights": [
+            "105X46 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile Kullanıma Uygun",
+            "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 20,
@@ -1170,32 +1183,8 @@
         ],
         "spec_rows": [
             [
-                "5107 01",
-                "Star Klozet Kapağı Alttan Sıkmalı ( Duroplast Plastik Menteşeli)",
-                "10",
-                "200"
-            ],
-            [
-                "5117 01",
-                "Star Klozet Kapağı Üstten Sıkmalı (Duroplast Metal Menteşeli)",
-                "10",
-                "200"
-            ],
-            [
-                "5127 01",
-                "Star Klozet Kapağı Üstten Sıkmalı ( Duroplast Amortisörlü Metal Menteşeli )",
-                "10",
-                "200"
-            ],
-            [
-                "5117 02",
-                "Star Klozet Kapağı ( Melamin Softclose )",
-                "10",
-                "200"
-            ],
-            [
-                "5117 03",
-                "Star Klozet Kapağı ( PP Softclose )",
+                "30SCA.01.02",
+                "SCA Duroplast Klozet Kapağı",
                 "10",
                 "200"
             ]
@@ -1221,7 +1210,7 @@
         "category_id": 3,
         "subcategory_id": null,
         "features": "Yavaş Kapanan",
-        "palet": "",
+        "palet": "K10",
         "images": [
             "galaxy-kapak.jpg"
         ],
@@ -1235,38 +1224,8 @@
         ],
         "spec_rows": [
             [
-                "5407 01",
-                "Galaxy Klozet Kapağı Alttan Sıkmalı (Duroplast Plastik Menteşeli)",
-                "10",
-                "200"
-            ],
-            [
-                "5417 01",
-                "Galaxy Klozet Kapağı Üstten Sıkmalı (Duroplast Metal Menteşeli)",
-                "10",
-                "200"
-            ],
-            [
-                "5427 01",
-                "Galaxy Klozet Kapağı Üstten Sıkmalı (Duroplast Amortisörlü Metal Menteşeli)",
-                "10",
-                "200"
-            ],
-            [
-                "5418 01",
-                "Galaxy Renkli Klozet Kapağı (Duroplast Metal Menteşeli)",
-                "10",
-                "200"
-            ],
-            [
-                "5417 02",
-                "Galaxy Klozet Kapağı (Softclose, Duroplast Metal Menteşeli)",
-                "10",
-                "200"
-            ],
-            [
-                "5417 03",
-                "Galaxy Klozet Kapağı (PP Softclose)",
+                "30SCD.01.02",
+                "SCD Duroplast Klozet Kapağı Yavaş Kapanan",
                 "10",
                 "200"
             ]
@@ -1276,6 +1235,52 @@
         "features_en": "SCD Duroplast Slow-Close Metal Hinge Toilet Seat Cover",
         "highlights": [
             "SCD Duroplast Yavaş Kapanan Metal Menteşeli Klozet Kapağı"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Parlak Siyah"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Mat Beyaz"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Mat Siyah"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Fildişi"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Vizon"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Somon"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Antrasit"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Yeşil"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Mavi"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Bordo"
+            }
         ]
     },
     {
@@ -1300,8 +1305,8 @@
         ],
         "spec_rows": [
             [
-                "5917 01",
-                "Galaxy Slim Klozet Kapağı (Softclose Özellikli Duroplast Metal Menteşeli)",
+                "30SCD.03.02",
+                "SCD Slim Klozet Kapağı Yavaş Kapanan Slim",
                 "10",
                 "200"
             ]
@@ -1311,6 +1316,52 @@
         "features_en": "SCD Slim Duroplast Slow-Close Metal Hinge Toilet Seat Cover",
         "highlights": [
             "SCD Slim Duroplast Yavaş Kapanan Metal Menteşeli Klozet Kapağı"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Parlak Siyah"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Mat Beyaz"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Mat Siyah"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Fildişi"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Vizon"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Somon"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Antrasit"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Yeşil"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Mavi"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Bordo"
+            }
         ]
     },
     {
