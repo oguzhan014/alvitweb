@@ -1372,7 +1372,7 @@
         "category_id": 3,
         "subcategory_id": null,
         "features": "Yavaş Kapanan",
-        "palet": "",
+        "palet": "K10",
         "images": [
             "space-kapak.jpg"
         ],
@@ -1386,32 +1386,14 @@
         ],
         "spec_rows": [
             [
-                "5807 01",
-                "Space Klozet Kapağı Alttan Sıkmalı (Duroplast Plastik Mneteşeli)",
+                "30SCS.01.02",
+                "SCS Klozet Kapağı",
                 "10",
                 "200"
             ],
             [
-                "5817 01",
-                "Space Klozet Kapağı Üstten Sıkmalı (Duroplast Metal Mneteşeli)",
-                "10",
-                "200"
-            ],
-            [
-                "5827 01",
-                "Space Klozet Kapağı Üstten Sıkmalı (Duroplast Amortisörlü Metal Mneteşeli)",
-                "10",
-                "200"
-            ],
-            [
-                "5817 02",
-                "Space Klozet Kapağı (Melamin Softclose)",
-                "10",
-                "200"
-            ],
-            [
-                "5817 03",
-                "Space Klozet Kapağı (PP Softclose)",
+                "30SCS.02.02",
+                "SCS PP Klozet Kapağı",
                 "10",
                 "200"
             ]
@@ -1421,6 +1403,24 @@
         "features_en": "SCS Slow-Close Metal Hinge Toilet Seat Cover",
         "highlights": [
             "SCS  Yavaş Kapanan Metal Menteşeli Klozet Kapağı"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Parlak Siyah"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Mat Siyah"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Antrasit"
+            }
         ]
     },
     {
@@ -1445,13 +1445,13 @@
         ],
         "spec_rows": [
             [
-                "5507 01",
+                "30SCC.02.02",
                 "Çocuk Klozet Kapağı PP",
                 "10",
                 "-"
             ],
             [
-                "5507 02",
+                "30SCC.02.02",
                 "Çocuk Klozet Kapağı Puff",
                 "10",
                 "-"
@@ -1462,12 +1462,18 @@
         "features_en": "SCC PP Slow-Close Metal Hinge White Toilet Seat Cover",
         "highlights": [
             "SCC PP Yavaş Kapanan Metal Menteşeli Beyaz Klozet Kapağı"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
         ]
     },
     {
         "id": 60,
         "name": "Gömme Rezervuar (Asma) Model 1",
-        "slug": "gomme-rezervuar-asma-1",
+        "slug": "gomme-rezervuar-asma-model-1",
         "code": "GRZ4101",
         "category_id": 5,
         "subcategory_id": null,
@@ -1490,7 +1496,7 @@
         ],
         "spec_rows": [
             [
-                "0210 01",
+                "GRZ4101",
                 "Asma Klozet Gömme Rezervuar (3/6 Litre Buton Hariç) Metal Ayaklı",
                 "-"
             ]
@@ -1500,6 +1506,12 @@
         "features_en": "Wall-Hung Toilet Uyumlu",
         "highlights": [
             "Asma Klozet İçin Metal Ayaklı 3/6 Lt Set"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
         ]
     },
     {
@@ -1822,12 +1834,12 @@
         ],
         "spec_rows": [
             [
-                "SAF 330",
+                "70SF06001",
                 "Arka Çıkışlı Klozet",
                 "-"
             ],
             [
-                "SAF 400",
+                "70DE60001",
                 "Rezervuar",
                 "-"
             ],
@@ -1837,30 +1849,34 @@
                 "K9"
             ],
             [
-                "5417 01",
-                "Galaxy Klozet Kapağı (Duroplast Metal Menteşeli)",
+                "30SCD.01.02",
+                "SCD Duroplast Yavaş Kapanan Klozet Kapağı",
                 "200"
-            ],
-            [
-                "5917 01",
-                "Galaxy Slim Klozet Kapağı (Softclose, Duroplast Metal Menteşeli)",
-                "200"
-            ],
-            [
-                "5417 02",
-                "Galaxy Klozet Kapağı (Softclose, Duroplast Metal Menteşeli)",
-                "K10"
-            ],
-            [
-                "5417 03",
-                "Galaxy Klozet Kapağı (PP Softclose)",
-                "K10"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/duvara-sifir-klozetler/safran-ds-klozet.190",
         "collection": "safran-serisi",
         "name_en": "Safran DS Klozet",
-        "features_en": "Back-to-Wall (Rear Outlet) Toilet"
+        "features_en": "Back-to-Wall (Rear Outlet) Toilet",
+        "highlights": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Mat Siyah"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Antrasit"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Parlak Siyah"
+            }
+        ]
     },
     {
         "id": 69,
@@ -1888,17 +1904,17 @@
         ],
         "spec_rows": [
             [
-                "SAF 500",
+                "70SF06001",
                 "Entegre Bataryalı Sıcak/Soğuk Su Bağlantılı Klozet",
                 "K9"
             ],
             [
-                "SAF 510",
+                "70SF06001",
                 "Entegre Bataryalı Soğuk Su Bağlantılı Klozet",
                 "K9"
             ],
             [
-                "SAF 400",
+                "70DE60001",
                 "Rezervuar",
                 "-"
             ],
@@ -1921,6 +1937,12 @@
             "63 cm",
             "Montaj seti dahildir",
             "Klozet Kapağı dahi değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
         ]
     },
     {
@@ -1949,12 +1971,12 @@
         ],
         "spec_rows": [
             [
-                "INK 310",
+                "70IN01001",
                 "Alt Çıkışlı Klozet",
                 "A15 / K9"
             ],
             [
-                "INK 400",
+                "70IN60001",
                 "Rezervuar",
                 "A30 / K9"
             ],
@@ -1964,19 +1986,14 @@
                 "-"
             ],
             [
-                "5417 01",
+                "30SCA.01.02",
                 "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
                 "K10"
             ],
             [
-                "5117 02",
-                "Star Klozet Kapağı (Melamin Softclose)",
-                "K10"
-            ],
-            [
-                "5117 03",
-                "Star Klozet Kapağı (PP Softclose)",
-                "K10"
+                "42MCS02",
+                "İç Takım",
+                "K20"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/inkum-alt-cikisli-klozet.194",
@@ -1988,12 +2005,17 @@
             "Montaj Seti Dahil Değildir",
             "Klozet Kapağı Dahil Değildir"
         ],
-        "attributes": []
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ]
     },
     {
         "id": 71,
         "name": "İnkum Arka Çıkışlı Klozet",
-        "slug": "inkum-arka-cikisli-klozet",
+        "slug": "i-nkum-arka-cikisli-klozet",
         "code": "70IN01002",
         "category_id": 1,
         "subcategory_id": 105,
@@ -2016,12 +2038,12 @@
         ],
         "spec_rows": [
             [
-                "INK 320",
+                "70IN01002",
                 "Arka Çıkışlı Klozet",
                 "A15 / K9"
             ],
             [
-                "INK 400",
+                "70IN60001",
                 "Rezervuar",
                 "A30 / K9"
             ],
@@ -2031,19 +2053,14 @@
                 "-"
             ],
             [
-                "5117 01",
+                "30SCA.01.02",
                 "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
                 "K10"
             ],
             [
-                "5117 02",
-                "Star Klozet Kapağı (Melamin Softclose)",
-                "K10"
-            ],
-            [
-                "5117 03",
-                "Star Klozet Kapağı (PP Softclose)",
-                "K10"
+                "42MCS02",
+                "İç Takım",
+                "K20"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/inkum-arka-cikisli-klozet.195",
@@ -2054,6 +2071,12 @@
             "68 cm",
             "Montaj Seti Dahildir",
             "Klozet Kapağı Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
         ]
     },
     {
@@ -2082,12 +2105,12 @@
         ],
         "spec_rows": [
             [
-                "EFK 320",
+                "70EF01002",
                 "Arka Çıkışlı Klozet",
                 "A18 / K9"
             ],
             [
-                "EFK 400",
+                "70IN60001",
                 "Rezervuar",
                 "A30 / K9"
             ],
@@ -2097,19 +2120,14 @@
                 "-"
             ],
             [
-                "5117 01",
-                "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
+                "30SCA.01.02",
+                "Klozet Kapağı",
                 "K10"
             ],
             [
-                "5117 02",
-                "Star Klozet Kapağı ( Melamin Softclose)",
-                "K10"
-            ],
-            [
-                "5117 03",
-                "Star Klozet Kapağı (PP Softclose)",
-                "K10"
+                "42MCS.02",
+                "İç Takım",
+                "K20"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/takim-klozetler/efekta-arka-cikisli-klozet.196",
@@ -2120,6 +2138,12 @@
             "65 cm",
             "Montaj Seti Dahildir",
             "Klozet Kapağı Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
         ]
     },
     {
@@ -2214,12 +2238,12 @@
         ],
         "spec_rows": [
             [
-                "ENG 310",
+                "70SD01001",
                 "Alt Çıkışlı Klozet",
                 "A10 / K6"
             ],
             [
-                "ENG 400",
+                "70IN60001",
                 "Engelli Rezervuarı",
                 "A30 / K6"
             ],
@@ -2229,19 +2253,9 @@
                 "-"
             ],
             [
-                "5117 01",
-                "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
-                "K10"
-            ],
-            [
-                "5117 02",
-                "Star Klozet Kapağı (Melamin Softclose)",
-                "K10"
-            ],
-            [
-                "5117 03",
-                "Star Klozet Kapağı (PP Softclose)",
-                "K10"
+                "30SCA.01.02",
+                "SCA Duroplast Yavaş Kapanan Klozet Kapağı",
+                "K20"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/engelli-seri/engelli-klozet.198",
@@ -2251,6 +2265,12 @@
         "highlights": [
             "Montaj Seti Dahil Değildir",
             "Klozet Kapağı Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
         ]
     },
     {
@@ -2279,7 +2299,7 @@
         ],
         "spec_rows": [
             [
-                "ENG 060",
+                "70SD20060",
                 "Engelli Lavabo",
                 "K14"
             ]
@@ -2294,6 +2314,12 @@
             "Su Taşma Delikli",
             "Duvara Monte Edilebilir",
             "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
         ]
     },
     {
@@ -2322,12 +2348,12 @@
         ],
         "spec_rows": [
             [
-                "MIN 310",
+                "70CH01001",
                 "Çocuk Alt Klozet",
                 "A20 / K16"
             ],
             [
-                "MIN 400",
+                "70CH60001",
                 "Çocuk Rezervuar",
                 "A20 / K16"
             ],
@@ -2337,12 +2363,12 @@
                 "-"
             ],
             [
-                "5507 01",
+                "30SCC.02.02",
                 "Çocuk Klozet Kapağı (PP)",
                 "-"
             ],
             [
-                "5507 02",
+                "30SCC.02.02",
                 "Çocuk Klozet Kapağı (Puff)",
                 "-"
             ]
@@ -2354,6 +2380,12 @@
             "57 cm",
             "Montaj Seti Dahil",
             "Klozet Kapağı Dahil"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
         ]
     },
     {
@@ -2382,12 +2414,12 @@
         ],
         "spec_rows": [
             [
-                "TEK 245",
+                "70TK20045",
                 "Lavabo 35x45",
                 "A48 / K30"
             ],
             [
-                "TEK 750",
+                "70CH60001",
                 "Yarım Ayak",
                 "A72 / K44"
             ],
@@ -2406,12 +2438,18 @@
             "Su Taşma Delikli",
             "Mobilya Kullanımına Uygun Değil",
             "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
         ]
     },
     {
         "id": 81,
-        "name": "Safran Lavabo 50x60",
-        "slug": "safran-lavabo-50x60",
+        "name": "Safran Lavabo 60x50",
+        "slug": "safran-lavabo-60x50",
         "code": "70SF20060",
         "category_id": 1,
         "subcategory_id": 108,
@@ -2434,17 +2472,17 @@
         ],
         "spec_rows": [
             [
-                "SAF 060",
+                "70SF20055",
                 "Lavabo 50x60 Cm",
                 "A22 / K14"
             ],
             [
-                "SAF 700",
+                "70IN30002",
                 "Kolon Ayak",
                 "A32 / K40"
             ],
             [
-                "SAF 750",
+                "70IN31001",
                 "Yarım Ayak",
                 "A32 / K32"
             ],
@@ -2469,12 +2507,18 @@
             "Su Taşma Delikli",
             "Mobilya Kullanımına Uygun Değil",
             "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
         ]
     },
     {
         "id": 82,
-        "name": "Safran Lavabo 45x55",
-        "slug": "safran-lavabo-45x55",
+        "name": "Safran Lavabo 55x45",
+        "slug": "safran-lavabo-55x45",
         "code": "70SF20055",
         "category_id": 1,
         "subcategory_id": 108,
@@ -2497,17 +2541,17 @@
         ],
         "spec_rows": [
             [
-                "SAF 055",
+                "70SF20055",
                 "Lavabo 45x55 Cm",
                 "A32 / K24"
             ],
             [
-                "SAF 700",
+                "70IN30002",
                 "Kolon Ayak",
                 "A32 / K40"
             ],
             [
-                "SAF 750",
+                "70IN31001",
                 "Yarım Ayak",
                 "A32 / K32"
             ],
@@ -2532,6 +2576,12 @@
             "Su Taşma Delikli",
             "Mobilya Kullanımına Uygun Değil",
             "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
         ]
     },
     {
@@ -2560,19 +2610,24 @@
         ],
         "spec_rows": [
             [
-                "EFK 050",
+                "70EF20050",
                 "Lavabo 40x50",
                 "A36 / K30"
             ],
             [
-                "EFK 700",
-                "Kolon Ayak",
+                "70IN30002",
+                "Yarım  Ayak",
                 "A32 / K40"
             ],
             [
-                "-",
-                "Lavabo 40x50 & Kolon Ayak",
+                "70TK31002",
+                "Tek Yarım Ayak",
                 "-"
+            ],
+            [
+                "-",
+                "Lavabo 40x50 & Yarım Ayak",
+                ""
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/lavabo-ayak-serisi/efekta-lavabo-40x50.211",
@@ -2580,7 +2635,17 @@
         "name_en": "Efekta Washbasin 50x40",
         "features_en": "Pedestal Washbasin",
         "highlights": [
-            "50X40 cm"
+            "50X40 cm",
+            "Batarya Delikli",
+            "Su Taşma Delikli",
+            "Mobilya ile Kullanıma Uygun Değil",
+            "Montaj Seti Dahil Değildir"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
         ]
     },
     {
@@ -5193,7 +5258,7 @@
         ],
         "spec_rows": [
             [
-                "AKS 860",
+                "70AK72060",
                 "Etejer 15x60 Cm",
                 "K5 / 240"
             ]
@@ -5235,13 +5300,18 @@
         ],
         "spec_rows": [
             [
-                "AKS 849",
+                "70AK72049",
                 "Etejer 10x49 Cm",
                 "K8 / 480"
             ]
         ],
         "highlights": [],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/tek-parca/etejer-10x49-cm.99",
         "name_en": "Etejer 10x49 cm",
         "features_en": "Shelf 10x49 Cm"
@@ -5272,12 +5342,12 @@
         ],
         "spec_rows": [
             [
-                "AKS 810",
+                "70AK71001",
                 "Kollu Sabunluk",
                 "K6 / 420"
             ],
             [
-                "AKS 830",
+                "70AK71001",
                 "Kağıtlık",
                 "K6 / 420"
             ]
@@ -5314,13 +5384,18 @@
         ],
         "spec_rows": [
             [
-                "AKS 820",
+                "70AK70002",
                 "Bide Sabunluk",
                 "K15"
             ]
         ],
         "highlights": [],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/tek-parca/bide-sabunluk.101",
         "name_en": "Bide Sabunluk",
         "features_en": "Bidet Soap Dish"
@@ -5351,7 +5426,7 @@
         ],
         "spec_rows": [
             [
-                "TEK 500",
+                "70TT4001",
                 "Çevre Yıkamalı (50x60)",
                 "A32 / K20"
             ]
@@ -5394,7 +5469,7 @@
         ],
         "spec_rows": [
             [
-                "TEK 520",
+                "70TT42001",
                 "Çevre Yıkamalı (56x60)",
                 "A32 / K20"
             ]
@@ -5413,8 +5488,8 @@
     },
     {
         "id": 127,
-        "name": "İnci Tuvalet Taşı",
-        "slug": "i-nci-tuvalet-tasi",
+        "name": "Slim Tuvalet Taşı",
+        "slug": "slim-tuvalet-tasi",
         "code": "70TT43001",
         "category_id": 1,
         "subcategory_id": 110,
@@ -5437,13 +5512,18 @@
         ],
         "spec_rows": [
             [
-                "TEK 530",
+                "70TT43001",
                 "Slim Tuvalet Taşı (42x50)",
                 "A28 / K20"
             ]
         ],
         "highlights": [],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/tek-parca/inci-tuvalet-tasi.105",
         "name_en": "İnci Tuvalet Taşı",
         "features_en": "Slim Squat Toilet (42x50)",
@@ -5475,7 +5555,7 @@
         ],
         "spec_rows": [
             [
-                "PSR 620",
+                "70ps54001",
                 "Pisuvar Üstten Su Girişli",
                 "A32 / K24"
             ]
@@ -8251,13 +8331,13 @@
         ],
         "spec_rows": [
             [
-                "TEK 360",
+                "70TK07001",
                 "Alttan Çıkışlı Tek Klozet",
                 "A21 / K15"
             ],
             [
-                "5117 01",
-                "Star Klozet Kapağı (Duroplast Metal Menteşeli)",
+                "30SCA.02.02",
+                "SCA PP Yavaş Kapanan Klozet Kapağı",
                 "K10"
             ]
         ],
@@ -8266,7 +8346,12 @@
             "Montaj Seti Dahil Değildir",
             "Klozet Kapağı Dahil Değildir"
         ],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/tek-parca/alttan-cikisli-tek-klozet.204",
         "name_en": "Alttan Çıkışlı Tek Klozet",
         "features_en": "Bottom Outlet Single Toilet",
@@ -8345,7 +8430,7 @@
         ],
         "spec_rows": [
             [
-                "TEK 045",
+                "70TK21045",
                 "Dolap Uyumlu Bataryalı Lavabo",
                 "56"
             ]
@@ -8357,7 +8442,12 @@
             "Mobilya Kullanımına Uygun",
             "Montaj Seti Dahil Değildir"
         ],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/tezgah-ustu-lavabolar/dolap-uyumlu-bataryali-lavabo-25x45-cm.272",
         "name_en": "Dolap Uyumlu Bataryalı Lavabo 25x45 cm",
         "features_en": "Cabinet-Compatible Washbasin with Faucet",
@@ -8433,20 +8523,26 @@
         ],
         "spec_rows": [
             [
-                "TEK 036",
+                "70TK22036",
                 "Proje Oval Lavabo Delikli",
                 "A54"
             ],
             [
-                "TEK 037",
+                "70TK22036",
                 "Proje Oval Lavabo Deliksiz",
                 "A54"
             ]
         ],
         "highlights": [
-            "28X36 cm"
+            "28X36 cm",
+            "Batarya Delikli"
         ],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/tek-parca/proje-oval-lavabo-28x36-cm.277",
         "name_en": "Proje Oval Lavabo 28x36 cm",
         "features_en": "Proje Oval Washbasin Delikli",
@@ -8499,7 +8595,7 @@
     {
         "id": 211,
         "name": "İnkum Ayaklı Bide",
-        "slug": "inkum-ayakli-bide",
+        "slug": "i-nkum-ayakli-bide",
         "code": "70IN11001",
         "category_id": 1,
         "subcategory_id": 109,
@@ -8522,7 +8618,7 @@
         ],
         "spec_rows": [
             [
-                "INK 390",
+                "70IN11001",
                 "Ayaklı Bide",
                 "A18 / K15"
             ]
@@ -8531,7 +8627,12 @@
             "58 cm",
             "Montaj seti dahil değildir"
         ],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/bideler/inkum-ayakli-bide.284",
         "collection": "inkum-serisi",
         "name_en": "İnkum Ayaklı Bide",
@@ -9111,7 +9212,13 @@
             "ÜRÜN ÖZELLİKLERİ",
             "PALET/AD."
         ],
-        "spec_rows": [],
+        "spec_rows": [
+            [
+                "70SP58001",
+                "",
+                "K15"
+            ]
+        ],
         "name_en": "Urinal Divider",
         "features_en": "Urinal Divider",
         "collection": "pisuvar-ve-ara-bolme"
@@ -9262,13 +9369,24 @@
             "28X36 cm",
             "Batarya Delikli"
         ],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
         "spec_columns": [
             "KOD",
             "ÜRÜN ÖZELLİKLERİ",
             "PALET/AD."
         ],
-        "spec_rows": [],
+        "spec_rows": [
+            [
+                "70TK22036",
+                "Proje Oval Lavabo Deliksiz",
+                "A54"
+            ]
+        ],
         "name_en": "Project Oval Washbasin 28x36 cm (No Faucet Hole)",
         "features_en": "Project Oval Washbasin No Hole",
         "collection": "proje-lavabolar"
