@@ -695,7 +695,7 @@
         "id": 21,
         "name": "Eylül 80",
         "slug": "eylul-80",
-        "code": "",
+        "code": "Eylül 80",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
@@ -715,10 +715,51 @@
             "ÜRÜN ADI",
             "ÜRÜN ÖLÇÜLERİ"
         ],
-        "spec_rows": [],
+        "spec_rows": [
+            [
+                "20EL01080.01.00.01",
+                "Alt Modül",
+                "80 cm"
+            ],
+            [
+                "20EL02080.01.00.01",
+                "Aynalı Dolap",
+                "80x65x16 cm"
+            ],
+            [
+                "20EL04038.01.00.01",
+                "Boy Dolabı",
+                "38x145x33 cm"
+            ],
+            [
+                "70AQ21080.00.1.3.01",
+                "Aquasol Line 80cm",
+                "80 cm"
+            ]
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/eylul-80.326",
         "name_en": "Eylül 80",
-        "features_en": "Bathroom Furniture"
+        "features_en": "Bathroom Furniture",
+        "highlights": [
+            "Seramik Banyo Uyumlu",
+            "Gövde çekmece ve kapak mat lake akrilik bpya",
+            "Tam açılır frenli çekmece ve yavaş kapanır kapak",
+            "Çok amaçlı ayna kapalı üst model"
+        ],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Gri"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Antrasit"
+            }
+        ]
     },
     {
         "id": 22,
@@ -1239,47 +1280,7 @@
         "attributes": [
             {
                 "label": "Renk Seçenekleri",
-                "value": "Beyaz"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Parlak Siyah"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Mat Beyaz"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Mat Siyah"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Fildişi"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Vizon"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Somon"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Antrasit"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Yeşil"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Mavi"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Bordo"
+                "value": "Beyaz, Parlak Siyah, Mat Beyaz, Mat Siyah, Fildişi, Vizon, Somon, Antrasit, Yeşil, Mavi, Bordo"
             }
         ]
     },
@@ -1320,47 +1321,7 @@
         "attributes": [
             {
                 "label": "Renk Seçenekleri",
-                "value": "Beyaz"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Parlak Siyah"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Mat Beyaz"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Mat Siyah"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Fildişi"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Vizon"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Somon"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Antrasit"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Yeşil"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Mavi"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Bordo"
+                "value": "Beyaz, Parlak Siyah, Mat Beyaz, Mat Siyah, Fildişi, Vizon, Somon, Antrasit, Yeşil, Mavi, Bordo"
             }
         ]
     },
@@ -1407,19 +1368,7 @@
         "attributes": [
             {
                 "label": "Renk Seçenekleri",
-                "value": "Beyaz"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Parlak Siyah"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Mat Siyah"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Antrasit"
+                "value": "Beyaz, Mat Siyah, Antrasit, Parlak Siyah"
             }
         ]
     },
@@ -1792,19 +1741,7 @@
         "attributes": [
             {
                 "label": "Renk Seçenekleri",
-                "value": "Beyaz"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Mat Siyah"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Antrasit"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Parlak Siyah"
+                "value": "Beyaz, Mat Siyah, Antrasit, Parlak Siyah"
             }
         ]
     },
@@ -1862,19 +1799,7 @@
         "attributes": [
             {
                 "label": "Renk Seçenekleri",
-                "value": "Beyaz"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Mat Siyah"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Antrasit"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Parlak Siyah"
+                "value": "Beyaz, Mat Siyah, Antrasit, Parlak Siyah"
             }
         ]
     },
@@ -3117,24 +3042,24 @@
         ],
         "spec_rows": [
             [
-                "LT 1210",
+                "20LT010080.21.00.01",
                 "Loft 80 Alt modül",
-                "800 x 530 x 450"
+                "80 cm"
             ],
             [
-                "LT 1220",
-                "Loft 80 Üst Modül",
-                "800 x 730 x 180"
-            ],
-            [
-                "LT 1200",
-                "Loft 80 Set",
-                "-"
-            ],
-            [
-                "LT 2300",
+                "20LT04040.21.00.01",
                 "Loft Boy Dolap",
-                "1600 x 400 x 320"
+                "40x160x32"
+            ],
+            [
+                "20LT08080.21.00.01",
+                "Ledli Ayna",
+                "80x67x18 cm"
+            ],
+            [
+                "70SP21080.00.1.3.01",
+                "Space Line 80 cm",
+                "80 cm"
             ]
         ],
         "highlights": [
@@ -3145,16 +3070,12 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "TIN 80"
-            },
-            {
                 "label": "Renk Seçenekleri",
                 "value": "Beyaz"
             },
             {
-                "label": "Yardımcı Renk",
-                "value": "Siyah"
+                "label": "Renk Seçenekleri",
+                "value": "Antrasit"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/loft-80.30",
@@ -3297,13 +3218,13 @@
         "id": 94,
         "name": "Anka 65-80",
         "slug": "anka-65-80",
-        "code": "ANK 1110",
+        "code": "Anka 65-80",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "anka-65-80.jpg"
+            "anka-80-cm-antrasit-beyaz-1795207112.jpg"
         ],
         "documents": [
             {
@@ -3319,39 +3240,29 @@
         ],
         "spec_rows": [
             [
-                "ANK 1110",
+                "20AK01080.43.00.01",
                 "Anka 80 Alt Modül",
-                "770 x 520 x 433"
+                "77 x 52 x 43"
             ],
             [
-                "ANK 1120",
-                "Anka 80 Üst Modül",
-                "800 x 730 x 170"
+                "20AK02080.43.00.01",
+                "Anka 80 Aynalı Dolap",
+                "80 x 73 x 17"
             ],
             [
-                "ANK 1100",
-                "Anka 80 Set",
-                "-"
-            ],
-            [
-                "ANK 1110-1",
+                "20AK01065.43.00.01",
                 "Anka 65 Alt Modül",
-                "630 x 520 x 433"
+                "63 x 52 x 43"
             ],
             [
-                "ANK 1120-1",
-                "Anka 65 Üst modül",
-                "650 x 730 x 170"
+                "20AK02065.43.00.01",
+                "Anka 65 Aynalı Dolap",
+                "65 x 73 x 17"
             ],
             [
-                "ANK 1100-1",
-                "Anka 65 Set",
-                "-"
-            ],
-            [
-                "ANK 2300",
+                "20AK01038.43.00.01",
                 "Anka Boy Dolap",
-                "380 x 1400 x 320"
+                "38 x 140 x 32"
             ]
         ],
         "highlights": [
@@ -3361,16 +3272,16 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "TIN 080 - LIN 080"
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
             },
             {
                 "label": "Renk Seçenekleri",
-                "value": "Antrasit, Keçe"
+                "value": "Antrasit"
             },
             {
-                "label": "Yardımcı Renk",
-                "value": "Beyaz, Antrasit"
+                "label": "Renk Seçenekleri",
+                "value": "Legnano"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/anka-65-80.34",
@@ -4450,14 +4361,14 @@
     {
         "id": 110,
         "name": "İcon 65-80",
-        "slug": "icon-65-80",
+        "slug": "i-con-65-80",
         "code": "IC 1310",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "icon-65-80.jpg"
+            "icon-80-beyaz-1795207591.jpg"
         ],
         "documents": [
             {
@@ -4473,46 +4384,52 @@
         ],
         "spec_rows": [
             [
-                "IC 1310",
+                "20IN01065.01.00.01",
                 "Icon 65 Alt Modül",
                 "630 x 500 x 433"
             ],
             [
-                "IC 1320",
-                "Icon 65 Üst Modül",
+                "20IN02065.01.00.01",
+                "Icon 65 Aynalı Dolap",
                 "650 x 700 x 170"
             ],
             [
-                "IC 1300",
+                "20IN02065",
                 "Icon 65 Set",
                 "-"
             ],
             [
-                "IC 1210",
+                "20IN01080.01.00.01",
                 "Icon 80 Alt Modül",
                 "770 x 500 x 433"
             ],
             [
-                "IC 1220",
-                "Icon 80 Üst Modül",
+                "20IN02080.01.00.01",
+                "Icon 80 Aynalı Dolap",
                 "791 x 700 x 170"
             ],
             [
-                "IC 1200",
+                "20IN02080",
                 "Icon 80 Set",
                 "-"
             ]
         ],
         "highlights": [
             "Gövde ve Kapaklar MDF Lam",
-            "Yavaş Kapanır Kapak",
-            "ICON 65: TIN 065 - LIN 065",
-            "ICON 80: TIN 080 - LIN 080"
+            "Yavaş Kapanır Kapak"
         ],
         "attributes": [
             {
                 "label": "Renk Seçenekleri",
-                "value": "Antrasit, Beyaz, Keçe, Venezia, Otantik Meşe"
+                "value": "Beyaz"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Antrasit"
+            },
+            {
+                "label": "Renk Seçenekleri",
+                "value": "legnano"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/icon-65-80.53",
@@ -4588,13 +4505,13 @@
         "id": 112,
         "name": "Gala 100",
         "slug": "gala-100",
-        "code": "GL 1110",
+        "code": "Gala 100",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "gala-100.jpg"
+            "gala-100-beyaz-siyah-1795203923.jpg"
         ],
         "documents": [
             {
@@ -4610,24 +4527,24 @@
         ],
         "spec_rows": [
             [
-                "GL 1110",
+                "20GL01100.24.00.01",
                 "Gala 100 Alt Modül",
-                "1000 x 600 x 460"
+                "100 x 60 x 46 cm"
             ],
             [
-                "GL 1120",
-                "Gala 100 Üst Modül",
-                "1000 x 700 x 110"
+                "20GL07100.24.00.01",
+                "Ledli Ayna",
+                "80x65 cm"
             ],
             [
-                "GL 1100",
-                "Gala 100 Set",
-                "-"
-            ],
-            [
-                "GL 2300",
+                "20GL04040.24.00.01",
                 "Gala Boy Dolap",
-                "1300 x 400 x 280"
+                "130 x 40 x 28 cm"
+            ],
+            [
+                "70SM23052.00.1.3.01",
+                "Smooth Line 52",
+                "52 cm"
             ]
         ],
         "highlights": [
@@ -4639,15 +4556,11 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "TEZ 345"
-            },
-            {
                 "label": "Renk Seçenekleri",
                 "value": "Beyaz"
             },
             {
-                "label": "Yardımcı Renk",
+                "label": "Renk Seçenekleri",
                 "value": "Siyah"
             }
         ],
@@ -8181,13 +8094,13 @@
         "id": 196,
         "name": "Plus 45",
         "slug": "plus-45",
-        "code": "PL 1510",
+        "code": "Plus 45",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "plus-venezia-beyaz-1795087558.jpg"
+            "plus-beyaz-venezia-1795208342.jpg"
         ],
         "documents": [
             {
@@ -8251,7 +8164,7 @@
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "slim-45-cm-antrasit-beyaz-1795087381.jpg"
+            "slim-45-cm-antrasit-beyaz-1795208424.jpg"
         ],
         "documents": [
             {
@@ -9046,7 +8959,8 @@
             ]
         ],
         "name_en": "New Line 90 cm",
-        "features_en": "Cabinet-Compatible Washbasin"
+        "features_en": "Cabinet-Compatible Washbasin",
+        "collection": "new-line"
     },
     {
         "id": 219,
@@ -9122,9 +9036,24 @@
             "Mobilya Kullanımına Uygun Değil",
             "Montaj Seti Dahil Değil"
         ],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
+        "spec_rows": [
+            [
+                "70SF20060",
+                "Lavabo",
+                "A22"
+            ]
+        ],
         "name_en": "Efekta Washbasin 60x50",
         "features_en": "Pedestal Washbasin",
         "collection": "efekta-serisi"
@@ -9132,7 +9061,7 @@
     {
         "id": 221,
         "name": "İnkum Asma Klozet",
-        "slug": "inkum-asma-klozet",
+        "slug": "i-nkum-asma-klozet",
         "code": "70IN02001",
         "category_id": 1,
         "subcategory_id": 103,
@@ -9153,9 +9082,24 @@
             "Montaj Seti Dahil Değildir",
             "Klojet Kapağı Dahil Değildir"
         ],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
+        "spec_rows": [
+            [
+                "70IN02001",
+                "Asma Klozet",
+                "K12/A18"
+            ]
+        ],
         "name_en": "İnkum Wall-Hung Toilet",
         "features_en": "Wall-Hung Toilet",
         "collection": "inkum-serisi"
@@ -9180,9 +9124,24 @@
         ],
         "featured": false,
         "highlights": [],
-        "attributes": [],
-        "spec_columns": [],
-        "spec_rows": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz"
+            }
+        ],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "PALET/AD."
+        ],
+        "spec_rows": [
+            [
+                "70TT44001",
+                "Tuvalet Taşı",
+                "A28"
+            ]
+        ],
         "name_en": "New Peripheral Flush Squat Toilet",
         "features_en": "Peripheral Flush Squat Toilet"
     },
@@ -9215,7 +9174,7 @@
         "spec_rows": [
             [
                 "70SP58001",
-                "",
+                "Ara Bölme",
                 "K15"
             ]
         ],
