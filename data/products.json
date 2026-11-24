@@ -986,22 +986,17 @@
     },
     {
         "id": 26,
-        "name": "Granada 105",
-        "slug": "granada-105",
-        "code": "",
+        "name": "Alvin 80 cm",
+        "slug": "alvin-80-cm",
+        "code": "Alvin 80 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "granada-105.jpg"
+            "alvin-yeni-1795520215.jpg"
         ],
-        "documents": [
-            {
-                "name": "granada_105_olculer",
-                "file": "assets/documents/granada_105_olculer.pdf"
-            }
-        ],
+        "documents": [],
         "featured": false,
         "spec_columns": [
             "ÜRÜN KODU",
@@ -1010,29 +1005,36 @@
         ],
         "spec_rows": [
             [
-                "GRN 1110",
-                "Granada 105 Alt Modül",
-                "1050 x 480 x 475"
+                "20AL01080.16.00.01",
+                "Alvin 80 Alt Modül",
+                "80 cm"
             ],
             [
-                "GRN 1120",
-                "Granada 105 Üst Modül",
-                "600 x 900 x 36"
+                "20AL07001.01.00.01",
+                "Alvin 80 Ledli Ayna",
+                "60x70 cm"
             ],
             [
-                "GRN 1100",
-                "Granada 105 Set",
-                "-"
+                "20AL04040.16.00.01",
+                "Alvin 80 Boy Dolap",
+                "40x154x32 cm"
             ],
             [
-                "GRN 2300",
-                "Granada Boy Dolap",
-                "440 x 1120 x 350"
+                "70ML21080.00.1.3.01",
+                "Melt 80 cm",
+                "80 cm"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/granada-105.19",
-        "name_en": "Granada 105",
-        "features_en": "Bathroom Furniture"
+        "name_en": "Alvin 80 cm",
+        "features_en": "Bathroom Furniture",
+        "highlights": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Lacivert , Beyaz"
+            }
+        ]
     },
     {
         "id": 27,
