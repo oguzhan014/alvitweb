@@ -867,20 +867,20 @@
     },
     {
         "id": 24,
-        "name": "Craft 105",
-        "slug": "craft-105",
-        "code": "",
+        "name": "Altera 120",
+        "slug": "altera-120",
+        "code": "Altera 120",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "craft-105.jpg"
+            "altera-1200-1795518021.png"
         ],
         "documents": [
             {
-                "name": "craft_105_olculer",
-                "file": "assets/documents/craft_105_olculer.pdf"
+                "name": "Altera 120 Ölçüler",
+                "file": "assets/documents/urunler/altera-120-cm-dolap-teknik-cizimi-1795518057.pdf"
             }
         ],
         "featured": false,
@@ -891,46 +891,58 @@
         ],
         "spec_rows": [
             [
-                "CRA 1110",
-                "Craft 105 Alt Modül",
-                "1040 x 480 x 500"
+                "20AT01120.16.00.01",
+                "Altera 120 Alt Modül",
+                "120 cm"
             ],
             [
-                "CRA 1120",
-                "Craft 105 Üst Modül",
-                "-"
+                "20AT02120.16.00.01",
+                "Altera 120 Üst Modül",
+                "34x84x16"
             ],
             [
-                "CRA 1100",
-                "Craft 105 Set",
-                "-"
+                "20AT07001.10.00.01",
+                "Altera 120 Ledli Ayna",
+                "50x100 cm"
             ],
             [
-                "CRA 2200",
-                "Craft Boy Dolap",
-                "340 x 1180 x 320"
+                "20AT04040.16.00.01",
+                "Altera 120 Boy Dolap",
+                "40x90x31 cm"
+            ],
+            [
+                "70SM23062.01.1.3.01",
+                "Smooth Line 62 cm",
+                ""
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/craft-105.17",
-        "name_en": "Craft 105",
-        "features_en": "Bathroom Furniture"
+        "name_en": "Altera 120",
+        "features_en": "Bathroom Furniture",
+        "highlights": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Lacivert , Yeşil , Beyaz"
+            }
+        ]
     },
     {
         "id": 25,
-        "name": "Mimoza 130",
-        "slug": "mimoza-130",
-        "code": "",
+        "name": "Altera 80",
+        "slug": "altera-80",
+        "code": "Altera 80",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "mimoza-130.jpg"
+            "altera-80-1795518510.jpg"
         ],
         "documents": [
             {
-                "name": "mimoza_130_olculer",
-                "file": "assets/documents/mimoza_130_olculer.pdf"
+                "name": "Altera 80 Ölçüler",
+                "file": "assets/documents/urunler/altera-80-cm-dolap-teknik-cizimi-1795518510.pdf"
             }
         ],
         "featured": false,
@@ -941,29 +953,36 @@
         ],
         "spec_rows": [
             [
-                "MIM 1110",
-                "Mimoza 130 Alt Modül",
-                "1310 x 340 x 500"
+                "20AT01080.16.00.01",
+                "Altera 80 Alt Modül",
+                "80 cm"
             ],
             [
-                "MIM 1120",
-                "Mimoza 130 Üst Modül",
-                "-"
+                "20AT07001.10.00.01",
+                "Altera 80 Ledli Ayna",
+                "50x100 cm"
             ],
             [
-                "MIM 1100",
-                "Mimoza 130 Set",
-                "-"
+                "20AT04040.16.00.01",
+                "Altera 80 Boy Dolabı",
+                "40x90x31 cm"
             ],
             [
-                "MIM 2200",
-                "Mimoza Boy Dolap",
-                "365 x 1250 x 325"
+                "70SM23062.01.1.3.01",
+                "Smooth Line 62 cm",
+                ""
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/mimoza-130.18",
-        "name_en": "Mimoza 130",
-        "features_en": "Bathroom Furniture"
+        "name_en": "Altera 80",
+        "features_en": "Bathroom Furniture",
+        "highlights": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Lacivert , Yeşil , Beyaz"
+            }
+        ]
     },
     {
         "id": 26,
