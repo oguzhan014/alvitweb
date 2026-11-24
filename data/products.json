@@ -1038,20 +1038,20 @@
     },
     {
         "id": 27,
-        "name": "Carelia 80",
-        "slug": "carelia-80",
-        "code": "",
+        "name": "Iris 115 cm",
+        "slug": "iris-115-cm",
+        "code": "Iris 115 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "carelia-80.jpg"
+            "iris-115-cm-yesil-1795521606.jpg"
         ],
         "documents": [
             {
-                "name": "carelia_80_olculer",
-                "file": "assets/documents/carelia_80_olculer.pdf"
+                "name": "Irıs 115 Ölçüler",
+                "file": "assets/documents/urunler/iris-1-115-cm-teknik-cizim-compressed-1795521784.pdf"
             }
         ],
         "featured": false,
@@ -1062,29 +1062,36 @@
         ],
         "spec_rows": [
             [
-                "CAR 1110",
-                "Carelia 80 Alt Modül",
-                "773 x 500 x 500"
+                "20IS01115.22.00.01",
+                "Alvin 115 Alt Modül",
+                "115 cm"
             ],
             [
-                "CAR 1120",
-                "Carelia 80 Üst Modül",
-                "620 x 900 x 36"
+                "20IS03001.22.00.01",
+                "Alvin 115 Ayna",
+                "76x100 cm"
             ],
             [
-                "CAR 1100",
-                "Carelia 80 Set",
-                "-"
+                "20IS04039.22.00.01",
+                "Alvin 115 Boy Dolap",
+                "39x90x30 cm"
             ],
             [
-                "CAR 2300",
-                "Carelia İkili Boy Dolap",
-                "340 x 1345 x 300"
+                "70RL23060.30.1.3.01",
+                "Rapid Line 60 cm",
+                "60 cm"
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/carelia-80.20",
-        "name_en": "Carelia 80",
-        "features_en": "Bathroom Furniture"
+        "name_en": "Iris 115 cm",
+        "features_en": "Bathroom Furniture",
+        "highlights": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "beyaz, gold, yeşil"
+            }
+        ]
     },
     {
         "id": 28,
@@ -1155,7 +1162,7 @@
         "id": 29,
         "name": "Venus 100",
         "slug": "venus-100",
-        "code": "",
+        "code": "Venus 100",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
@@ -1177,51 +1184,93 @@
         ],
         "spec_rows": [
             [
-                "VNS 1110",
+                "20VS01100.01.00.02",
                 "Venüs 100 Alt Modül",
-                "970 x 433 x 845"
+                "100 cm"
             ],
             [
-                "VNS 1120",
-                "Venüs 100 Üst Modül",
-                "1000 x 700 x 180"
+                "20VS02100.01.00.01",
+                "Venüs 100 Aynalı Dolap",
+                "100x70x18 cm"
             ],
             [
-                "VNS 1100",
-                "Venüs 100 Set",
-                "-"
+                "20VS04035.01.00.01",
+                "Venüs 100 Boy Dolabı",
+                "35x145x32 cm"
             ],
             [
-                "VNS 2300",
-                "Venüs Boy Dolap",
-                "350 x 1450 x 320"
+                "70AQ21100.00.1.3.01",
+                "Aquasol Line 100 cm",
+                ""
             ]
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/venus-100.22",
         "name_en": "Venus 100",
         "features_en": "Bathroom Furniture",
         "highlights": [],
-        "attributes": []
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz , Antrasit , Gri"
+            }
+        ]
     },
     {
         "id": 30,
-        "name": "Barcelona 100",
-        "slug": "barcelona-100",
-        "code": "",
+        "name": "Opus 110",
+        "slug": "opus-110",
+        "code": "Opus 110",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "barcelona-100.jpg"
+            "opus-110-cm-beyaz-1795522530.jpg"
         ],
-        "documents": [],
+        "documents": [
+            {
+                "name": "Opus 110 ölçüler",
+                "file": "assets/documents/urunler/model-5-alt-modul-compressed-1795522778.pdf"
+            }
+        ],
         "featured": false,
-        "spec_columns": [],
-        "spec_rows": [],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "ölçüler"
+        ],
+        "spec_rows": [
+            [
+                "20OP01110.01.0.0.02",
+                "Opus Alt Modül",
+                "110 cm"
+            ],
+            [
+                "20OP0780.01.0.0.01",
+                "Opus Ayna",
+                "80 cm"
+            ],
+            [
+                "20OP04055.01.0.0.02",
+                "Opus Boy Ayna",
+                "57x130x34 cm"
+            ],
+            [
+                "70RL23051.00.1.3.01",
+                "50 cm",
+                ""
+            ]
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/barcelona-100.23",
-        "name_en": "Barcelona 100",
-        "features_en": "Bathroom Furniture"
+        "name_en": "Opus 110",
+        "features_en": "Bathroom Furniture",
+        "highlights": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "Beyaz , Antrasit ,"
+            }
+        ]
     },
     {
         "id": 50,
@@ -2659,42 +2708,72 @@
     },
     {
         "id": 85,
-        "name": "Madrid 85",
-        "slug": "madrid-85",
-        "code": "",
+        "name": "Iris 80 cm",
+        "slug": "iris-80-cm",
+        "code": "Iris 80 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "madrid-85.jpg"
+            "iris-80-beyaz-1795523169.jpg"
         ],
-        "documents": [],
+        "documents": [
+            {
+                "name": "Iris 80 Ölçüler",
+                "file": "assets/documents/urunler/iris-2-80-cm-teknik-cizim-compressed-1795523220.pdf"
+            }
+        ],
         "featured": false,
-        "spec_columns": [],
-        "spec_rows": [],
+        "spec_columns": [
+            "KOD",
+            "ÜRÜN ÖZELLİKLERİ",
+            "Ölçüler"
+        ],
+        "spec_rows": [
+            [
+                "20IS01080.22.01.01",
+                "Irıs 80 Alt Modül",
+                "80 cm"
+            ],
+            [
+                "20IS03001.22.00.01",
+                "Irıs 80 Ayna",
+                "76x100 cm"
+            ],
+            [
+                "20IS04039.22.00.01",
+                "Iris 80 Boy Dolap",
+                "39x90x30 cm"
+            ]
+        ],
         "highlights": [],
-        "attributes": [],
+        "attributes": [
+            {
+                "label": "Renk Seçenekleri",
+                "value": "beyaz, gold, yeşil"
+            }
+        ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/madrid-85.24",
-        "name_en": "Madrid 85",
+        "name_en": "Iris 80 cm",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 86,
-        "name": "Despina 100",
-        "slug": "despina-100",
-        "code": "DS 1110",
+        "name": "Otto 120 cm",
+        "slug": "otto-120-cm",
+        "code": "Otto 120 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "despina-100.jpg"
+            "otto-01-1795524706.jpg"
         ],
         "documents": [
             {
-                "name": "despina_100_olculer",
-                "file": "assets/documents/despina_100_olculer.pdf"
+                "name": "Otto 1 - 120 cm Teknik Çizim_compressed",
+                "file": "assets/documents/urunler/otto-1-120-cm-teknik-cizim-compressed-1795524782.pdf"
             }
         ],
         "featured": false,
@@ -2705,24 +2784,24 @@
         ],
         "spec_rows": [
             [
-                "DS 1110",
-                "Despina 100 Alt Modül",
-                "1060 x 850 x 500"
+                "20OT01120.62.00.01",
+                "Otto 120 Alt Modül",
+                "120 cm"
             ],
             [
-                "DS 1120",
-                "Despina 100 Üst Modül",
-                "620 x 620 x 30"
+                "20OT07001.62.00.01",
+                "Otto 120 Ledli Ayna",
+                "100 cm"
             ],
             [
-                "DS 1100",
-                "Despina 100 Set",
-                "-"
+                "20OT04034.62.00.01",
+                "Otto 120 cm Boy Dolap",
+                "63x100 cm"
             ],
             [
-                "DS 2300",
-                "Despina Boy Dolap",
-                "1340 x 440 x 320"
+                "70SM23062.07.1.3.01",
+                "Smooth Lİne 62 cm",
+                "35x130x32 cm"
             ]
         ],
         "highlights": [
@@ -2733,40 +2812,27 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "TEZ 170"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Beyaz"
-            },
-            {
-                "label": "Yardımcı Renk",
-                "value": "Beyaz"
+                "value": "Beyaz , Ceviz , Antrasit"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/despina-100.25",
-        "name_en": "Despina 100",
+        "name_en": "Otto 120 cm",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 87,
-        "name": "Zeblin 100",
-        "slug": "zeblin-100",
-        "code": "ZBL 1210",
+        "name": "Otto 100",
+        "slug": "otto-100",
+        "code": "Otto 100",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "zeblin-100.jpg"
+            "otto-120-cm-anrasit-ceviz-1795525160.jpg"
         ],
-        "documents": [
-            {
-                "name": "zeblin_100_olculer",
-                "file": "assets/documents/zeblin_100_olculer.pdf"
-            }
-        ],
+        "documents": [],
         "featured": false,
         "spec_columns": [
             "ÜRÜN KODU",
@@ -2775,24 +2841,24 @@
         ],
         "spec_rows": [
             [
-                "ZBL 1210",
-                "Zeblin 100 Alt Modül",
-                "1010 x 433 x 581"
+                "20OT01100.62.00.01",
+                "Otto 100 Alt Modül",
+                "120 cm"
             ],
             [
-                "ZBL 1220",
-                "Zeblin 100 üst Modül",
-                "736 x 850 x 18"
+                "20OT07001.62.00.01",
+                "Otto 100 Ledli Ayna",
+                "63x100 cm"
             ],
             [
-                "ZBL 1200",
-                "Zeblin 100 Set",
-                "-"
+                "20OT04034.62.00.01",
+                "Otto 100 Boy Dolabı",
+                "35x130x32 cm"
             ],
             [
-                "ZBL 2300",
-                "Zeblin İkili Boy Dolap",
-                "420 x 1640 x 330"
+                "70SM23062.07.1.3.01",
+                "Smooth Line 62 cm",
+                ""
             ]
         ],
         "highlights": [
@@ -2804,38 +2870,30 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabolar",
-                "value": "TIN 100 - LIN 100"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Mat Beyaz"
-            },
-            {
-                "label": "Yardımcı Renk",
-                "value": "Siyah"
+                "value": "Krem, ceviz , antrasit"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/zeblin-100.26",
-        "name_en": "Zeblin 100",
+        "name_en": "Otto 100",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 88,
-        "name": "Zeblin 80",
-        "slug": "zeblin-80",
-        "code": "ZBL 1210",
+        "name": "Astoria 120 cm",
+        "slug": "astoria-120-cm",
+        "code": "Astoria 120 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "zeblin-80.jpg"
+            "astoria-1200-1795525598.jpg"
         ],
         "documents": [
             {
-                "name": "zeblin_80_olculer",
-                "file": "assets/documents/zeblin_80_olculer.pdf"
+                "name": "Astoria 120 cm ölçüler",
+                "file": "assets/documents/urunler/astoria-120-cm-dolap-teknik-cizimi-1795525598.pdf"
             }
         ],
         "featured": false,
@@ -2846,24 +2904,29 @@
         ],
         "spec_rows": [
             [
-                "ZBL 1210",
-                "Zeblin 80 Alt Modül",
-                "810 x 435 x 581"
+                "20AS01120.56.00.02",
+                "Astoria 120 Alt Modül",
+                "120 cm"
             ],
             [
-                "ZBL 1220",
-                "Zeblin 80 üst Modül",
-                "736 x 850 x 18"
+                "20AS02120.56.00.01",
+                "Astoria 120 Üst Modül",
+                "26x84x17 cm"
             ],
             [
-                "ZBL 1200",
-                "Zeblin 80 Set",
-                "-"
+                "20AS07001.01.00.01",
+                "Astoria 120 cm Ledli Ayna",
+                "60x84 cm"
             ],
             [
-                "ZBL 2300",
-                "Zeblin İkili Boy Dolap",
-                "420 x 1640 x 330"
+                "20AS04040.56.00.01",
+                "Astoria 120 cm Boy Dolabı",
+                "40x119x32 cm"
+            ],
+            [
+                "70RL23051.01.3.01",
+                "Rapid Line 50 cm",
+                ""
             ]
         ],
         "highlights": [
@@ -2875,38 +2938,30 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "TIN 080 - LIN 080"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Mat Beyaz"
-            },
-            {
-                "label": "Yardımcı Renk",
-                "value": "Siyah"
+                "value": "Gri, Meşe, Antrasit, Beyaz"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/zeblin-80.27",
-        "name_en": "Zeblin 80",
+        "name_en": "Astoria 120 cm",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 89,
-        "name": "Diamond 100",
-        "slug": "diamond-100",
-        "code": "DIA 1210",
+        "name": "Astoria 100",
+        "slug": "astoria-100",
+        "code": "Astoria 100",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "diamond-100.jpg"
+            "astoria-100-1795525949.jpg"
         ],
         "documents": [
             {
-                "name": "diamond_100_olculer",
-                "file": "assets/documents/diamond_100_olculer.pdf"
+                "name": "Astoria 100 cm ölçüler",
+                "file": "assets/documents/urunler/astoria-100-cm-dolap-teknik-cizimi-1795525949.pdf"
             }
         ],
         "featured": false,
@@ -2917,24 +2972,29 @@
         ],
         "spec_rows": [
             [
-                "DIA 1210",
-                "Diamond 100 Alt Modül",
-                "1000 x 480 x 500"
+                "20AS01100.56.00.02",
+                "Astoria 100 Alt Modül",
+                "100 cm"
             ],
             [
-                "DIA 1220",
-                "Diamond 100 Üst Modül",
-                "-"
+                "20AS02120.56.00.01",
+                "Astoria 100 Üst Modül",
+                "26x84x27 cm"
             ],
             [
-                "DIA 1200",
-                "Diamond 100 Set",
-                "-"
+                "20AS07001.01.00.01",
+                "Astoria 100 Ledli Ayna",
+                "60x84 cm"
             ],
             [
-                "DIA 2300",
-                "Diamond Boy Dolap",
-                "400 x 1250 x 320"
+                "20AS04040.56.00.01",
+                "Astoria 100 Boy Dolap",
+                "40x119x32 cm"
+            ],
+            [
+                "70RL23051.01.3.01",
+                "Rapid Line 50 cm",
+                ""
             ]
         ],
         "highlights": [
@@ -2947,38 +3007,30 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "TEZ 047"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Otantik Meşe"
-            },
-            {
-                "label": "Yardımcı Renk",
-                "value": "Siyah, Beyaz"
+                "value": "Gri , meşe , antrasit, beyaz"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/diamond-100.28",
-        "name_en": "Diamond 100",
+        "name_en": "Astoria 100",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 90,
-        "name": "Victor 80",
-        "slug": "victor-80",
-        "code": "VC 1210",
+        "name": "Crown 100",
+        "slug": "crown-100",
+        "code": "Crown 100",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "victor-80.jpg"
+            "crown-100-cm-antrasit-1795526392.jpg"
         ],
         "documents": [
             {
-                "name": "victor_80_olculer",
-                "file": "assets/documents/victor_80_olculer.pdf"
+                "name": "Crown 100 cm ölçüler",
+                "file": "assets/documents/urunler/crown-teknik-cizimi-compressed-1795526436.pdf"
             }
         ],
         "featured": false,
@@ -2989,29 +3041,24 @@
         ],
         "spec_rows": [
             [
-                "VC 1210",
-                "Victor 80 Alt modül",
-                "800 x 530 x 450"
+                "20CR01100.08.0.0.01",
+                "Crown 80 Alt modül",
+                "100 cm"
             ],
             [
-                "VC 1220",
-                "Victor 80 Üst Modül",
-                "760 x 700 x 180"
+                "20CR02100.08.0.0.01",
+                "Crown 80 Üst Modül",
+                "107x74x14 cm"
             ],
             [
-                "VC 1200",
-                "Victor 80 Set",
-                "-"
+                "20CR04040.08.0.0.01",
+                "Crown 80 Boy Dolap",
+                "47x154x32 cm"
             ],
             [
-                "VC 2300",
-                "Victor Boy Dolap",
-                "1550 x 325 x 320"
-            ],
-            [
-                "VC 2310",
-                "Victor Tasarım Dolap",
-                "1800 x 450 x 350"
+                "70CR21107.00.1.3.01",
+                "Crown 107 cm",
+                ""
             ]
         ],
         "highlights": [
@@ -3021,20 +3068,12 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "LIN 080"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Keçe"
-            },
-            {
-                "label": "Yardımcı Renk",
-                "value": "Siyah"
+                "value": "Beyaz , Antrasit ,"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/victor-80.29",
-        "name_en": "Victor 80",
+        "name_en": "Crown 100",
         "features_en": "Bathroom Furniture"
     },
     {
@@ -3105,20 +3144,20 @@
     },
     {
         "id": 92,
-        "name": "Arwen 90",
-        "slug": "arwen-90",
-        "code": "AW 1210",
+        "name": "Crown 85",
+        "slug": "crown-85",
+        "code": "Crown 85",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "arwen-90.jpg"
+            "model3-4-1795527252.jpg"
         ],
         "documents": [
             {
-                "name": "arwen_90_olculer",
-                "file": "assets/documents/arwen_90_olculer.pdf"
+                "name": "Crown 85 cm ölçüler",
+                "file": "assets/documents/urunler/crown-teknik-cizimi-compressed-1795527174.pdf"
             }
         ],
         "featured": false,
@@ -3129,24 +3168,24 @@
         ],
         "spec_rows": [
             [
-                "AW 1210",
-                "Arwen 90 Alt Modül",
-                "900 x 360 x 500"
+                "20CR01085.08.0.0.01",
+                "Crown 85 cm Alt Modül",
+                "85 cm"
             ],
             [
-                "AW 1220",
-                "Arwen 90 Üst Modül",
-                "900 x 960 x 18"
+                "20CR02085.08.0.0.01",
+                "Crown 85 Aynalı Dolap",
+                "85x74x14 cm"
             ],
             [
-                "AW 1200",
-                "Arwen 90 Set",
-                "-"
+                "20CR04040.08.0.0.01",
+                "Crown 85 Boy Dolabı",
+                "47x154x32 cm"
             ],
             [
-                "AW 2300",
-                "Arwen Boy Dolap",
-                "1080 x 390 x 320"
+                "70CR21107.00.1.3.01",
+                "Crown 107 cm",
+                ""
             ]
         ],
         "highlights": [
@@ -3159,38 +3198,30 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "ARK 060 (Siyah)"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Siyah"
-            },
-            {
-                "label": "Yardımcı Renk",
-                "value": "Masif Ahşap"
+                "value": "Antrasit , Beyaz"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/arwen-90.31",
-        "name_en": "Arwen 90",
+        "name_en": "Crown 85",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 93,
-        "name": "Kios 60",
-        "slug": "kios-60",
-        "code": "KIO 1110",
+        "name": "Carion 180 cm Çift Lavabolu",
+        "slug": "carion-180-cm-cift-lavabolu",
+        "code": "Carion 180",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "kios-60.jpg"
+            "1-1-1795528090.jpg"
         ],
         "documents": [
             {
-                "name": "kios_60_olculer",
-                "file": "assets/documents/kios_60_olculer.pdf"
+                "name": "Carion 180 ölçüler",
+                "file": "assets/documents/urunler/cari-on-cift-lavabolu-dolap-180-cm-teknik-cizimi-1795528194.pdf"
             }
         ],
         "featured": false,
@@ -3201,19 +3232,29 @@
         ],
         "spec_rows": [
             [
-                "KIO 1110",
-                "Kios 60 Alt Modül",
-                "600 x 850 x 450"
+                "20CN01180.12.00.01",
+                "Carion 180 cm Alt Modül",
+                "180 cm"
             ],
             [
-                "KIO 1120",
-                "Kios 60 Üst Modül",
-                "600 x 750 x 30"
+                "20CN02180.12.00.01",
+                "Carion 180 cm Üst Modül",
+                "30x91x16 cm"
             ],
             [
-                "KIO 1100",
-                "Kios 60 Set",
-                "-"
+                "20CN07001.10.00.01",
+                "Carion  180 cm Ledli Ayna",
+                "50x100 cm"
+            ],
+            [
+                "20CN04040.12.00.01",
+                "Carion 180 cm Boy Dolabı",
+                "40x154x32 cm"
+            ],
+            [
+                "70RL23051.01.3.01",
+                "Rapid Line 50 cm",
+                ""
             ]
         ],
         "highlights": [
@@ -3223,16 +3264,12 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "ARK 060 (Siyah), ARK 060 (Beyaz)"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Siyah"
+                "value": "Gri , Lacivert , Beyaz"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/kios-60.33",
-        "name_en": "Kios 60",
+        "name_en": "Carion 180 cm",
         "features_en": "Bathroom Furniture"
     },
     {
