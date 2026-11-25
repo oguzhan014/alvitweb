@@ -3344,20 +3344,20 @@
     },
     {
         "id": 95,
-        "name": "Adel 80",
-        "slug": "adel-80",
-        "code": "AD 1210",
+        "name": "Carion 180 cm Tek Lavabolu",
+        "slug": "carion-180-cm-tek-lavabolu",
+        "code": "Carion 180 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "adel-80.jpg"
+            "2-1795589023.jpg"
         ],
         "documents": [
             {
-                "name": "adel_80_olculer",
-                "file": "assets/documents/adel_80_olculer.pdf"
+                "name": "Carion - Tek Lavabolu Dolap 180 cm Teknik Çizimi (1)",
+                "file": "assets/documents/urunler/carion-tek-lavabolu-dolap-180-cm-teknik-cizimi-1-1795589210.pdf"
             }
         ],
         "featured": false,
@@ -3368,24 +3368,29 @@
         ],
         "spec_rows": [
             [
-                "AD 1210",
-                "Adel 80 Alt Modül",
-                "766 x 530 x 433"
+                "20CN01181.12.00.01",
+                "Carion 180 Alt Modül",
+                "180 cm"
             ],
             [
-                "AD 1220",
-                "Adel 80 Üst Modül",
-                "760 x 750 x 180"
+                "20CN02180.12.00.01",
+                "Carion 180 Üst Modül",
+                "30x91x16 cm"
             ],
             [
-                "AD 1200",
-                "Adel 80 Set",
-                "-"
+                "20CN07001.10.00.01",
+                "Carion 180 Ledli Ayna",
+                "50x100 cm"
             ],
             [
-                "AD 2300",
-                "Adel Boy Dolap",
-                "400 x 1400 x 320"
+                "20CN04040.12.00.01",
+                "Carion 180 Boy Dolap",
+                "40x154x32 cm"
+            ],
+            [
+                "70RL23051.01.3.01",
+                "Rapid Line 50 cm",
+                ""
             ]
         ],
         "highlights": [
@@ -3395,38 +3400,30 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "TIN 080"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Keçe"
-            },
-            {
-                "label": "Yardımcı Renk",
-                "value": "Beyaz, Antrasit"
+                "value": "Gri , Lacivert , Beyaz"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/adel-80.35",
-        "name_en": "Adel 80",
+        "name_en": "Carion 180 cm",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 96,
-        "name": "Arya 100",
-        "slug": "arya-100",
-        "code": "AY 1110",
+        "name": "Forte 80 cm",
+        "slug": "forte-80-cm",
+        "code": "Forte 80 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "arya-100.jpg"
+            "1-forte-80-cm-1795590047.jpg"
         ],
         "documents": [
             {
-                "name": "arya_100_olculer",
-                "file": "assets/documents/arya_100_olculer.pdf"
+                "name": "Forte 80 ölçüler",
+                "file": "assets/documents/urunler/80lik-cift-kapakli-model-compressed-1795590092.pdf"
             }
         ],
         "featured": false,
@@ -3437,24 +3434,29 @@
         ],
         "spec_rows": [
             [
-                "AY 1110",
-                "Arya 100 Alt Modül",
-                "1000 x 530 x 460"
+                "20FE09080.60.0.0.01",
+                "Forte 80 cm Alt Modül",
+                "80 cm"
             ],
             [
-                "AY 1120",
-                "Arya 100 Üst Modül",
-                "1000 x 700 x 200"
+                "20FE07060.60.0.0.01",
+                "Forte 80 Ledli Ayna",
+                "60x70 cm"
             ],
             [
-                "AY 1100",
-                "Arya 100 Set",
-                "-"
+                "20FE04040.60.0.0.01",
+                "Forte 80 cm Boy Dolabı",
+                "40x137x23 cm"
             ],
             [
-                "AY 2200",
-                "Arya Dolap",
-                "1600 x 350 x 380"
+                "70RL23060.30.1.3.01",
+                "Rapid Line 60 cm",
+                "Parlak Siyah"
+            ],
+            [
+                "70RL23060.00.1.3.01",
+                "Rapid Line 60 cm",
+                "Beyaz"
             ]
         ],
         "highlights": [
@@ -3465,38 +3467,30 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "TIN 100"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Keçe, Venezia, Beyaz"
-            },
-            {
-                "label": "Yardımcı Renk",
-                "value": "Beyaz"
+                "value": "cappucino ,siyah"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/arya-100.37",
-        "name_en": "Arya 100",
+        "name_en": "Forte 80 cm",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 97,
-        "name": "Arya 65-80",
-        "slug": "arya-65-80",
-        "code": "AY 1310",
+        "name": "Forte 60 cm",
+        "slug": "forte-60-cm",
+        "code": "Forte 60 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "arya-65-80.jpg"
+            "2-forte-60-cm-1795590706.jpg"
         ],
         "documents": [
             {
-                "name": "arya_65_80_olculer",
-                "file": "assets/documents/arya_65_80_olculer.pdf"
+                "name": "Forte 60 ölçüler",
+                "file": "assets/documents/urunler/60lik-cift-kapakli-model-compressed-1795590754.pdf"
             }
         ],
         "featured": false,
@@ -3507,74 +3501,58 @@
         ],
         "spec_rows": [
             [
-                "AY 1310",
-                "Arya 65 Alt Modül",
-                "650 x 530 x 460"
+                "20FE09060.60.0.0.01",
+                "Forte 60 cm Alt Modül",
+                "60 cm"
             ],
             [
-                "AY 1320",
-                "Arya 65 Üst Modül",
-                "650 x 700 x 200"
+                "20FE07060.60.0.0.01",
+                "Forte 60 cm  Ledli Ayna",
+                "60x70 cm"
             ],
             [
-                "AY 1300",
-                "Arya 65 Set",
-                "-"
+                "70RL23060.00.1.3.01",
+                "Rapid Line 60 cm",
+                "Beyaz"
             ],
             [
-                "AY 1210",
-                "Arya 80 Alt Modül",
-                "800 x 530 x 460"
-            ],
-            [
-                "AY 1220",
-                "Arya 80 Üst Modül",
-                "800 x 700 x 200"
-            ],
-            [
-                "AY 1200",
-                "Arya 80 Set",
-                "-"
+                "70RL23060.30.1.3.01",
+                "Rapid Line 60 cm",
+                "Parlak Siyah"
             ]
         ],
         "highlights": [
             "Gövde MDF Lam",
             "Kapaklar Membran Kaplama",
             "Softclose Özellikli Kapaklar",
-            "Ayna",
-            "Arya 65 - TIN 065",
-            "Arya 80 - TIN 080"
+            "Ayna"
         ],
         "attributes": [
             {
                 "label": "Renk Seçenekleri",
-                "value": "Abanoz, Venezia, Beyaz"
-            },
-            {
-                "label": "Yardımcı Renk",
-                "value": "Beyaz"
+                "value": "cappucino ,siyah"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/arya-65-80.38",
-        "name_en": "Arya 65-80",
+        "name_en": "Forte 60 cm",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 98,
-        "name": "Lizbon 80",
-        "slug": "lizbon-80",
-        "code": "LIZ 1110",
+        "name": "Imperia 180 cm Çift Lavabolu",
+        "slug": "imperia-180-cm-cift-lavabolu",
+        "code": "Imperia 180",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "lizbon-80.jpg"
+            "imperia-2-1795591540.jpg"
         ],
         "documents": [
             {
-                "name": "lizbon_80_olculer",
-                "file": "assets/documents/lizbon_80_olculer.pdf"
+                "name": "Imperia 180 cm Ölçüler",
+                "file": "assets/documents/urunler/imperia-cift-lavabolu-dolap-180-cm-teknik-cizimi-1795591540.pdf"
             }
         ],
         "featured": false,
@@ -3585,24 +3563,29 @@
         ],
         "spec_rows": [
             [
-                "LIZ 1110",
-                "Lizbon 80 Alt Modül",
-                "800 x 390 x 500"
+                "70IM01180.17.00.01",
+                "Imperia 180 cm Alt Modül",
+                "180 cm"
             ],
             [
-                "LIZ 1120",
-                "Lizbon 80 Üst Modül",
-                "800 x 700 x 180"
+                "70IM02180.17.00.01",
+                "Imperia 180 Üst Modül",
+                "30x91x16 cm"
             ],
             [
-                "LIZ 1100",
-                "Lizbon 80 Set",
-                "-"
+                "70IM07001.10.00.01",
+                "Imperia 180 Ledli Ayna",
+                "50x100 cm"
             ],
             [
-                "LIZ 2300",
-                "Lizbon Boy Dolap",
-                "400 x 1220 x 320"
+                "70IM04040.17.00.01",
+                "Imperia 180 Boy Dolabı",
+                "40x154x32 cm"
+            ],
+            [
+                "70RL23051.01.1.3.01",
+                "Rapid Line 50 cm",
+                ""
             ]
         ],
         "highlights": [
@@ -3614,34 +3597,30 @@
         ],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "ARK 060"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Royal Mermer"
+                "value": "Gri, Yeşil, Lacivert, Beyaz"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/lizbon-80.39",
-        "name_en": "Lizbon 80",
+        "name_en": "Imperia 180 cm",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 99,
-        "name": "Mostar 65-80",
-        "slug": "mostar-65-80",
-        "code": "MS 1210",
+        "name": "Imperia 180 cm Tek Lavabolu",
+        "slug": "imperia-180-cm-tek-lavabolu",
+        "code": "Imperia 180 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "mostar-65-80.jpg"
+            "imperia-1-1795592133.jpg"
         ],
         "documents": [
             {
-                "name": "mostar_65_80_olculer",
-                "file": "assets/documents/mostar_65_80_olculer.pdf"
+                "name": "Imperia - Tek Lavabolu Dolap 180 cm Teknik Çizimi",
+                "file": "assets/documents/urunler/imperia-tek-lavabolu-dolap-180-cm-teknik-cizimi-1795592133.pdf"
             }
         ],
         "featured": false,
@@ -3652,78 +3631,57 @@
         ],
         "spec_rows": [
             [
-                "MS 1210",
-                "Mostar 80 Alt Modül",
-                "800 x 500 x 433"
+                "20IM01181.17.00.01",
+                "Imperia 180 Alt Modül",
+                "180 cm"
             ],
             [
-                "MS 1220",
-                "Mostar 80 Üst Modül",
-                "800 x 750 x 180"
+                "20IM02180.17.00.01",
+                "Imperia 180 Üst Modül",
+                "30x91x16 cm"
             ],
             [
-                "MS 1200",
-                "Mostar 80 Set",
-                "-"
+                "20IM07001.10.00.01",
+                "Imperia 180 Ledli Ayna",
+                "50x100 cm"
             ],
             [
-                "MS 1310",
-                "Mostar 65 Alt modül",
-                "650 x 500 x 433"
-            ],
-            [
-                "MS 1320",
-                "Mostar 65 Üst Modül",
-                "650 x 750 x 180"
-            ],
-            [
-                "MS 1300",
-                "Mostar 65 Set",
-                "-"
-            ],
-            [
-                "MS 2300",
-                "Mostar Boy Dolap",
-                "1020 x 400 x 320"
+                "20IM04040.17.00.01",
+                "Imperia 180 Boy Dolabı",
+                "40x154x32  cm"
             ]
         ],
         "highlights": [
             "Gövde MDF Lam",
             "Kapaklar Membran",
-            "Softclose Özellikli Kapaklar",
-            "Mostar 65: TIN 065 (Siyah) - TIN 065 (Beyaz)",
-            "Mostar 80: TIN 080 (Siyah) - TIN 080(Beyaz)"
+            "Softclose Özellikli Kapaklar"
         ],
         "attributes": [
             {
                 "label": "Renk Seçenekleri",
-                "value": "Mat Beyaz"
-            },
-            {
-                "label": "Yardımcı Renk",
-                "value": "Beyaz"
+                "value": "Gri, Yeşil, Lacivert, Beyaz"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/mostar-65-80.40",
-        "name_en": "Mostar 65-80",
+        "name_en": "Imperia 180 cm Tek Lavabolu",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 100,
-        "name": "Roma 80",
-        "slug": "roma-80",
-        "code": "RM 1210",
+        "name": "Kemer 120 cm",
+        "slug": "kemer-120-cm",
+        "code": "Kemer 120 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "roma-80.jpg"
+            "yeni-mak-2-1795593288.jpg"
         ],
         "documents": [
             {
-                "name": "roma_80_olculer",
-                "file": "assets/documents/roma_80_olculer.pdf"
+                "name": "kemer- 120 cm çamaşı makinası Dolap Teknik Çizimi",
+                "file": "assets/documents/urunler/kemer-120-cm-camasi-makinasi-dolap-teknik-cizimi-1795593288.pdf"
             }
         ],
         "featured": false,
@@ -3734,64 +3692,43 @@
         ],
         "spec_rows": [
             [
-                "RM 1210",
-                "Roma 80 Alt Modül",
-                "800 x 615 x 433"
+                "20KM04070.01.00.01",
+                "Çamaşır ve Kurutma Makinesi",
+                "70 cm"
             ],
             [
-                "RM 1220",
-                "Roma 80 Üst Modül",
-                "766 x 718 x 18"
-            ],
-            [
-                "RM 1200",
-                "Roma 80 Set",
-                "-"
-            ],
-            [
-                "RM 2300",
-                "Roma Boy Dolap",
-                "1018 x 460 x 320"
+                "20KM04120.01.00.01",
+                "Boy Dolabı",
+                "120 cm"
             ]
         ],
-        "highlights": [
-            "Gövde MDF Lam",
-            "Desenli Cam Kapaklar",
-            "Demir Aksamlı Ayaklar",
-            "Softclose Özellikli Kapaklar",
-            "Ayna",
-            "Etejer"
-        ],
+        "highlights": [],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "TIN 080 (Siyah) - TIN 080 (Beyaz)"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Patik"
+                "value": "Beyaz , Antrasit"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/roma-80.41",
-        "name_en": "Roma 80",
+        "name_en": "Kemer 120 cm",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 101,
-        "name": "Felix 80",
-        "slug": "felix-80",
-        "code": "FL 1210",
+        "name": "Meeri 125 cm",
+        "slug": "meeri-125-cm",
+        "code": "Meeri 125 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "felix-80.jpg"
+            "meeri-1795596735.jpg"
         ],
         "documents": [
             {
-                "name": "felix_80_olculer",
-                "file": "assets/documents/felix_80_olculer.pdf"
+                "name": "meeri- 125 cm Dolap Teknik Çizimi",
+                "file": "assets/documents/urunler/meeri-125-cm-dolap-teknik-cizimi-1795596735.pdf"
             }
         ],
         "featured": false,
@@ -3802,66 +3739,58 @@
         ],
         "spec_rows": [
             [
-                "FL 1210",
-                "Felix 80 Alt Modül",
-                "800 x 550 x 460"
+                "20MR01125.01.00.01",
+                "Meeri 125 cm Alt Modül",
+                "125 cm"
             ],
             [
-                "FL 1220",
-                "Felix 80 Üst Modül",
-                "800 x 750 x 20"
+                "20MR02125.01.00.01",
+                "Meeri 125 cm Üst Modül",
+                "38x83x16 cm"
             ],
             [
-                "FL 1200",
-                "Felix 80 Set",
-                "-"
+                "20MR07001.01.00.01",
+                "Meeri 125 cm Ledli Lamba",
+                "54x100"
             ],
             [
-                "FL 2300",
-                "Felix Boy Dolap",
-                "1280 x 350 x 350"
+                "20MR04040.01.00.01",
+                "Meeri 125 cm  Boy Dolap",
+                "40x154x32 cm"
+            ],
+            [
+                "70SP21055.00.1.3.01",
+                "Space Line-S 55 cm",
+                "Beyaz"
             ]
         ],
-        "highlights": [
-            "Gövde MDF Lam",
-            "Kapaklar Membran Kaplama",
-            "Altın Varaklı Ayna",
-            "Ahşap Ayaklar"
-        ],
+        "highlights": [],
         "attributes": [
-            {
-                "label": "Uyumlu Lavabo",
-                "value": "LIN 080"
-            },
             {
                 "label": "Renk Seçenekleri",
                 "value": "Beyaz"
-            },
-            {
-                "label": "Yardımcı Renk",
-                "value": "Varak Yaldız"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/felix-80.42",
-        "name_en": "Felix 80",
+        "name_en": "Meeri 125 cm",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 102,
-        "name": "Bella 80",
-        "slug": "bella-80",
-        "code": "BL 1210",
+        "name": "Meeri 100 cm",
+        "slug": "meeri-100-cm",
+        "code": "Meeri 100 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "bella-80.jpg"
+            "meeri-1795597378.jpg"
         ],
         "documents": [
             {
-                "name": "bella_80_olculer",
-                "file": "assets/documents/bella_80_olculer.pdf"
+                "name": "meeri- 100 cm Dolap Teknik Çizimi",
+                "file": "assets/documents/urunler/meeri-100-cm-dolap-teknik-cizimi-1795597378.pdf"
             }
         ],
         "featured": false,
@@ -3872,24 +3801,24 @@
         ],
         "spec_rows": [
             [
-                "BL 1210",
-                "Bella 80 Alt Modül",
-                "850 x 800 x 460"
+                "20MR01100.01.00.01",
+                "Meeri 100 cm Alt Modül",
+                "100 cm"
             ],
             [
-                "BL 1220",
-                "Bella 80 Üst Modül",
-                "800 x 700 x 180"
+                "20MR02125.01.00.01",
+                "Meeri 100 cm Üst Modül",
+                "38x83x16 cm"
             ],
             [
-                "BL 1200",
-                "Bella 80 Set",
-                "-"
+                "20MR07001.01.00.01",
+                "Meeri 100 cm Ledli Ayna",
+                "54x100 cm"
             ],
             [
-                "BL 2300",
-                "Bella Boy Dolap",
-                "990 x 340 x 350"
+                "20MR04040.01.00.01",
+                "Meeri 100 cm Boy Dolabı",
+                "40x154x32 cm"
             ]
         ],
         "highlights": [
@@ -3898,35 +3827,31 @@
             "Ayna"
         ],
         "attributes": [
-            {
-                "label": "Uyumlu Lavabo",
-                "value": "LIN 080"
-            },
             {
                 "label": "Renk Seçenekleri",
                 "value": "Beyaz"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/bella-80.43",
-        "name_en": "Bella 80",
+        "name_en": "Meeri 100 cm",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 103,
-        "name": "Helen 80",
-        "slug": "helen-80",
-        "code": "HL 1210",
+        "name": "Nova 80",
+        "slug": "nova-80",
+        "code": "Nova 80",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "helen-80.jpg"
+            "nova-yeni-1795601902.jpg"
         ],
         "documents": [
             {
-                "name": "helen_80_olculer",
-                "file": "assets/documents/helen_80_olculer.pdf"
+                "name": "nova- 80 cm Dolap Teknik Çizimi",
+                "file": "assets/documents/urunler/nova-80-cm-dolap-teknik-cizimi-1795601902.pdf"
             }
         ],
         "featured": false,
@@ -3937,66 +3862,53 @@
         ],
         "spec_rows": [
             [
-                "HL 1210",
-                "Helen 80 Alt Modül",
-                "800 x 520 x 460"
+                "20NV01080.45.00.02",
+                "Nova 80 CM Alt Modül",
+                "80 cm"
             ],
             [
-                "HL 1220",
-                "Helen 80 Üst Modül",
-                "800 x 700 x 200"
+                "20NV07001.54.00.01",
+                "Nova 80 cm Ledli Ayna",
+                "70x110 cm"
             ],
             [
-                "HL 1200",
-                "Helen 80 Set",
-                "-"
+                "20NV04040.45.00.01",
+                "Nova 80 cm Boy Dolap",
+                "40x157x32 cm"
             ],
             [
-                "HL 2300",
-                "Helen Boy Dolap",
-                "1550 x 350 x 346"
+                "70AQ21080.00.1.3.01",
+                "Aquasol Line 80 cm",
+                ""
             ]
         ],
-        "highlights": [
-            "Gövde MDF Lam",
-            "Kapaklar Membran Kaplama",
-            "Softclose Özellikli Kapaklar",
-            "Ayna"
-        ],
+        "highlights": [],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "TIN 080"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Beyaz"
-            },
-            {
-                "label": "Yardımcı Renk",
-                "value": "Altın, Gümüş"
+                "value": "Beyaz , Meşe , Antrasit, Lacivert"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/helen-80.44",
-        "name_en": "Helen 80",
+        "name_en": "Nova 80",
         "features_en": "Bathroom Furniture"
     },
     {
         "id": 104,
-        "name": "Kares 80",
-        "slug": "kares-80",
-        "code": "KR 1210",
+        "name": "Carelia 80 cm",
+        "slug": "carelia-80-cm",
+        "code": "Carelia 80 cm",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
         "palet": "",
         "images": [
-            "kares-80.jpg"
+            "carelia-80-cm-antrasit-1795602150.jpg"
         ],
         "documents": [
             {
-                "name": "kares_80_olculer",
-                "file": "assets/documents/kares_80_olculer.pdf"
+                "name": "Carelia - Ölçülü Teknik Çizim 80 cm_compressed",
+                "file": "assets/documents/urunler/carelia-olculu-teknik-cizim-80-cm-compressed-1795602179.pdf"
             }
         ],
         "featured": false,
@@ -4007,44 +3919,20 @@
         ],
         "spec_rows": [
             [
-                "KR 1210",
-                "Kares 80 Alt Modül",
-                "800 x 850 x 450"
-            ],
-            [
-                "KR 1220",
-                "Kares 80 Üst Modül",
-                "770 x 700 x 180"
-            ],
-            [
-                "KR 1200",
-                "Kares 80 Set",
-                "-"
-            ],
-            [
-                "KR 2300",
-                "Kares Boy Dolap",
-                "1250 x 390 x 340"
+                "20CA01080.01.00.01",
+                "Carelia 80 cm Alt Modül & Üst Modül",
+                "80 cm"
             ]
         ],
-        "highlights": [
-            "Gövde MDF Lam",
-            "Kapaklar Membran Kaplama",
-            "Softclose Özellikli Kapaklar",
-            "Pano Antik Membran Ayna"
-        ],
+        "highlights": [],
         "attributes": [
             {
-                "label": "Uyumlu Lavabo",
-                "value": "TIN 080"
-            },
-            {
                 "label": "Renk Seçenekleri",
-                "value": "Beyaz"
+                "value": "Beyaz , Antrasit , Gri"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/kares-80.45",
-        "name_en": "Kares 80",
+        "name_en": "Carelia 80 cm",
         "features_en": "Bathroom Furniture"
     },
     {
