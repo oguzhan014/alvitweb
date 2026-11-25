@@ -3080,7 +3080,7 @@
         "id": 91,
         "name": "Loft 80",
         "slug": "loft-80",
-        "code": "LT 1210",
+        "code": "Loft 80",
         "category_id": 2,
         "subcategory_id": null,
         "features": "Banyo Mobilyası",
@@ -3131,11 +3131,7 @@
         "attributes": [
             {
                 "label": "Renk Seçenekleri",
-                "value": "Beyaz"
-            },
-            {
-                "label": "Renk Seçenekleri",
-                "value": "Antrasit"
+                "value": "Beyaz , Antrasit"
             }
         ],
         "source_url": "https://www.alvit.com.tr/urunler/banyo-mobilyalari-2/loft-80.30",
